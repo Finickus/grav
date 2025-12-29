@@ -1,0 +1,201 @@
+---
+title: 'Котлы EKCO.R2'
+---
+
+<div class="container py-5">
+    
+    <style>
+        .text-orange-custom {
+            color: #ff8c00 !important; /* Насыщенный оранжевый */
+        }
+        /* Стиль для курсора, чтобы показать, что изображение кликабельно */
+        .lightbox-trigger {
+            cursor: zoom-in;
+            display: block; /* Сделать ссылку блочным элементом */
+        }
+        /* Убираем рамку и фон у модального контента для чистого лайтбокса */
+        .modal-content-lightbox {
+            background-color: transparent !important;
+            border: 0 !important;
+        }
+    </style>
+
+    <section class="p-4 mb-5 rounded-3 shadow-sm" style="background-color: #009688;">
+        <div class="container text-center">
+            <h1 class="display-5 fw-bold text-white"><i class="fas fa-fire me-3"></i>Котлы EKCO.R2</h1>
+            <p class="lead text-white">Электрические котлы от Kospel для надежного отопления</p>
+        </div>
+    </section>
+
+    <div class="card mb-5 shadow-sm">
+        <div class="card-body text-center p-4">
+            <figure class="figure mb-0 d-inline-block">
+                <a href="#modal-main-r2" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-main-r2">
+                    <img src="https://service04.ru/bl-content/img/2019/12/kotel-kospel10-c924c717.jpg" alt="Котлы EKCO.R2" class="img-fluid rounded shadow">
+                </a>
+            </figure>
+        </div>
+    </div>
+
+    <div class="card mb-5 shadow-sm border-info">
+        <div class="card-header bg-info text-white py-3">
+            <h4 class="h5 mb-0"><i class="fas fa-gamepad me-2"></i>Управление котлом EKCO.R2</h4>
+        </div>
+        <div class="card-body">
+            <div class="row g-4">
+                <div class="col-md-6 mb-3">
+                    <figure class="figure mb-4">
+                        <a href="#modal-panel-r2" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-panel-r2">
+                            <img src="https://service04.ru/bl-content/img/2019/12/kotel-kospel12.jpg" alt="Панель управления EKCO.R2" class="img-fluid rounded shadow mb-3">
+                        </a>
+                        <a href="#modal-scheme-r2" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-scheme-r2">
+                            <img src="https://service04.ru/bl-content/img/2019/12/kotel-kospel11.jpg" alt="Схема подключения EKCO.R2" class="img-fluid rounded shadow">
+                        </a>
+                    </figure>
+                </div>
+                <div class="col-md-6 small">
+                    <h5 class="h6 fw-bold text-warning">Основы управления</h5>
+                    <ul class="ms-3">
+                        <li>**Включение/выключение:** Нажмите и удерживайте кнопку включения.</li>
+                        <li>**Индикация включения:** Сигнализируется зажженным индикатором [3].</li>
+                        <li>**Отсутствие протока:** Если индикатор [4] мигает при включенной кнопке - отсутствует требуемый уровень протока теплоносителя.</li>
+                    </ul>
+                    <h5 class="h6 mt-4 fw-bold text-warning">Экономный режим</h5>
+                    <ul class="ms-3">
+                        <li>**Включение:** Кнопка переключателя режима экономии.</li>
+                        <li>**Ограничение мощности:** Максимальная мощность ограничена до ⅔ номинальной.</li>
+                    </ul>
+                    <h5 class="h6 mt-4 fw-bold text-warning">Индикация нагрева</h5>
+                    <ul class="ms-3">
+                        <li>**Индикатор [4]:** Сигнализирует о включении нагрева.</li>
+                        <li>**Горит:** Нагрев включен.</li>
+                        <li>**Мигает:** Отсутствие протока - нагрев блокируется.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="alert alert-warning mt-3 mb-0">
+                <h5 class="h6 fw-bold"><i class="fas fa-thermometer-three-quarters me-2"></i>Установка температуры</h5>
+                <p class="mb-0 small">Требуемая температура теплоносителя устанавливается кнопками <i class="fas fa-plus-circle text-info"></i> и <i class="fas fa-minus-circle text-info"></i>. На диодной линейке [6] высвечивается актуальная установка температуры на выходе. Мигающий диод на линейке обозначает температуру на 2,5°C ниже температуры, которую показывают предыдущие горящие диоды.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="card mb-5 shadow-sm border-success">
+        <div class="card-header bg-success text-white py-3">
+            <h4 class="h5 mb-0"><i class="fas fa-list me-2"></i>Описание панели управления</h4>
+        </div>
+        <div class="card-body">
+            <div class="row g-4 small">
+                <div class="col-md-6">
+                    <h5 class="h6 fw-bold"><i class="fas fa-sliders-h me-2"></i>Элементы управления</h5>
+                    <ol class="ms-3">
+                        <li>**Индикатор установки температуры**</li>
+                        <li>**Кнопки управления:** Включатель котла, Увеличение/Понижение заданного значения температуры, Переключатель режима экономии.</li>
+                        <li>**Индикатор включения котла** <i class="fas fa-circle text-primary"></i></li>
+                        <li>**Индикатор нагрева** <i class="fas fa-circle text-danger"></i></li>
+                        <li>**Индикатор экономного режима** <i class="fas fa-circle text-success"></i></li>
+                    </ol>
+                </div>
+                <div class="col-md-6">
+                    <h5 class="h6 fw-bold"><i class="fas fa-plug me-2"></i>Подключения</h5>
+                    <ul class="ms-3">
+                        <li>**NA:** Блокировка нагрева (приоритетным энергопотребителем)</li>
+                        <li>**Q:** Подключение датчика протока</li>
+                        <li>**Twej/Twyj:** Подключение датчиков температуры на входе/выходе</li>
+                        <li>**Pompa (LN):** Подключение циркуляционного насоса</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="card mb-5 shadow-sm border-danger">
+        <div class="card-header bg-danger text-white py-3">
+            <h4 class="h5 mb-0"><i class="fas fa-exclamation-triangle me-2"></i>Диагностика неисправностей</h4>
+        </div>
+        <div class="card-body p-0">
+            <div class="table-responsive">
+                <table class="table table-bordered table-striped align-middle mb-0">
+                    <thead class="bg-dark text-white">
+                        <tr>
+                            <th style="width: 40%;">Признак</th>
+                            <th style="width: 60%;">Возможная причина</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td class="small fw-bold">**Не горят индикаторы на панель управления**</td>
+                            <td class="small">Отсутствие питания в системе управления</td>
+                        </tr>
+                        <tr>
+                            <td class="small fw-bold">**Мигает индикатор [4] (красный), горит индикатор [3]**</td>
+                            <td class="small">
+                                <ul class="ms-3 mb-0">
+                                    <li>Заблокирован насос / Отсутствие протока через котел – блокировка котла</li>
+                                    <li>Авария системы питания насоса или датчика протока</li>
+                                </ul>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="small fw-bold">**Мигает вся диодная линейка [1]**</td>
+                            <td class="small">Авария датчика температуры на выходе, нагрев заблокирован</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="alert alert-info mt-3 mb-0 rounded-0">
+                <h5 class="h6 fw-bold"><i class="fas fa-file-contract me-2"></i>Сервисная документация EKCO.R2</h5>
+                <p class="mb-0 small">Подробная информация о техническом обслуживании и устранении неисправностей содержится в сервисной документации производителя.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="p-5 rounded-3 text-center text-white shadow-sm mt-5" style="background-color: #009688;">
+        <h3 class="h4 mb-3"><i class="fas fa-shopping-cart me-2"></i>Запчасти и обслуживание котлов EKCO.R2</h3>
+        <p class="lead mb-4">Подберем нужные детали и обеспечим профессиональное обслуживание</p>
+        <div class="row justify-content-center g-3">
+            <div class="col-12 col-md-4">
+                <a href="tel:+79262211348" class="btn btn-light btn-lg w-100 fw-bold">
+                    <i class="fas fa-phone me-2"></i> <span>Позвонить</span>
+                </a>
+            </div>
+            <div class="col-12 col-md-4">
+                <a href="https://service04.ru/contact-us/feedback" class="btn btn-warning btn-lg w-100 fw-bold text-dark">
+                    <i class="fas fa-envelope me-2"></i> <span>Оставить заявку</span>
+                </a>
+            </div>
+        </div>
+    </div>
+    
+    <div class="modal fade" id="modal-main-r2" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-xl">
+            <div class="modal-content modal-content-lightbox">
+                <div class="modal-header border-0 p-2">
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body p-0 text-center">
+                    <img src="https://service04.ru/bl-content/img/2019/12/kotel-kospel10-c924c717.jpg" class="img-fluid rounded" alt="Котлы EKCO.R2" style="max-height: 90vh;">
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="modal fade" id="modal-panel-r2" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg">
+            <div class="modal-content modal-content-lightbox">
+                <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/img/2019/12/kotel-kospel12.jpg" class="img-fluid rounded" alt="Панель управления EKCO.R2" style="max-height: 90vh;"></div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="modal fade" id="modal-scheme-r2" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg">
+            <div class="modal-content modal-content-lightbox">
+                <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/img/2019/12/kotel-kospel11.jpg" class="img-fluid rounded" alt="Схема подключения EKCO.R2" style="max-height: 90vh;"></div>
+            </div>
+        </div>
+    </div>
+
+</div>

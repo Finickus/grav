@@ -1,0 +1,13 @@
+{% import 'macros/macros.html.twig' as macros %}
+
+<ul {{ tree ? 'class="tree"' : '' }}>
+    
+    {# 1. Стандартные пункты меню #}
+    {{ macros.nav_loop(pages) }}
+
+    {# 2. Только поиск #}
+    <li class="menu-search-wrapper">
+        {% include 'partials/simplesearch_searchbox.html.twig' %}
+    </li>
+
+</ul>
