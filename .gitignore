@@ -1,0 +1,7 @@
+/assets/*
+/cache/*
+/images/*
+/tmp/*
+/logs/*
+.DS_Store
+*.log
