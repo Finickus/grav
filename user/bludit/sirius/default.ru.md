@@ -1,0 +1,173 @@
+﻿---
+title: 'Газовый клапан SIT NOVA'
+---
+
+<div class="container my-4"><!-- Заголовок -->
+<div class="jumbotron bg-primary text-white rounded">
+<div class="container">
+
+<p class="lead">Код 0.822.110 - Надежное управление подачей газа</p>
+</div>
+</div>
+<!-- Основное описание -->
+<div class="card mb-4">
+<div class="card-body">
+<div class="row">
+<div class="col-md-4 mb-3"><img src="https://service04.ru/bl-content/img/2019/12/GAZOVYJ-KLAPAN-SIT-KOD-0.822.110-554a02d0.png" alt="Газовый клапан SIT Код 0.822.110 NOVA" class="img-fluid rounded mx-auto d-block border"></div>
+<div class="col-md-8">
+<h3 class="card-h3" style="color: #e37a25;">Газовый клапан SIT NOVA Код 0.822.110</h3>
+<p>Газовый клапан управления подачей газа c двумя автоматическими клапанами, регулятором давления. Имеется возможность регулировки потока газа на запальную горелку и выходного давления.</p>
+<h5 class="mt-4" style="color: #e37a25;">Принцип работы</h5>
+<ul>
+<li>Газовый клапан один с запорным электромагнитным клапаном.</li>
+<li>При вращении ручки управления с позиции «Выключено» в позицию «Розжиг горелки» часть газ.клапана поднимается, открывая ход газа к горелке.</li>
+<li>Ее розжиг осуществляется кнопкой пьезорозжига.</li>
+<li>После того, как эта горелка загорелась, ручку переводят в позицию «Огонь». Клапан переводится в 3-е положение и открывается полный ход для газа.</li>
+</ul>
+<div class="alert alert-success mt-3">
+<h5 class="alert-heading"><i class="fas fa-check-circle me-2"></i>Преимущество</h5>
+<p class="mb-0">Этот клапан отличается надежностью в работе.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Совместимость -->
+<div class="card mb-4">
+<div class="card-header bg-info text-white">
+<h4 class="mb-0"><i class="fas fa-industry me-2"></i>Совместимость</h4>
+</div>
+<div class="card-body">
+<h5 class="card-h3">Производитель: <strong>BAXI</strong></h5>
+<div class="row">
+<div class="col-md-4 mb-2">
+<div class="border rounded p-2 h-100">
+<h6>LUNA DUO-TEC MP</h6>
+</div>
+</div>
+<div class="col-md-4 mb-2">
+<div class="border rounded p-2 h-100">
+<h6>LUNA HT RESIDENTAL</h6>
+</div>
+</div>
+<div class="col-md-4 mb-2">
+<div class="border rounded p-2 h-100">
+<h6>POWER HT</h6>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Технические характеристики -->
+<div class="card mb-4">
+<div class="card-header bg-warning text-dark">
+<h2 class="mb-0"><i class="fas fa-bolt me-2"></i>Электрические данные клапана SIT NOVA</h2>
+</div>
+<div class="card-body">
+<div class="table-responsive mb-4">
+<table class="table table-bordered table-striped">
+<thead class="thead-dark">
+<tr>
+<th>Параметр</th>
+<th>Значение</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Напряжение в открытой цепи</td>
+<td>≥ 370 мВ</td>
+</tr>
+<tr>
+<td>Напряжение при замкнутой цепи</td>
+<td>≥ 145 мВ</td>
+</tr>
+<tr>
+<td>Сопротивление катушки</td>
+<td>2,2 Ω</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="table-responsive mb-4">
+<table class="table table-bordered table-striped">
+<thead class="thead-dark">
+<tr>
+<th>Параметр</th>
+<th>Значение</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Максимальное входное давление газа</td>
+<td>60 мБар</td>
+</tr>
+<tr>
+<td>Диапазон настройки регулятора примерно</td>
+<td>3..30 мБар</td>
+</tr>
+<tr>
+<td>Термопара</td>
+<td>М9х1</td>
+</tr>
+<tr>
+<td>Время зажигания</td>
+<td>&lt; 10 сек.</td>
+</tr>
+<tr>
+<td>Время сброса</td>
+<td>&lt; 60 сек.</td>
+</tr>
+<tr>
+<td>Число циклов зажигания</td>
+<td>5 000</td>
+</tr>
+<tr>
+<td>Система ручного сброса расчетное число циклов сброса</td>
+<td>5 000</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h5 class="card-h3" style="color: #e37a25;"><i class="fas fa-fire me-2"></i>Расход газа</h5>
+<div class="table-responsive">
+<table class="table table-bordered table-striped">
+<thead class="thead-dark">
+<tr>
+<th>Семейство</th>
+<th>Расход (Q)</th>
+<th>Перепад давления (ΔP)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>I-е семейство (d=0.45)</td>
+<td>7.5 м³/час</td>
+<td>5 mbar</td>
+</tr>
+<tr>
+<td>II-е семейство (d=0.45)</td>
+<td>6.5 м³/час</td>
+<td>5 mbar</td>
+</tr>
+<tr>
+<td>III-е семейство (d=0.45)</td>
+<td>8.1 кг/час</td>
+<td>5 mbar</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<!-- Заказ -->
+<div class="card bg-primary text-white">
+<div class="card-body text-center">
+<h3 class="card-h3"><i class="fas fa-shopping-cart me-2"></i>Купить газовый клапан SIT NOVA</h3>
+<p class="card-text lead">Оригинальный клапан с гарантией для котлов BAXI</p>
+<div class="row justify-content-center">
+<div class="col-md-4 mb-2"><a href="tel:+79262211348" class="btn btn-light btn-lg btn-block"> <i class="fas fa-phone me-2"></i>Позвонить </a></div>
+<div class="col-md-4"><a href="https://service04.ru/contact-us/feedback" class="btn btn-warning btn-lg btn-block text-dark"> <i class="fas fa-envelope me-2"></i>Оставить заявку </a></div>
+</div>
+</div>
+</div>
+</div>

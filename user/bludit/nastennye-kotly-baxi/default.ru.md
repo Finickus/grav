@@ -1,0 +1,152 @@
+﻿---
+title: 'Настенные газовые котлы Baxi'
+---
+
+<div class="content-card">
+<div class="container-fluid mt-5 mb-5 content">
+
+<p>Для отопления квартир, частных домов и коттеджей важно подобрать компактное, безопасное и производительное оборудование. Всем этим требованиям соответствуют настенные газовые котлы <strong>Baxi</strong> с разной функциональностью, габаритами и мощностью.</p>
+<h2 class="h4 display-4 mb-3">Достоинства котлов</h2>
+<p>Котельное оборудование, выпускаемое под брендом <strong>Baxi</strong>, — это продукция знаменитого холдинга BDR Thermea, которая очень популярна в Европе, России и странах СНГ. Для отопления и нагрева воды для систем ГВС активно применяются настенные котлы, которые имеют преимущества перед техникой иных брендов:</p>
+<ul class="mb-5 ms-4">
+<li>Окупаемость всего 2–3 года;</li>
+<li>Техника адаптирована к интенсивной эксплуатации в российских реалиях с перепадами давления газа, скачками напряжения в сети и жёсткой водой в водопроводе;</li>
+<li>Настенные котлы <strong>Baxi</strong> можно назвать «умной техникой» со стабильно работающей системой безопасности и контроля всех эксплуатационных параметров;</li>
+<li>Экономичность эксплуатации и простота обслуживания.</li>
+</ul>
+<p>Котлы <strong>Baxi</strong> с настенной инсталляцией пользуются повышенной популярностью благодаря сочетанию европейского качества и российской стоимости техники. Также немаловажным аспектом постоянного роста спроса является широкий ассортимент котлов с разными параметрами.</p>
+<h2 class="h4 display-4 mb-5" style="color: #e37a25; padding-bottom: 5px; border-bottom: 2px solid #e37a25;">Вариативность форматов и мощностей настенных газовых котлов Baxi</h2>
+<p>Линейка настенного котельного оборудования от <strong>Baxi</strong> очень обширна и разнообразна. Это позволяет подобрать технику для любых потребностей и помещений с разной площадью.</p>
+<div class="row align-items-center is-variable is-6 mb-5">
+<div class="col is-two-thirds">
+<h3 class="h5 mb-3">LUNA-3</h3>
+<p>Третье поколение экономичного и компактного оборудования с недельным программированием рабочих параметров, встроенными функциями комплексной самодиагностики. Котлы имеют мощную электронную плату, большой LED-дисплей и рассчитаны на применение в квартирах/домах:</p>
+<ul class="ml-4">
+<li>Отопление и ГВС: Fi 3.280, 3.240, 3.310, I 3.240</li>
+<li>Только отопление: 1.310 Fi</li>
+</ul>
+<p>Площадь обогрева — до 240 м².</p>
+</div>
+<div class="col-4 text-center">
+<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="https://service04.ru/bl-content/img/2019/12/baxi-luna-3-comfort.png" alt="Baxi LUNA-3 Comfort"></figure>
+</div>
+</div>
+<div class="row align-items-center is-variable is-6 mb-5">
+<div class="col is-two-thirds">
+<h3 class="h5 mb-3">LUNA-3 COMFORT</h3>
+<p>Высокопроизводительное, экономичное и безопасное оборудование со съёмной панелью, которая может выступать в качестве выносного температурного датчика. Панель управления — проводная или беспроводная.</p>
+<ul class="ml-4">
+<li>Только отопление: Fi 310, 240; i 240</li>
+<li>Отопление + ГВС: 1.240 и 1.310 Fi, 1.240 i</li>
+</ul>
+<p>Площадь обогрева — до 310–330 м².</p>
+</div>
+<div class="col-4 text-center">
+<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="https://service04.ru/bl-content/img/2019/12/full_LUNA-3-Comfort-COMBI.jpg" alt="LUNA-3 Comfort COMBI"></figure>
+</div>
+</div>
+<div class="row align-items-center is-variable is-6 mb-5">
+<div class="col is-two-thirds">
+<h3 class="h5 mb-3">LUNA-3 Comfort COMBI</h3>
+<p>Универсальное оборудование с особой комплектацией: одноконтурный котёл + накопительный бойлер (до 80 л). Компактные размеры, экологичность, простота эксплуатации.</p>
+<p>Модели: 1.310 и 1.240 Fi, 1.240 i</p>
+<p>Площадь обогрева — 30–300 м².</p>
+</div>
+<div class="col-4 text-center">
+<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="https://service04.ru/bl-content/img/2019/12/luna_silver.jpg" alt="LUNA-3 SilverSpace"></figure>
+</div>
+</div>
+<div class="row align-items-center is-variable is-6 mb-5">
+<div class="col is-two-thirds">
+<h3 class="h5 mb-3">LUNA-3 SilverSpace</h3>
+<p>Уникальное оборудование, разработанное специально для наружной установки (балкон, лоджия, терраса). Работает при температуре до -15°C.</p>
+<p>КПД — до 93,1%. Двухконтурные модели: 250 Fi, 310 Fi</p>
+<p>Площадь обогрева — 30–240 м².</p>
+</div>
+<div class="col-4 text-center">
+<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="https://service04.ru/bl-content/img/2019/12/nuvola_comfort_2.jpg" alt="NUVOLA-3 Comfort"></figure>
+</div>
+</div>
+<div class="row align-items-center is-variable is-6 mb-5">
+<div class="col is-two-thirds">
+<h3 class="h5 mb-3">NUVOLA-3 Comfort</h3>
+<p>Компактное оборудование со съёмной панелью и встроенным 60-литровым бойлером из нержавеющей стали. Нагревает до 490 л воды за 30–35 мин.</p>
+<p>Оснащено системами самоадаптации, самодиагностики и антибактериальной защитой.</p>
+<p>Площадь обогрева — до 310 м².</p>
+</div>
+<div class="col-4 text-center">
+<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="https://service04.ru/bl-content/img/2019/12/NUVOLA-3-B40.png" alt="NUVOLA-3 B40"></figure>
+</div>
+</div>
+<div class="row align-items-center is-variable is-6 mb-5">
+<div class="col is-two-thirds">
+<h3 class="h5 mb-3">NUVOLA-3 B40</h3>
+<p>Экономичное и комфортное оборудование с 40-литровым эмалированным баком. Нагревает 400 л воды за 30 минут.</p>
+<p>Большой экран, самодиагностика, антибактериальная защита.</p>
+<p>Площадь обогрева — 30–330 м².</p>
+</div>
+<div class="col-4 text-center">
+<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="https://service04.ru/bl-content/img/2019/12/ECOFour.jpg" alt="ECOFour"></figure>
+</div>
+</div>
+<div class="row align-items-center is-variable is-6 mb-5">
+<div class="col is-two-thirds">
+<h3 class="h5 mb-3">ECOFour</h3>
+<p>Четвёртое поколение популярного котла. Одно- и двухконтурные модели с открытыми и закрытыми камерами сгорания.</p>
+<p>КПД — до 92,9%. Компактный, лёгкий, с большим дисплеем.</p>
+<p>Площадь обогрева — 30–240 м².</p>
+</div>
+<div class="col-4 text-center">
+<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="https://service04.ru/bl-content/img/2019/12/ECO-5-Compact.png" alt="ECO-5 Compact"></figure>
+</div>
+</div>
+<div class="row align-items-center is-variable is-6 mb-5">
+<div class="col is-two-thirds">
+<h3 class="h5 mb-3">ECO-5 Compact</h3>
+<p>Пятое поколение котла эконом-класса с раздельными теплообменниками, новой внутренней компоновкой и высокоточной электроникой.</p>
+<ul class="ml-4">
+<li>Только отопление: 1.24/1.24F, 1.14F</li>
+<li>Отопление + ГВС: 14F, 18F, 24, 24F</li>
+</ul>
+</div>
+<div class="col-4 text-center">
+<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="https://service04.ru/bl-content/img/2019/12/MAINFour.png" alt="MAIN Four"></figure>
+</div>
+</div>
+<div class="row align-items-center is-variable is-6 mb-5">
+<div class="col is-two-thirds">
+<h3 class="h5 mb-3">MAIN Four</h3>
+<p>Четвёртое поколение котлов с битермическим теплообменником. Компактность, экономичность, простота эксплуатации.</p>
+<p>Площадь обогрева — до 240 м².</p>
+</div>
+<div class="col-4 text-center">
+<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="https://service04.ru/bl-content/img/2019/12/main_5.jpg" alt="MAIN-5"></figure>
+</div>
+</div>
+<div class="row align-items-center is-variable is-6 mb-5">
+<div class="col is-two-thirds">
+<h3 class="h5 mb-3">MAIN-5</h3>
+<p>Самое последнее поколение котла MAIN. Компактные размеры, простота монтажа, цифровая панель, большой дисплей, безопасность и эстетика.</p>
+<p>Площадь обогрева — до 240 м².</p>
+</div>
+<div class="col-4 text-center">
+<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="https://service04.ru/bl-content/img/2019/12/baxi.jpg" alt="Газовые котлы FOURTECH"></figure>
+</div>
+</div>
+<div class="row align-items-center is-variable is-6 mb-5">
+<div class="col is-two-thirds">
+<h3 class="h5 mb-3">FOURTECH</h3>
+<p>Самые компактные котлы в линейке Baxi. Гидравлическая группа из прочных композитных материалов.</p>
+<p>Простота монтажа и обслуживания. Не требуют много места.</p>
+<p>Площадь обогрева — 30–240 м².</p>
+</div>
+<div class="col-4 text-center"></div>
+</div>
+<div class="card bg-primary text-white mt-5">
+<div class="text-center p-4">
+<h3 class="h4 display-4 text-white mb-3">Подберём котёл Baxi под ваш дом!</h3>
+<p class="h5 lead text-white">Проконсультируем, доставим, установим — под ключ.</p>
+<a href="https://service04.ru/contact-us/feedback" class="btn btn-primary btn-lg is-warning text-dark"> <span class="icon me-2"><i class="fas fa-envelope"></i></span> <span>Оставить заявку</span> </a></div>
+</div>
+</div>
+</div>

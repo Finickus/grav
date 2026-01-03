@@ -1,0 +1,113 @@
+<div class="container is-widescreen mt-6 mb-6"><!-- Заголовок -->
+<section class="hero is-primary is-rounded mb-6">
+<div class="hero-body has-text-centered">
+<h1 class="title is-3">Газовый клапан NOVA 826 | 827</h1>
+<p class="subtitle is-5">0.826.010 / 0.827.128</p>
+</div>
+</section>
+<!-- Основное описание -->
+<div class="box mb-5 content-box">
+<div class="columns is-variable is-6 is-centered">
+<div class="column is-5">
+<figure class="image is-16by9"><img src="https://service04.ru/bl-content/img/2019/12/GAZOVYJ-KLAPAN-826-NOVA-0.826.010-bd9f6f9a.png" alt="Газовый клапан NOVA 826 | 827 0.826.010 0.827.128" class="is-rounded" style="margin: 0 auto; display: block;"></figure>
+</div>
+<div class="column is-6">
+<h3 class="title is-4" style="color: #e37a25;">Газовые клапаны NOVA 826 и 827</h3>
+<p>Газовые клапаны <strong>NOVA 826 и 827</strong> (с артикулами <strong>0.826.010</strong> и <strong>0.827.128</strong>) используются в системах газоснабжения для регулировки подачи газа в различных типах оборудования, таких как котлы, водонагреватели и другие газовые приборы.</p>
+</div>
+</div>
+</div>
+<!-- Характеристики -->
+<div class="box mb-5 content-box">
+<div class="has-background-info has-text-white p-4 mb-4">
+<h4 class="title is-5 mb-0"><i class="fas fa-list mr-2"></i>Основные характеристики</h4>
+</div>
+<div class="columns is-variable is-6">
+<div class="column">
+<div class="box p-4 has-border-grey-light">
+<h5><i class="fas fa-hashtag has-text-primary mr-2"></i> Модель 826 (0.826.010)</h5>
+<ul style="list-style: none; padding-left: 0; margin-top: 0.5rem;">
+<li>• Стандартный газовый клапан</li>
+<li>• Применяется во многих бытовых и промышленных устройствах</li>
+</ul>
+</div>
+</div>
+<div class="column">
+<div class="box p-4 has-border-grey-light">
+<h5><i class="fas fa-sliders-h has-text-success mr-2"></i> Модель 827 (0.827.128)</h5>
+<ul style="list-style: none; padding-left: 0; margin-top: 0.5rem;">
+<li>• Может иметь дополнительные функции</li>
+<li>• Например, модуляция пламени или другие регулировочные параметры</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!-- Функции -->
+<div class="box mb-5 content-box">
+<div class="has-background-warning has-text-dark p-4 mb-4">
+<h4 class="title is-5 mb-0"><i class="fas fa-cogs mr-2"></i>Функции</h4>
+</div>
+<div class="columns is-variable is-6 has-text-centered">
+<div class="column"><i class="fas fa-tachometer-alt fa-2x has-text-primary mb-2"></i>
+<h5>Регулировка подачи газа</h5>
+</div>
+<div class="column"><i class="fas fa-shield-alt fa-2x has-text-success mb-2"></i>
+<h5>Защита от утечек</h5>
+<p class="is-size-7">(в некоторых модификациях)</p>
+</div>
+<div class="column"><i class="fas fa-bolt fa-2x has-text-warning mb-2"></i>
+<h5>Совместимость с автоматикой</h5>
+<p class="is-size-7">(электромагнитное управление)</p>
+</div>
+</div>
+</div>
+<!-- Применение -->
+<div class="box mb-5 content-box">
+<div class="has-background-success has-text-white p-4 mb-4">
+<h4 class="title is-5 mb-0"><i class="fas fa-industry mr-2"></i>Где применяются?</h4>
+</div>
+<div class="columns is-variable is-6 has-text-centered">
+<div class="column"><i class="fas fa-fire fa-2x has-text-danger mb-2"></i>
+<h5>Настенные и напольные котлы</h5>
+<p class="is-size-7">(Baxi, Ariston, Vaillant и др.)</p>
+</div>
+<div class="column"><i class="fas fa-shower fa-2x has-text-info mb-2"></i>
+<h5>Газовые колонки</h5>
+</div>
+<div class="column"><i class="fas fa-cogs fa-2x has-text-grey mb-2"></i>
+<h5>Промышленные горелки</h5>
+</div>
+</div>
+</div>
+<!-- Неисправности -->
+<div class="box mb-5 content-box">
+<div class="has-background-danger has-text-white p-4 mb-4">
+<h4 class="title is-5 mb-0"><i class="fas fa-exclamation-triangle mr-2"></i>Возможные неисправности</h4>
+</div>
+<div class="columns is-variable is-6">
+<div class="column">
+<div class="box p-3 has-border-grey-light"><i class="fas fa-lock-open has-text-danger mr-2"></i> Не открывается/не закрывается<br><small class="has-text-grey">(проблемы с катушкой или засорение)</small></div>
+</div>
+<div class="column">
+<div class="box p-3 has-border-grey-light"><i class="fas fa-tint has-text-danger mr-2"></i> Подтекание газа<br><small class="has-text-grey">(износ уплотнений)</small></div>
+</div>
+<div class="column">
+<div class="box p-3 has-border-grey-light"><i class="fas fa-wave-square has-text-danger mr-2"></i> Нестабильная работа<br><small class="has-text-grey">(неправильная регулировка давления)</small></div>
+</div>
+</div>
+<div class="notification is-warning mt-4">
+<h5 class="title is-6"><i class="fas fa-user-md mr-2"></i>Важно!</h5>
+<p class="mb-0">Если вам нужна замена или диагностика, лучше обратиться к специалисту по газовому оборудованию.</p>
+</div>
+</div>
+<!-- Заказ -->
+<div class="box has-background-primary has-text-white has-text-centered">
+<h3 class="title is-4"><i class="fas fa-shopping-cart mr-2"></i>Купить газовый клапан NOVA 826 | 827</h3>
+<p class="subtitle is-5">Получите консультацию специалиста по подбору и установке</p>
+<div class="columns is-centered is-variable is-4 mt-4">
+<div class="column is-narrow"><a href="tel:+79262211348" class="button is-large is-light is-fullwidth"> <i class="fas fa-phone mr-2"></i> Позвонить </a></div>
+<div class="column is-narrow"><a href="https://service04.ru/contact-us/feedback" target="_blank" rel="noopener" class="button is-large is-warning is-fullwidth has-text-dark"> <i class="fas fa-envelope mr-2"></i> Оставить заявку </a></div>
+</div>
+</div>
+</div>

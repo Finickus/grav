@@ -1,0 +1,33 @@
+<div class="container is-widescreen mt-5 mb-5">
+<section class="hero is-primary is-bold mb-5">
+<div class="hero-body">
+<div class="container has-text-centered">
+<h1 class="title is-3 has-text-white"><span class="icon is-medium mr-3"><i class="fas fa-fire"></i></span>Теплообменник ELECTROLUX GWH 285 ERN NANO PRO</h1>
+</div>
+</div>
+</section>
+<div class="card mb-5 has-shadow">
+<div class="card-content">
+<div class="columns is-vcentered">
+<div class="column is-one-third has-text-centered">
+<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20160912_115333_wm.jpg" alt="Теплообменник Электролюкс 285" class="has-border-light has-shadow"></figure>
+</div>
+<div class="column is-two-thirds content">
+<h1 class="title is-4 has-text-danger">ЦЕНА ДЕЙСТВУЕТ ТОЛЬКО ПРИ ЗАКАЗЕ ЧЕРЕЗ САЙТ</h1>
+<a href="https://service04.ru/admin/edit-content/zapchasti/gazovye-kolonki/electrolux/84-electrolux-gwh-285-ern-nanopro/teploobmennik-electrolux-gwh-285-rn-detail.html" class="button is-success is-large is-capitalized mt-4 mb-4"> <span class="icon"><i class="fas fa-shopping-cart"></i></span> <span>Купить теплообменник</span> </a>
+<p class="is-size-6">Данный теплообменник предназначен для ремонта газовых колонок фирмы Электролюкс **Electrolux**, выпускаемых в моделях **GWH 285 RN**.</p>
+</div>
+</div>
+<div class="notification is-info is-light mt-5">
+<p class="is-size-6">Теплообменник изготовлен из меди (толще, чем родной) очень высокого качества. Покрыт он снаружи и внутри специальным красящим материалом (жаропрочным).</p>
+</div>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-danger">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-certificate"></i></span>Гарантия</p>
+</header>
+<div class="card-content">
+<h2 class="title is-4 has-text-warning"><span class="icon mr-2"><i class="fas fa-exclamation-triangle"></i></span>ВАЖНО: Мы даем гарантию на протечку теплообменника! (Обмен на новый)</h2>
+</div>
+</div>
+</div>

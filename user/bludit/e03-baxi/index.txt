@@ -1,0 +1,139 @@
+<div class="container is-widescreen mt-5 mb-5">
+<section class="hero is-primary is-bold mb-5">
+<div class="hero-body">
+<div class="container has-text-centered">
+<h1 class="title is-2 has-text-white"><span class="icon is-medium mr-3"><i class="fas fa-exclamation-triangle"></i></span>Ошибка E03 на котле Baxi</h1>
+<p class="subtitle is-4 has-text-white">Комплексное руководство по диагностике и устранению</p>
+</div>
+</div>
+</section>
+<div class="box mb-5 has-shadow">
+<div class="content">
+<p class="is-size-5">Ошибка **E03** (или **03E**) на дисплее газового котла **Baxi** является одной из наиболее распространенных неисправностей, сигнализирующих о **проблемах в системе дымоудаления или подачи воздуха**.</p>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-info">
+<p class="card-header-title has-text-white is-size-4"><span class="icon mr-2"><i class="fas fa-question-circle"></i></span>Что означает ошибка E03?</p>
+</header>
+<div class="card-content">
+<div class="content">
+<p>Расшифровка ошибки E03 зависит от типа камеры сгорания вашего котла Baxi:</p>
+<div class="columns is-multiline">
+<div class="column is-half">
+<ul class="ml-0 is-unstyled">
+<li class="mb-2"><span class="icon mr-2 has-text-primary"><i class="fas fa-door-open"></i></span> **Открытая камера ("i")**: Срабатывание **термостата-датчика тяги** (проблема с естественной тягой).</li>
+<li class="mb-2"><span class="icon mr-2 has-text-success"><i class="fas fa-door-closed"></i></span> **Закрытая камера ("Fi")**: Проблема с **пневмореле (датчиком давления воздуха)** (некорректный сигнал от реле).</li>
+</ul>
+</div>
+<div class="column is-half">
+<ul class="ml-0 is-unstyled">
+<li class="mb-2"><span class="icon mr-2 has-text-warning"><i class="fas fa-sliders-h"></i></span> **Некоторые модели**: Может означать **неправильную конфигурацию платы** (параметр F43).</li>
+</ul>
+<div class="notification is-warning mt-4 is-light">
+<h5 class="title is-6 has-text-dark"><span class="icon mr-2"><i class="fas fa-info-circle"></i></span>В целом</h5>
+<p class="mb-0">E03 сигнализирует о трудностях с подачей воздуха для горения или отведением продуктов сгорания из камеры.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-warning">
+<p class="card-header-title has-text-dark is-size-5"><span class="icon mr-2"><i class="fas fa-list"></i></span>Возможные причины возникновения ошибки E03</p>
+</header>
+<div class="card-content content">
+<p>Причины могут быть разнообразными и касаться как самого котла, так и элементов системы дымоудаления:</p>
+<div id="accordionCausesE03"><details open="" class="box mb-3">
+<summary class="title is-5 has-text-primary mb-0"><span class="icon mr-2"><i class="fas fa-home"></i></span> Проблемы с дымоходом/воздуховодом</summary>
+<div class="p-4">
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-2 has-text-danger"><i class="fas fa-broom"></i></span> **Заужение или засор дымохода/дымоотвода**.</li>
+<li class="mb-1"><span class="icon mr-2 has-text-warning"><i class="fas fa-ruler"></i></span> **Превышена максимальная длина дымоотводящих труб**.</li>
+<li class="mb-1"><span class="icon mr-2 has-text-info"><i class="fas fa-cogs"></i></span> **Неправильная установка дымохода**.</li>
+<li class="mb-1"><span class="icon mr-2 has-text-primary"><i class="fas fa-snowflake"></i></span> **Обледенение или образование сосулек** на дымоходе.</li>
+</ul>
+</div>
+</details><details class="box mb-3">
+<summary class="title is-5 has-text-primary mb-0"><span class="icon mr-2"><i class="fas fa-cogs"></i></span> Неисправности компонентов</summary>
+<div class="p-4">
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-2 has-text-danger"><i class="fas fa-weight-hanging"></i></span> **Неисправность пневмореле (прессостата)** (зависло, залито конденсатом).</li>
+<li class="mb-1"><span class="icon mr-2 has-text-warning"><i class="fas fa-thermometer-half"></i></span> **Неисправность термостата-датчика тяги** (для моделей с открытой камерой).</li>
+<li class="mb-1"><span class="icon mr-2 has-text-info"><i class="fas fa-broom"></i></span> **Повреждение или засор устройства Вентури**.</li>
+<li class="mb-1"><span class="icon mr-2 has-text-success"><i class="fas fa-fan"></i></span> **Неисправность вентилятора** (подклинивание).</li>
+</ul>
+</div>
+</details><details class="box mb-3">
+<summary class="title is-5 has-text-primary mb-0"><span class="icon mr-2"><i class="fas fa-bolt"></i></span> Проблемы с электропитанием или платой</summary>
+<div class="p-4">
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-2 has-text-danger"><i class="fas fa-bolt"></i></span> **Нестабильное или низкое напряжение в сети**.</li>
+<li class="mb-1"><span class="icon mr-2 has-text-warning"><i class="fas fa-microchip"></i></span> **Неисправность электронной платы**.</li>
+</ul>
+</div>
+</details></div>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-success">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-user-cog"></i></span>Как самостоятельно устранить неисправность (первые шаги)</p>
+</header>
+<div class="card-content content">
+<p>Прежде чем обращаться к специалистам, можно предпринять ряд действий:</p>
+<ol class="ml-4 is-unstyled">
+<li class="mb-3"><span class="icon mr-2 has-text-primary"><i class="fas fa-redo"></i></span> **1. Перезагрузите котел**: Нажмите кнопку "OK" или удерживайте кнопку "RESET".</li>
+<li class="mb-3"><span class="icon mr-2 has-text-info"><i class="fas fa-eye"></i></span> **2. Проверьте дымоход снаружи**:
+<ul class="ml-4 mt-1 is-unstyled">
+<li class="mb-1"><span class="icon mr-2 has-text-danger"><i class="fas fa-broom"></i></span> **Осмотрите терминал дымохода** на наличие льда, мусора.</li>
+<li class="mb-1"><span class="icon mr-2 has-text-warning"><i class="fas fa-wind"></i></span> Проверьте, не задувает ли ветер.</li>
+</ul>
+</li>
+<li class="mb-3"><span class="icon mr-2 has-text-success"><i class="fas fa-hand-rock"></i></span> **3. Постучите по корпусу котла** (может помочь при "зависшем" пневмореле).</li>
+<li class="mb-3"><span class="icon mr-2 has-text-primary"><i class="fas fa-search"></i></span> **4. Проверьте пневмореле/датчик тяги (при снятой крышке)**:
+<ul class="ml-4 mt-1 is-unstyled">
+<li class="mb-1"><span class="icon mr-2 has-text-info"><i class="fas fa-wind"></i></span> **Отсоедините силиконовые трубки** и продуйте их, а также само реле.</li>
+</ul>
+</li>
+</ol>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-danger">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-user-md"></i></span>Когда следует обратиться к специалисту</p>
+</header>
+<div class="card-content">
+<p>Если после выполнения описанных выше шагов проблема не исчезает, **необходимо немедленно обратиться в авторизованный сервисный центр Baxi**.</p>
+<p>**Причины, требующие профессионального вмешательства:**</p>
+<ul class="ml-4 is-unstyled">
+<li class="mb-2"><span class="icon mr-2 has-text-danger"><i class="fas fa-microchip"></i></span> **Неисправность электронной платы**.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-warning"><i class="fas fa-sliders-h"></i></span> **Неправильно задан параметр F43** (требует коррекции).</li>
+<li class="mb-2"><span class="icon mr-2 has-text-info"><i class="fas fa-gas-pump"></i></span> **Проблемы с давлением газа**.</li>
+</ul>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-secondary">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-shield-alt"></i></span>Профилактика и важные замечания</p>
+</header>
+<div class="card-content">
+<div class="content">
+<ul class="ml-4 is-unstyled">
+<li class="mb-2"><span class="icon mr-2 has-text-primary"><i class="fas fa-calendar-check"></i></span> **Регулярное техническое обслуживание** (не реже раза в год).</li>
+<li class="mb-2"><span class="icon mr-2 has-text-info"><i class="fas fa-tint"></i></span> **Качество воды**: Используйте устройства для предотвращения накипи.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-warning"><i class="fas fa-snowflake"></i></span> **Антифриз**: Используйте только рекомендованные антифризы (на основе пропиленгликоля).</li>
+</ul>
+<div class="notification is-info mt-4 mb-0">
+<h5 class="title is-6 has-text-dark"><span class="icon mr-2"><i class="fas fa-lightbulb"></i></span>Помните</h5>
+<p class="mb-0">Своевременная диагностика и правильное устранение неисправностей обеспечивают безопасность его эксплуатации.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="box has-background-primary has-text-white has-shadow p-5">
+<div class="has-text-centered">
+<h3 class="title is-4 has-text-white mb-3"><span class="icon mr-2"><i class="fas fa-user-md"></i></span>Нужна помощь с котлом Baxi?</h3>
+<p class="subtitle is-5 has-text-white">Наши специалисты помогут диагностировать и устранить ошибку E03!</p>
+<div class="columns is-mobile is-centered mt-4">
+<div class="column is-4-desktop is-half-mobile mb-2"><a href="tel:+79262211348" class="button is-light is-large is-fullwidth"> <span class="icon mr-2"><i class="fas fa-phone"></i></span> <span>Позвонить</span> </a></div>
+<div class="column is-4-desktop is-half-mobile"><a href="https://service04.ru/contact-us/feedback" class="button is-warning is-large is-fullwidth has-text-dark"> <span class="icon mr-2"><i class="fas fa-envelope"></i></span> <span>Оставить заявку</span> </a></div>
+</div>
+</div>
+</div>
+</div>

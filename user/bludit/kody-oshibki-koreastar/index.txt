@@ -1,0 +1,137 @@
+<div class="container is-widescreen mt-5 mb-5">
+<section class="hero is-primary is-bold mb-5">
+<div class="hero-body">
+<div class="container has-text-centered">
+<h1 class="title is-2 has-text-white"><span class="icon is-medium mr-3"><i class="fas fa-exclamation-circle"></i></span>Коды ошибок газового котла Koreastar</h1>
+<p class="subtitle is-4 has-text-white">Диагностика и устранение неисправностей</p>
+</div>
+</div>
+</section>
+<div class="card mb-5">
+<div class="card-content">
+<p class="is-size-5">На этой странице представлены основные коды ошибок, которые могут отображаться на дисплее газового котла **Koreastar**, а также рекомендации по их самостоятельной диагностике и устранению.</p>
+<div class="notification is-danger mt-4">
+<h5 class="title is-6 has-text-white"><span class="icon mr-2"><i class="fas fa-exclamation-triangle"></i></span>Предупреждение о безопасности</h5>
+<p class="mb-0 is-size-7">Работы с газовым оборудованием требуют квалификации. При отсутствии опыта или если ошибка сохраняется после выполнения рекомендованных действий, **вызывайте сервисного инженера**.</p>
+</div>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-dark">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-list"></i></span>Основные коды ошибок</p>
+</header>
+<div class="card-content content">
+<div id="errorsAccordion"><details open="" class="box mb-3 p-0 has-background-danger-light">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-fire"></i></span> Ошибка А01: Проблемы с розжигом</p>
+<div class="p-4 is-size-7">
+<p class="has-text-weight-bold">Основные симптомы: отсутствие розжига, не поступает газ на горелку.</p>
+<h6 class="title is-6 has-text-info mt-3"><span class="icon mr-2"><i class="fas fa-list"></i></span>Возможные причины и решения:</h6>
+<div class="columns is-multiline">
+<div class="column is-half">
+<ul class="ml-4 is-unstyled">
+<li class="mb-2"><span class="icon mr-2 has-text-warning"><i class="fas fa-lock"></i></span> **Перекрыт газовый кран** → Проверить положение вентиля.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-danger"><i class="fas fa-gas-pump"></i></span> **Низкое давление газа** → Проверить давление (не менее 20 мбар) и отрегулировать.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-secondary"><i class="fas fa-magnet"></i></span> **Неисправности газового клапана** → Проверить катушки (обрыв/замыкание), заменить.</li>
+</ul>
+</div>
+<div class="column is-half">
+<ul class="ml-4 is-unstyled">
+<li class="mb-2"><span class="icon mr-2 has-text-primary"><i class="fas fa-bolt"></i></span> **Проблемы с электродом ионизации** → Очистить, отрегулировать зазор.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-danger"><i class="fas fa-microchip"></i></span> **Неисправность платы управления** → Выполнить сброс, при повторении — замена платы.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-success"><i class="fas fa-plug"></i></span> **Проблемы с заземлением** → Корпус должен быть без потенциала.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-primary"><i class="fas fa-shower"></i></span> **Конденсат** → Очистите топку и электроды от влаги.</li>
+</ul>
+</div>
+</div>
+</div>
+</details><details class="box mb-3 p-0 has-background-warning-light">
+<p class="card-header-title has-text-dark is-size-5"><span class="icon mr-2"><i class="fas fa-fire-alt"></i></span> Ошибка А02: Проблемы во время розжига</p>
+<div class="p-4 is-size-7">
+<p class="has-text-weight-bold">Симптомы: срыв пламени или неудачные попытки розжига.</p>
+<h6 class="title is-6 has-text-success mt-3"><span class="icon mr-2"><i class="fas fa-check-circle"></i></span>Что проверить:</h6>
+<ul class="ml-4 is-unstyled">
+<li class="mb-2"><span class="icon mr-2 has-text-primary"><i class="fas fa-link"></i></span> Соединения между блоком розжига и датчиком пламени.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-warning"><i class="fas fa-plug"></i></span> Целостность проводки к газовому клапану.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-info"><i class="fas fa-wind"></i></span> Уровень тяги в дымоходе (главная причина срыва пламени).</li>
+</ul>
+</div>
+</details><details class="box mb-3 p-0 has-background-danger-light">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-thermometer-full"></i></span> Ошибка А03/F41: Перегрев котла</p>
+<div class="p-4 is-size-7">
+<p class="has-text-weight-bold">Срабатывает при: температуре выше 105 °C (аварийная блокировка).</p>
+<h6 class="title is-6 has-text-warning mt-3"><span class="icon mr-2"><i class="fas fa-wrench"></i></span>Порядок действий:</h6>
+<div class="columns is-multiline">
+<div class="column is-half">
+<h6 class="has-text-primary">Проверить циркуляцию:</h6>
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-1 has-text-success"><i class="fas fa-tachometer-alt"></i></span> Давление (1,2 бар).</li>
+<li class="mb-1"><span class="icon mr-1 has-text-info"><i class="fas fa-wind"></i></span> Удалить воздух.</li>
+<li class="mb-1"><span class="icon mr-1 has-text-danger"><i class="fas fa-ruler-vertical"></i></span> Проверить сопротивление обмотки насоса.</li>
+</ul>
+</div>
+<div class="column is-half">
+<h6 class="has-text-danger">Другие действия:</h6>
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-1 has-text-primary"><i class="fas fa-thermometer-half"></i></span> Проверить датчик температуры и термостат.</li>
+<li class="mb-1"><span class="icon mr-1 has-text-warning"><i class="fas fa-microchip"></i></span> При повторении возможна неисправность платы.</li>
+<li class="mb-1"><span class="icon mr-1 has-text-info"><i class="fas fa-snowflake"></i></span> Дождаться остывания и перезапустить.</li>
+</ul>
+</div>
+</div>
+</div>
+</details><details class="box mb-3 p-0 has-background-info-light">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-wind"></i></span> Ошибка F05: Недостаток тяги</p>
+<div class="p-4 is-size-7">
+<h6 class="title is-6 has-text-warning mt-3"><span class="icon mr-2"><i class="fas fa-list"></i></span>Причины и решения:</h6>
+<div class="columns is-multiline">
+<div class="column is-half">
+<h6 class="has-text-primary">Проблемы с дымоходом:</h6>
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-1 has-text-success"><i class="fas fa-broom"></i></span> Проверить отсутствие засоров и обледенения.</li>
+<li class="mb-1"><span class="icon mr-1 has-text-warning"><i class="fas fa-arrows-alt-h"></i></span> Проверить длину и диаметр дымохода.</li>
+</ul>
+</div>
+<div class="column is-half">
+<h6 class="has-text-danger">Проверить датчик тяги/вентилятор:</h6>
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-1 has-text-primary"><i class="fas fa-bell"></i></span> Убедиться в наличии характерного щелчка датчика тяги.</li>
+<li class="mb-1"><span class="icon mr-1 has-text-info"><i class="fas fa-fan"></i></span> Очистить крыльчатку вентилятора, проверить смазку вала.</li>
+</ul>
+</div>
+</div>
+</div>
+</details><details class="box mb-3 p-0 has-background-success-light">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-thermometer-empty"></i></span> Ошибка F10: Неисправность датчика температуры отопления</p>
+<div class="p-4 is-size-7">
+<h6 class="title is-6 has-text-primary"><span class="icon mr-2"><i class="fas fa-wrench"></i></span>Действия:</h6>
+<ul class="ml-4 is-unstyled">
+<li class="mb-2"><span class="icon mr-2 has-text-success"><i class="fas fa-link"></i></span> Проверить целостность электрической цепи датчика.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-danger"><i class="fas fa-sync"></i></span> При необходимости заменить датчик (из-за КЗ или обрыва).</li>
+</ul>
+</div>
+</details><details class="box mb-3 p-0 has-background-secondary-light">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-tint"></i></span> Ошибка F37: Низкое давление в системе</p>
+<div class="p-4 is-size-7">
+<h6 class="title is-6 has-text-info"><span class="icon mr-2"><i class="fas fa-list-ol"></i></span>Порядок устранения:</h6>
+<ol class="ml-4">
+<li class="mb-2"><span class="icon mr-2 has-text-primary"><i class="fas fa-eye"></i></span> Проверить показания манометра и **долить воду** через кран подпитки.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-warning"><i class="fas fa-search"></i></span> При повторении проблемы **проверить систему на утечки**.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-success"><i class="fas fa-magnet"></i></span> Проверить исправность реле минимального давления.</li>
+</ol>
+<div class="notification is-info is-light mt-3">
+<p class="mb-0 is-size-7"><span class="icon mr-2"><i class="fas fa-info-circle"></i></span>Для сложных неисправностей рекомендуется обратиться в сервисный центр.</p>
+</div>
+</div>
+</details></div>
+</div>
+</div>
+<div class="box has-background-primary has-text-white has-shadow p-5 mt-5">
+<div class="has-text-centered">
+<h3 class="title is-4 has-text-white"><span class="icon mr-2"><i class="fas fa-phone"></i></span>Нужна помощь специалиста?</h3>
+<p class="subtitle is-5 has-text-white">Свяжитесь с нами для профессиональной диагностики и ремонта:</p>
+<div class="columns is-mobile is-centered mt-4">
+<div class="column is-4-desktop is-half-mobile mb-2"><a href="tel:+79262211348" class="button is-light is-large is-fullwidth"> <span class="icon mr-2"><i class="fas fa-phone"></i></span> <span>+7(926) 221-13-48</span> </a></div>
+<div class="column is-4-desktop is-half-mobile"><a href="https://service04.ru/contact-us/feedback" class="button is-warning is-large is-fullwidth has-text-dark"> <span class="icon mr-2"><i class="fas fa-envelope"></i></span> <span>Написать нам</span> </a></div>
+</div>
+</div>
+</div>
+</div>

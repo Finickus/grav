@@ -1,0 +1,355 @@
+<section class="section">
+<div class="container is-widescreen">
+<h1 class="title is-4" style="color: #60584d;">Запчасти котла THERM 20 TCX.A 2015 г.</h1>
+<h2 class="title is-5 mb-3" style="color: #e37a25;"><i class="fas fa-fire mr-2"></i> Камера сгорания и газовая часть</h2>
+<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/2550_20TCX.A-spalovaci-cast.jpg" alt="Запчасти котла THERM 20 TCX.A 2015г"></figure>
+<div class="table-container mb-6">
+<table class="table is-bordered is-striped is-fullwidth">
+<thead>
+<tr class="has-background-grey-lighter">
+<th>Поз.</th>
+<th>Артикул</th>
+<th>Наименование</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[01]</td>
+<td>41366</td>
+<td>Газовый редуктор SIT 845 SIGMA</td>
+</tr>
+<tr>
+<td>[02]</td>
+<td>22029.1</td>
+<td>Трубка газовая 3-Th-0148A</td>
+</tr>
+<tr>
+<td>[03]</td>
+<td>26389</td>
+<td>Горелка 401.1330.02, 11r.</td>
+</tr>
+<tr>
+<td>[04]</td>
+<td>40371</td>
+<td>Камера сгорания 20 кВт + крышка</td>
+</tr>
+<tr>
+<td>[05]</td>
+<td>40297</td>
+<td>Изоляция 12 мм</td>
+</tr>
+<tr>
+<td>[06]</td>
+<td>20071.2</td>
+<td>Теплообменник</td>
+</tr>
+<tr>
+<td>[07]</td>
+<td>40742</td>
+<td>Тягопрерыватель турбо 20 кВт</td>
+</tr>
+<tr>
+<td>[08]</td>
+<td>40373.1</td>
+<td>Экран горелки 20 кВт</td>
+</tr>
+<tr>
+<td>[09]</td>
+<td>40061</td>
+<td>Зажигающий электрод IS-009</td>
+</tr>
+<tr>
+<td>[10]</td>
+<td>40061</td>
+<td>Зажигающий электрод IS-009</td>
+</tr>
+<tr>
+<td>[11]</td>
+<td>41424</td>
+<td>Катушка соленоида SIT</td>
+</tr>
+<tr>
+<td>[42]</td>
+<td>40029</td>
+<td>Прокладка 24×16×2</td>
+</tr>
+<tr>
+<td>[80]</td>
+<td>20546</td>
+<td>Прокладка уплотнительная I330</td>
+</tr>
+<tr>
+<td>[82]</td>
+<td>23148.1</td>
+<td>Вентилятор</td>
+</tr>
+<tr>
+<td>[84]</td>
+<td>21987</td>
+<td>Маностат 60599519 с принадлежностями</td>
+</tr>
+<tr>
+<td>[85]</td>
+<td>40026</td>
+<td>Шланг силиконовый 4×1</td>
+</tr>
+<tr>
+<td>[86]</td>
+<td>40618</td>
+<td>Закрытая камера для 20 TCX 3-Th-0174B</td>
+</tr>
+<tr>
+<td>[87]</td>
+<td>40036</td>
+<td>Стекло окошка, толщина 3 мм, диам. 50 мм</td>
+</tr>
+<tr>
+<td>[88]</td>
+<td>40062</td>
+<td>Окошко большое</td>
+</tr>
+<tr>
+<td>[90]</td>
+<td>20779</td>
+<td>Проходной изолятор овальный I324, 19,5×40,5</td>
+</tr>
+<tr>
+<td>[91]</td>
+<td>42462</td>
+<td>Держатель маностата</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 class="title is-5 mb-3" style="color: #e37a25;"><i class="fas fa-tint mr-2"></i> Водяная часть и гидравлический блок</h2>
+<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/2550_20TCX.A-voda.jpg" alt="Водяная часть котла THERM 20 TCX.A"></figure>
+<div class="table-container mb-6">
+<table class="table is-bordered is-striped is-fullwidth">
+<thead>
+<tr class="has-background-grey-lighter">
+<th>Поз.</th>
+<th>Артикул</th>
+<th>Наименование</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[06]</td>
+<td>20071.2</td>
+<td>Теплообменник</td>
+</tr>
+<tr>
+<td>[07]</td>
+<td>42319</td>
+<td>Боковая часть левая</td>
+</tr>
+<tr>
+<td>[08]</td>
+<td>42320</td>
+<td>Боковая часть правая</td>
+</tr>
+<tr>
+<td>[15]</td>
+<td>22159</td>
+<td>Комбинированная арматура GRF-300001EF71</td>
+</tr>
+<tr>
+<td>[16]</td>
+<td>41367</td>
+<td>Насос GRUNDFOS UPS 15/60 Cacao</td>
+</tr>
+<tr>
+<td>[17]</td>
+<td>22025</td>
+<td>Трубка обратки 4-Th-0118</td>
+</tr>
+<tr>
+<td>[18]</td>
+<td>210927</td>
+<td>Датчик давления 0,5 bar</td>
+</tr>
+<tr>
+<td>[20]</td>
+<td>22117.1</td>
+<td>Трубка дополнения</td>
+</tr>
+<tr>
+<td>[21]</td>
+<td>40302</td>
+<td>Предохранительный клапан 1/2", 3 бар</td>
+</tr>
+<tr>
+<td>[22]</td>
+<td>21481.1</td>
+<td>Расширительный бак 8 л</td>
+</tr>
+<tr>
+<td>[23]</td>
+<td>40549</td>
+<td>Гибкий шланг 30 см</td>
+</tr>
+<tr>
+<td>[24]</td>
+<td>40430.1</td>
+<td>Воздухоотводящий вентиль</td>
+</tr>
+<tr>
+<td>[25]</td>
+<td>22102.1</td>
+<td>Трубка ГВС горячая</td>
+</tr>
+<tr>
+<td>[26]</td>
+<td>22050.1</td>
+<td>Трубка ГВС холодная</td>
+</tr>
+<tr>
+<td>[27]</td>
+<td>22055.2</td>
+<td>Трубка ГВС холодная</td>
+</tr>
+<tr>
+<td>[28]</td>
+<td>21137</td>
+<td>Сенсор протока воды</td>
+</tr>
+<tr>
+<td>[29]</td>
+<td>22032.1</td>
+<td>Трубка отопительная</td>
+</tr>
+<tr>
+<td>[30]</td>
+<td>22057</td>
+<td>Трубка воздуховыводящая 4-Th-0113</td>
+</tr>
+<tr>
+<td>[35]</td>
+<td>42313</td>
+<td>Рама котла</td>
+</tr>
+<tr>
+<td>[36]</td>
+<td>42316</td>
+<td>Нижняя крышка</td>
+</tr>
+<tr>
+<td>[37]</td>
+<td>42316</td>
+<td>Нижняя крышка</td>
+</tr>
+<tr>
+<td>[38]</td>
+<td>42316</td>
+<td>Нижняя крышка</td>
+</tr>
+<tr>
+<td>[39]</td>
+<td>42512</td>
+<td>Передний кожух</td>
+</tr>
+<tr>
+<td>[40]</td>
+<td>40031</td>
+<td>Прокладка уплотнительная 16×10×1</td>
+</tr>
+<tr>
+<td>[41]</td>
+<td>40030.1</td>
+<td>Прокладка 18×12×2</td>
+</tr>
+<tr>
+<td>[42]</td>
+<td>40029.2</td>
+<td>Прокладка 24×16×2</td>
+</tr>
+<tr>
+<td>[43]</td>
+<td>40028.1</td>
+<td>Прокладка 30×20×2</td>
+</tr>
+<tr>
+<td>[44]</td>
+<td>42285</td>
+<td>Прокладка 4×8×1,5</td>
+</tr>
+<tr>
+<td>[46]</td>
+<td>40035</td>
+<td>Термостат контактный 36 TXE 95°C</td>
+</tr>
+<tr>
+<td>[47]</td>
+<td>21045.3</td>
+<td>Температурный зонд</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h2 class="title is-5 mb-3" style="color: #e37a25;"><i class="fas fa-sliders-h mr-2"></i> Панель управления</h2>
+<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/2550_panel-20-pozice.jpg" alt="Панель управления THERM 20 TCX.A"></figure>
+<div class="table-container mb-6">
+<table class="table is-bordered is-striped is-fullwidth">
+<thead>
+<tr class="has-background-grey-lighter">
+<th>Поз.</th>
+<th>Артикул</th>
+<th>Наименование</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[65]</td>
+<td>42266</td>
+<td>Лицевая часть панели управления</td>
+</tr>
+<tr>
+<td>[66]</td>
+<td>42270</td>
+<td>Задняя крышка панели управления</td>
+</tr>
+<tr>
+<td>[67]</td>
+<td>42268</td>
+<td>Откидная дверца панели</td>
+</tr>
+<tr>
+<td>[68]</td>
+<td>25880</td>
+<td>Манометр 4 бар 1000 мм (альтернатива – склад № 29463)</td>
+</tr>
+<tr>
+<td>[69]</td>
+<td>24648</td>
+<td>Ось управляющей кнопки</td>
+</tr>
+<tr>
+<td>[70]</td>
+<td>42267</td>
+<td>Управляющая кнопка</td>
+</tr>
+<tr>
+<td>[71]</td>
+<td>42260</td>
+<td>Автоматика HDIMS 04</td>
+</tr>
+<tr>
+<td>[72]</td>
+<td>42269</td>
+<td>Гребёнка крепления</td>
+</tr>
+<tr>
+<td>[73]</td>
+<td>42271</td>
+<td>Кнопка микровыключателя</td>
+</tr>
+<tr>
+<td>[74]</td>
+<td>42265</td>
+<td>Крайний модуль</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</section>

@@ -1,0 +1,109 @@
+<div class="content-box">
+<div class="container is-widescreen mt-6 mb-6"><!-- Заголовок -->
+<div class="has-text-centered mb-6">
+<h1 class="title is-3 mb-4"><span class="tag is-primary is-medium mr-3"> <i class="fas fa-house-user mr-2"></i> </span> Монтаж отопления дачи сертифицированными мастерами!</h1>
+<p class="subtitle is-5"><i class="fas fa-quote-left mr-2 has-text-grey"></i> Дача — ваш второй дом, а для многих — основной! Сделаем проживание комфортным круглый год с профессиональной системой отопления. <i class="fas fa-quote-right ml-2 has-text-grey"></i></p>
+</div>
+<!-- Основное изображение -->
+<div class="has-text-centered mb-6">
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/image.jpg" alt="Профессиональный монтаж отопления на даче" style="max-width: 100%;">
+<div class="has-background-primary has-text-white p-4" style="position: absolute; bottom: 0; left: 0; right: 0;">
+<h3 class="title is-5 mb-0"><i class="fas fa-thermometer-half mr-2"></i> Тепло в вашем доме 365 дней в году!</h3>
+</div>
+</figure>
+</div>
+<!-- Основной контент -->
+<div class="columns is-variable is-6 mb-6">
+<div class="column is-two-thirds">
+<div class="box">
+<h2 class="title is-4 mb-4"><i class="fas fa-tools mr-2"></i> Профессиональный монтаж отопления дачи</h2>
+<div class="is-flex mb-4"><i class="fas fa-check-circle has-text-success mr-4 mt-1"></i>
+<p>Чтобы дача радовала теплом в любое время года, доверьте монтаж профессионалам. Качественное отопление — это не только современное оборудование, но и грамотная установка с учётом всех особенностей вашего дома.</p>
+</div>
+<div class="is-flex"><i class="fas fa-bolt has-text-warning mr-4 mt-1"></i>
+<div>
+<p><strong>Оптимальное решение для каждого случая:</strong></p>
+<ul class="mb-0">
+<li class="mb-2"><i class="fas fa-sun has-text-warning mr-2"></i> Для летнего использования — экономичные электрорадиаторы</li>
+<li class="mb-2"><i class="fas fa-snowflake has-text-primary mr-2"></i> Для круглогодичного проживания — полноценные системы отопления</li>
+<li class="mb-2"><i class="fas fa-bolt has-text-danger mr-2"></i> Электрическое отопление — простое решение для тёплых дней</li>
+<li><i class="fas fa-thermometer has-text-info mr-2"></i> Зимнее отопление — комплексный подход для суровых условий</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="column"><!-- Интересный факт -->
+<div class="box has-background-primary has-text-white mb-4">
+<div class="is-flex align-items-center mb-2"><i class="fas fa-lightbulb mr-2"></i>
+<h4 class="title is-6 mb-0">Интересный факт</h4>
+</div>
+<p class="mb-0">Правильно смонтированная система отопления позволяет снизить расходы на обогрев дачи до 30%! Профессиональный монтаж окупается уже в первый отопительный сезон.</p>
+</div>
+<!-- Наши преимущества -->
+<div class="box has-background-success has-text-white">
+<div class="is-flex align-items-center mb-2"><i class="fas fa-award mr-2"></i>
+<h4 class="title is-6 mb-0">Наши преимущества</h4>
+</div>
+<ul class="mb-0">
+<li class="mb-2"><i class="fas fa-check has-text-white mr-2"></i> Гарантия 3 года на монтажные работы</li>
+<li class="mb-2"><i class="fas fa-check has-text-white mr-2"></i> Бесплатный выезд инженера</li>
+<li><i class="fas fa-check has-text-white mr-2"></i> Сертифицированные специалисты</li>
+</ul>
+</div>
+</div>
+</div>
+<!-- Преимущества -->
+<h3 class="title is-4 mb-5" style="color: #e37a25;"><i class="fas fa-star mr-2"></i> Почему клиенты выбирают нас для монтажа отопления?</h3>
+<div class="columns is-multiline is-variable is-6 mb-6"><!-- Индивидуальные решения -->
+<div class="column is-half-tablet">
+<div class="box has-text-centered">
+<div class="icon is-large mb-3"><i class="fas fa-user-cog fa-2x"></i></div>
+<h5 class="title is-5 mb-3">Индивидуальные решения</h5>
+<p>Подберём оптимальную систему отопления, учитывая ваши потребности, бюджет и особенности дачи. От простых решений до сложных проектов «под ключ».</p>
+</div>
+</div>
+<!-- Профессиональное проектирование -->
+<div class="column is-half-tablet">
+<div class="box has-text-centered">
+<div class="icon is-large mb-3"><i class="fas fa-ruler-combined fa-2x"></i></div>
+<h5 class="title is-5 mb-3">Профессиональное проектирование</h5>
+<p>Разрабатываем детальный проект с учётом всех технических нюансов: расположение дома, доступные энергоресурсы, климатические особенности.</p>
+</div>
+</div>
+<!-- Разнообразие систем -->
+<div class="column is-half-tablet">
+<div class="box has-text-centered">
+<div class="icon is-large mb-3"><i class="fas fa-cogs fa-2x"></i></div>
+<h5 class="title is-5 mb-3">Разнообразие систем</h5>
+<p>Предлагаем все виды отопительных решений: электрические, газовые (включая баллонные системы), дизельные, комбинированные варианты.</p>
+</div>
+</div>
+<!-- Экономичные решения -->
+<div class="column is-half-tablet">
+<div class="box has-text-centered">
+<div class="icon is-large mb-3"><i class="fas fa-ruble-sign fa-2x"></i></div>
+<h5 class="title is-5 mb-3">Экономичные решения</h5>
+<p>Подбираем варианты с оптимальным соотношением цены и эффективности. Помогаем снизить расходы на отопление без потери комфорта.</p>
+</div>
+</div>
+</div>
+<!-- Важное уведомление -->
+<div class="notification is-info">
+<div class="is-flex"><i class="fas fa-info-circle fa-2x mr-4"></i>
+<p class="mb-0">Мы учитываем все детали: от расположения дома до сезонности использования. Доверьте монтаж профессионалам — и ваша дача станет тёплым оазисом в любое время года!</p>
+</div>
+</div>
+<!-- Призыв к действию -->
+<div class="box has-background-primary has-text-white mt-6">
+<div class="has-text-centered">
+<h3 class="title is-4 mb-3">Нужен монтаж отопления на даче?</h3>
+<p class="subtitle is-5">Оставьте заявку — подберём решение под вашу дачу и бюджет!</p>
+<div class="columns is-centered">
+<div class="column is-one-third"><a href="tel:+79262211348" class="button is-large is-light is-fullwidth"> <i class="fas fa-phone mr-2"></i>Позвонить </a></div>
+<div class="column is-one-third"><a href="https://service04.ru/contact-us/feedback" class="button is-large is-warning is-fullwidth has-text-dark"> <i class="fas fa-envelope mr-2"></i>Оставить заявку </a></div>
+</div>
+</div>
+</div>
+</div>
+</div>

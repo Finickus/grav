@@ -1,0 +1,221 @@
+<div class="content-box">
+<div class="container is-widescreen mt-6 mb-6"><!-- Заголовок -->
+<section class="hero is-primary is-bold mb-6">
+<div class="hero-body has-text-centered">
+<h1 class="title is-3"><i class="fas fa-fire mr-3"></i>Настенные газовые котлы Гепард</h1>
+<p class="subtitle is-5">Надежное и экономичное отопление для вашего дома</p>
+</div>
+</section>
+<!-- Введение / Изображение -->
+<div class="box mb-6">
+<div class="columns is-variable is-6">
+<div class="column is-half">
+<h4 class="title is-4 has-text-weight-bold">Полный обзор Настенных газовых котлов Гепард</h4>
+<p>Котлы <strong>Гепард</strong> – это надежные и доступные настенные газовые котлы, обеспечивающие эффективное отопление и горячее водоснабжение. Они подходят для установки в квартирах и домах.</p>
+</div>
+<div class="column is-half has-text-centered">
+<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/pantera6.png" alt="Панель управления — Гепард" class="is-rounded" style="max-width: 100%; border: 1px solid #ddd;">
+<figcaption class="has-text-grey is-size-7 mt-2">Панель управления котла Гепард</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<!-- Модельный ряд -->
+<div class="box mb-6"><header class="has-background-info has-text-white p-4 mb-4">
+<h3 class="title is-4 mb-0"><i class="fas fa-list mr-2"></i>Модельный ряд</h3>
+</header>
+<div class="table-container">
+<table class="table is-bordered is-striped is-fullwidth is-hoverable">
+<thead>
+<tr>
+<th>Модель</th>
+<th>Тип</th>
+<th>Камера сгорания</th>
+<th>Примеры</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="2"><strong>Гепард</strong><br>(двухконтурные)</td>
+<td>Газовый котел</td>
+<td>Открытая</td>
+<td>Гепард 23 MOV</td>
+</tr>
+<tr>
+<td>Газовый котел</td>
+<td>Закрытая</td>
+<td>Гепард 23 MTV</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="notification is-secondary mt-4">
+<h5 class="title is-5"><i class="fas fa-info-circle mr-2"></i>Обозначение котлов Гепард</h5>
+<p><strong>Пример:</strong> Гепард 23 MOV / Пантера 25 KOV</p>
+<ul class="mb-0">
+<li><strong>Гепард / Пантера</strong> = название котла</li>
+<li><strong>23</strong> = тепловая мощность (кВт)</li>
+<li><strong>M или K</strong> = Тип котла</li>
+<li><strong>O или T</strong> = атмо (O) / турбо (T)</li>
+<li><strong>O или V</strong> = одноконтурные котлы (O) / двухконтурные (V)</li>
+</ul>
+</div>
+</div>
+<!-- Основные узлы и компоненты -->
+<div class="box mb-6"><header class="has-background-warning p-4 mb-4">
+<h4 class="title is-4 mb-0"><i class="fas fa-cogs mr-2"></i>Основные узлы и компоненты</h4>
+</header>
+<p>Котлы Гепард оснащены современными компонентами для обеспечения надежной и эффективной работы:</p>
+<div class="columns is-multiline is-variable is-6">
+<div class="column is-one-third has-text-centered"><i class="fas fa-fire fa-3x has-text-danger mb-3"></i>
+<h5 class="title is-5">Горелка</h5>
+<p class="is-size-7">Модулируемая, из нержавеющей стали</p>
+</div>
+<div class="column is-one-third has-text-centered"><i class="fas fa-fan fa-3x has-text-info mb-3"></i>
+<h5 class="title is-5">Вентилятор</h5>
+<p class="is-size-7">Турбонаддув для закрытой камеры сгорания</p>
+</div>
+<div class="column is-one-third has-text-centered"><i class="fas fa-border-all fa-3x has-text-primary mb-3"></i>
+<h5 class="title is-5">Теплообменник</h5>
+<p class="is-size-7">Первичный (чугунный) и вторичный (стальной)</p>
+</div>
+<div class="column is-one-third has-text-centered"><i class="fas fa-tachometer-alt fa-3x has-text-success mb-3"></i>
+<h5 class="title is-5">Автоматика</h5>
+<p class="is-size-7">Панель управления, датчики, газовый клапан</p>
+</div>
+<div class="column is-one-third has-text-centered"><i class="fas fa-sync fa-3x has-text-warning mb-3"></i>
+<h5 class="title is-5">Циркуляционный насос</h5>
+<p class="is-size-7">Для контура отопления</p>
+</div>
+<div class="column is-one-third has-text-centered"><i class="fas fa-shield-alt fa-3x has-text-grey mb-3"></i>
+<h5 class="title is-5">Система безопасности</h5>
+<p class="is-size-7">Датчики тяги, пламени, термостаты</p>
+</div>
+</div>
+</div>
+<!-- Панель управления -->
+<div class="box mb-6"><header class="has-background-success p-4 mb-4">
+<h4 class="title is-4 mb-0 has-text-white"><i class="fas fa-gamepad mr-2"></i>Панель управления</h4>
+</header>
+<div class="has-text-centered">
+<figure class="image is-inline-block mb-4"><img src="https://service04.ru/bl-content/img/2019/12/pantera6.png" alt="Панель управления — Гепард" class="is-rounded" style="max-height: 300px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<p>Интуитивно понятная панель управления позволяет легко настраивать режимы работы, контролировать температуру и получать информацию о состоянии котла.</p>
+<div class="notification is-info mb-0"><i class="fas fa-key mr-2"></i><strong>Доступ к монтажным и сервисным меню – Gepard</strong></div>
+</div>
+</div>
+<!-- Технические параметры -->
+<div class="box mb-6"><header class="has-background-grey p-4 mb-4">
+<h4 class="title is-4 mb-0 has-text-white"><i class="fas fa-sliders-h mr-2"></i>Технические параметры (примеры)</h4>
+</header>
+<div class="table-container">
+<table class="table is-bordered is-striped is-fullwidth">
+<thead>
+<tr>
+<th>Параметр</th>
+<th>Описание</th>
+<th>Код параметра</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Мощность горелки</td>
+<td>Максимальная мощность для отопления</td>
+<td>d.00</td>
+</tr>
+<tr>
+<td>Мощность горелки</td>
+<td>Розжиг горелки на стартовой мощности</td>
+<td>P.02</td>
+</tr>
+<tr>
+<td>Мощность горелки</td>
+<td>Розжиг горелки на мощности, ограниченной в d.00</td>
+<td>P.03</td>
+</tr>
+<tr>
+<td>Температура</td>
+<td>Установка максимальной температуры в режиме отопления</td>
+<td>d.71</td>
+</tr>
+<tr>
+<td>Функции</td>
+<td>Заводская настройка мощности для режима отопления</td>
+<td>d.36</td>
+</tr>
+<tr>
+<td>Функции</td>
+<td>Функция Комфорт ГВС</td>
+<td>d.40</td>
+</tr>
+<tr>
+<td>Диагностика</td>
+<td>Запрос на отопление</td>
+<td>d.23</td>
+</tr>
+<tr>
+<td>Диагностика</td>
+<td>Максимальная температура первичного теплообменника</td>
+<td>d.81</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!-- Неисправности и диагностика -->
+<div class="box mb-6"><header class="has-background-danger p-4 mb-4">
+<h4 class="title is-4 mb-0 has-text-white"><i class="fas fa-exclamation-triangle mr-2"></i>Типичные неисправности и диагностика</h4>
+</header>
+<div class="table-container">
+<table class="table is-bordered is-fullwidth">
+<thead>
+<tr>
+<th>Проблема</th>
+<th>Возможная причина</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Не возможно установить готовность к работе. Запольная горелка не включается.</td>
+<td>Прервана подача газа.</td>
+</tr>
+<tr>
+<td>Запальная горелка горит, устройство не вводится в работу.</td>
+<td>Закрыт вентиль холодной воды.</td>
+</tr>
+<tr>
+<td>Котел не выходит на рабочий режим.</td>
+<td>
+<ul class="mb-0">
+<li>Проверьте электрод определения пламени</li>
+<li>Проверьте основную плату котла</li>
+<li>Проверьте герметичность газовой арматуры</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>Недостаточная мощность / плохой нагрев.</td>
+<td>
+<ul class="mb-0">
+<li>Удостоверьтесь, что нагревательные краны открыты</li>
+<li>Проверьте состояние пластинчатого теплообменника</li>
+<li>Проверьте состояние теплового фильтра</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!-- Заказ -->
+<div class="box has-background-primary has-text-white">
+<div class="has-text-centered">
+<h3 class="title is-3 mb-3"><i class="fas fa-shopping-cart mr-2"></i>Запчасти и обслуживание котлов Гепард</h3>
+<p class="subtitle is-5">Подберем нужные детали и обеспечим профессиональное обслуживание</p>
+<div class="columns is-centered">
+<div class="column is-one-third"><a href="tel:+79262211348" class="button is-large is-light is-fullwidth"> <i class="fas fa-phone mr-2"></i>Позвонить </a></div>
+<div class="column is-one-third"><a href="https://service04.ru/contact-us/feedback" class="button is-large is-warning is-fullwidth has-text-dark"> <i class="fas fa-envelope mr-2"></i>Оставить заявку </a></div>
+</div>
+</div>
+</div>
+</div>
+</div>

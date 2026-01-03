@@ -1,0 +1,136 @@
+<div class="container is-widescreen mt-5 mb-5">
+<section class="hero is-primary is-bold mb-5">
+<div class="hero-body">
+<div class="container has-text-centered">
+<h1 class="title is-2 has-text-white"><span class="icon is-medium mr-3"><i class="fas fa-fire"></i></span>Запчасти для котла Mora Electra</h1>
+<p class="subtitle is-4 has-text-white">Оригинальные комплектующие для электрокотлов Мора</p>
+</div>
+</div>
+</section>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-info">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-info-circle"></i></span>Описание конструкции Mora Electra</p>
+</header>
+<div class="card-content">
+<div class="columns is-vcentered">
+<div class="column is-one-third has-text-centered">
+<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/2018-03-06_003020.jpg" alt="Запчасти для электрокотлов Mora" class="has-border-light"></figure>
+</div>
+<div class="column is-two-thirds content">
+<p class="is-size-5">Электрокотлы **Mora Electra** отличаются высокой надежностью благодаря простой, но эффективной конструкции. Основными узлами, требующими внимания при ремонте и обслуживании, являются:</p>
+<ul class="ml-4">
+<li><span class="icon mr-2 has-text-danger"><i class="fas fa-bolt"></i></span> **Нагревательный блок (ТЭНы):** Главный элемент, подверженный износу из-за накипи.</li>
+<li><span class="icon mr-2 has-text-primary"><i class="fas fa-microchip"></i></span> **Электронная плата:** Отвечает за контроль температуры, управление мощностью и безопасностью.</li>
+<li><span class="icon mr-2 has-text-success"><i class="fas fa-pump"></i></span> **Циркуляционный насос:** Обеспечивает движение теплоносителя в системе.</li>
+<li><span class="icon mr-2 has-text-warning"><i class="fas fa-thermometer-half"></i></span> **Датчики NTC/Термостаты:** Контроль температуры и защита от перегрева.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-dark">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-book"></i></span>Каталог оригинальных запчастей (Схема)</p>
+</header>
+<div class="card-content">
+<div class="columns is-multiline">
+<div class="column is-half-desktop">
+<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/2018-03-06_003932.jpg" alt="Схема расположения ТЭНов и датчиков"></figure>
+</div>
+<div class="column is-half-desktop">
+<div class="table-container">
+<table class="table is-bordered is-striped is-fullwidth is-size-7">
+<thead class="has-background-light">
+<tr>
+<th>Поз.</th>
+<th>Артикул</th>
+<th>Наименование компонента</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>**1**</td>
+<td>4589004</td>
+<td>ТЭН 2 кВт / 230V</td>
+</tr>
+<tr>
+<td>**2**</td>
+<td>4589006</td>
+<td>ТЭН 6 кВт / 400V (Комплект)</td>
+</tr>
+<tr>
+<td>**3**</td>
+<td>3452049</td>
+<td>**Датчик NTC** (Подачи/Обратки)</td>
+</tr>
+<tr>
+<td>**4**</td>
+<td>4841780</td>
+<td>**Насос циркуляционный** GRUNDFOS</td>
+</tr>
+<tr>
+<td>**5**</td>
+<td>3150041</td>
+<td>**Плата управления** (Основной контроллер)</td>
+</tr>
+<tr>
+<td>**6**</td>
+<td>4050466</td>
+<td>**Аварийный термостат** 95°C</td>
+</tr>
+<tr>
+<td>**7**</td>
+<td>5511646</td>
+<td>Предохранительный клапан 3 бар</td>
+</tr>
+<tr>
+<td>**8**</td>
+<td>4080612</td>
+<td>Воздухоотводчик автоматический</td>
+</tr>
+<tr>
+<td>**9**</td>
+<td>4841792</td>
+<td>Манометр 4 бар</td>
+</tr>
+<tr>
+<td>**10**</td>
+<td>2780484</td>
+<td>Электронный дисплей/Интерфейс</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-success">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-thumbs-up"></i></span>Почему стоит выбрать оригинальные запчасти Mora?</p>
+</header>
+<div class="card-content">
+<div class="columns is-multiline content">
+<div class="column is-half">
+<h6 class="title is-6 has-text-success"><i class="fas fa-wrench mr-2"></i>Качество и надежность</h6>
+<ul class="ml-4 is-unstyled is-size-7">
+<li class="mb-1"><span class="icon mr-2 has-text-success"><i class="fas fa-check"></i></span> Гарантия совместимости и длительного срока службы.</li>
+<li class="mb-1"><span class="icon mr-2 has-text-success"><i class="fas fa-check"></i></span> Стойкость ТЭНов к накипи и коррозии.</li>
+<li class="mb-1"><span class="icon mr-2 has-text-success"><i class="fas fa-check"></i></span> Точность показаний датчиков NTC.</li>
+</ul>
+</div>
+<div class="column is-half">
+<h6 class="title is-6 has-text-danger"><i class="fas fa-phone mr-2"></i>Профессиональный ремонт</h6>
+<p class="is-size-7">Мы не только продаем запчасти, но и выполняем **квалифицированный монтаж** с соблюдением всех электрических и гидравлических норм. Предоставляем гарантию на работы и компоненты.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="box has-background-primary has-text-white has-shadow p-5">
+<div class="has-text-centered">
+<h3 class="title is-4 has-text-white"><span class="icon mr-2"><i class="fas fa-shopping-cart"></i></span>Нужна помощь с подбором или заменой?</h3>
+<p class="subtitle is-5 has-text-white">Свяжитесь с нашим сервисным инженером прямо сейчас!</p>
+<div class="columns is-mobile is-centered mt-4">
+<div class="column is-4-desktop is-half-mobile mb-2"><a href="tel:+79262211348" class="button is-light is-large is-fullwidth"> <span class="icon mr-2"><i class="fas fa-phone"></i></span> <span>+7(926) 221-13-48</span> </a></div>
+<div class="column is-4-desktop is-half-mobile"><a href="https://service04.ru/contact-us/feedback" class="button is-warning is-large is-fullwidth has-text-dark"> <span class="icon mr-2"><i class="fas fa-envelope"></i></span> <span>Оставить заявку</span> </a></div>
+</div>
+</div>
+</div>
+</div>

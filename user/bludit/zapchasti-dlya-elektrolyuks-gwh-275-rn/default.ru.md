@@ -1,0 +1,114 @@
+﻿---
+title: 'Electrolux GWH 275'
+---
+
+<div class="container-fluid">
+<div class="container">
+<div class="row" data-n1ed-block-category="gallery">
+<div class="col-12 col-lg-6 py-3 align-items-center" style="display: flex;">
+<div data-n1ed-col-align="center" style="width: 100%;">
+
+<p>Если у вас установлена газовая колонка Electrolux GWH 275 и вам требуется качественная и надежная запчасть, вы попали по адресу. Мы предлагаем широкий ассортимент оригинальных запчастей, которые помогут вам поддерживать оптимальную работу вашей газовой колонки.</p>
+<a class="btn btn-primary" href="#">Заказать</a> <a class="btn btn-secondary ms-2" href="#h_8936165422111691572349228">Список запчастей</a></div>
+</div>
+<div class="col-12 col-lg-6 py-3"><img src="https://service04.ru/bl-content/uploads/pages/40d4c0b24f76d562cbf2598e5243d759/Screenshot_56(1).jpg" alt="Electrolux GWH 275" width="397" height="337"></div>
+</div>
+</div>
+</div>
+<p></p>
+<p>Наша фирма  предлагает купить запчасти для газовой колонки  Electrolux 275 (Электролюкс). В продаже оригинальные запасные части из Швеции, а так же  детали от альтернативных производителей, чья продукция получила хорошие отзывы специалистов по ремонту бытовой техники. </p>
+<p>Мы гарантируем быструю доставку и профессиональную установку. Кроме того, мы предоставляем гарантию на все наши запчасти. Не рискуйте своим комфортом и безопасностью, обращайтесь к нам за запчастями для вашей газовой колонки Electrolux GWH-275!  Мы всегда готовы помочь вам!</p>
+<p>Наличие собственного склада запчастей позволяет организовать отправку деталей в срок от 1 дня. При отсутствии модели или нужного количества товара мы закажем недостающие запчасти у производителя. Средний срок поставки 2-4 дня.</p>
+<p><img src="https://service04.ru/bl-content/uploads/image/Electrolux/ellectro.jpg" width="890" height="178" alt="Запчасти Electrolux GWH 250-275"></p>
+<h3>Почему стоит выбрать оригинальные запчасти для газовой колонки Electrolux ?</h3>
+<p></p>
+<div class="row">
+<div class="col-md-4">
+<h2><img src="https://service04.ru/bl-content/uploads/image/1ICON/arrows_circle_check.svg" width="40" height="40" alt=""></h2>
+<h2>Гарантированное качество:</h2>
+<p>Гарантированное качество Оригинальные запчасти, специально разработанные для модели GWH 250-275, обеспечивают надежность и долговечность вашей газовой колонки. Вы можете быть уверены, что каждая запчасть соответствует высоким стандартам качества Electrolux.</p>
+</div>
+<div class="col-md-4">
+<h2><img src="https://service04.ru/bl-content/uploads/image/1ICON/arrows_shrink_diagonal1.svg" width="40" height="40" alt=""></h2>
+<h2>Идеальная совместимость:</h2>
+<p>Идеальная совместимость: Оригинальные запчасти точно соответствуют техническим требованиям вашей газовой колонки Electrolux GWH 275. Это гарантирует идеальную совместимость и эффективную работу системы.</p>
+</div>
+<div class="col-md-4">
+<h2><img src="https://service04.ru/bl-content/uploads/image/1ICON/basic_settings.svg" width="40" height="40" alt=""></h2>
+<h2>Простота установки:</h2>
+<p>Простота установки: Запчасти Electrolux GWH 275 разработаны с учетом простоты установки и замены. Вы сможете легко установить новую запчасть без необходимости обращаться к специалистам.</p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-6">
+<h2><img src="https://service04.ru/bl-content/uploads/image/1ICON/basic_clockwise.svg" width="40" height="40" alt=""></h2>
+<h2>Долговечность и надежность:</h2>
+<p>Оригинальные запчасти Electrolux обладают высокой надежностью и долговечностью. Они способны выдерживать интенсивное использование и обеспечивать длительный срок службы вашей газовой колонки.</p>
+</div>
+<div class="col-md-6">
+<h2><img src="https://service04.ru/bl-content/uploads/image/1ICON/basic_notebook_pencil.svg" width="40" height="40" alt=""></h2>
+<h2>Гарантия производителя:</h2>
+<p>При покупке оригинальных запчастей Electrolux GWH 275 вы получаете гарантию от производителя. Это дает вам дополнительное спокойствие и уверенность в качестве приобретенных компонентов.</p>
+</div>
+</div>
+<p></p>
+<p>Приобретая оригинальные запчасти для вашей газовой колонки Electrolux GWH 275, вы обеспечиваете ее оптимальную работу и продлеваете ее срок службы. Уверенность в качестве и надежности вашей системы - вот что вы получаете с оригинальными запчастями Electrolux. Не откладывайте замену неисправных компонентов и обращайтесь к проверенным поставщикам оригинальных запчастей для газовой колонки Electrolux GWH 275.</p>
+<h4 id="h_8936165422111691572349228">Список запчастей</h4>
+<p></p>
+<div class="container-fluid" data-n1ed-block-category="feature_2col">
+<div class="container">
+<div class="row">
+<div class="col-12 col-md-7 py-3"><img src="https://service04.ru/bl-content/uploads/pages/40d4c0b24f76d562cbf2598e5243d759/2018-04-04_003200_electrolux.jpg" alt=""></div>
+<div class="col-12 col-md-5 py-3 align-items-center" style="display: flex;">
+<div style="width: 100%;" data-n1ed-col-align="center">
+<p>001 001 255903 1 блок Крышка<br>001 002 255863 1 Поддержка pacellish<br>001 003 255848 1 Теплообменник<br>001 005 255850 1 отклонитель тяги<br>001 006 255928 1 уплотнение шайбы<br>001 100 255849 1 пружинная крышка<br>001 108 255847 1 база<br>001 109 255935 1 винт спереди<br>001 113 255937 1 запись поддержки<br>001 115A 255852 1 Поддержка c.калде.р<br>001 115B 255851 1 c поддержкой. слева<br>001 116A 255864 1 пружина c.кэлд.р<br>001 116B 255941 1 пружина c.кэлд.л<br>001 140 255872 1 винт базы</p>
+<p></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid" data-n1ed-block-category="feature_2col">
+<div class="container">
+<div class="row">
+<div class="col-12 col-md-7 py-3"><img src="https://service04.ru/bl-content/uploads/pages/40d4c0b24f76d562cbf2598e5243d759/2018-04-04_003003_electrolux.jpg" alt=""></div>
+<div class="col-12 col-md-5 py-3 align-items-center" style="display: flex;">
+<div style="width: 100%;" data-n1ed-col-align="center">
+<p>002 001 255893 1 Винт M5<br>002 040 255856 1 блок клапанов гидравлический<br>Кнопка 002 043 255909 *диск 2<br>002 050 255912 *2 Protector upr.ассд.<br>002 052 255908 *2 мембрана<br>002 053 255857 *2 Регулятор воды assd<br>002 054 255904 *2 Весна<br>002 059 255906 *2 Уплотнительное Кольцо<br>002 060 255936 *2 селектор Spigot<br>002 061 255914 *2 рычаг выдвижения<br>002 067 255925 *2 фильтр для воды<br>002 122 255910 *2 верхняя часть тела</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid" data-n1ed-block-category="feature_2col">
+<div class="container">
+<div class="row">
+<div class="col-12 col-md-7 py-3"><img src="https://service04.ru/bl-content/uploads/pages/40d4c0b24f76d562cbf2598e5243d759/2018-04-04_003038_electrolux.jpg" alt=""></div>
+<div class="col-12 col-md-5 py-3 align-items-center" style="display: flex;">
+<div style="width: 100%;" data-n1ed-col-align="center">
+<p>004 001 255854 1 блок клапанов газ<br>004 002A 255861 *2 рычаг газа<br>004 002B 255862 *2 рычаг воды<br>004 003 255913 *2 рычаг выдвижения<br>004 004 255915 *2 Шайба<br>004 030 255933 1 Крышка asspacled<br>004 031 255926 1 Винт M4x10<br>004 032 255917 1 печать<br>004 033 255927 1 регулируемая шайба nat. D: 5 НГ<br>004 050 255899 1 лоток слева<br>004 051 255900 1 лоток справа<br>004 052 255901 1 сцепление<br>004 060 255853 1 блок конфорок<br>004 061 255916 1 Винт M4x25<br>004 070 255876 1 дистрибьютор полный<br>004 071 255938 1 форсунка горелки D: 1,18 мм</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid" data-n1ed-block-category="feature_2col">
+<div class="container">
+<div class="row">
+<div class="col-12 col-md-7 py-3"><img src="https://service04.ru/bl-content/uploads/pages/40d4c0b24f76d562cbf2598e5243d759/2018-04-04_003120_electrolux.jpg" alt=""></div>
+<div class="col-12 col-md-5 py-3 align-items-center" style="display: flex;">
+<div style="width: 100%;" data-n1ed-col-align="center">
+<p>005 068 255920 1 пилот поддержку<br>005 070 255918 1 Пьезо головка<br>005 072 255932 1 пьезо ниже<br>005 076 255905 1 Гайка<br>005 077 255921 1 контакт с головкой<br>005 078 255940 1 ограничитель термопары<br>005 079 255919 1 пилотный инжектор d=0,32 мм<br>005 080 255922 1 Тефлон Уплотнения<br>005 081 255934 1 Пробирка<br>005 082 255911 1 Шайба пластиковая<br>005 091 255930 1 кабель piezoelect<br>005 114 255939 1 piezoelect поддержку<br>005 121 255902 1 Термостат TTB 65°C<br>005 148 255894 1 Поддержка low. </p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-6">
+<h5>Если вам нужна консультация. Подготовьте информацию о вашей колонке перед звонком</h5>
+<p>Модель вашей газовые колонки Электролюкс вы можете узнать в документах который выдавались вам при покупке, если документы на ваш газовый водонагреватель не сохранились. Так же модель можно узнать заглянув под газовую колонку там вы обнаружите наклейку с наименованием модели вашей колонки</p>
+<p></p>
+</div>
+<div class="col-md-6"><img src="https://service04.ru/bl-content/uploads/image/Electrolux/e7ee92331cfd6cbaf8550bf697f9f002f0cc8c85%20(1).jpg" class="img-fluid" width="445" height="345"></div>
+</div>

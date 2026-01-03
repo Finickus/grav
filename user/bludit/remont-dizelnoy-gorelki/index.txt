@@ -1,0 +1,136 @@
+<div class="content-box">
+<div class="container is-widescreen mt-6 mb-6"><!-- Заголовок -->
+<section class="hero is-primary is-bold mb-6">
+<div class="hero-body has-text-centered">
+<h1 class="title is-3"><i class="fas fa-fire mr-3"></i>Ремонт дизельных горелок</h1>
+<p class="subtitle is-5">Все виды ремонта дизельных горелок</p>
+</div>
+</section>
+<!-- Основное описание -->
+<div class="columns is-variable is-6 mb-6">
+<div class="column is-one-third has-text-centered">
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/gorelki.png" alt="Срочный ремонт дизельных горелок" class="is-rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+</div>
+<div class="column is-two-thirds">
+<h2 class="title is-4 mb-3" style="color: #e37a25;"><i class="fas fa-tools mr-2"></i>Все виды ремонта дизельных горелок</h2>
+<p class="subtitle is-5">Сервис 04 начал свою деятельность в начале 2003 г. Важнейшим направлением является осуществление работ, которых требует <strong>ремонт дизельной горелки</strong> и самих котлов.</p>
+<p>При этом осуществляется <strong>техническое обслуживание и ремонт</strong> всех видов дизельных горелок, установленных на котлах различных моделей.</p>
+</div>
+</div>
+<!-- Особенности ремонта -->
+<div class="box mb-6"><header class="has-background-info p-4 mb-4">
+<h3 class="title is-4 mb-0 has-text-white"><i class="fas fa-cogs mr-2"></i>Особенности ремонта дизельных горелок</h3>
+</header>
+<div class="columns is-variable is-6">
+<div class="column">
+<p>Современные дизельные горелки обладают высокими показателями надежности, экономичности и длительности эксплуатации. Благодаря этому они пользуются соответствующим спросом и используются буквально во всех областях хозяйства.</p>
+<p>При этом следует учесть, что сложность аппарата требует производить <strong>ремонт дизельной горелки</strong> и самих котлов только силами специализированных технических центров.</p>
+</div>
+<div class="column">
+<p>Наши специалисты имеют огромный опыт инженерного обслуживания горелок. Для выполнения всех видов работ применяется самое передовое оборудование и современные инструменты.</p>
+<p>Своевременное сервисное обслуживание и профилактический <strong>ремонт дизельной горелки</strong> дают возможность избежать полного выхода из строя котла, что может повлечь значительные затраты на его замену. Ввиду этого при первых признаках неисправности необходимо незамедлительно обратиться к нашим специалистам.</p>
+</div>
+</div>
+<div class="notification is-warning mt-4">
+<h5 class="title is-5 mb-1"><i class="fas fa-exclamation-triangle mr-2"></i>Важно!</h5>
+<p class="mb-0">Согласно статистическим данным, большая часть неисправностей дизельной горелки приходится на системы подачи топлива. Наша компания предлагает осуществить диагностику и <strong>ремонт дизельной горелки</strong> на очень высоком профессиональном уровне и в кратчайшие сроки.</p>
+</div>
+</div>
+<!-- Операции по ремонту -->
+<div class="box mb-6"><header class="has-background-success p-4 mb-4">
+<h4 class="title is-5 mb-0 has-text-white"><i class="fas fa-wrench mr-2"></i>Операции, связанные с ремонтом горелок</h4>
+</header>
+<p>Наибольшей эффективности при выполнении всех работ, которые предусматривает наладка дизельной горелки, наши мастера достигают благодаря использованию современного диагностического оборудования компании TESTO.</p>
+<p>В процессе диагностики определяются все виды вероятных неполадок и отклонений от типичной работы горелки. При этом выполняется отладка всех деталей топливной аппаратуры:</p>
+<div class="columns is-variable is-6 mb-5">
+<div class="column">
+<ul class="mb-0">
+<li class="mb-2"><i class="fas fa-oil-can text-primary mr-2"></i> <strong>Работа насоса</strong> — определяет равномерность подачи топлива и устойчивое рабочее давление</li>
+<li class="mb-2"><i class="fas fa-spray-can text-warning mr-2"></i> <strong>Работа форсунок</strong></li>
+</ul>
+</div>
+<div class="column">
+<ul class="mb-0">
+<li class="mb-2"><i class="fas fa-cogs text-success mr-2"></i> Для проверки блоков используются специализированные стенды</li>
+<li class="mb-2"><i class="fas fa-bolt text-danger mr-2"></i> Это позволяет точно определить состояние, срочность, стоимость и сроки <strong>ремонта дизельной горелки</strong></li>
+</ul>
+</div>
+</div>
+<div class="notification is-info">
+<h5 class="title is-5 mb-1"><i class="fas fa-info-circle mr-2"></i>Виды работ</h5>
+<p class="mb-0">Мастера нашей компании проводят любые виды работ по обслуживанию горелок, включая капитальный ремонт с полным восстановлением заводских параметров.</p>
+</div>
+</div>
+<!-- Услуги -->
+<div class="box mb-6"><header class="has-background-warning p-4 mb-4">
+<h5 class="title is-5 mb-0 has-text-dark"><i class="fas fa-list mr-2"></i>Услуги по ремонту и обслуживанию</h5>
+</header>
+<div class="columns is-multiline">
+<div class="column is-half">
+<ul class="mb-0">
+<li class="mb-2"><i class="fas fa-cog text-primary mr-2"></i> <strong>Текущий ремонт горелки</strong></li>
+<li class="mb-2"><i class="fas fa-sync-alt text-success mr-2"></i> <strong>Ремонт и восстановление насоса</strong></li>
+<li class="mb-2"><i class="fas fa-shower text-info mr-2"></i> <strong>Промывка форсунок</strong></li>
+<li class="mb-2"><i class="fas fa-filter text-warning mr-2"></i> <strong>Замена фильтров тонкой очистки</strong></li>
+<li class="mb-2"><i class="fas fa-tint text-danger mr-2"></i> <strong>Промывание топливных систем</strong></li>
+</ul>
+</div>
+<div class="column is-half">
+<ul class="mb-0">
+<li class="mb-2"><i class="fas fa-cogs text-primary mr-2"></i> <a href="https://service04.ru/servis-dizelnoy-gorelki" class="has-text-dark"><strong>Сервисное обслуживание горелки</strong></a></li>
+<li class="mb-2"><i class="fas fa-tools text-success mr-2"></i> <a href="https://service04.ru/texnicheskoe-obsluzhivanie-dizelnoj-gorelki" class="has-text-dark"><strong>Техническое обслуживание</strong></a></li>
+<li class="mb-2"><i class="fas fa-fire text-warning mr-2"></i> <strong>Восстановление или замена секции чугунного теплообменника</strong></li>
+<li class="mb-2"><i class="fas fa-certificate text-info mr-2"></i> <strong>Гарантийное обслуживание</strong> по завершении всех работ</li>
+</ul>
+</div>
+</div>
+<div class="notification is-success mt-4">
+<h5 class="title is-5 mb-1"><i class="fas fa-check-circle mr-2"></i>Качество</h5>
+<p class="mb-0">Используются сертифицированные оригинальные запасные части. На завершающей стадии <strong>ремонт дизельной горелки</strong> включает полную проверку работы всего котла, после чего оборудование передаётся клиенту.</p>
+</div>
+</div>
+<!-- Фотогалерея -->
+<div class="box mb-6"><header class="has-background-grey p-4 mb-4">
+<h6 class="title is-6 mb-0 has-text-white"><i class="fas fa-images mr-2"></i>Фотогалерея ремонтных работ</h6>
+</header>
+<div class="columns is-multiline is-variable is-4 has-text-centered">
+<div class="column is-one-third">
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/remont-dizelnoy-gorelki_wp5435fc5a_05_06.jpg" alt="Ремонт дизельной горелки" class="is-rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
+</div>
+<div class="column is-one-third">
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/remont-dizelnoy-gorelki_wpde0d927a_05_06.jpg" alt="Ремонт дизельной горелки" class="is-rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
+</div>
+<div class="column is-one-third">
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/remont-dizelnoy-gorelki_wpdf150e33_05_06.jpg" alt="Ремонт дизельной горелки" class="is-rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
+</div>
+<div class="column is-one-third">
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/remont-dizelnoy-gorelki_wp9a209868_06.png" alt="Ремонт дизельной горелки" class="is-rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
+</div>
+<div class="column is-one-third">
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/remont-dizelnoy-gorelki_wpfdc67769_05_06.jpg" alt="Ремонт дизельной горелки" class="is-rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
+</div>
+<div class="column is-one-third">
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/remont-dizelnoy-gorelki_wp9c68d900_05_06.png" alt="Ремонт дизельной горелки" class="is-rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
+</div>
+<div class="column is-one-third">
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/remont-dizelnoy-gorelki_wp6fab52a3_05_06.png" alt="Ремонт дизельной горелки" class="is-rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
+</div>
+<div class="column is-one-third">
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/remont-dizelnoy-gorelki_wpf8b13d5a_05_06.png" alt="Ремонт дизельной горелки" class="is-rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
+</div>
+</div>
+<div class="has-text-centered mt-4"><a href="https://service04.ru/texnicheskoe-obsluzhivanie-dizelnoj-gorelki" class="button is-info is-large"> <i class="fas fa-book mr-2"></i>Техническое обслуживание дизельной горелки — Инструкция </a></div>
+</div>
+<!-- Заказ -->
+<div class="box has-background-primary has-text-white">
+<div class="has-text-centered">
+<h3 class="title is-4 mb-3"><i class="fas fa-shopping-cart mr-2"></i>Ремонт горелок и дизельных котлов любой сложности</h3>
+<p class="subtitle is-5">Мы предлагаем выполнить ремонт горелки и дизельных котлов любой сложности, включая восстановление или замену секции чугунного теплообменника.</p>
+<div class="columns is-centered">
+<div class="column is-one-third"><a href="tel:+79262211348" class="button is-large is-light is-fullwidth"> <i class="fas fa-phone mr-2"></i>Позвонить </a></div>
+<div class="column is-one-third"><a href="https://service04.ru/contact-us/feedback" class="button is-large is-warning is-fullwidth has-text-dark"> <i class="fas fa-envelope mr-2"></i>Оставить заявку </a></div>
+</div>
+</div>
+</div>
+</div>
+</div>

@@ -1,0 +1,99 @@
+<section class="section" style="background-color: #fbfaf9;">
+<div class="container is-widescreen" style="color: #60584d;">
+<section class="hero is-primary is-bold mb-5">
+<div class="hero-body">
+<div class="container has-text-centered">
+<h1 class="title is-3 has-text-white"><span class="icon mr-2"><i class="fas fa-shower"></i></span>Ремонт бойлера</h1>
+<p class="subtitle is-5 has-text-white">Восстановление работоспособности вашего водонагревателя</p>
+</div>
+</div>
+</section>
+<div class="card mb-5">
+<div class="card-content">
+<div class="columns is-vcentered is-multiline">
+<div class="column is-4-desktop is-12-mobile has-text-centered mb-4">
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/remont-boilera.png" alt="Ремонт бойлера" class="has-border-light"></figure>
+</div>
+<div class="column is-8-desktop is-12-mobile content">
+<h2 class="title is-5"><span class="icon mr-2"><i class="fas fa-info-circle has-text-info"></i></span>Выполнение всех видов ремонта бойлеров</h2>
+<p>Электричество, канализация и горячая вода — важные элементы комфортной жизни, но любая бытовая техника со временем требует обслуживания или ремонта.</p>
+<p>**Ремонт бойлеров** сложнее профилактики, поэтому выгоднее регулярно очищать нагревательный элемент от накипи, проверять контакты и контролировать температурный режим.</p>
+<p>Различают **текущий ремонт бойлеров** (устранение мелких неисправностей) и **капитальный ремонт**.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="card mb-5"><header class="card-header has-background-warning">
+<p class="card-header-title has-text-dark is-size-5"><span class="icon mr-2"><i class="fas fa-exclamation-triangle"></i></span>Показания к проведению ремонтных работ</p>
+</header>
+<div class="card-content">
+<div class="content">
+<ul class="ml-4">
+<li class="mb-2"><span class="icon mr-2"><i class="fas fa-clock has-text-primary"></i></span> **Срок эксплуатации бойлера превышает 2 года.**</li>
+<li class="mb-2"><span class="icon mr-2"><i class="fas fa-thermometer-empty has-text-danger"></i></span> **Нагрев воды стал значительно дольше, чем указано в паспорте.**</li>
+<li class="mb-2"><span class="icon mr-2"><i class="fas fa-tint-slash has-text-grey"></i></span> **Вода из бойлера мутная или с посторонним цветом.**</li>
+<li class="mb-2"><span class="icon mr-2"><i class="fas fa-fire has-text-warning"></i></span> **Бойлер перегревается.**</li>
+</ul>
+<p class="mt-3">Если присутствует хотя бы один из этих признаков, чистка и ремонт бойлера необходимы.</p>
+<p>Устранить неисправность можно самостоятельно или пригласить мастера по ремонту бойлеров. Конструкция водонагревателя относительно проста, и при внимательном изучении инструкции можно определить и устранить многие типовые поломки.</p>
+</div>
+</div>
+</div>
+<div class="card mb-5"><header class="card-header has-background-danger">
+<p class="card-header-title has-text-white is-uppercase is-size-5"><span class="icon mr-2"><i class="fas fa-tools"></i></span>Типичные неисправности бойлеров</p>
+</header>
+<div class="card-content">
+<div class="content">
+<ul class="mb-4 ml-4">
+<li class="mb-3"><span class="icon mr-2"><i class="fas fa-exchange-alt has-text-info"></i></span> **Недостаточное количество воды в бойлере** указывает на неправильное подключение патрубков входа и выхода. Ошибку обычно удаётся обнаружить и устранить в начале эксплуатации.</li>
+<li class="mb-3"><span class="icon mr-2"><i class="fas fa-thermometer-quarter has-text-warning"></i></span> **Недостаточный нагрев воды.** В большинстве случаев ремонт сводится к обслуживанию ТЭНа: удалению накипи или проверке электрического соединения с термостатом.</li>
+<li class="mb-3"><span class="icon mr-2"><i class="fas fa-tint has-text-primary"></i></span> **Протекает бак.** Коррозия может сделать ремонт нецелесообразным, и после окончания гарантии часто требуется замена всего бойлера. К утечкам также приводят неправильная эксплуатация и отсутствие чистки.</li>
+<li class="mb-3"><span class="icon mr-2"><i class="fas fa-arrow-up has-text-success"></i></span> **Нагрев труб, подающих холодную воду,** свидетельствует о поломке обратного клапана; его замена устраняет проблему.</li>
+<li class="mb-3"><span class="icon mr-2"><i class="fas fa-plug has-text-danger"></i></span> **Нагрев вилки бойлера** возникает при несоответствии вилки, розетки или шнура потребляемой мощности прибора.</li>
+</ul>
+<div class="has-text-centered">
+<figure class="image is-inline-block mb-3"><img src="https://service04.ru/bl-content/img/2019/12/chistka_boylerov.png" alt="Чистка бойлеров" class="has-border-light"></figure>
+</div>
+</div>
+</div>
+</div>
+<div class="card mb-5"><header class="card-header has-background-success">
+<p class="card-header-title has-text-white is-uppercase is-size-5"><span class="icon mr-2"><i class="fas fa-check-double"></i></span>Эффект от профилактических мер</p>
+</header>
+<div class="card-content">
+<p>Текущий ремонт бойлеров — регулярная и полезная процедура. Выполнять его можно как самостоятельно, так и с привлечением специалистов.</p>
+<p>Профилактика позволяет:</p>
+<div class="columns has-text-centered mb-3">
+<div class="column"><span class="icon is-large has-text-warning mb-2"><i class="fas fa-bolt fa-2x"></i></span>
+<p class="mb-0">Существенно снизить энергопотребление</p>
+</div>
+<div class="column"><span class="icon is-large has-text-info mb-2"><i class="fas fa-calendar-plus fa-2x"></i></span>
+<p class="mb-0">Продлить срок службы водонагревателя</p>
+</div>
+<div class="column"><span class="icon is-large has-text-success mb-2"><i class="fas fa-clock fa-2x"></i></span>
+<p class="mb-0">Сократить время нагрева воды</p>
+</div>
+</div>
+<p>Регулярное обслуживание помогает **экономить на покупке нового оборудования** и **сохранять спокойствие**. Если важен комфорт и надёжность, лучше пригласить мастера, который быстро выполнит ремонт, а наблюдение за его работой поможет в дальнейшем увереннее обслуживать бойлер самостоятельно.</p>
+<div class="columns mt-4">
+<div class="column">
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/20140204_144446.jpg" alt="Ремонт бойлера Мора" class="has-border-light"></figure>
+</div>
+<div class="column">
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/20140204_125810.jpg" alt="Ремонт бойлера Бакси" class="has-border-light"></figure>
+</div>
+</div>
+</div>
+</div>
+<div class="box has-background-primary has-text-white p-5">
+<div class="has-text-centered">
+<h3 class="title is-4 has-text-white"><span class="icon mr-2"><i class="fas fa-phone"></i></span>Нужен ремонт бойлера?</h3>
+<p class="subtitle is-5 has-text-white">Вызовите мастера прямо сейчас!</p>
+<div class="columns is-centered mt-4">
+<div class="column is-one-third-desktop is-half-mobile mb-2"><a href="tel:+79262211348" class="button is-light is-large is-fullwidth"> <span class="icon mr-2"><i class="fas fa-phone"></i></span> <span>+7 (926) 221-13-48</span> </a></div>
+<div class="column is-one-third-desktop is-half-mobile mb-2"><a href="https://service04.ru/contact-us/feedback" class="button is-warning is-large is-fullwidth has-text-dark"> <span class="icon mr-2"><i class="fas fa-envelope"></i></span> <span>Написать нам</span> </a></div>
+</div>
+</div>
+</div>
+</div>
+</section>

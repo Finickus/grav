@@ -1,0 +1,156 @@
+<div class="container is-widescreen mt-5 mb-5">
+<section class="hero is-primary is-bold mb-5">
+<div class="hero-body">
+<div class="container has-text-centered">
+<h1 class="title is-2 has-text-white"><span class="icon is-medium mr-3"><i class="fas fa-exclamation-triangle"></i></span>Коды ошибок котлов Junkers (Юнкерс)</h1>
+<p class="subtitle is-4 has-text-white">Диагностика и устранение неисправностей газовых котлов Юнкерс</p>
+</div>
+</div>
+</section>
+<div class="card mb-5 has-shadow">
+<div class="card-content">
+<p class="is-size-5">Газовые котлы **Junkers (Юнкерс)** – надежное отопительное оборудование, но иногда могут сигнализировать о неисправностях с помощью кодов ошибок. Понимание этих кодов помогает быстро диагностировать проблему и принять меры для устранения.</p>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-info">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-user"></i></span>Неисправности и их устранение (Кейсы)</p>
+</header>
+<div class="card-content content">
+<div id="accordionUserFaults"><details open="" class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-warning mb-0"><span class="icon mr-2"><i class="fas fa-lightbulb"></i></span> Постоянно горящий индикатор 45</summary>
+<div class="p-4 is-size-7">
+<p class="has-text-weight-bold">Описание: Индикаторы 45, 60, 90 горят. Горелка загорается и сразу гаснет.</p>
+<h6 class="title is-6 has-text-info">Возможные причины и решения:</h6>
+<ul class="ml-4 is-unstyled">
+<li class="mb-2"><span class="icon mr-2 has-text-danger"><i class="fas fa-wind"></i></span> **Проблемы с тягой** (вероятно).</li>
+<li class="mb-2"><span class="icon mr-2 has-text-warning"><i class="fas fa-tachometer-alt"></i></span> **Низкое давление воды** в водопроводе.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-info"><i class="fas fa-broom"></i></span> **Недавняя чистка теплообменника** → Убедиться, что все детали установлены правильно.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-primary"><i class="fas fa-fire"></i></span> **Проблемы с розжигом** → Проверить электроды, газовый клапан, давление газа.</li>
+</ul>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-warning mb-0"><span class="icon mr-2"><i class="fas fa-sync"></i></span> Перебои в работе котла более 10 лет</summary>
+<div class="p-4 is-size-7">
+<p class="has-text-weight-bold">Описание: Горелка не зажигается или зажигается на несколько секунд и отключается. Ошибку не выдает, индикатор горит оранжевым.</p>
+<h6 class="title is-6 has-text-info">Возможные причины и решения:</h6>
+<ul class="ml-4 is-unstyled">
+<li class="mb-2"><span class="icon mr-2 has-text-danger"><i class="fas fa-microchip"></i></span> **Проблема в плате управления** (вероятно, оптопара).</li>
+<li class="mb-2"><span class="icon mr-2 has-text-warning"><i class="fas fa-plug"></i></span> **Нестабильное напряжение** → Использовать стабилизатор.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-info"><i class="fas fa-broom"></i></span> **Пробки в системе отопления** → Проверить и промыть систему.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-primary"><i class="fas fa-thermometer-half"></i></span> **Неисправность датчиков NTC**.</li>
+</ul>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-warning mb-0"><span class="icon mr-2"><i class="fas fa-volume-up"></i></span> Гул при включении ГВС</summary>
+<div class="p-4 is-size-7">
+<p class="has-text-weight-bold">Описание: При включении горячей воды секунд на пять появляется гул.</p>
+<h6 class="title is-6 has-text-info">Возможные причины и решения:</h6>
+<ul class="ml-4 is-unstyled">
+<li class="mb-2"><span class="icon mr-2 has-text-danger"><i class="fas fa-cogs"></i></span> **Настройки газового клапана** → Проверить регулировки.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-warning"><i class="fas fa-border-all"></i></span> **Накипь в теплообменнике** → Проверить на наличие накипи, засоров.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-info"><i class="fas fa-tachometer-alt"></i></span> **Давление в системе** → Проверить и при необходимости долить воду.</li>
+</ul>
+</div>
+</details><details class="box mb-3 p-0 has-background-danger-light">
+<summary class="title is-5 has-text-danger mb-0"><span class="icon mr-2"><i class="fas fa-user-md"></i></span> Ошибки, требующие сервисного вмешательства</summary>
+<div class="p-4 is-size-7">
+<p class="has-text-weight-bold">Неисправности с кодами 60-90, Запах канализации, Пьеза стреляет без розжига, Не включается Euroline.</p>
+<p class="mt-2">Эти сложные случаи, особенно связанные с электроникой (оптопарой) и газовыми клапанами, требуют обязательного вызова квалифицированного специалиста.</p>
+</div>
+</details></div>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-success">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-list"></i></span>Основные коды ошибок котлов Junkers (Коды)</p>
+</header>
+<div class="card-content content">
+<div id="accordionJunkersErrors"><details open="" class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-success mb-0"><span class="icon mr-2"><i class="fas fa-thermometer-full"></i></span> Ошибка AA - Повышение температуры / малый проток</summary>
+<div class="p-4 is-size-7">
+<p class="has-text-weight-bold">Описание: Повышение температуры подачи и малый проток воды для установленного уровня мощности.</p>
+<h6 class="title is-6 has-text-info">Возможные причины и решения:</h6>
+<ul class="ml-4 is-unstyled">
+<li class="mb-2"><span class="icon mr-2 has-text-danger"><i class="fas fa-border-all"></i></span> **Проверка пластинчатого теплообменника** → на наличие налёта извести. Очистить камеру сгорания.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-warning"><i class="fas fa-pump"></i></span> Проверить работу **циркуляционного насоса**.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-info"><i class="fas fa-thermometer-half"></i></span> **Повреждение датчика NTC** → Проверить, заменить.</li>
+</ul>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-success mb-0"><span class="icon mr-2"><i class="fas fa-fire"></i></span> Ошибка EA - Не распознается пламя</summary>
+<div class="p-4 is-size-7">
+<p class="has-text-weight-bold">Описание: Не распознается пламя. Требуется немедленный сброс.</p>
+<h6 class="title is-6 has-text-info">Возможные причины и решения:</h6>
+<ul class="ml-4 is-unstyled">
+<li class="mb-2"><span class="icon mr-2 has-text-danger"><i class="fas fa-fire"></i></span> **Проблемы с розжигом** → Проверить подачу газа, работу пьезоэлемента.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-warning"><i class="fas fa-bolt"></i></span> **Неисправность электрода** → Проверить электрод ионизации на загрязнение, зазор.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-info"><i class="fas fa-plug"></i></span> **Проверка проводов** → Выполнить проверку подсоединения проводов защиты.</li>
+</ul>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-success mb-0"><span class="icon mr-2"><i class="fas fa-tachometer-alt"></i></span> Ошибка CE / CF / E10 - Пониженное/Недостаточное давление</summary>
+<div class="p-4 is-size-7">
+<p class="has-text-weight-bold">Описание: Пониженное рабочее давление в отопительной системе.</p>
+<h6 class="title is-6 has-text-info">Возможные причины и решения:</h6>
+<ul class="ml-4 is-unstyled">
+<li class="mb-2"><span class="icon mr-2 has-text-danger"><i class="fas fa-tachometer-alt"></i></span> **Низкое давление** → Проверить манометр (норма 1.0-1.5 бар).</li>
+<li class="mb-2"><span class="icon mr-2 has-text-warning"><i class="fas fa-tint"></i></span> **Утечка теплоносителя** → Найти и устранить утечку в системе.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-info"><i class="fas fa-fill-drip"></i></span> **Долив теплоносителя** → Использовать кран подпитки для восстановления давления.</li>
+</ul>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-success mb-0"><span class="icon mr-2"><i class="fas fa-thermometer-full"></i></span> Ошибка E9 - Срабатывание ограничителя по температуре</summary>
+<div class="p-4 is-size-7">
+<p class="has-text-weight-bold">Описание: Срабатывание ограничителя по температуре теплообменника или ограничителя температуры дымовых газов.</p>
+<h6 class="title is-6 has-text-info">Возможные причины и решения:</h6>
+<ul class="ml-4 is-unstyled">
+<li class="mb-2"><span class="icon mr-2 has-text-danger"><i class="fas fa-thermometer-full"></i></span> **Перегрев котла** → Дать котлу остыть. Проверить циркуляцию.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-warning"><i class="fas fa-pump"></i></span> **Проблемы с насосом** → Проверить работу циркуляционного насоса.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-info"><i class="fas fa-border-all"></i></span> **Засор теплообменника** → Очистить теплообменник от накипи.</li>
+</ul>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-success mb-0"><span class="icon mr-2"><i class="fas fa-fan"></i></span> Ошибка C6 - Не исправен нагнетающий вентилятор</summary>
+<div class="p-4 is-size-7">
+<p class="has-text-weight-bold">Описание: Не исправен нагнетающий вентилятор.</p>
+<h6 class="title is-6 has-text-info">Возможные причины и решения:</h6>
+<ul class="ml-4 is-unstyled">
+<li class="mb-2"><span class="icon mr-2 has-text-danger"><i class="fas fa-fan"></i></span> **Засор вентилятора** → Очистить от пыли и загрязнений.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-warning"><i class="fas fa-bolt"></i></span> **Проблемы с питанием** → Проверить напряжение питания (220В).</li>
+<li class="mb-2"><span class="icon mr-2 has-text-info"><i class="fas fa-sync"></i></span> **Механическая неисправность** → Проверить подшипники, крыльчатку.</li>
+</ul>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-success mb-0"><span class="icon mr-2"><i class="fas fa-fire"></i></span> Ошибка F7 - Определение пламени при выключенном котле</summary>
+<div class="p-4 is-size-7">
+<p class="has-text-weight-bold">Описание: Определение пламени при выключенном котле.</p>
+<h6 class="title is-6 has-text-info">Возможные причины и решения:</h6>
+<ul class="ml-4 is-unstyled">
+<li class="mb-2"><span class="icon mr-2 has-text-danger"><i class="fas fa-fire"></i></span> **Ложное срабатывание** → Проверить электрод ионизации, плату управления.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-warning"><i class="fas fa-bolt"></i></span> **Неисправность электрода** → Проверить электрод на загрязнение, замыкание.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-info"><i class="fas fa-microchip"></i></span> **Неисправность платы** → При необходимости заменить плату управления.</li>
+</ul>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-success mb-0"><span class="icon mr-2"><i class="fas fa-redo"></i></span> Ошибка Fd - Случайное нажатие кнопки Сброс</summary>
+<div class="p-4 is-size-7">
+<p class="has-text-weight-bold">Описание: Произошло случайное нажатие кнопки Сброс.</p>
+<h6 class="title is-6 has-text-info">Возможные причины и решения:</h6>
+<ul class="ml-4 is-unstyled">
+<li class="mb-2"><span class="icon mr-2 has-text-danger"><i class="fas fa-redo"></i></span> **Случайное нажатие** → Еще раз нажать кнопку Сброс.</li>
+<li class="mb-2"><span class="icon mr-2 has-text-warning"><i class="fas fa-bolt"></i></span> **Неисправность кнопки** → Проверить кнопку Сброс на предмет залипания.</li>
+</ul>
+</div>
+</details></div>
+</div>
+</div>
+<div class="box has-background-primary has-text-white has-shadow p-5 mt-5">
+<div class="has-text-centered">
+<h3 class="title is-4 has-text-white"><span class="icon mr-2"><i class="fas fa-user-md"></i></span>Нужна помощь с котлом Junkers?</h3>
+<p class="subtitle is-5 has-text-white">Наши специалисты помогут диагностировать и устранить неисправность!</p>
+<div class="columns is-mobile is-centered mt-4">
+<div class="column is-4-desktop is-half-mobile mb-2"><a href="tel:+79262211348" class="button is-light is-large is-fullwidth"> <span class="icon mr-2"><i class="fas fa-phone"></i></span> <span>Позвонить</span> </a></div>
+<div class="column is-4-desktop is-half-mobile"><a href="https://service04.ru/contact-us/feedback" class="button is-warning is-large is-fullwidth has-text-dark"> <span class="icon mr-2"><i class="fas fa-envelope"></i></span> <span>Оставить заявку</span> </a></div>
+</div>
+</div>
+</div>
+</div>

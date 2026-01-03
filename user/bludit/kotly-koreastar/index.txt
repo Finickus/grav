@@ -1,0 +1,126 @@
+<div class="container my-4"><!-- Заголовок -->
+<div class="jumbotron bg-primary text-white rounded">
+<div class="container">
+<h1 class="display-4"><i class="fas fa-fire me-3"></i>Котел KoreaStar Senator TP</h1>
+<p class="lead">Энергонезависимый чугунный котел для надежного отопления</p>
+</div>
+</div>
+<!-- Основное описание -->
+<div class="card mb-4">
+<div class="card-body">
+<div class="row">
+<div class="col-md-8">
+<h3 class="text-uppercase" style="color: #e37a25;">Всего 5 преимуществ котла KoreaStar Senator TP:</h3>
+<ol>
+<li class="mb-3"><strong>Энергонезависимость и надежность:</strong>
+<p class="mb-1">Практически вечный чугунный котел, адаптированный к российским условиям. Работает без электричества, только от газа, с постоянно горящим фитилем. Работает всегда, независимо от перепадов напряжения или отсутствия света. Подходит для систем как естественной, так и принудительной циркуляции.</p>
+</li>
+<li class="mb-3"><strong>Адаптированный модельный ряд:</strong>
+<p class="mb-1">Мощности и типоразмеры (от 16,0 kW до 56,0 kW) аналогичны ближайшему конкуренту, что упрощает подбор.</p>
+<ul>
+<li>SENATOR TP 20 / Энергонезависимый 16,0 kW</li>
+<li>SENATOR TP 30 / Энергонезависимый 26,0 kW</li>
+<li>SENATOR TP 40 / Энергонезависимый 36,0 kW</li>
+<li>SENATOR TP 50 / Энергонезависимый 46,0 kW</li>
+<li>SENATOR TP 55 / Энергонезависимый 49,9 kW</li>
+<li>SENATOR TP 60 / Энергонезависимый 56,0 kW</li>
+</ul>
+</li>
+<li class="mb-3"><strong>Качественный теплообменник:</strong>
+<p class="mb-1">Надежный чугунный теплообменник Viadrus (Словакия). Гарантия на теплообменник — 5 лет! Гарантия на сам котел — 24 месяца.</p>
+</li>
+<li class="mb-3"><strong>Полный склад запчастей:</strong>
+<p class="mb-1">Все необходимые комплектующие всегда в наличии.</p>
+</li>
+<li class="mb-3"><strong>Выгодная цена:</strong>
+<p class="mb-1">Стоимость котла ниже на 10% относительно своего ближайшего конкурента!</p>
+</li>
+</ol>
+</div>
+<div class="col-md-4 text-center"><img src="https://service04.ru/bl-content/img/2019/12/korea1-1de84a18.jpg" alt="Котел KoreaStar Senator TP" class="img-fluid rounded"></div>
+</div>
+</div>
+</div>
+<!-- Модельный ряд -->
+<div class="card">
+<div class="card-body">
+<h2 class="card-title" style="color: #e37a25; padding-bottom: 5px; border-bottom: 2px solid;">Серия SENATOR TP ЭНЕРГОНЕЗАВИСИМЫЙ</h2>
+<p class="mb-3">Чугунный теплообменник, пьезорозжиг, атмосферная горелка. Гарантия на чугунный теплообменник — 5 лет!</p>
+<div class="table-responsive">
+<table class="table table-bordered table-striped">
+<thead class="thead-dark">
+<tr>
+<th>Модель</th>
+<th>Мощность</th>
+<th>Площадь обогрева</th>
+<th>Диаметр дымохода</th>
+<th>Размеры (мм)</th>
+<th>Цена (€)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>SENATOR TP 20 / Энергонезависимый</td>
+<td>16,0 kW</td>
+<td>160 m²</td>
+<td>110 мм</td>
+<td>845х365х525</td>
+<td>721,00 €</td>
+</tr>
+<tr>
+<td>SENATOR TP 30 / Энергонезависимый</td>
+<td>26,0 kW</td>
+<td>260 m²</td>
+<td>135 мм</td>
+<td>845х445х525</td>
+<td>800,00 €</td>
+</tr>
+<tr>
+<td>SENATOR TP 40 / Энергонезависимый</td>
+<td>36,0 kW</td>
+<td>360 m²</td>
+<td>145 мм</td>
+<td>845х540х525</td>
+<td>905,00 €</td>
+</tr>
+<tr>
+<td>SENATOR TP 50 / Энергонезависимый</td>
+<td>46,0 kW</td>
+<td>460 m²</td>
+<td>165 мм</td>
+<td>845х630х525</td>
+<td>1011,00 €</td>
+</tr>
+<tr>
+<td>SENATOR TP 55 / Энергонезависимый</td>
+<td>49,9 kW</td>
+<td>500 m²</td>
+<td>180 мм</td>
+<td>845х700х525</td>
+<td>1089,00 €</td>
+</tr>
+<tr>
+<td>SENATOR TP 60 / Энергонезависимый</td>
+<td>56,0 kW</td>
+<td>560 m²</td>
+<td>180 мм</td>
+<td>845х700х525</td>
+<td>1147,00 €</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<!-- Призыв к действию -->
+<div class="card bg-success text-white mt-4">
+<div class="card-body text-center">
+<h3 class="card-title"><i class="fas fa-shopping-cart me-2"></i>Выбрать и купить котел KoreaStar Senator TP</h3>
+<p class="card-text lead">Получите выгоду 10% по сравнению с конкурентами!</p>
+<div class="row justify-content-center">
+<div class="col-md-4 mb-2"><a href="tel:+79262211348" class="btn btn-light btn-lg btn-block"> <i class="fas fa-phone me-2"></i>Позвонить </a></div>
+<div class="col-md-4"><a href="https://service04.ru/contact-us/feedback" class="btn btn-warning btn-lg btn-block"> <i class="fas fa-envelope me-2"></i>Оставить заявку </a></div>
+</div>
+</div>
+</div>
+</div>

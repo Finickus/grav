@@ -1,0 +1,231 @@
+﻿---
+title: 'Запчасти для котлов Protherm'
+---
+
+<div class="container my-4"><!-- Заголовок -->
+<div class="jumbotron bg-primary text-white rounded">
+<div class="container">
+
+<p class="lead">Оригинальные комплектующие для котлов Protherm TLO и серии Медведь</p>
+</div>
+</div>
+<!-- Введение -->
+<div class="card mb-4">
+<div class="card-body">
+<div class="row">
+<div class="col-md-8">
+<p class="lead">Здесь представлены самые ходовые запасные части для котельного оборудования Протерм Серии Медведь, имеющиеся всегда в наличии на складе.</p>
+<p><strong>Protherm TLO</strong> - это серия надежных котлов, которые обеспечивают комфорт и уют в вашем доме, благодаря своей способности эффективно обогревать помещение. Однако, как и любая техника, котлы Protherm TLO могут выйти из строя или потребовать замены некоторых деталей.</p>
+<div class="alert alert-info">
+<p class="mb-0"><strong>Важно:</strong> Данный перечень запчастей является далеко неполным. Если Вы не найдете нужную запчасть, тогда обращайтесь к нашим консультантам в офисе по телефонам, указанным в контактах.</p>
+</div>
+</div>
+<div class="col-md-4 text-center"><img src="https://service04.ru/bl-content/uploads/pages/1d3a6002a7743c325527b613b0b0a373/Screenshot_311(1).jpg" alt="Котлы Protherm TLO" class="img-fluid rounded border">
+<p class="mt-2"><small>Котлы Protherm TLO</small></p>
+</div>
+</div>
+</div>
+</div>
+<!-- Важная информация -->
+<div class="card bg-warning mb-4">
+<div class="card-body">
+<h5 class="card-h3"><i class="fas fa-exclamation-circle me-2"></i>Важно при подборе запчастей</h5>
+<p class="card-text">Важно помнить, что при покупке запчастей для котлов <strong>Protherm TLO</strong> необходимо учитывать модель и год выпуска вашего котла, чтобы выбрать подходящие запчасти. Рекомендуется обращаться к профессионалам или специалистам, чтобы получить правильные и качественные запчасти для вашего котла Protherm TLO.</p>
+</div>
+</div>
+<!-- Каталог запчастей -->
+<div class="card mb-4">
+<div class="card-header bg-info text-white">
+<h2 class="mb-0"><i class="fas fa-list me-2"></i>Каталог запчастей Protherm TLO / Медведь (выборка)</h2>
+</div>
+<div class="card-body">
+<div class="row mb-3">
+<div class="col-md-6"><input type="text" id="searchInput" class="form-control" placeholder="Поиск по названию или артикулу..."></div>
+<div class="col-md-6 text-md-right"><btn btn-primary class="btn btn-outline-primary" id="printBtn"> <i class="fas fa-print"></i> Печать </btn btn-primary> <a href="https://service04.ru/bl-content/uploads/doc/tlo.pdf" class="btn btn-outline-success" target="_blank" rel="noopener"> <i class="fas fa-file-pdf"></i> Схема PDF </a></div>
+</div>
+<div class="table-responsive">
+<table class="table table-hover table-striped table-bordered" id="partsTable">
+<thead class="thead-dark">
+<tr>
+<th scope="col" class="text-center">№</th>
+<th scope="col">Артикул</th>
+<th scope="col">Название запчасти</th>
+<th scope="col" class="text-center">Фото</th>
+<th scope="col" class="text-center">Действия</th>
+</tr>
+</thead>
+<tbody><!-- Примеры строк из таблицы -->
+<tr>
+<td class="text-center">1</td>
+<td>0020025279</td>
+<td>Термометр</td>
+<td class="text-center">-</td>
+<td class="text-center"><btn btn-primary class="btn btn-sm btn-info me-1 mb-1">Подробнее</btn btn-primary> <btn btn-primary class="btn btn-sm btn-success mb-1">Купить</btn btn-primary></td>
+</tr>
+<tr>
+<td class="text-center">2</td>
+<td>0020027516</td>
+<td>Газовый клапан 820 мВ SIT</td>
+<td class="text-center">-</td>
+<td class="text-center"><btn btn-primary class="btn btn-sm btn-info me-1 mb-1">Подробнее</btn btn-primary> <btn btn-primary class="btn btn-sm btn-success mb-1">Купить</btn btn-primary></td>
+</tr>
+<tr>
+<td class="text-center">3</td>
+<td>0020027519</td>
+<td>Кнопка пьезорозжига NOVA</td>
+<td class="text-center">-</td>
+<td class="text-center"><btn btn-primary class="btn btn-sm btn-info me-1 mb-1">Подробнее</btn btn-primary> <btn btn-primary class="btn btn-sm btn-success mb-1">Купить</btn btn-primary></td>
+</tr>
+<tr>
+<td class="text-center">5</td>
+<td>0020027524</td>
+<td>Горелка запальная 820 мВ</td>
+<td class="text-center">-</td>
+<td class="text-center"><btn btn-primary class="btn btn-sm btn-info me-1 mb-1">Подробнее</btn btn-primary> <btn btn-primary class="btn btn-sm btn-success mb-1">Купить</btn btn-primary></td>
+</tr>
+<tr>
+<td class="text-center">7</td>
+<td>0020027536</td>
+<td>Термостат продуктов сгор.поз.конт</td>
+<td class="text-center"><img src="https://service04.ru/bl-content/img/2019/12/termostat_produktov_sgoranija_poz_kont.jpg" alt="0020027536" class="img-fluid" style="max-height: 50px;"></td>
+<td class="text-center"><btn btn-primary class="btn btn-sm btn-info me-1 mb-1">Подробнее</btn btn-primary> <btn btn-primary class="btn btn-sm btn-success mb-1">Купить</btn btn-primary></td>
+</tr>
+<tr>
+<td class="text-center">8</td>
+<td>0020027572</td>
+<td>Термостат рабочий - позол.контакт</td>
+<td class="text-center"><img src="https://service04.ru/bl-content/img/2019/12/1399462802-293.jpg" alt="0020027572" class="img-fluid" style="max-height: 50px;"></td>
+<td class="text-center"><btn btn-primary class="btn btn-sm btn-info me-1 mb-1">Подробнее</btn btn-primary> <btn btn-primary class="btn btn-sm btn-success mb-1">Купить</btn btn-primary></td>
+</tr>
+<tr>
+<td class="text-center">11</td>
+<td>0020027665</td>
+<td>Прокладка 24х15х2</td>
+<td class="text-center">-</td>
+<td class="text-center"><btn btn-primary class="btn btn-sm btn-info me-1 mb-1">Подробнее</btn btn-primary> <btn btn-primary class="btn btn-sm btn-success mb-1">Купить</btn btn-primary></td>
+</tr>
+<tr>
+<td class="text-center">18</td>
+<td>0020033365</td>
+<td>Зажим</td>
+<td class="text-center">-</td>
+<td class="text-center"><btn btn-primary class="btn btn-sm btn-info me-1 mb-1">Подробнее</btn btn-primary> <btn btn-primary class="btn btn-sm btn-success mb-1">Купить</btn btn-primary></td>
+</tr>
+<tr>
+<td class="text-center">22</td>
+<td>0020033458</td>
+<td>Пружина термостата</td>
+<td class="text-center">-</td>
+<td class="text-center"><btn btn-primary class="btn btn-sm btn-info me-1 mb-1">Подробнее</btn btn-primary> <btn btn-primary class="btn btn-sm btn-success mb-1">Купить</btn btn-primary></td>
+</tr>
+<tr>
+<td class="text-center">25</td>
+<td>0020033601<br>0020033602<br>0020043103<br>0020043104</td>
+<td>Стабилизатор тяги 20PLOS,TLO<br>Стабилизатор тяги 30PLOS,TLO<br>Стабилизатор тяги 40TLO<br>Стабилизатор тяги 50TLO</td>
+<td class="text-center">-</td>
+<td class="text-center"><btn btn-primary class="btn btn-sm btn-info me-1 mb-1">Подробнее</btn btn-primary> <btn btn-primary class="btn btn-sm btn-success mb-1">Купить</btn btn-primary></td>
+</tr>
+<tr>
+<td class="text-center">26</td>
+<td>0020033615<br>0020033617<br>0020043121<br>0020025263</td>
+<td>Чугунный теплообменник-секц.<br>Чугунный теплообменник-секц.<br>Чугунный теплообменник-секц.<br>Чугунный теплообменник-6секц.</td>
+<td class="text-center">-</td>
+<td class="text-center"><btn btn-primary class="btn btn-sm btn-info me-1 mb-1">Подробнее</btn btn-primary> <btn btn-primary class="btn btn-sm btn-success mb-1">Купить</btn btn-primary></td>
+</tr>
+<tr>
+<td class="text-center">35</td>
+<td>0020033941<br>0020033942<br>0020033943</td>
+<td>Секция теплообмен. (левая)<br>Секция теплообмен. (правая)<br>Секция теплообмен. (средняя)</td>
+<td class="text-center">-</td>
+<td class="text-center"><btn btn-primary class="btn btn-sm btn-info me-1 mb-1">Подробнее</btn btn-primary> <btn btn-primary class="btn btn-sm btn-success mb-1">Купить</btn btn-primary></td>
+</tr>
+<tr>
+<td class="text-center">43</td>
+<td>0020035587<br>0020035588<br>0020035589<br>0020035590</td>
+<td>Панель облицов.перед.30 Li v13<br>Панель облицов.перед.40KLO13<br>Панель облицов.перед.50KLO13<br>Панель облицов.перед.60KLO13</td>
+<td class="text-center">-</td>
+<td class="text-center"><btn btn-primary class="btn btn-sm btn-info me-1 mb-1">Подробнее</btn btn-primary> <btn btn-primary class="btn btn-sm btn-success mb-1">Купить</btn btn-primary></td>
+</tr>
+<tr>
+<td class="text-center">47</td>
+<td>0020035594<br>0020035595<br>0020035596<br>0020035597</td>
+<td>Панель облицов.(верх.) 20TLO15<br>Панель облицов.(верх.) 30TLO15<br>Панель облицов.(верх.) 40TLO15<br>Панель облицов.(верх.) 50TLO15</td>
+<td class="text-center">-</td>
+<td class="text-center"><btn btn-primary class="btn btn-sm btn-info me-1 mb-1">Подробнее</btn btn-primary> <btn btn-primary class="btn btn-sm btn-success mb-1">Купить</btn btn-primary></td>
+</tr>
+<tr>
+<td class="text-center">59</td>
+<td>0020043965<br>0020043966<br>0020043967<br>0020043968</td>
+<td>Основание горелки 20TLO15<br>Основание горелки 30TLO15<br>Основание горелки 40TLO15<br>Основание горелки 50TLO15</td>
+<td class="text-center">-</td>
+<td class="text-center"><btn btn-primary class="btn btn-sm btn-info me-1 mb-1">Подробнее</btn btn-primary> <btn btn-primary class="btn btn-sm btn-success mb-1">Купить</btn btn-primary></td>
+</tr>
+<tr>
+<td class="text-center">66</td>
+<td>0020044696<br>0020044697<br>0020044698<br>0020044699</td>
+<td>Опора блока управлен.20TLO15<br>Опора блока управлен.30TLO15<br>Опора блока управлен.40TLO15<br>Опора блока управлен.50TLO15</td>
+<td class="text-center">-</td>
+<td class="text-center"><btn btn-primary class="btn btn-sm btn-info me-1 mb-1">Подробнее</btn btn-primary> <btn btn-primary class="btn btn-sm btn-success mb-1">Купить</btn btn-primary></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="d-flex justify-content-center mt-4"><nav>
+<ul class="pagination">
+<li class="page-item disabled"><a class="page-link" href="#">Предыдущая</a></li>
+<li class="page-item active"><a class="page-link" href="#">1</a></li>
+<li class="page-item"><a class="page-link" href="#">2</a></li>
+<li class="page-item"><a class="page-link" href="#">3</a></li>
+<li class="page-item"><a class="page-link" href="#">Следующая</a></li>
+</ul>
+</nav></div>
+</div>
+</div>
+<!-- Заказ -->
+<div class="card bg-primary text-white">
+<div class="card-body text-center">
+<h3 class="card-h3"><i class="fas fa-shopping-cart me-2"></i>Подобрать и купить запчасти для котла Protherm</h3>
+<p class="card-text lead">Укажите модель вашего котла и необходимые детали</p>
+<div class="row justify-content-center">
+<div class="col-md-4 mb-2"><a href="tel:+79262211348" class="btn btn-light btn-lg btn-block"> <i class="fas fa-phone me-2"></i>Позвонить </a></div>
+<div class="col-md-4"><a href="https://service04.ru/contact-us/feedback" class="btn btn-warning btn-lg btn-block text-dark"> <i class="fas fa-envelope me-2"></i>Оставить заявку </a></div>
+</div>
+</div>
+</div>
+</div>
+<!-- Скрипты -->
+<p>
+<script>
+    // Функция для поиска по таблице
+    document.getElementById('searchInput').addEventListener('keyup', function () {
+        const searchText = this.value.toLowerCase().trim();
+        const rows = document.querySelectorAll('#partsTable tbody tr');
+
+        if (searchText === '') {
+            // Если поле поиска пустое, показать все строки
+            rows.forEach(row => row.style.display = '');
+            return;
+        }
+
+        rows.forEach(row => {
+            // Получаем текст из всех ячеек, кроме последней (с кнопками)
+            const cells = row.querySelectorAll('td:not(:last-child)');
+            let rowText = '';
+            cells.forEach(cell => {
+                rowText += cell.textContent.toLowerCase() + ' ';
+            });
+
+            if (rowText.includes(searchText)) {
+                row.style.display = '';
+            } else {
+                row.style.display = 'none';
+            }
+        });
+    });
+
+    // Функция для кнопки печати
+    document.getElementById('printBtn').addEventListener('click', function () {
+        window.print();
+    });
+</script>
+</p>

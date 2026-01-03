@@ -1,0 +1,339 @@
+<div class="content-box">
+<div class="container is-widescreen mt-6 mb-6"><!-- Заголовок -->
+<section class="hero is-primary mb-6">
+<div class="hero-body has-text-centered">
+<h1 class="title is-3"><i class="fas fa-shower mr-3"></i>Газовые колонки NEVA</h1>
+<p class="subtitle is-5">Широкий выбор моделей для вашего дома</p>
+</div>
+</section>
+<!-- Введение -->
+<div class="box mb-6">
+<p class="subtitle is-5">Компания NEVA предлагает надёжные и доступные газовые колонки различных серий и комплектаций. Ниже представлена информация о ключевых моделях, их характеристиках и ценах.</p>
+</div>
+<!-- Аккордеон: модели NEVA -->
+<div class="mb-6"><!-- NEVA-4510М --><details open="" class="box mb-4">
+<summary class="title is-5 has-text-orange has-text-weight-bold mb-0" style="text-transform: uppercase; cursor: pointer; list-style: none;">NEVA-4510М</summary>
+<div class="p-4">
+<div class="table-container">
+<table class="table is-bordered is-fullwidth is-striped">
+<thead>
+<tr class="has-background-grey-darker has-text-white">
+<th>Модель</th>
+<th>Особенности</th>
+<th>Расход воды (л/мин)</th>
+<th>Мощность (кВт)</th>
+<th>Размеры (мм)</th>
+<th>Масса (кг)</th>
+<th>Цена (руб)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NEVA-4510М</td>
+<td>Электронное зажигание</td>
+<td>10,0</td>
+<td>20</td>
+<td>350×610×185</td>
+<td>10,5</td>
+<td>Цена по запросу</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</details><!-- NEVA-4511 --><details class="box mb-4">
+<summary class="title is-5 has-text-orange has-text-weight-bold mb-0" style="text-transform: uppercase; cursor: pointer; list-style: none;">NEVA-4511</summary>
+<div class="p-4">
+<div class="has-text-centered mb-4">
+<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/4511-401a4b67.jpg" alt="NEVA-4511" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+</div>
+<div class="table-container">
+<table class="table is-bordered is-fullwidth is-striped">
+<thead>
+<tr class="has-background-grey-darker has-text-white">
+<th>Модель</th>
+<th>Особенности</th>
+<th>Расход воды (л/мин)</th>
+<th>Мощность (кВт)</th>
+<th>Размеры (мм)</th>
+<th>Масса (кг)</th>
+<th>Цена (руб)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NEVA-4511</td>
+<td>Электронное зажигание</td>
+<td>11,0</td>
+<td>22</td>
+<td>350×610×185</td>
+<td>10,5</td>
+<td>Цена по запросу</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</details><!-- NEVA-LUX --><details class="box mb-4">
+<summary class="title is-5 has-text-orange has-text-weight-bold mb-0" style="text-transform: uppercase; cursor: pointer; list-style: none;">Серия NEVA-LUX</summary>
+<div class="p-4">
+<div class="table-container">
+<table class="table is-bordered is-fullwidth is-striped">
+<thead>
+<tr class="has-background-grey-darker has-text-white">
+<th>Модель</th>
+<th>Особенности</th>
+<th>Расход воды (л/мин)</th>
+<th>Мощность (кВт)</th>
+<th>Размеры (мм)</th>
+<th>Масса (кг)</th>
+<th>Цена (руб)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NEVA-LUX 5510</td>
+<td>Электронное зажигание, управление, дисплей, «СЕРЕБРО»</td>
+<td>10,0</td>
+<td>20</td>
+<td>475×350×239</td>
+<td>12,0</td>
+<td>Цена по запросу</td>
+</tr>
+<tr>
+<td>NEVA-LUX 5511</td>
+<td>Электронное зажигание, управление, дисплей, «СЕРЕБРО»</td>
+<td>11,0</td>
+<td>22</td>
+<td>475×350×239</td>
+<td>12,0</td>
+<td>Цена по запросу</td>
+</tr>
+<tr>
+<td>NEVA-LUX 5512</td>
+<td>Электронное зажигание, управление, дисплей, «СЕРЕБРО»</td>
+<td>12,0</td>
+<td>24</td>
+<td>475×350×239</td>
+<td>12,0</td>
+<td>Цена по запросу</td>
+</tr>
+<tr>
+<td>NEVA-LUX 5513</td>
+<td>Электронное зажигание, управление, дисплей, «СЕРЕБРО»</td>
+<td>13,0</td>
+<td>26</td>
+<td>650×350×239</td>
+<td>13,0</td>
+<td>Цена по запросу</td>
+</tr>
+<tr>
+<td>NEVA-LUX 5514</td>
+<td>Электронное зажигание, управление, дисплей, «СЕРЕБРО»</td>
+<td>14,0</td>
+<td>28</td>
+<td>650×350×239</td>
+<td>13,0</td>
+<td>Цена по запросу</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</details><!-- NEVA-Premium --><details class="box mb-4">
+<summary class="title is-5 has-text-orange has-text-weight-bold mb-0" style="text-transform: uppercase; cursor: pointer; list-style: none;">Серия NEVA-Premium</summary>
+<div class="p-4">
+<div class="table-container">
+<table class="table is-bordered is-fullwidth is-striped">
+<thead>
+<tr class="has-background-grey-darker has-text-white">
+<th>Модель</th>
+<th>Особенности</th>
+<th>Расход воды (л/мин)</th>
+<th>Мощность (кВт)</th>
+<th>Размеры (мм)</th>
+<th>Масса (кг)</th>
+<th>Цена (руб)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NEVA-Premium 5511</td>
+<td>Точность ±1°C, электроника, дисплей, «СЕРЕБРО»</td>
+<td>11,0</td>
+<td>22</td>
+<td>475×350×239</td>
+<td>12,0</td>
+<td>Цена по запросу</td>
+</tr>
+<tr>
+<td>NEVA-Premium 5512</td>
+<td>Точность ±1°C, электроника, дисплей, «СЕРЕБРО»</td>
+<td>12,0</td>
+<td>24</td>
+<td>475×350×239</td>
+<td>12,0</td>
+<td>Цена по запросу</td>
+</tr>
+<tr>
+<td>NEVA-Premium 5513</td>
+<td>Точность ±1°C, электроника, дисплей, «СЕРЕБРО»</td>
+<td>13,0</td>
+<td>26</td>
+<td>650×350×239</td>
+<td>13,0</td>
+<td>Цена по запросу</td>
+</tr>
+<tr>
+<td>NEVA-Premium 5514</td>
+<td>Точность ±1°C, электроника, дисплей, «СЕРЕБРО»</td>
+<td>14,0</td>
+<td>28</td>
+<td>650×350×239</td>
+<td>13,0</td>
+<td>Цена по запросу</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</details><!-- NEVA-Standard --><details class="box mb-4">
+<summary class="title is-5 has-text-orange has-text-weight-bold mb-0" style="text-transform: uppercase; cursor: pointer; list-style: none;">Серия NEVA-Standard</summary>
+<div class="p-4">
+<div class="table-container">
+<table class="table is-bordered is-fullwidth is-striped">
+<thead>
+<tr class="has-background-grey-darker has-text-white">
+<th>Модель</th>
+<th>Особенности</th>
+<th>Расход воды (л/мин)</th>
+<th>Мощность (кВт)</th>
+<th>Размеры (мм)</th>
+<th>Масса (кг)</th>
+<th>Цена (руб)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NEVA-Standard 4510</td>
+<td>Пьезорозжиг</td>
+<td>10,0</td>
+<td>20</td>
+<td>350×610×185</td>
+<td>10,5</td>
+<td>Цена по запросу</td>
+</tr>
+<tr>
+<td>NEVA-Standard 4511</td>
+<td>Пьезорозжиг</td>
+<td>11,0</td>
+<td>22</td>
+<td>350×610×185</td>
+<td>10,5</td>
+<td>Цена по запросу</td>
+</tr>
+<tr>
+<td>NEVA-Standard 4512</td>
+<td>Пьезорозжиг</td>
+<td>12,0</td>
+<td>24</td>
+<td>350×610×185</td>
+<td>10,5</td>
+<td>Цена по запросу</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</details><!-- NEVA-Econom --><details class="box mb-4">
+<summary class="title is-5 has-text-orange has-text-weight-bold mb-0" style="text-transform: uppercase; cursor: pointer; list-style: none;">Серия NEVA-Econom</summary>
+<div class="p-4">
+<div class="table-container">
+<table class="table is-bordered is-fullwidth is-striped">
+<thead>
+<tr class="has-background-grey-darker has-text-white">
+<th>Модель</th>
+<th>Особенности</th>
+<th>Расход воды (л/мин)</th>
+<th>Мощность (кВт)</th>
+<th>Размеры (мм)</th>
+<th>Масса (кг)</th>
+<th>Цена (руб)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NEVA-Econom 4510</td>
+<td>Пьезорозжиг, упрощённая облицовка</td>
+<td>10,0</td>
+<td>20</td>
+<td>350×610×185</td>
+<td>10,5</td>
+<td>Цена по запросу</td>
+</tr>
+<tr>
+<td>NEVA-Econom 4511</td>
+<td>Пьезорозжиг, упрощённая облицовка</td>
+<td>11,0</td>
+<td>22</td>
+<td>350×610×185</td>
+<td>10,5</td>
+<td>Цена по запросу</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</details><!-- NEVA-Boyar --><details class="box mb-4">
+<summary class="title is-5 has-text-orange has-text-weight-bold mb-0" style="text-transform: uppercase; cursor: pointer; list-style: none;">Серия NEVA-Boyar</summary>
+<div class="p-4">
+<div class="table-container">
+<table class="table is-bordered is-fullwidth is-striped">
+<thead>
+<tr class="has-background-grey-darker has-text-white">
+<th>Модель</th>
+<th>Особенности</th>
+<th>Расход воды (л/мин)</th>
+<th>Мощность (кВт)</th>
+<th>Размеры (мм)</th>
+<th>Масса (кг)</th>
+<th>Цена (руб)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>NEVA-Boyar 4511</td>
+<td>Пьезорозжиг, увеличенный теплообменник</td>
+<td>11,0</td>
+<td>22</td>
+<td>350×610×185</td>
+<td>11,0</td>
+<td>Цена по запросу</td>
+</tr>
+<tr>
+<td>NEVA-Boyar 4512</td>
+<td>Пьезорозжиг, увеличенный теплообменник</td>
+<td>12,0</td>
+<td>24</td>
+<td>350×610×185</td>
+<td>11,0</td>
+<td>Цена по запросу</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</details></div>
+<!-- Призыв к действию -->
+<div class="box has-background-primary has-text-white">
+<div class="has-text-centered">
+<h3 class="title is-4 mb-3"><i class="fas fa-shopping-cart mr-2"></i>Выберите и купите свою колонку NEVA</h3>
+<p class="subtitle is-5">Цены уточняйте по телефону или оставьте заявку</p>
+<div class="columns is-centered">
+<div class="column is-one-third"><a href="tel:+79262211348" class="button is-large is-light is-fullwidth"> <i class="fas fa-phone mr-2"></i>Позвонить </a></div>
+<div class="column is-one-third"><a href="https://service04.ru/contact-us/feedback" class="button is-large is-warning is-fullwidth has-text-dark"> <i class="fas fa-envelope mr-2"></i>Оставить заявку </a></div>
+</div>
+</div>
+</div>
+</div>
+</div>

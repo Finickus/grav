@@ -1,0 +1,184 @@
+<div class="container is-widescreen mt-6 mb-6"><!-- Заголовок -->
+<section class="hero is-primary is-rounded mb-6">
+<div class="hero-body has-text-centered">
+<h1 class="title is-3"><i class="fas fa-fire mr-3"></i>Сервисное обслуживание котлов</h1>
+<p class="subtitle is-5">Гарантия безопасности и долговечности вашего оборудования</p>
+</div>
+</section>
+<!-- Введение -->
+<div class="box mb-5 content-box">
+<p class="subtitle is-5">Отопительное оборудование требует регулярного ухода и профессионального обслуживания. <strong>Сервисное обслуживание котлов</strong> – это не просто рекомендация, а необходимость, которая обеспечивает безопасность, эффективность и продлевает срок эксплуатации вашей системы отопления.</p>
+<div class="notification is-warning mt-4">
+<h5 class="title is-6"><i class="fas fa-exclamation-triangle mr-2"></i>Предупреждение</h5>
+<p class="mb-0">Котлы, работающие на газе, твердом топливе, электричестве или дизеле, подвержены износу, загрязнению и поломкам. Без своевременного технического осмотра и профилактических работ могут возникнуть серьезные проблемы.</p>
+</div>
+</div>
+<!-- Почему важно обслуживание -->
+<div class="box mb-5 content-box">
+<div class="has-background-info has-text-white p-4 mb-4">
+<h2 class="title is-4 mb-0"><i class="fas fa-question-circle mr-2"></i>Почему важно регулярное обслуживание котлов?</h2>
+</div>
+<div class="columns is-variable is-6">
+<div class="column">
+<ul style="list-style: none; padding-left: 0;">
+<li class="mb-3"><i class="fas fa-thermometer-quarter has-text-primary mr-2"></i> <strong>Снижение КПД</strong> – накипь, сажа и нагар ухудшают теплообмен, увеличивая расход топлива</li>
+<li class="mb-3"><i class="fas fa-cogs has-text-success mr-2"></i> <strong>Повышенный износ деталей</strong> – отсутствие чистки и смазки приводит к преждевременным поломкам</li>
+</ul>
+</div>
+<div class="column">
+<ul style="list-style: none; padding-left: 0;">
+<li class="mb-3"><i class="fas fa-skull-crossbones has-text-danger mr-2"></i> <strong>Опасность утечки газа или отравления угарным газом</strong> – неисправности в дымоходе или горелке могут угрожать жизни</li>
+<li class="mb-3"><i class="fas fa-microchip has-text-warning mr-2"></i> <strong>Выход из строя автоматики</strong> – электронные компоненты требуют диагностики и настройки</li>
+</ul>
+</div>
+</div>
+<div class="notification is-success mt-4">
+<h5 class="title is-6"><i class="fas fa-check-circle mr-2"></i>Преимущества</h5>
+<p class="mb-0">Регулярное <strong>сервисное обслуживание</strong> помогает избежать аварийных ситуаций, снижает затраты на ремонт и обеспечивает стабильную работу котла в отопительный сезон.</p>
+</div>
+</div>
+<!-- Что входит в обслуживание -->
+<div class="box mb-5 content-box">
+<div class="has-background-success has-text-white p-4 mb-4">
+<h3 class="title is-5 mb-0"><i class="fas fa-list mr-2"></i>Что входит в сервисное обслуживание котлов?</h3>
+</div>
+<!-- 1. Диагностика --><details class="mb-3">
+<summary class="accordion-header has-background-white p-3 has-text-weight-semibold" style="color: #e37a25; list-style: none; cursor: pointer;"><i class="fas fa-search mr-2"></i> 1. Диагностика оборудования</summary>
+<div class="p-4 content">
+<ul style="list-style: none; padding-left: 0;">
+<li class="mb-2"><i class="fas fa-tachometer-alt has-text-primary mr-2"></i> Проверка давления в системе</li>
+<li class="mb-2"><i class="fas fa-microchip has-text-success mr-2"></i> Контроль работы автоматики и датчиков</li>
+<li class="mb-2"><i class="fas fa-border-all has-text-warning mr-2"></i> Анализ состояния теплообменника, горелки, дымохода</li>
+</ul>
+</div>
+</details><!-- 2. Очистка --><details class="mb-3">
+<summary class="accordion-header has-background-white p-3 has-text-weight-semibold" style="color: #e37a25; list-style: none; cursor: pointer;"><i class="fas fa-broom mr-2"></i> 2. Очистка и промывка</summary>
+<div class="p-4 content">
+<ul style="list-style: none; padding-left: 0;">
+<li class="mb-2"><i class="fas fa-water has-text-primary mr-2"></i> Удаление накипи и сажи из теплообменника</li>
+<li class="mb-2"><i class="fas fa-fire has-text-success mr-2"></i> Прочистка горелки и форсунок (для газовых и дизельных котлов)</li>
+<li class="mb-2"><i class="fas fa-wind has-text-warning mr-2"></i> Очистка дымохода и проверка тяги</li>
+</ul>
+</div>
+</details><!-- 3. Безопасность --><details class="mb-3">
+<summary class="accordion-header has-background-white p-3 has-text-weight-semibold" style="color: #e37a25; list-style: none; cursor: pointer;"><i class="fas fa-shield-alt mr-2"></i> 3. Проверка герметичности и безопасности</summary>
+<div class="p-4 content">
+<ul style="list-style: none; padding-left: 0;">
+<li class="mb-2"><i class="fas fa-gas-pump has-text-danger mr-2"></i> Контроль соединений на предмет утечек газа или теплоносителя</li>
+<li class="mb-2"><i class="fas fa-valve has-text-primary mr-2"></i> Тестирование предохранительных клапанов и группы безопасности</li>
+<li class="mb-2"><i class="fas fa-bolt has-text-warning mr-2"></i> Проверка электропроводки и заземления</li>
+</ul>
+</div>
+</details><!-- 4. Настройка --><details class="mb-3">
+<summary class="accordion-header has-background-white p-3 has-text-weight-semibold" style="color: #e37a25; list-style: none; cursor: pointer;"><i class="fas fa-sliders-h mr-2"></i> 4. Настройка и регулировка</summary>
+<div class="p-4 content">
+<ul style="list-style: none; padding-left: 0;">
+<li class="mb-2"><i class="fas fa-fire has-text-danger mr-2"></i> Оптимизация режима горения для максимального КПД</li>
+<li class="mb-2"><i class="fas fa-thermometer-half has-text-success mr-2"></i> Калибровка датчиков температуры и давления</li>
+<li class="mb-2"><i class="fas fa-sync has-text-warning mr-2"></i> Проверка и замена изношенных уплотнителей, фильтров</li>
+</ul>
+</div>
+</details><!-- 5. Консультация --><details class="mb-3">
+<summary class="accordion-header has-background-white p-3 has-text-weight-semibold" style="color: #e37a25; list-style: none; cursor: pointer;"><i class="fas fa-comments mr-2"></i> 5. Консультация и рекомендации</summary>
+<div class="p-4 content">
+<ul style="list-style: none; padding-left: 0;">
+<li class="mb-2"><i class="fas fa-book has-text-primary mr-2"></i> Разъяснение правил эксплуатации</li>
+<li class="mb-2"><i class="fas fa-bolt has-text-success mr-2"></i> Советы по снижению энергопотребления</li>
+<li class="mb-2"><i class="fas fa-calendar-check has-text-warning mr-2"></i> Рекомендации по дальнейшему обслуживанию</li>
+</ul>
+</div>
+</details></div>
+<!-- Частота обслуживания -->
+<div class="box mb-5 content-box">
+<div class="has-background-warning has-text-dark p-4 mb-4">
+<h4 class="title is-5 mb-0"><i class="fas fa-calendar mr-2"></i>Как часто нужно проводить обслуживание?</h4>
+</div>
+<div class="columns is-variable is-6">
+<div class="column">
+<div class="box has-border-grey-light p-4 h-100">
+<h5 class="title is-6 has-text-weight-semibold" style="color: #e37a25;"><i class="fas fa-fire mr-2"></i> Газовые котлы</h5>
+<ul style="list-style: none; padding-left: 0; margin-top: 0.5rem;">
+<li><i class="fas fa-check-circle has-text-success mr-2"></i> 1 раз в год (перед отопительным сезоном)</li>
+</ul>
+</div>
+</div>
+<div class="column">
+<div class="box has-border-grey-light p-4 h-100">
+<h5 class="title is-6 has-text-weight-semibold" style="color: #e37a25;"><i class="fas fa-fire-alt mr-2"></i> Твердотопливные котлы</h5>
+<ul style="list-style: none; padding-left: 0; margin-top: 0.5rem;">
+<li><i class="fas fa-check-circle has-text-success mr-2"></i> 2 раза в год (до и после сезона)</li>
+</ul>
+</div>
+</div>
+<div class="column">
+<div class="box has-border-grey-light p-4 h-100">
+<h5 class="title is-6 has-text-weight-semibold" style="color: #e37a25;"><i class="fas fa-bolt mr-2"></i> Электрические котлы</h5>
+<ul style="list-style: none; padding-left: 0; margin-top: 0.5rem;">
+<li><i class="fas fa-check-circle has-text-success mr-2"></i> 1 раз в 1–2 года (зависит от жесткости воды)</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="notification is-info mt-4">
+<h5 class="title is-6"><i class="fas fa-info-circle mr-2"></i>Важно!</h5>
+<p class="mb-0">Если котел работает круглогодично (например, двухконтурный для ГВС), рекомендуется увеличить частоту обслуживания.</p>
+</div>
+</div>
+<!-- Преимущества -->
+<div class="box mb-5 content-box">
+<div class="has-background-grey-dark has-text-white p-4 mb-4">
+<h5 class="title is-5 mb-0"><i class="fas fa-thumbs-up mr-2"></i>Преимущества профессионального сервиса</h5>
+</div>
+<div class="columns is-variable is-6 is-centered has-text-centered">
+<div class="column is-one-quarter"><i class="fas fa-piggy-bank fa-2x has-text-primary mb-2"></i>
+<h6 class="title is-6">Экономия на ремонте</h6>
+<p class="is-size-7">Предупреждение поломок дешевле аварийного ремонта</p>
+</div>
+<div class="column is-one-quarter"><i class="fas fa-shield-alt fa-2x has-text-success mb-2"></i>
+<h6 class="title is-6">Безопасность</h6>
+<p class="is-size-7">Исключаются риски утечек и отравления угарным газом</p>
+</div>
+<div class="column is-one-quarter"><i class="fas fa-bolt fa-2x has-text-warning mb-2"></i>
+<h6 class="title is-6">Энергоэффективность</h6>
+<p class="is-size-7">Чистый котел потребляет меньше топлива</p>
+</div>
+<div class="column is-one-quarter"><i class="fas fa-certificate fa-2x has-text-info mb-2"></i>
+<h6 class="title is-6">Сохранение гарантии</h6>
+<p class="is-size-7">Многие производители требуют регулярного ТО для сохранения гарантийных обязательств</p>
+</div>
+</div>
+</div>
+<!-- Подрядчик -->
+<div class="box mb-5 content-box">
+<div class="has-background-danger has-text-white p-4 mb-4">
+<h6 class="title is-6 mb-0"><i class="fas fa-user-tie mr-2"></i>Выбирайте надежного подрядчика</h6>
+</div>
+<p>Наша компания предлагает профессиональное <strong>сервисное обслуживание котлов</strong> любых типов и марок. Мы работаем с современным оборудованием, используем оригинальные запчасти и даем гарантию на все виды работ.</p>
+<div class="notification is-success mt-4">
+<h5 class="title is-6"><i class="fas fa-check-circle mr-2"></i>Наши преимущества:</h5>
+<ul style="list-style: none; padding-left: 0; margin-top: 0.5rem;">
+<li><i class="fas fa-cogs has-text-primary mr-2"></i> Работаем с современным диагностическим оборудованием</li>
+<li><i class="fas fa-shield-alt has-text-success mr-2"></i> Используем только оригинальные запчасти</li>
+<li><i class="fas fa-certificate has-text-warning mr-2"></i> Даем гарантию на все виды работ</li>
+<li><i class="fas fa-user-md has-text-info mr-2"></i> Опытные квалифицированные специалисты</li>
+</ul>
+</div>
+<p class="mt-4"><strong>Оставьте заявку, и наши специалисты обеспечат бесперебойную работу вашей системы отопления!</strong></p>
+<div class="columns is-variable is-4 mt-4">
+<div class="column">
+<p><i class="fas fa-phone-alt has-text-success mr-2"></i> 📞 Звоните: <strong>+7(926) 221-13-48</strong></p>
+</div>
+<div class="column">
+<p><i class="fas fa-globe has-text-info mr-2"></i> 🌐 Сайт: <strong>Service04.ru</strong></p>
+</div>
+<div class="column">
+<p><i class="fas fa-envelope has-text-danger mr-2"></i> ✉ E-mail: <strong>89262211348@mail.ru</strong></p>
+</div>
+</div>
+</div>
+<!-- Призыв к действию -->
+<div class="box has-background-primary has-text-white has-text-centered">
+<h3 class="title is-4"><i class="fas fa-exclamation-circle mr-2"></i>Не откладывайте обслуживание</h3>
+<p class="subtitle is-5">Позаботьтесь о тепле и безопасности вашего дома уже сегодня!</p>
+<a href="https://service04.ru/contact-us/feedback" target="_blank" rel="noopener" class="button is-warning is-large has-text-dark mt-3"> <i class="fas fa-envelope mr-2"></i>Оставить заявку </a></div>
+</div>

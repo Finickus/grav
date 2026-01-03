@@ -1,0 +1,112 @@
+<div class="container is-widescreen py-6"><!-- Заголовок и логотип -->
+<div class="has-text-centered mb-6">
+<figure class="image is-inline-block mb-4" style="max-width: 250px;"><img src="https://service04.ru/bl-content/img/2019/12/logoJunkers.png" alt="Логотип котлов Junkers"></figure>
+<h1 class="title is-2 has-text-weight-bold has-text-dark mb-3"><i class="fas fa-tools has-text-warning mr-2"></i>Ремонт котлов Junkers</h1>
+<p class="subtitle is-5 has-text-grey"><i class="fas fa-car has-text-warning mr-1"></i>Срочный выезд мастера по всему Подмосковью</p>
+</div>
+<!-- Основной текст -->
+<div class="columns is-centered mb-6">
+<div class="column is-10">
+<div class="box has-shadow mb-5">
+<p><i class="fas fa-check-circle has-text-success mr-2"></i>Немецкие котлы Junkers завоевали доверие россиян благодаря своей надёжности и долговечности. Наши специалисты выбирают именно эту марку для установки и обслуживания — и вот почему:</p>
+<ul class="mb-3">
+<li class="mb-2"><i class="fas fa-star has-text-warning mr-2"></i>Высочайшее качество сборки</li>
+<li class="mb-2"><i class="fas fa-star has-text-warning mr-2"></i>Простота эксплуатации</li>
+<li><i class="fas fa-star has-text-warning mr-2"></i>Экономичное обслуживание</li>
+</ul>
+<p>Даже при поломке большинство неисправностей можно быстро устранить без серьёзных затрат.</p>
+</div>
+</div>
+</div>
+<!-- Галерея моделей -->
+<div class="mb-6">
+<h3 class="title is-4 has-text-centered mb-5"><i class="fas fa-camera-retro has-text-warning mr-2"></i>Ремонтируем все модели</h3>
+<div class="columns is-multiline is-centered">
+<div class="column is-3 has-text-centered">
+<figure class="image is-192x192 mx-auto mb-2"><img src="https://service04.ru/bl-content/img/2019/12/cerapur_sach_service04-b4c53f1f.jpg" alt="Модель Cerapur"></figure>
+<p class="is-size-7">Cerapur</p>
+</div>
+<!-- Добавьте остальные модели по аналогии --></div>
+</div>
+<!-- Распространенные проблемы -->
+<div class="box has-background-light mb-6">
+<h2 class="title is-3 has-text-centered mb-5 pb-3" style="border-bottom: 1px solid #dbdbdb;"><i class="fas fa-exclamation-triangle has-text-warning mr-2"></i>Частые неисправности</h2>
+<div class="columns">
+<div class="column is-6">
+<div class="mb-5">
+<div class="is-flex mb-2"><i class="fas fa-tachometer-alt has-text-danger mr-3"></i>
+<h5 class="title is-5 mb-0">Не работает манометр давления</h5>
+</div>
+<p class="has-text-grey is-size-7">Некорректные показания или полное отсутствие реакции</p>
+</div>
+<div class="mb-5">
+<div class="is-flex mb-2"><i class="fas fa-fire has-text-danger mr-3"></i>
+<h5 class="title is-5 mb-0">Не работает нагрев ГВС</h5>
+</div>
+<p class="has-text-grey is-size-7">Отсутствие горячей воды при работающем котле</p>
+</div>
+</div>
+<div class="column is-6">
+<div class="mb-5">
+<div class="is-flex mb-2"><i class="fas fa-volume-up has-text-danger mr-3"></i>
+<h5 class="title is-5 mb-0">Шум и кипение в трубах</h5>
+</div>
+<p class="has-text-grey is-size-7">Сильные звуки при включении горячей воды</p>
+</div>
+<div class="mb-5">
+<div class="is-flex mb-2"><i class="fas fa-power-off has-text-danger mr-3"></i>
+<h5 class="title is-5 mb-0">Проблемы с розжигом</h5>
+</div>
+<p class="has-text-grey is-size-7">Котёл не запускается или постоянно гаснет</p>
+</div>
+</div>
+</div>
+<div class="has-text-centered mt-5">
+<figure class="image is-inline-block" style="max-width: 600px;"><img src="https://service04.ru/bl-content/img/2019/12/img-2017-03-01-11-12-11_service04.png" alt="Схема ремонта котла"></figure>
+</div>
+</div>
+<!-- Преимущества -->
+<div class="columns mb-6">
+<div class="column is-8">
+<h3 class="title is-4 mb-5"><i class="fas fa-medal has-text-warning mr-2"></i>Почему выбирают наш сервис?</h3>
+<div class="is-flex mb-5">
+<div class="mr-4 has-text-warning"><i class="fas fa-shield-alt fa-2x"></i></div>
+<div>
+<h5 class="title is-5">Гарантия 6 месяцев</h5>
+<p>На все виды работ предоставляем официальную гарантию</p>
+</div>
+</div>
+<div class="is-flex mb-5">
+<div class="mr-4 has-text-warning"><i class="fas fa-truck fa-2x"></i></div>
+<div>
+<h5 class="title is-5">Оригинальные запчасти</h5>
+<p>Комплектующие напрямую от производителя Buderus</p>
+</div>
+</div>
+<div class="is-flex mb-5">
+<div class="mr-4 has-text-warning"><i class="fas fa-user-clock fa-2x"></i></div>
+<div>
+<h5 class="title is-5">Опытные мастера</h5>
+<p>Специалисты с 10+ летним опытом ремонта Junkers</p>
+</div>
+</div>
+<div><a href="#contact" class="button is-warning is-large has-text-weight-bold"> <i class="fas fa-calendar-check mr-2"></i>Вызвать мастера </a></div>
+</div>
+<div class="column is-4">
+<div class="box has-background-light has-shadow">
+<h4 class="title is-5 has-text-centered mb-4"><i class="fas fa-images has-text-warning mr-2"></i>Примеры работ</h4>
+<div class="columns is-multiline">
+<div class="column is-12 mb-3">
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/img_heizung1_service04.jpg" alt="Пример ремонта 1"></figure>
+</div>
+<div class="column is-6 mb-3">
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/img_heizung2_service04.jpg" alt="Пример ремонта 2"></figure>
+</div>
+<div class="column is-6 mb-3">
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/img_heiz_brennwert_service04.jpg" alt="Пример ремонта 3"></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>

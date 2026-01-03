@@ -1,0 +1,83 @@
+﻿---
+title: 'Теплообменник Electrolux GWH 265 ERN NanoPlus'
+---
+
+<section class="section">
+<div class="container-fluid">
+<div class="card content mb-5 bg-light">
+
+<p class="text-danger has-text-weight-bold fs-5">При утилизации старого теплообменника предоставляется скидка %</p>
+<div class="row align-items-center">
+<div class="col is-one-quarter text-center">
+<figure class="image is-inline-block"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115111_wm.jpg" target="_blank" h3="Теплообменник для газовой колонки Electrolux" rel="noopener"> <img src="https://service04.ru/bl-content/img/2019/12/20151221_115111_wm-200d27a0.jpg" alt="Теплообменник Electrolux"> </a></figure>
+</div>
+<div class="col is-three-quarters content">
+<p>Газовые проточные водонагреватели (колонки) относятся к технике нового поколения. Оборудование укомплектовано качественным теплообменником, который обеспечивает быстрый и равномерный нагрев воды.</p>
+<a href="https://service04.ru/admin/edit-content/zapchasti/gazovye-kolonki/electrolux/83-electrolux-gwh-265-ern-nanoplus.html" class="btn btn-success is-medium is-capitalized mb-4"> <span class="icon"><i class="fas fa-shopping-cart"></i></span> <span>Купить сейчас</span> </a>
+<h4 class="h6 mt-4">Преимущества теплообменника:</h4>
+<ul class="ml-4">
+<li>
+<p>Выполнен из прочной **бескислородной меди** – обеспечивает защиту от коррозии и образования накипи;</p>
+</li>
+<li>
+<p>Дополнительно защищен с использованием современных технологий **OXYGEN FREE** – максимальная защита от окисления и стабилизация к воздействию высоких температур;</p>
+</li>
+<li>
+<p>Не содержит свинца, олова и других опасных веществ.</p>
+</li>
+</ul>
+<p class="fs-6 mt-3">*Теплообменник используется в процессе ремонта/обслуживания колонок GWH 265 ERN / GWH 265 ERN NanoPlus.</p>
+</div>
+</div>
+</div>
+<div class="card content mb-5 bg-light">
+
+<p>Мы предлагаем выгодные условия сотрудничества для частных и корпоративных клиентов:</p>
+<ul class="ml-4">
+<li>
+<p>Теплообменники **всегда в наличии** в необходимом для вас количестве;</p>
+</li>
+<li>
+<p><strong class="text-danger">Быстрая доставка</strong> по Москве и ближайшему Подмосковью при вызове нашего мастера (при необходимости – по всем регионам России);</p>
+</li>
+<li>
+<p>Низкие расценки на теплообменник с выбором удобной формы оплаты;</p>
+</li>
+<li>
+<p>При необходимости выполняем **замену теплообменников** с последующим обслуживанием колонки.</p>
+</li>
+</ul>
+<div class="notification is-warning mt-4">
+<p class="has-text-weight-bold fs-5"><span class="icon me-2"><i class="fas fa-exclamation-circle"></i></span> Важно: Цены снижены! Специальная стоимость для Мастеров при покупке от 2 теплообменников одновременно.</p>
+</div>
+<h2 class="h5 mt-5 text-warning">Заказать с доставкой Теплообменник Electrolux GWH 265 ERN NanoPlus</h2>
+<p>Опытные специалисты нашей компании осуществляют монтаж приобретенного теплообменника. Установка выполняется быстро, качественно, с соблюдением всех требований технологической карты ремонта.</p>
+<div class="notification is-info mt-4">
+<p>Необходима недорогая замена теплообменника для газовой колонки Bosch WR 10? Укажите это в письме-заявке или в телефонном режиме при заказе детали – мы выполним монтаж в Москве и области по минимальным расценкам с длительной рабочей гарантией.</p>
+<a href="tel:+79262211348" class="btn btn-primary is-medium mt-3"> <span class="icon"><i class="fas fa-phone"></i></span> <span>Позвонить и заказать монтаж</span> </a></div>
+</div>
+<div class="card content bg-light">
+<h3 class="h4 display-4">Галерея теплообменников</h3>
+<div class="row g-3 is-desktop">
+<div class="col-lg-4 is-half-tablet">
+<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115111_wm.jpg" target="_blank" rel="noopener"><img src="https://service04.ru/bl-content/img/2019/12/20151221_115111_wm-82ac4cdc.jpg" alt="Вид 1"></a></figure>
+</div>
+<div class="col-lg-4 is-half-tablet">
+<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115117_wm.jpg" target="_blank" rel="noopener"><img src="https://service04.ru/bl-content/img/2019/12/20151221_115117_wm-6b94c5ac.jpg" alt="Вид 2"></a></figure>
+</div>
+<div class="col-lg-4 is-half-tablet">
+<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115123_wm.jpg" target="_blank" rel="noopener"><img src="https://service04.ru/bl-content/img/2019/12/20151221_115123_wm-cd256237.jpg" alt="Вид 3"></a></figure>
+</div>
+<div class="col-lg-4 is-half-tablet">
+<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115111_wm.jpg" target="_blank" rel="noopener"><img src="https://service04.ru/bl-content/img/2019/12/20151221_115111_wm-4104f4f9.jpg" alt="Вид 4"></a></figure>
+</div>
+<div class="col-lg-4 is-half-tablet">
+<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_111307_wm.jpg" target="_blank" rel="noopener"><img src="https://service04.ru/bl-content/img/2019/12/20151221_111307-245b7e8a.jpg" alt="Вид 5"></a></figure>
+</div>
+<div class="col-lg-4 is-half-tablet">
+<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/bosch.jpg" target="_blank" rel="noopener"><img src="https://service04.ru/bl-content/img/2019/12/bosch-f852da97.jpg" alt="Вид 6"></a></figure>
+</div>
+</div>
+</div>
+</div>
+</section>

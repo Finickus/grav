@@ -1,0 +1,115 @@
+<div class="container is-widescreen mt-6"><!-- Заголовок -->
+<section class="hero is-primary mb-6">
+<div class="hero-body has-text-centered">
+<h1 class="title is-3"><i class="fas fa-credit-card mr-3"></i>Варианты оплаты</h1>
+<p class="subtitle is-5">Удобные способы оплаты товаров и услуг</p>
+</div>
+</section>
+<!-- Способы оплаты -->
+<div class="box mb-6">
+<div class="has-background-info has-text-white p-4">
+<h2 class="title is-4 mb-0"><i class="fas fa-money-check-alt mr-2"></i>Способы оплаты товара или услуги</h2>
+</div>
+<div class="content p-4">
+<div class="columns is-multiline is-centered mb-5">
+<div class="column is-2 has-text-centered">
+<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/2018-03-21_215612.jpg" alt="Оплата наличными" class="is-rounded"></figure>
+<p class="mt-2 is-size-7">Наличные</p>
+</div>
+<div class="column is-2 has-text-centered">
+<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/2018-03-21_215838.jpg" alt="Банковская карта" class="is-rounded"></figure>
+<p class="mt-2 is-size-7">Карта</p>
+</div>
+<div class="column is-2 has-text-centered">
+<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/2018-03-21_215648.jpg" alt="Онлайн оплата" class="is-rounded"></figure>
+<p class="mt-2 is-size-7">Онлайн</p>
+</div>
+<div class="column is-2 has-text-centered">
+<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/2018-03-21_215728.jpg" alt="Qiwi" class="is-rounded"></figure>
+<p class="mt-2 is-size-7">Qiwi</p>
+</div>
+<div class="column is-2 has-text-centered">
+<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/2018-03-21_215749.jpg" alt="Яндекс.Деньги" class="is-rounded"></figure>
+<p class="mt-2 is-size-7">Яндекс</p>
+</div>
+<div class="column is-2 has-text-centered">
+<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/2018-03-21_215903.jpg" alt="Перевод на карту" class="is-rounded"></figure>
+<p class="mt-2 is-size-7">Перевод</p>
+</div>
+</div>
+<div class="notification is-success has-text-centered">
+<h4 class="title is-5"><i class="fas fa-hand-holding-usd mr-2"></i>Все это в одной коробке!</h4>
+<p class="mb-0">У нас вы найдете все необходимые способы оплаты для вашего удобства.</p>
+</div>
+</div>
+</div>
+<!-- Оплата через Яндекс Кассу -->
+<div class="box mb-6">
+<div class="has-background-warning has-text-dark p-4">
+<h3 class="title is-4 mb-0"><i class="fas fa-yandex mr-2"></i>Оплата товара или услуги через Яндекс Кассу</h3>
+</div>
+<div class="content p-4">
+<div class="notification is-danger">
+<h5 class="title is-5"><i class="fas fa-exclamation-circle mr-2"></i>Важно!</h5>
+<p class="mb-2"><strong>После оплаты отпишитесь нам на почту <a href="mailto:89262211348@mail.ru" class="has-text-link">89262211348@mail.ru</a> или позвоните по телефонам:</strong></p>
+<div class="buttons is-centered"><a href="tel:+74956643472" class="button is-light is-small mr-2"> <i class="fas fa-phone mr-1"></i> +7(495) 664-34-72 </a> <a href="tel:+79262211348" class="button is-light is-small"> <i class="fas fa-phone mr-1"></i> +7(926) 221-13-48 </a></div>
+</div>
+<div class="notification is-info">
+<h5 class="title is-5"><i class="fas fa-info-circle mr-2"></i>Информация</h5>
+<p class="mb-0"><strong>Стоимость товара или услуги уточните у менеджера.</strong></p>
+</div>
+<hr class="mt-4 mb-4">
+<h4 class="title is-5 mt-4"><i class="fas fa-file-invoice mr-2"></i>Параметры заказа</h4>
+<!-- Форма оплаты -->
+<div class="box p-4 mt-4"><form action="https://money.yandex.ru/eshop.xml" method="post"><input name="shopId" type="hidden" value="183379" required=""> <input name="scid" type="hidden" value="712518" required="">
+<div class="field mb-4"><label class="label"><strong>Сумма платежа (руб.) <span class="has-text-danger">*</span></strong></label>
+<div class="control"><input name="sum" id="sum" type="number" min="1" class="input" placeholder="Укажите сумму платежа" required=""></div>
+</div>
+<div class="field mb-4"><label class="label"><strong>Номер телефона <span class="has-text-danger">*</span></strong></label>
+<div class="control"><input name="customerNumber" id="customerNumber" type="text" class="input" required="">
+<p class="help">Введите ваш номер телефона для связи</p>
+</div>
+</div>
+<div class="field mb-4"><label class="label">Имя покупателя</label>
+<div class="control"><input name="custName" id="custName" type="text" class="input"></div>
+</div>
+<div class="field mb-4"><label class="label">Адрес доставки</label>
+<div class="control"><input name="custAddr" id="custAddr" type="text" class="input"></div>
+</div>
+<div class="field mb-4"><label class="label">Email покупателя</label>
+<div class="control"><input name="custEmail" id="custEmail" type="email" class="input"></div>
+</div>
+<div class="field mb-4"><label class="label">Комментарии к заказу</label>
+<div class="control"><textarea name="orderDetails" id="orderDetails" class="textarea" rows="5"></textarea></div>
+</div>
+<div class="has-text-centered mt-5"><button type="submit" class="button is-success is-large"> <i class="fas fa-shopping-cart mr-2"></i>Оплатить </button></div>
+</form></div>
+</div>
+</div>
+<!-- Преимущества -->
+<div class="box">
+<div class="has-background-success has-text-white p-4">
+<h4 class="title is-4 mb-0"><i class="fas fa-thumbs-up mr-2"></i>Преимущества наших способов оплаты</h4>
+</div>
+<div class="content p-4">
+<div class="columns is-multiline has-text-centered">
+<div class="column is-3"><i class="fas fa-bolt fa-3x has-text-primary mb-2"></i>
+<h5 class="title is-5">Быстро</h5>
+<p class="subtitle is-6">Мгновенная обработка платежей</p>
+</div>
+<div class="column is-3"><i class="fas fa-shield-alt fa-3x has-text-success mb-2"></i>
+<h5 class="title is-5">Безопасно</h5>
+<p class="subtitle is-6">Защита ваших данных</p>
+</div>
+<div class="column is-3"><i class="fas fa-check-circle fa-3x has-text-info mb-2"></i>
+<h5 class="title is-5">Надежно</h5>
+<p class="subtitle is-6">Проверенные платежные системы</p>
+</div>
+<div class="column is-3"><i class="fas fa-mobile-alt fa-3x has-text-warning mb-2"></i>
+<h5 class="title is-5">Удобно</h5>
+<p class="subtitle is-6">Оплата с любого устройства</p>
+</div>
+</div>
+</div>
+</div>
+</div>

@@ -1,0 +1,244 @@
+<div class="container is-widescreen mt-6 mb-6">
+<div class="has-text-centered mb-5">
+<h1 class="title is-2"><span class="icon is-medium"><i class="fas fa-cogs"></i></span> Установка и управление котлом с помощью модуля ZONT</h1>
+<p class="subtitle is-4">Умное управление отоплением в современном доме</p>
+</div>
+<div class="columns is-vcentered mb-6">
+<div class="column is-8 content">
+<p>Модули ZONT представляют собой передовое решение для автоматизации систем отопления, обеспечивающие дистанционный контроль и интеллектуальное управление работой котла из любой точки мира. Эта российская разработка компании «Микро Лайн» завоевала доверие тысяч пользователей и ведущих производителей отопительного оборудования благодаря надежности, функциональности и экономической эффективности.</p>
+</div>
+<div class="column is-4 has-text-centered">
+<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/uploads/image/ZONT/zont_230.jpg" alt="Модуль ZONT"></figure>
+</div>
+</div>
+<hr class="my-5">
+<div class="has-text-centered mb-6">
+<h2 class="title is-3 mb-5"><span class="icon mr-2"><i class="fas fa-star"></i></span> Основные преимущества использования модулей ZONT</h2>
+</div>
+<div class="columns is-multiline is-centered">
+<div class="column is-4-desktop is-half-tablet mb-4">
+<div class="card h-100 has-shadow">
+<div class="card-content has-text-centered"><span class="icon is-large mb-3 has-text-success"><i class="fas fa-wallet fa-3x"></i></span>
+<h5 class="title is-5">Экономия до 35%</h5>
+<p class="is-size-6">Снижение расходов на отопление благодаря интеллектуальным алгоритмам и погодозависимой автоматике.</p>
+</div>
+</div>
+</div>
+<div class="column is-4-desktop is-half-tablet mb-4">
+<div class="card h-100 has-shadow">
+<div class="card-content has-text-centered"><span class="icon is-large mb-3 has-text-primary"><i class="fas fa-mobile-alt fa-3x"></i></span>
+<h5 class="title is-5">Полный контроль</h5>
+<p class="is-size-6">Управление через веб-сервис или мобильное приложение (iOS, Android, Huawei) с мгновенными оповещениями.</p>
+</div>
+</div>
+</div>
+<div class="column is-4-desktop is-half-tablet mb-4">
+<div class="card h-100 has-shadow">
+<div class="card-content has-text-centered"><span class="icon is-large mb-3 has-text-info"><i class="fas fa-check-circle fa-3x"></i></span>
+<h5 class="title is-5">Высокая совместимость</h5>
+<p class="is-size-6">Поддержка практически всех современных газовых и электрических котлов (Baxi, Vaillant, Protherm, Bosch и др.).</p>
+</div>
+</div>
+</div>
+</div>
+<div class="box has-background-light p-5 mb-6">
+<h2 class="title is-3 has-text-centered mb-4"><span class="icon mr-2"><i class="fas fa-list-ul"></i></span> Модельный ряд и выбор оборудования</h2>
+<p class="has-text-centered mb-5">Линейка продукции ZONT включает несколько категорий устройств, от простых термостатов до профессиональных контроллеров для сложных систем отопления.</p>
+<div id="zontModelsAccordion" class="content"><details open="" class="box mb-3">
+<summary class="title is-5 has-text-dark mb-0"><span class="icon mr-2"><i class="fas fa-mobile-alt"></i></span> ZONT Lite — базовая GSM-модель</summary>
+<div class="p-4">
+<p>Базовая модель, работающая только через GSM-связь, предназначенная для релейного управления котлом. Комплектуется одним проводным датчиком температуры, блоком питания и SIM-картой. Максимальное напряжение коммутируемых контактов реле составляет 120 В переменного или 24 В постоянного тока при максимальном токе коммутации 1А.</p>
+</div>
+</details><details class="box mb-3">
+<summary class="title is-5 has-text-dark mb-0"><span class="icon mr-2"><i class="fas fa-thermometer-half"></i></span> ZONT H-1 (GSM) и ZONT H-2 (Wi-Fi) — популярные термостаты</summary>
+<div class="p-4">
+<p>Популярные термостаты для управления одним котлом с поддержкой до 10 датчиков температуры. Оснащены релейным выходом на 120 В и могут управлять котлом как релейно, так и по цифровой шине через внешний адаптер. Поддерживают голосовое управление, SMS-команды и полнофункциональный веб-интерфейс.</p>
+</div>
+</details><details class="box mb-3">
+<summary class="title is-5 has-text-dark mb-0"><span class="icon mr-2"><i class="fas fa-car-battery"></i></span> ZONT H-1V — с резервным питанием</summary>
+<div class="p-4">
+<p>Усовершенствованная версия с встроенным аккумулятором резервного питания и поддержкой цифровых интерфейсов K-Line и RS-485. Термостат может управлять отоплением и горячим водоснабжением (ГВС) как при релейном, так и при цифровом управлении.</p>
+</div>
+</details><details class="box mb-3">
+<summary class="title is-5 has-text-dark mb-0"><span class="icon mr-2"><i class="fas fa-brain"></i></span> ZONT SMART 2.0 — контроллер нового поколения</summary>
+<div class="p-4">
+<p>Отопительный контроллер с двухканальной связью (GSM 4G и Wi-Fi). Управляет двумя котлами (основной и резервный), поддерживает цифровую шину, имеет 1 релейный выход и 3 универсальных входа/выхода. Оснащен функциями «Антилегионелла», «Антизамерзание» и «Лето».</p>
+</div>
+</details><details class="box mb-3">
+<summary class="title is-5 has-text-dark mb-0"><span class="icon mr-2"><i class="fas fa-users-cog"></i></span> ZONT H1000+, H2000+ и серия PRO — профессиональные контроллеры</summary>
+<div class="p-4">
+<p>Универсальные контроллеры профессионального уровня для сложных систем отопления. Поддерживают управление несколькими котлами, насосно-смесительными узлами, могут работать с каскадом котлов и имеют расширенные возможности по подключению датчиков и исполнительных устройств.</p>
+</div>
+</details></div>
+</div>
+<div class="has-text-centered mb-5">
+<h2 class="title is-3 mb-4"><span class="icon mr-2"><i class="fas fa-gamepad"></i></span> Способы управления котлом</h2>
+</div>
+<div class="columns is-multiline">
+<div class="column is-half-desktop is-full-tablet mb-4">
+<div class="card h-100"><header class="card-header has-background-primary">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-toggle-on"></i></span> Релейное управление</p>
+</header>
+<div class="card-content content">
+<p>Модуль ZONT подключается к клеммам котла для комнатного термостата. В этом режиме котел полностью включается или выключается.</p>
+<ul class="ml-0 is-unstyled">
+<li><span class="icon mr-2 has-text-success"><i class="fas fa-check"></i></span> Совместимость с любыми котлами.</li>
+<li><span class="icon mr-2 has-text-success"><i class="fas fa-check"></i></span> Простота подключения.</li>
+<li><span class="icon mr-2 has-text-success"><i class="fas fa-check"></i></span> Надежность и проверенная технология.</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="column is-half-desktop is-full-tablet mb-4">
+<div class="card h-100"><header class="card-header has-background-info">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-digital-tachograph"></i></span> Управление по цифровой шине</p>
+</header>
+<div class="card-content content">
+<p>Применяется для газовых котлов с протоколами OpenTherm, E-BUS, BridgeNet и др. Мощность котла регулируется плавно (модуляция горелки).</p>
+<ul class="ml-0 is-unstyled">
+<li><span class="icon mr-2 has-text-success"><i class="fas fa-check"></i></span> Плавная модуляция продлевает ресурс котла.</li>
+<li><span class="icon mr-2 has-text-success"><i class="fas fa-check"></i></span> Снижение расходов на энергоноситель.</li>
+<li><span class="icon mr-2 has-text-success"><i class="fas fa-check"></i></span> Контроль рабочих параметров и ошибок котла.</li>
+<li><span class="icon mr-2 has-text-success"><i class="fas fa-check"></i></span> Управление контуром ГВС.</li>
+</ul>
+<p class="mt-4 has-text-weight-bold">Важно:</p>
+<p class="is-size-7">для подключения используется дополнительный адаптер цифровых шин.</p>
+</div>
+</div>
+</div>
+</div>
+<hr class="my-5">
+<h2 class="title is-3 has-text-centered mb-5"><span class="icon mr-2"><i class="fas fa-wrench"></i></span> Процесс установки и подключения</h2>
+<div id="installationAccordion" class="content"><details open="" class="box mb-3">
+<summary class="title is-5 has-text-dark mb-0">1. Подготовка и размещение</summary>
+<div class="p-4">
+<p>Установка должна выполняться квалифицированным специалистом. Модуль рекомендуется устанавливать на расстоянии не более одного метра от котла в защищенном от влаги месте (температурный диапазон от -30 до +55°C).</p>
+<p><strong>Комплект поставки:</strong> модуль, датчик температуры, блок питания, SIM-карта и антенна (для GSM-моделей).</p>
+</div>
+</details><details class="box mb-3">
+<summary class="title is-5 has-text-dark mb-0">2. Подключение датчиков температуры</summary>
+<div class="p-4">
+<p>Проводные датчики DS18S20/DS18B20 подключаются параллельно в один шлейф (до 100 м). Используйте витую пару (не менее 0,5 кв.мм) и не прокладывайте шлейф вместе с силовой проводкой. Также поддерживаются аналоговые датчики NTC и радиодатчики (требуют радиомодуль МЛ-590).</p>
+</div>
+</details><details class="box mb-3">
+<summary class="title is-5 has-text-dark mb-0">3. Подключение к котлу и питание</summary>
+<div class="p-4">
+<p><strong>Релейное подключение:</strong> Снимите перемычку с разъема для термостата на котле и подключите к нему контакты реле ZONT.</p>
+<p><strong>Цифровое подключение:</strong> Установите адаптер цифровой шины между модулем ZONT и котлом, подключив его к соответствующему разъему котла и входу K-Line/RS-485 на модуле.</p>
+<p>Подключите блок питания 12В к модулю, соблюдая полярность, и включите его в сеть 220В.</p>
+</div>
+</details></div>
+<hr class="my-5">
+<div class="columns is-vcentered mb-6">
+<div class="column is-7 content">
+<h2 class="title is-3 mb-4"><span class="icon mr-2"><i class="fas fa-user-plus"></i></span> Регистрация и настройка личного кабинета</h2>
+<p>Современные приборы ZONT с QR-кодом регистрируются в три шага:</p>
+<ol class="ml-4">
+<li>**Сканируйте белый QR-код** с регистрационной карты для создания личного кабинета.</li>
+<li>**Сканируйте желтый QR-код** с корпуса устройства для его добавления в кабинет.</li>
+<li>**Сканируйте штрих-код** с SIM-карты для ее активации.</li>
+</ol>
+<p>Для приборов без QR-кода регистрация выполняется через сайт <a href="http://www.zont-online.ru/" target="_blank" rel="noopener">www.zont-online.ru</a>.</p>
+<div class="notification is-warning mt-4"><span class="icon mr-2"><i class="fas fa-exclamation-triangle"></i></span> <strong>Важно:</strong> Пополнение баланса SIM-карты из комплекта возможно только через личный кабинет или приложение ZONT.</div>
+</div>
+<div class="column is-5 has-text-centered">
+<figure class="image is-inline-block" style="max-width: 300px;"><img src="https://service04.ru/bl-content/uploads/image/fotonet.jpg" alt="QR-код ZONT"></figure>
+</div>
+</div>
+<hr class="my-5">
+<h2 class="title is-3 has-text-centered mb-5"><span class="icon mr-2"><i class="fas fa-sliders-h"></i></span> Управление режимами работы и ПЗА</h2>
+<div class="columns is-multiline">
+<div class="column is-half-desktop is-full-tablet mb-4">
+<div class="card h-100"><header class="card-header has-background-secondary">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-list"></i></span> Основные режимы работы</p>
+</header>
+<div class="card-content content">
+<ul class="ml-4">
+<li>**«Комфорт»:** Поддержание комфортной температуры (обычно 21°C).</li>
+<li>**«Эконом»:** Снижение температуры (до 18°C) для экономии.</li>
+<li>**«Выключен» (Антизамерзание):** Поддержание +5°C для защиты системы.</li>
+<li>**«Расписание»:** Автоматическое изменение температуры по графику.</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="column is-half-desktop is-full-tablet mb-4">
+<div class="card h-100"><header class="card-header has-background-success">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-cloud-sun"></i></span> Погодозависимая автоматика (ПЗА)</p>
+</header>
+<div class="card-content">
+<p>Интеллектуальный алгоритм, учитывающий температуру на улице. Чем холоднее снаружи, тем выше температура теплоносителя. Это обеспечивает стабильный микроклимат и экономит топливо.</p>
+<p>Режим ПЗА является фоновым и работает совместно со всеми другими режимами, плавно меняя температуру теплоносителя без всплесков.</p>
+</div>
+</div>
+</div>
+</div>
+<hr class="my-5">
+<h2 class="title is-3 has-text-centered mb-5"><span class="icon mr-2"><i class="fas fa-puzzle-piece"></i></span> Дополнительные возможности</h2>
+<div class="columns is-multiline has-text-centered">
+<div class="column is-one-quarter-desktop is-half-tablet mb-4">
+<div class="card h-100">
+<div class="card-content"><span class="icon is-large mb-3 has-text-danger"><i class="fas fa-shield-alt fa-3x"></i></span>
+<h5 class="title is-5">Система безопасности</h5>
+<p class="is-size-7">Подключение датчиков движения, открытия дверей, разбития стекла, протечки, утечки газа.</p>
+</div>
+</div>
+</div>
+<div class="column is-one-quarter-desktop is-half-tablet mb-4">
+<div class="card h-100">
+<div class="card-content"><span class="icon is-large mb-3 has-text-warning"><i class="fas fa-plug fa-3x"></i></span>
+<h5 class="title is-5">Управление электроприборами</h5>
+<p class="is-size-7">Управление теплыми полами, бойлерами, насосами, освещением, автополивом и воротами.</p>
+</div>
+</div>
+</div>
+<div class="column is-one-quarter-desktop is-half-tablet mb-4">
+<div class="card h-100">
+<div class="card-content"><span class="icon is-large mb-3 has-text-info"><i class="fas fa-video fa-3x"></i></span>
+<h5 class="title is-5">Видеонаблюдение</h5>
+<p class="is-size-7">Интеграция с IP-камерами по протоколу RTSP для трансляции видео в личном кабинете.</p>
+</div>
+</div>
+</div>
+<div class="column is-one-quarter-desktop is-half-tablet mb-4">
+<div class="card h-100">
+<div class="card-content"><span class="icon is-large mb-3 has-text-primary"><i class="fas fa-history fa-3x"></i></span>
+<h5 class="title is-5">Мониторинг и статистика</h5>
+<p class="is-size-7">Запись истории событий, графики температур и времени работы котла для анализа и оптимизации.</p>
+</div>
+</div>
+</div>
+</div>
+<hr class="my-5">
+<div class="box has-background-light p-5">
+<div class="columns is-vcentered">
+<div class="column is-one-quarter has-text-centered">
+<div class="title is-1 has-text-success has-text-weight-bold">35%</div>
+<p class="subtitle is-5">Экономия на отоплении</p>
+</div>
+<div class="column is-three-quarters content">
+<h4 class="title is-4">Экономическая эффективность</h4>
+<p>Правильно настроенная система ZONT позволяет сократить расходы на отопление до 35%. Экономия достигается за счет комбинации погодозависимого управления, работы по расписанию и плавной модуляции мощности котла.</p>
+<p>Для среднего частного дома годовая экономия составляет от 20 000 до 50 000 рублей. Срок окупаемости системы — от 1 до 2 отопительных сезонов.</p>
+</div>
+</div>
+</div>
+<hr class="my-5">
+<div class="card has-shadow"><header class="card-header has-background-light">
+<p class="card-header-title is-size-4">Готовы к установке?</p>
+</header>
+<div class="card-content has-text-centered">
+<h5 class="title is-5">Свяжитесь с нами для консультации и установки системы ZONT</h5>
+<p class="mb-4">Наши специалисты помогут подобрать оптимальное оборудование и выполнят профессиональный монтаж.</p>
+<div class="content">
+<p><span class="icon mr-2"><i class="fas fa-phone"></i></span> Телефон: <a href="tel:+79262211348">+7(926) 221-13-48</a></p>
+<p><span class="icon mr-2"><i class="fab fa-whatsapp"></i></span> WhatsApp: <a href="https://wa.me/79262211348" target="_blank" rel="noopener">+7(926) 221-13-48</a></p>
+<p><span class="icon mr-2"><i class="fab fa-telegram-plane"></i></span> Telegram: <a href="https://t.me/service_04" target="_blank" rel="noopener">+7(926) 221-13-48</a></p>
+<p><span class="icon mr-2"><i class="fas fa-envelope"></i></span> E-mail: <a href="mailto:89262211348@mail.ru">89262211348@mail.ru</a></p>
+<p><span class="icon mr-2"><i class="fas fa-globe"></i></span> Сайт: <a href="https://service04.ru/" target="_blank" rel="noopener">Service04.ru</a></p>
+</div>
+<a href="https://service04.ru/contact-us/feedback" class="button is-primary is-large"><span class="icon mr-2"><i class="fas fa-paper-plane"></i></span> Оставить заявку</a></div>
+<footer class="card-footer has-text-grey">
+<p class="card-footer-item">Инвестиция в комфорт, безопасность и экономию!</p>
+</footer></div>
+</div>

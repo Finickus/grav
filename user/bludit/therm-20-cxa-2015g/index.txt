@@ -1,0 +1,64 @@
+
+<h1 style='font-size: 1.571em; color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>Запчасти котла THERM 20 CX.A 2015г.</h1>
+<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2548_23-CLN-spalovaci-cast.jpg" alt="Запчасти  котла THERM 20 CX.A 2015г. "></p>
+<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2548_23-CLN-spalovaci-cast.jpg" alt="Запчасти  котла THERM 20 CX.A 2015г. "></p>
+<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>Названия компонентов по спецификации<br>
+[01]     — 41366     Газовый редуктор SIT 845 SIGMA<br>
+[02]     — 22029.1     Трубка газовая 3-Th-0148A<br>
+[03]     — 26389     Горелка 401.1330.02, 11r.<br>
+[04]     — 40371     Камера сгорания 20кВт + крышка<br>
+[05]     — 40297     Изоляция 12мм<br>
+[06]     — 20071.2     Теплообменник<br>
+[07]     — 40372     Тягопрерыватель 20 кВт<br>
+[08]     — 40373     Экран горелки 20кВт<br>
+[09]     — 40061.2     Электрод ионизации<br>
+[10]     — 40061.1     Электрод поджига<br>
+[11]     — 41424     Катушка соленоида SIT<br>
+[42]     — 40029     Прокладка 24x16x2<br>
+[45]     — 40527     Термостат контактный 36TXE 75°C</p>
+<p> </p>
+<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2548_20-CX.A-voda.jpg" alt="Запчати котла THERM 20 CX.A 2015г."></p>
+<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>Названия компонентов по спецификации<br>
+[06]     — 20071.2     Теплообменник<br>
+[07]     — 42319     Боковая часть левая<br>
+[08]     — 42320     Боковая часть правая<br>
+[15]     — 22159     Комбинированная арматура GRF-300001EF71<br>
+[16]     — 41367     Насос GRUNDFOS UPS 15/60 Cacao<br>
+[17]     — 22025     Tрубка обратки 4-Th-0118<br>
+[18]     — 210927     Датчик давления 0,5 bar<br>
+[20]     — 22117.1     Трубка дополнения<br>
+[21]     — 40302     Предохранительный клапан 1/2“, 3 бар<br>
+[22]     — 21481.1     Расширительный бак 8л<br>
+[24]     — 40430.1     Воздухоотводящий вентиль<br>
+[25]     — 22102.1     Tрубка ГВС горячая<br>
+[26]     — 22050.1     Трубка ГВС холодная<br>
+[27]     — 22055.2     Трубка ГВС холодная<br>
+[28]     — 21137     Сенсор протока воды<br>
+[29]     — 22032.1     Трубка отопительная<br>
+[30]     — 40367     Подставка воздуховыводящего вентиля<br>
+[35]     — 42311     Рама котла<br>
+[36]     — 42316     Нижняя крышка<br>
+[37]     — 42316     Нижняя крышка<br>
+[38]     — 42316     Нижняя крышка<br>
+[39]     — 42512     Передний кожух<br>
+[40]     — 40031     Прокладка уплотнительная 16x10x1<br>
+[41]     — 40030     Прокладка уплотнительная 18x12x2<br>
+[42]     — 40029     Прокладка 24x16x2<br>
+[43]     — 40028     Прокладка уплотнительная 29x20x2<br>
+[44]     — 40526     Прокладка уплотнительная 11x6x2<br>
+[46]     — 40035     Термостат контактный 36 TXE 95°C<br>
+[47]     — 21045.3     Температурный зонд</p>
+<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'> </p>
+<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2548_panel-20-pozice.jpg" alt="Запчати котла THERM 20 CX.A 2015г"></p>
+<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>Названия компонентов по спецификации<br>
+[65]     — 42266     Лицевая часть панели управления<br>
+[66]     — 42270     Задняя крышка панели управления<br>
+[67]     — 42268     Откидная дверца панели<br>
+[68]     — 25880     Манометр 4 бар 1000мм (Альтернативно — скл.№ 29463)<br>
+[69]     — 24648     Ось управляющей кнопки<br>
+[70]     — 42267     Управляющая кнопка<br>
+[71]     — 42260     Автоматика HDIMS 04<br>
+[72]     — 42269     Гребенка крепления<br>
+[73]     — 42271     Кнопка микровыключателя<br>
+[74]     — 42265     Крайний модуль</p>
+ 

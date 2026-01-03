@@ -1,0 +1,81 @@
+<div class="container is-widescreen mt-5 mb-5">
+<section class="hero is-primary is-bold mb-5">
+<div class="hero-body">
+<div class="container has-text-centered">
+<h1 class="title is-2 has-text-white"><span class="icon is-medium mr-3"><i class="fas fa-bolt"></i></span>Запчасти для электрокотлов Vaillant</h1>
+<p class="subtitle is-4 has-text-white">Оригинальные детали и комплектующие для надежной работы</p>
+</div>
+</div>
+</section>
+<div class="card mb-5 has-shadow">
+<div class="card-content">
+<div class="columns is-vcentered">
+<div class="column is-two-thirds content">
+<p class="is-size-5">Электрические котлы **Vaillant** – экономичная и безопасная альтернатива газовым отопительным приборам.</p>
+<p class="is-size-6">Котельное оборудование отличается надежностью, простотой монтажа и бесшумностью работы. Длительный межремонтный период гарантируется при условии установки **оригинальных запасных частей**.</p>
+</div>
+<div class="column is-one-third has-text-centered">
+<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/vaillant-2f66573f.png" alt="Электрокотлы Vaillant" class="has-border-light" style="max-height: 150px;"></figure>
+</div>
+</div>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-info">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-question-circle"></i></span>Какие запчасти купить для ремонта и обслуживания</p>
+</header>
+<div class="card-content">
+<div class="columns is-multiline">
+<div class="column is-half content">
+<p class="is-size-6">Для всех владельцев электрических котлов Vaillant, частных мастеров и сервисных центров мы предлагаем все необходимые запасные части:</p>
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-2 has-text-primary"><i class="fas fa-thermometer-half"></i></span> Термостаты внутренние и датчики температуры</li>
+<li class="mb-1"><span class="icon mr-2 has-text-success"><i class="fas fa-microchip"></i></span> Автоматика – платы, блоки</li>
+<li class="mb-1"><span class="icon mr-2 has-text-warning"><i class="fas fa-bolt"></i></span> Гидравлические и электрические реле</li>
+<li class="mb-1"><span class="icon mr-2 has-text-info"><i class="fas fa-tint"></i></span> Все виды клапанов и кранов</li>
+<li class="mb-1"><span class="icon mr-2 has-text-danger"><i class="fas fa-sync"></i></span> Насосы циркуляционные и расходные материалы</li>
+<li class="mb-1"><span class="icon mr-2 has-text-secondary"><i class="fas fa-border-all"></i></span> Теплообменники и расширительные баки</li>
+<li class="mb-1"><span class="icon mr-2 has-text-warning"><i class="fas fa-cogs"></i></span> Детали для восстановления кожуха (корпуса) и др.</li>
+</ul>
+</div>
+<div class="column is-half has-text-centered">
+<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/vaillant.jpg" alt="Электрокотел Vaillant" class="has-border-light mb-3" style="max-height: 150px;"></figure>
+<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/vaillant2.jpg" alt="Котельная с электрокотлом Vaillant" class="has-border-light" style="max-height: 150px;"></figure>
+</div>
+</div>
+<div class="notification is-success mt-4">
+<p class="mb-0 is-size-7">В каталоге представлены оригинальные запасные части для котлов Vaillant серии **eloBLOCK VE** с производительностью от 6 до 28 кВт.</p>
+</div>
+</div>
+</div>
+<div class="card mb-5 has-background-warning has-text-dark has-shadow">
+<div class="card-content">
+<h3 class="title is-4 has-text-centered mb-4 has-text-dark"><span class="icon mr-2"><i class="fas fa-tags"></i></span>Почему выгодно покупать запчасти в нашей компании?</h3>
+<p class="has-text-centered is-size-6 lead">Все мастера знакомы с поиском нужной детали в Москве. Сотрудничество с нами — это всегда выгодные предложения:</p>
+<div class="columns is-multiline mt-4 content is-size-7">
+<div class="column is-half">
+<ul class="ml-4 is-unstyled">
+<li class="mb-2"><span class="icon mr-2"><i class="fas fa-book"></i></span> Все детали и запчасти в одном каталоге – удобный и быстрый подбор</li>
+<li class="mb-2"><span class="icon mr-2"><i class="fas fa-check-circle"></i></span> Заявленные запчасти всегда в наличии – никаких длительных ожиданий</li>
+<li class="mb-2"><span class="icon mr-2"><i class="fas fa-ruble-sign"></i></span> Оптимальные расценки на любую запчасть или деталь</li>
+</ul>
+</div>
+<div class="column is-half">
+<ul class="ml-4 is-unstyled">
+<li class="mb-2"><span class="icon mr-2"><i class="fas fa-headset"></i></span> Профессиональное консультирование и помощь в подборе</li>
+<li class="mb-2"><span class="icon mr-2"><i class="fas fa-gift"></i></span> Выгодные предложения для оптовых покупателей, скидки и бонусные программы</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="card mt-4">
+<div class="card-content has-text-centered has-background-light">
+<h3 class="title is-4"><span class="icon mr-2"><i class="fas fa-shopping-cart"></i></span>Подобрать и купить запчасти для электрокотла Vaillant</h3>
+<p class="is-size-6">Укажите модель вашего котла и необходимые детали</p>
+<div class="columns is-mobile is-centered mt-4">
+<div class="column is-4-desktop is-half-mobile mb-2"><a href="tel:+79262211348" class="button is-primary is-large is-fullwidth"> <span class="icon mr-2"><i class="fas fa-phone"></i></span> <span>Позвонить</span> </a></div>
+<div class="column is-4-desktop is-half-mobile"><a href="https://service04.ru/contact-us/feedback" class="button is-success is-large is-fullwidth"> <span class="icon mr-2"><i class="fas fa-envelope"></i></span> <span>Оставить заявку</span> </a></div>
+</div>
+</div>
+</div>
+</div>

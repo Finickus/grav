@@ -1,0 +1,75 @@
+<div class="container is-widescreen mt-6 mb-6"><!-- Заголовок -->
+<section class="hero is-primary is-rounded mb-6">
+<div class="hero-body has-text-centered">
+<h1 class="title is-3"><i class="fas fa-wind mr-3"></i>Пневмореле для котлов (моностат)</h1>
+<p class="subtitle is-5">Контроль уходящих газов в настенных котлах</p>
+</div>
+</section>
+<!-- Назначение -->
+<div class="box mb-5 content-box">
+<div class="has-background-info has-text-white p-4 mb-4">
+<h2 class="title is-4 mb-0"><i class="fas fa-info-circle mr-2"></i>Назначение пневмореле</h2>
+</div>
+<p>В настенных газовых турбированных котлах за отводом уходящих газов следит <strong><em>маностат продуктов сгорания</em></strong>, также его называют <strong><em>пневмореле</em></strong>.</p>
+<p><strong>Пневмореле уходящих газов</strong> предназначена для контроля работы вентилятора. Контроль уходящих газов в настенном котле выполнен очень просто: прежде чем разжечь горелку, котел включает вентилятор, для чего создается разрежение, пневмореле замыкает электрическую сеть, после чего плата котла понимает, что вентилятор включился, и дает старт на розжиг горелки.</p>
+</div>
+<!-- Изображение -->
+<div class="box mb-5 content-box has-text-centered">
+<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20141127_142934.jpg" alt="Пневмореле настенного котла Buderus" class="is-rounded" style="border: 1px solid #ddd; max-width: 100%;"></figure>
+<p class="mt-3">Пневмореле настенного котла Buderus<br>— Logamax U042 24K<br><strong>Артикул 87160112910</strong></p>
+<a href="https://service04.ru/pnevmorele-dlja-kotlov-monostat.html" class="button is-primary mt-3"> Купить </a></div>
+<!-- Совместимость -->
+<div class="box mb-5 content-box">
+<div class="has-background-success has-text-white p-4 mb-4">
+<h3 class="title is-5 mb-0"><i class="fas fa-list mr-2"></i>Подходит для котлов</h3>
+</div>
+<div class="columns is-variable is-6">
+<div class="column">
+<ul style="list-style: none; padding-left: 0;">
+<li class="mb-1"><i class="fas fa-chevron-right has-text-primary mr-2"></i> MAINFOUR 240 F</li>
+<li class="mb-1"><i class="fas fa-chevron-right has-text-primary mr-2"></i> MAINFOUR 18 F</li>
+<li class="mb-1"><i class="fas fa-chevron-right has-text-primary mr-2"></i> De Dietrich CITY 1.24/II FF</li>
+<li class="mb-1"><i class="fas fa-chevron-right has-text-primary mr-2"></i> De Dietrich CITY 2.24/II FF</li>
+<li class="mb-1"><i class="fas fa-chevron-right has-text-primary mr-2"></i> De Dietrich CITY 2.28/II FF</li>
+<li class="mb-1"><i class="fas fa-chevron-right has-text-primary mr-2"></i> De Dietrich CITY 24 BIC/II FF</li>
+</ul>
+</div>
+<div class="column">
+<ul style="list-style: none; padding-left: 0;">
+<li class="mb-1"><i class="fas fa-chevron-right has-text-primary mr-2"></i> De Dietrich MS 24 FF</li>
+<li class="mb-1"><i class="fas fa-chevron-right has-text-primary mr-2"></i> De Dietrich MS 24 MI FF</li>
+<li class="mb-1"><i class="fas fa-chevron-right has-text-primary mr-2"></i> Logamax U042 24K (Артикул 87160112910)</li>
+<li class="mb-1"><i class="fas fa-chevron-right has-text-primary mr-2"></i> DEMRAD NEVA</li>
+<li class="mb-1"><i class="fas fa-chevron-right has-text-primary mr-2"></i> Atron H24</li>
+<li class="mb-1"><i class="fas fa-chevron-right has-text-primary mr-2"></i> Nepto HKT2 24</li>
+<li class="mb-1"><i class="fas fa-chevron-right has-text-primary mr-2"></i> Protherm Рысь Lynx 24 (0020118741, 3003202405)</li>
+</ul>
+</div>
+</div>
+</div>
+<!-- Другие модели -->
+<div class="box mb-5 content-box">
+<div class="has-background-warning has-text-dark p-4 mb-4">
+<h4 class="title is-5 mb-0"><i class="fas fa-cogs mr-2"></i>Другие модели пневмореле</h4>
+</div>
+<h5 class="title is-6"><i class="fas fa-tachometer-alt has-text-info mr-2"></i>Прессостат, Моностат, реле давления Hubo 40/25 Pa</h5>
+<p><strong>Датчик давления воздуха ПЛАСТИЧНЫЙ ПРЕССОСТАТ HUBA 40/25</strong></p>
+<p><strong>Артикул:</strong> 65104672</p>
+<p><strong>Категория:</strong> Ariston</p>
+<h5 class="title is-6 mt-4"><i class="fas fa-tachometer-alt has-text-success mr-2"></i>Прессостат, реле давления Hubo 44/36 Pa</h5>
+</div>
+<!-- Информация о компании -->
+<div class="box mb-5 content-box">
+<p><strong>Наша компания является официальным дилером по продаже газовых запчастей для европейских котлов.</strong></p>
+<p>Как правило, все запчасти имеются в наличии, но если чего-то не будет хватать, мы привезем это в течение одного-двух дней. Также у нас есть доставка по Москве и Московской области пешим курьером или по России транспортными компаниями.</p>
+</div>
+<!-- Контакты -->
+<div class="box has-background-primary has-text-white has-text-centered">
+<h3 class="title is-4"><i class="fas fa-phone mr-2"></i>Свяжитесь с нами</h3>
+<p class="subtitle is-5">Для заказа пневмореле или консультации:</p>
+<div class="columns is-centered is-variable is-4 mt-4">
+<div class="column is-narrow"><a href="tel:+79262211348" class="button is-warning is-large has-text-dark is-fullwidth"> <i class="fas fa-mobile-alt mr-2"></i>+7(926) 221-13-48 </a></div>
+</div>
+<div class="mt-4"><a href="https://wa.me/79262211348" target="_blank" rel="noopener" class="button is-success mr-2"> <i class="fab fa-whatsapp mr-2"></i>WhatsApp </a> <a href="https://t.me/+79262211348" target="_blank" rel="noopener" class="button is-info"> <i class="fab fa-telegram mr-2"></i>Telegram </a></div>
+</div>
+</div>

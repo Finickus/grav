@@ -1,0 +1,252 @@
+<section class="section">
+<div class="container"><!-- Header --><nav class="navbar mb-5" role="navigation" aria-label="main navigation">
+<div class="navbar-brand"></div>
+<div id="mainNavbar" class="navbar-menu">
+<div class="navbar-end">
+<div class="navbar-item">Теплоком GSM</div>
+</div>
+</div>
+</nav>
+<section class="hero is-primary is-bold mb-6">
+<div class="hero-body">
+<div class="container has-text-centered">
+<p class="subtitle is-5">Интеллектуальная система удалённого управления отоплением от компании «Бастион»</p>
+<p class="mb-4">Контролируйте температуру в доме из любой точки мира через смартфон</p>
+<div class="buttons is-centered"><a href="#features" class="button is-light">Подробнее</a> <a href="#order" class="button is-warning">Заказать сейчас</a></div>
+</div>
+</div>
+</section>
+<!-- Features Section -->
+<section class="section pt-0" id="features">
+<div class="container">
+<div class="content has-text-centered mb-5">
+<h2 class="title is-4">Ключевые возможности</h2>
+<p class="subtitle is-6">Теплоком GSM предоставляет полный контроль над системой отопления вашего дома</p>
+</div>
+<div class="columns is-multiline">
+<div class="column is-one-third">
+<div class="card h-100">
+<div class="card-content">
+<div class="icon-text mb-3"><span class="icon has-text-white" style="background: #00a651; border-radius: 50%; padding: 0.6rem;"> <i class="fas fa-mobile-alt"></i> </span></div>
+<h3 class="title is-6">Управление со смартфона</h3>
+<p>Контролируйте и настраивайте температуру в вашем доме через мобильное приложение из любой точки мира.</p>
+</div>
+</div>
+</div>
+<div class="column is-one-third">
+<div class="card h-100">
+<div class="card-content">
+<div class="icon-text mb-3"><span class="icon has-text-white" style="background: #0056b3; border-radius: 50%; padding: 0.6rem;"> <i class="fas fa-thermometer-half"></i> </span></div>
+<h3 class="title is-6">Точный контроль температуры</h3>
+<p>Поддерживайте идеальную температуру в каждом помещении с точностью до 0.5°C.</p>
+</div>
+</div>
+</div>
+<div class="column is-one-third">
+<div class="card h-100">
+<div class="card-content">
+<div class="icon-text mb-3"><span class="icon has-text-white" style="background: #ff8c00; border-radius: 50%; padding: 0.6rem;"> <i class="fas fa-calendar-alt"></i> </span></div>
+<h3 class="title is-6">График работы</h3>
+<p>Программируйте систему отопления по дням недели и времени суток для максимальной экономии.</p>
+</div>
+</div>
+</div>
+<div class="column is-one-third">
+<div class="card h-100">
+<div class="card-content">
+<div class="icon-text mb-3"><span class="icon has-text-white" style="background: #6f42c1; border-radius: 50%; padding: 0.6rem;"> <i class="fas fa-bell"></i> </span></div>
+<h3 class="title is-6">Оповещения о неполадках</h3>
+<p>Мгновенные уведомления о критических изменениях температуры или отключении электричества.</p>
+</div>
+</div>
+</div>
+<div class="column is-one-third">
+<div class="card h-100">
+<div class="card-content">
+<div class="icon-text mb-3"><span class="icon has-text-white" style="background: #20c997; border-radius: 50%; padding: 0.6rem;"> <i class="fas fa-chart-line"></i> </span></div>
+<h3 class="title is-6">Экономия энергии</h3>
+<p>Оптимизация работы отопления позволяет сократить расходы на энергоносители до 30%.</p>
+</div>
+</div>
+</div>
+<div class="column is-one-third">
+<div class="card h-100">
+<div class="card-content">
+<div class="icon-text mb-3"><span class="icon has-text-white" style="background: #d63384; border-radius: 50%; padding: 0.6rem;"> <i class="fas fa-shield-alt"></i> </span></div>
+<h3 class="title is-6">Защита от замерзания</h3>
+<p>Автоматическое включение отопления при опасном понижении температуры.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- How It Works -->
+<section class="section pt-0" id="how-it-works">
+<div class="container">
+<div class="content has-text-centered mb-5">
+<h2 class="title is-4">Как работает система</h2>
+<p class="subtitle is-6">Простая установка и удобное управление за 4 шага</p>
+</div>
+<div class="columns is-multiline has-text-centered">
+<div class="column is-one-quarter">
+<div class="box h-100">
+<div class="title is-4">1</div>
+<h3 class="title is-6">Установка</h3>
+<p>Наш специалист устанавливает модуль Теплоком GSM в вашу систему отопления.</p>
+</div>
+</div>
+<div class="column is-one-quarter">
+<div class="box h-100">
+<div class="title is-4">2</div>
+<h3 class="title is-6">Настройка</h3>
+<p>Вы загружаете приложение и настраиваете желаемые параметры температуры.</p>
+</div>
+</div>
+<div class="column is-one-quarter">
+<div class="box h-100">
+<div class="title is-4">3</div>
+<h3 class="title is-6">Управление</h3>
+<p>Контролируйте и изменяйте температуру через смартфон в любое время.</p>
+</div>
+</div>
+<div class="column is-one-quarter">
+<div class="box h-100">
+<div class="title is-4">4</div>
+<h3 class="title is-6">Экономия</h3>
+<p>Система автоматически оптимизирует работу отопления, снижая расходы.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Specifications -->
+<section class="section pt-0" id="specifications">
+<div class="container">
+<div class="content has-text-centered mb-5">
+<h2 class="title is-4">Технические характеристики</h2>
+<p class="subtitle is-6">Надёжность и функциональность в каждом компоненте</p>
+</div>
+<div class="columns is-vcentered">
+<div class="column is-one-third has-text-centered"><span class="icon" style="font-size: 10rem; color: hsl(171, 100%, 41%);"> <i class="fas fa-microchip"></i> </span></div>
+<div class="column">
+<div class="table-container">
+<table class="table is-bordered is-striped is-fullwidth">
+<tbody>
+<tr>
+<th>Характеристика</th>
+<th>Значение</th>
+</tr>
+<tr>
+<td>Рабочее напряжение</td>
+<td>100-240 В AC, 50/60 Гц</td>
+</tr>
+<tr>
+<td>Потребляемая мощность</td>
+<td>до 3 Вт</td>
+</tr>
+<tr>
+<td>Диапазон рабочих температур</td>
+<td>-30°C до +60°C</td>
+</tr>
+<tr>
+<td>Диапазон измерения температуры</td>
+<td>-50°C до +99°C</td>
+</tr>
+<tr>
+<td>Точность измерения температуры</td>
+<td>±0.5°C</td>
+</tr>
+<tr>
+<td>Связь</td>
+<td>GSM/GPRS, SMS</td>
+</tr>
+<tr>
+<td>Совместимость</td>
+<td>Любые котлы отопления</td>
+</tr>
+<tr>
+<td>Гарантия</td>
+<td>3 года</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Testimonials -->
+<section class="section pt-0" id="testimonials">
+<div class="container">
+<div class="content has-text-centered mb-5">
+<h2 class="title is-4">Отзывы клиентов</h2>
+<p class="subtitle is-6">Что говорят наши пользователи о системе Теплоком GSM</p>
+</div>
+<div class="columns is-multiline">
+<div class="column is-one-third">
+<div class="card h-100">
+<div class="card-content">
+<div class="level mb-3">
+<div class="level-left">
+<div class="level-item">
+<div class="avatar has-background-primary has-text-white is-flex is-justify-content-center is-align-items-center" style="width: 40px; height: 40px; border-radius: 50%;">АИ</div>
+</div>
+<div class="level-item is-flex is-flex-direction-column">
+<h4 class="title is-6 mb-1">Александр Иванов</h4>
+<span class="is-size-7">Использует 1 год</span></div>
+</div>
+</div>
+<div class="has-text-warning mb-2"><i class="fas fa-star"></i><i class="fas fa-star"></i> <i class="fas fa-star"></i><i class="fas fa-star"></i> <i class="fas fa-star"></i></div>
+<p>"Установил систему в загородном доме. Теперь перед приездом включаю отопление за пару часов через приложение. Дом теплый, а расходы на газ снизились на 25%."</p>
+</div>
+</div>
+</div>
+<div class="column is-one-third">
+<div class="card h-100">
+<div class="card-content">
+<div class="level mb-3">
+<div class="level-left">
+<div class="level-item">
+<div class="avatar has-background-primary has-text-white is-flex is-justify-content-center is-align-items-center" style="width: 40px; height: 40px; border-radius: 50%;">ОС</div>
+</div>
+<div class="level-item is-flex is-flex-direction-column">
+<h4 class="title is-6 mb-1">Ольга Семенова</h4>
+<span class="is-size-7">Использует 8 месяцев</span></div>
+</div>
+</div>
+<div class="has-text-warning mb-2"><i class="fas fa-star"></i><i class="fas fa-star"></i> <i class="fas fa-star"></i><i class="fas fa-star"></i> <i class="fas fa-star-half-alt"></i></div>
+<p>"Очень довольна покупкой! Когда уезжаю в командировки, всегда могу проверить температуру в доме. А функция защиты от замерзания дает спокойствие в сильные морозы."</p>
+</div>
+</div>
+</div>
+<div class="column is-one-third">
+<div class="card h-100">
+<div class="card-content">
+<div class="level mb-3">
+<div class="level-left">
+<div class="level-item">
+<div class="avatar has-background-primary has-text-white is-flex is-justify-content-center is-align-items-center" style="width: 40px; height: 40px; border-radius: 50%;">ДК</div>
+</div>
+<div class="level-item is-flex is-flex-direction-column">
+<h4 class="title is-6 mb-1">Дмитрий Козлов</h4>
+<span class="is-size-7">Использует 2 года</span></div>
+</div>
+</div>
+<div class="has-text-warning mb-2"><i class="fas fa-star"></i><i class="fas fa-star"></i> <i class="fas fa-star"></i><i class="fas fa-star"></i> <i class="fas fa-star"></i></div>
+<p>"Как владелец нескольких квартир для сдачи в аренду, установил Теплоком GSM везде. Теперь арендаторы сами регулируют температуру, а я вижу расходы. Система окупилась за первый сезон!"</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Call to Action -->
+<section class="section pt-0" id="order">
+<div class="container has-text-centered">
+<h2 class="title is-4">Закажите Теплоком GSM прямо сейчас!</h2>
+<p class="subtitle is-5">Получите полный контроль над отоплением вашего дома и начните экономить уже сегодня</p>
+<a href="#" class="button is-primary mb-4"></a></div>
+</section>
+</div>
+</section>

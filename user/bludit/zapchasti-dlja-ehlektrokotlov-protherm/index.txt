@@ -1,0 +1,195 @@
+<section class="section">
+<div class="container"><!-- Заголовок и введение -->
+<div class="has-text-centered mb-6">
+<h1 class="title is-3"><i class="bi bi-lightning-charge has-text-primary"></i> Запчасти для электрокотлов Protherm</h1>
+<p class="subtitle is-5 has-text-grey">Экономичность и качество в каждой детали</p>
+</div>
+<div class="columns">
+<div class="column is-8"><!-- Описание и преимущества -->
+<div class="card mb-5">
+<div class="card-content">
+<div class="columns is-vcentered">
+<div class="column is-4 has-text-centered">
+<figure class="image is-128x128 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/skat-proterm-8f33da8d.png" alt="Электрокотел Protherm" class="rounded"></figure>
+</div>
+<div class="column is-8">
+<h3 class="title is-5">Электрические котлы Скат Protherm</h3>
+<p>Линейка электрокотлов Protherm Skat относится к современным настенным системам отопления с высоким КПД, продуманной автоматикой и широким выбором оригинальных запчастей для обслуживания и ремонта.</p>
+<div class="columns is-multiline mt-3">
+<div class="column is-6">
+<div class="is-flex is-align-items-center"><i class="bi bi-check-circle-fill has-text-success mr-2"></i> <span>Сертифицированные оригинальные детали.</span></div>
+</div>
+<div class="column is-6">
+<div class="is-flex is-align-items-center"><i class="bi bi-check-circle-fill has-text-success mr-2"></i> <span>Полная совместимость с оборудованием.</span></div>
+</div>
+<div class="column is-6">
+<div class="is-flex is-align-items-center"><i class="bi bi-check-circle-fill has-text-success mr-2"></i> <span>Выгодные цены для частных и корпоративных клиентов.</span></div>
+</div>
+<div class="column is-6">
+<div class="is-flex is-align-items-center"><i class="bi bi-check-circle-fill has-text-success mr-2"></i> <span>Гарантия качества на все запчасти.</span></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Категории запчастей -->
+<div class="mb-5">
+<h3 class="title is-5 mb-4"><i class="bi bi-box-seam"></i> Категории запчастей</h3>
+<div class="columns">
+<div class="column">
+<div class="card h-100">
+<div class="card-content">
+<h5 class="title is-6"><i class="bi bi-cpu has-text-primary"></i> Электронные компоненты</h5>
+<ul>
+<li><i class="bi bi-motherboard mr-2"></i> Блоки автоматического управления и платы.</li>
+<li><i class="bi bi-hdd-stack mr-2"></i> Датчики давления, температуры, протока.</li>
+<li><i class="bi bi-lightning-charge mr-2"></i> Термостаты, термовыключатели.</li>
+<li><i class="bi bi-plug mr-2"></i> Контакторы, реле и клеммные колодки.</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="column">
+<div class="card h-100">
+<div class="card-content">
+<h5 class="title is-6"><i class="bi bi-gear has-text-info"></i> Механические компоненты</h5>
+<ul>
+<li><i class="bi bi-thermometer-sun mr-2"></i> Теплообменники и ТЭНы разных мощностей.</li>
+<li><i class="bi bi-droplet mr-2"></i> Расширительные баки и воздухоотводчики.</li>
+<li><i class="bi bi-fan mr-2"></i> Насосы отопления и комплектующие для обвязки.</li>
+<li><i class="bi bi-wrench mr-2"></i> Прокладки, крепёж и другие расходные материалы.</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Каталог запчастей -->
+<h3 class="title is-5 mb-4"><i class="bi bi-card-list"></i> Каталог запчастей</h3>
+<div class="columns is-multiline"><!-- ТЭНы -->
+<div class="column is-4">
+<div class="card product-card"><span class="tag is-primary category-badge">ТЭНы</span>
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/Image004.jpg" alt="ТЭН для Protherm"></figure>
+<div class="card-content">
+<h5 class="title is-6">ТЭНы различной мощности</h5>
+<p class="mb-1"><span class="has-text-weight-semibold">0020094646</span> — ТЭН 3 кВт<br><span class="has-text-weight-semibold">0020094647</span> — ТЭН 6 кВт<br><span class="has-text-weight-semibold">0020094648</span> — ТЭН 7 кВт</p>
+<p class="is-size-7 has-text-grey">Прокладка в комплекте.</p>
+<button class="button is-outlined is-primary is-small is-fullwidth"> <i class="bi bi-cart mr-1"></i> Заказать </button></div>
+</div>
+</div>
+<!-- Клапаны -->
+<div class="column is-4">
+<div class="card product-card"><span class="tag is-info category-badge">Клапаны</span>
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/Image022.jpg" alt="Предохранительный клапан"></figure>
+<div class="card-content">
+<h5 class="title is-6">Клапан предохранительный</h5>
+<p class="mb-1"><span class="has-text-weight-semibold">0020094650</span></p>
+<p class="is-size-7 has-text-grey">Обеспечивает сброс избыточного давления и защиту системы.</p>
+<button class="button is-outlined is-primary is-small is-fullwidth"> <i class="bi bi-cart mr-1"></i> Заказать </button></div>
+</div>
+</div>
+<!-- Датчики -->
+<div class="column is-4">
+<div class="card product-card"><span class="tag is-warning category-badge">Датчики</span>
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/Image031.jpg" alt="Наружный датчик"></figure>
+<div class="card-content">
+<h5 class="title is-6">Датчик наружный 18 мм</h5>
+<p class="mb-1"><span class="has-text-weight-semibold">0020035043</span></p>
+<p class="is-size-7 has-text-grey">Модель JS3227/17 для погодозависимого управления.</p>
+<button class="button is-outlined is-primary is-small is-fullwidth"> <i class="bi bi-cart mr-1"></i> Заказать </button></div>
+</div>
+</div>
+<!-- Показать все -->
+<div class="column is-12 has-text-centered mt-3"><button class="button is-primary" data-target="allParts" aria-expanded="false"> <i class="bi bi-grid mr-1"></i> Показать все запчасти </button></div>
+</div>
+<!-- Схемы электрокотлов -->
+<div class="mt-6">
+<h3 class="title is-5 mb-4"><i class="bi bi-diagram-3"></i> Схемы электрокотлов Protherm</h3>
+<div class="tabs is-boxed">
+<ul>
+<li class="is-active" data-target="skat11"><a>Скат 11</a></li>
+<li data-target="skat13"><a>Скат 13</a></li>
+<li data-target="eloblock"><a>EloBlock</a></li>
+</ul>
+</div>
+<div id="skat11" class="scheme-pane">
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/electro-kotel-protherm2-4f34b55f.jpg" alt="Схема электрокотла Протерм Скат 11"></figure>
+</div>
+<div id="skat13" class="scheme-pane is-hidden">
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/electro-kotel-protherm3-1e2e1c4a.jpg" alt="Схема электрокотла Протерм Скат 13"></figure>
+</div>
+<div id="eloblock" class="scheme-pane is-hidden">
+<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/electro-kotel-protherm1-32d1357e.jpg" alt="Схема электрокотла Протерм EloBlock"></figure>
+</div>
+</div>
+</div>
+<!-- Боковая панель -->
+<div class="column is-4"><!-- Преимущества покупки -->
+<div class="card mb-4"><header class="card-header has-background-primary">
+<p class="card-header-title has-text-white"><i class="bi bi-star mr-2"></i> Преимущества покупки у нас</p>
+</header>
+<div class="card-content">
+<div class="media mb-4">
+<div class="media-left"><span class="icon is-medium"> <i class="bi bi-patch-check"></i> </span></div>
+<div class="media-content">
+<h5 class="title is-6">Оригинальные запчасти</h5>
+<p>Все комплектующие сертифицированы и адаптированы под котлы Protherm.</p>
+</div>
+</div>
+<div class="media mb-4">
+<div class="media-left"><span class="icon is-medium"> <i class="bi bi-wallet2"></i> </span></div>
+<div class="media-content">
+<h5 class="title is-6">Выгодные цены</h5>
+<p>Оптимальная стоимость без лишних посредников.</p>
+</div>
+</div>
+<div class="media mb-4">
+<div class="media-left"><span class="icon is-medium"> <i class="bi bi-truck"></i> </span></div>
+<div class="media-content">
+<h5 class="title is-6">Быстрая доставка</h5>
+<p>Отправка заказов в кратчайшие сроки по всей России.</p>
+</div>
+</div>
+<div class="media">
+<div class="media-left"><span class="icon is-medium"> <i class="bi bi-shield-check"></i> </span></div>
+<div class="media-content">
+<h5 class="title is-6">Гарантия качества</h5>
+<p>До 12 месяцев гарантии на запчасти при правильной установке.</p>
+</div>
+</div>
+</div>
+</div>
+<!-- Каталог для скачивания -->
+<div class="card mb-4">
+<div class="card-content">
+<div class="media">
+<div class="media-left"><span class="icon is-large"> <i class="bi bi-file-earmark-pdf has-text-success" style="font-size: 2.5rem;"></i> </span></div>
+<div class="media-content">
+<h4 class="title is-6">Полный каталог запчастей</h4>
+<p>Скачайте подробный каталог запчастей для электрокотлов Protherm в формате PDF.</p>
+<a href="https://service04.ru/zapchasti-dlja-ehlektrokotlov-protherm.html?file=files/img/zapchasti/Proterm/2/Ehlektrokotly%20Proterm%20SKAT.pdf" class="button is-success is-small"> <i class="bi bi-download mr-1"></i> Скачать каталог (2.9 МБ) </a></div>
+</div>
+</div>
+</div>
+<!-- Популярные модели -->
+<div class="card"><header class="card-header">
+<p class="card-header-title"><i class="bi bi-lightning mr-2"></i> Популярные модели котлов</p>
+</header>
+<div class="card-content">
+<ul>
+<li class="is-flex is-justify-content-space-between mb-1"><span>6K13</span> <span class="tag is-primary">В наличии</span></li>
+<li class="is-flex is-justify-content-space-between mb-1"><span>9K13</span> <span class="tag is-primary">В наличии</span></li>
+<li class="is-flex is-justify-content-space-between mb-1"><span>12K13</span> <span class="tag is-primary">В наличии</span></li>
+<li class="is-flex is-justify-content-space-between mb-1"><span>18K13</span> <span class="tag is-primary">В наличии</span></li>
+<li class="is-flex is-justify-content-space-between mb-1"><span>24K13</span> <span class="tag is-primary">В наличии</span></li>
+<li class="is-flex is-justify-content-space-between mb-1"><span>14K13</span> <span class="tag is-warning">Под заказ</span></li>
+<li class="is-flex	is-justify-content-space-between mb-1"><span>21K13</span> <span class="tag is-primary">В наличии</span></li>
+<li class="is-flex is-justify-content-space-between"><span>28K13</span> <span class="tag is-primary">В наличии</span></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>

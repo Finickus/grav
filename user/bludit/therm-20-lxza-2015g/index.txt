@@ -1,0 +1,312 @@
+<section class="section" style="background-color: #fbfaf9;">
+<div class="container">
+<h1 class="title is-4" style="color: #60584d;">Запчасти для котла THERM 20 LXZ.A 2015 г.</h1>
+<p style="color: #60584d;">THERM 20 LXZ.A 2015 г.</p>
+<!-- Газовая часть / камера сгорания -->
+<div class="box mb-5">
+<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/THERM-20-LXZ.A-2015-1.jpeg" alt="Газовый тракт THERM 20 LXZ.A"></figure>
+<div class="table-container">
+<table class="table is-bordered is-striped is-fullwidth">
+<thead>
+<tr>
+<th>Поз.</th>
+<th>Артикул</th>
+<th>Наименование</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[01]</td>
+<td>41366</td>
+<td>Газовый редуктор SIT 845 SIGMA</td>
+</tr>
+<tr>
+<td>[02]</td>
+<td>22029.1</td>
+<td>Трубка газовая 3-Th-0148A</td>
+</tr>
+<tr>
+<td>[03]</td>
+<td>26389</td>
+<td>Горелка 401.1330.02, 11r.</td>
+</tr>
+<tr>
+<td>[04]</td>
+<td>40371</td>
+<td>Камера сгорания 20 кВт + крышка</td>
+</tr>
+<tr>
+<td>[05]</td>
+<td>40297</td>
+<td>Изоляция 12 мм</td>
+</tr>
+<tr>
+<td>[06]</td>
+<td>21477</td>
+<td>Теплообменник PR17‑402</td>
+</tr>
+<tr>
+<td>[07]</td>
+<td>40372</td>
+<td>Тягопрерыватель 20 кВт</td>
+</tr>
+<tr>
+<td>[08]</td>
+<td>40373</td>
+<td>Экран горелки 20 кВт</td>
+</tr>
+<tr>
+<td>[09]</td>
+<td>40061.2</td>
+<td>Электрод ионизации</td>
+</tr>
+<tr>
+<td>[10]</td>
+<td>40061.1</td>
+<td>Электрод поджига (zapalovací elektroda)</td>
+</tr>
+<tr>
+<td>[11]</td>
+<td>41424</td>
+<td>Катушка соленоида SIT</td>
+</tr>
+<tr>
+<td>[42]</td>
+<td>40029</td>
+<td>Прокладка 24×16×2</td>
+</tr>
+<tr>
+<td>[45]</td>
+<td>40527</td>
+<td>Термостат контактный 36TXE 75 °C</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!-- Гидравлическая часть / корпус котла -->
+<div class="box mb-5">
+<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/THERM-20-LXZ.A-2015-2.jpeg" alt="Гидравлическая часть THERM 20 LXZ.A"></figure>
+<div class="table-container">
+<table class="table is-bordered is-striped is-fullwidth">
+<thead>
+<tr>
+<th>Поз.</th>
+<th>Артикул</th>
+<th>Наименование</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[06]</td>
+<td>21477</td>
+<td>Теплообменник PR17‑402</td>
+</tr>
+<tr>
+<td>[16]</td>
+<td>41367</td>
+<td>Насос GRUNDFOS UPS 15/60 Cacao</td>
+</tr>
+<tr>
+<td>[17]</td>
+<td>22027</td>
+<td>Трубка обратки 4-Th-0121</td>
+</tr>
+<tr>
+<td>[18]</td>
+<td>22030</td>
+<td>Трубка отопительная 3-Th-0182F</td>
+</tr>
+<tr>
+<td>[19]</td>
+<td>22106.1</td>
+<td>Трубка bypass</td>
+</tr>
+<tr>
+<td>[21]</td>
+<td>43545</td>
+<td>Предохранительный клапан 1/2″, 3 бар</td>
+</tr>
+<tr>
+<td>[22]</td>
+<td>21481.1</td>
+<td>Расширительный бак 8 л</td>
+</tr>
+<tr>
+<td>[23]</td>
+<td>40549</td>
+<td>Гибкий шланг 30 см</td>
+</tr>
+<tr>
+<td>[24]</td>
+<td>43544</td>
+<td>Воздуховыводящий клапан Caleffi</td>
+</tr>
+<tr>
+<td>[25]</td>
+<td>21841.1</td>
+<td>Трубка отопительная к бойлеру</td>
+</tr>
+<tr>
+<td>[27]</td>
+<td>22103.1</td>
+<td>Трубка обратки</td>
+</tr>
+<tr>
+<td>[28]</td>
+<td>21053</td>
+<td>Трёхходовой клапан 3/4</td>
+</tr>
+<tr>
+<td>[35]</td>
+<td>42310</td>
+<td>Рама котла</td>
+</tr>
+<tr>
+<td>[36]</td>
+<td>42320</td>
+<td>Боковая часть правая</td>
+</tr>
+<tr>
+<td>[37]</td>
+<td>42319</td>
+<td>Боковая часть левая</td>
+</tr>
+<tr>
+<td>[39]</td>
+<td>42512</td>
+<td>Передний кожух</td>
+</tr>
+<tr>
+<td>[40]</td>
+<td>40031</td>
+<td>Прокладка уплотнительная 16×10×1</td>
+</tr>
+<tr>
+<td>[41]</td>
+<td>40030</td>
+<td>Прокладка уплотнительная 18×12×2</td>
+</tr>
+<tr>
+<td>[42]</td>
+<td>40029</td>
+<td>Прокладка 24×16×2</td>
+</tr>
+<tr>
+<td>[43]</td>
+<td>40028</td>
+<td>Прокладка уплотнительная 29×20×2</td>
+</tr>
+<tr>
+<td>[44]</td>
+<td>40526</td>
+<td>Прокладка уплотнительная 11×6×2</td>
+</tr>
+<tr>
+<td>[46]</td>
+<td>40035</td>
+<td>Термостат контактный 36 TXE 95 °C</td>
+</tr>
+<tr>
+<td>[47]</td>
+<td>21045.3</td>
+<td>Температурный зонд</td>
+</tr>
+<tr>
+<td>[55]</td>
+<td>40004</td>
+<td>Вставка Ms 1/4</td>
+</tr>
+<tr>
+<td>[56]</td>
+<td>42259</td>
+<td>Втулка 3/4</td>
+</tr>
+<tr>
+<td>[58]</td>
+<td>40395</td>
+<td>Редукция 1/2″–1/4″</td>
+</tr>
+<tr>
+<td>[59]</td>
+<td>26072</td>
+<td>Многофункциональный коллектор</td>
+</tr>
+<tr>
+<td>[59]</td>
+<td>26113.1</td>
+<td>Микровыключатель SPDT</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!-- Панель управления -->
+<div class="box">
+<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/THERM-20-LXZ.A-2015-3.jpeg" alt="Панель управления THERM 20 LXZ.A"></figure>
+<div class="table-container">
+<table class="table is-bordered is-striped is-fullwidth">
+<thead>
+<tr>
+<th>Поз.</th>
+<th>Артикул</th>
+<th>Наименование</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[65]</td>
+<td>42266</td>
+<td>Лицевая часть панели управления</td>
+</tr>
+<tr>
+<td>[66]</td>
+<td>42270</td>
+<td>Задняя крышка панели управления</td>
+</tr>
+<tr>
+<td>[67]</td>
+<td>42268</td>
+<td>Откидная дверца панели</td>
+</tr>
+<tr>
+<td>[68]</td>
+<td>25880</td>
+<td>Манометр 4 бар, капилляр 1000 мм (альтернатива — склад № 29463)</td>
+</tr>
+<tr>
+<td>[69]</td>
+<td>24648</td>
+<td>Ось управляющей кнопки</td>
+</tr>
+<tr>
+<td>[70]</td>
+<td>42267</td>
+<td>Управляющая кнопка</td>
+</tr>
+<tr>
+<td>[71]</td>
+<td>42260</td>
+<td>Автоматика HDIMS 04</td>
+</tr>
+<tr>
+<td>[72]</td>
+<td>42269</td>
+<td>Гребёнка крепления</td>
+</tr>
+<tr>
+<td>[73]</td>
+<td>42271</td>
+<td>Кнопка микровыключателя</td>
+</tr>
+<tr>
+<td>[74]</td>
+<td>42265</td>
+<td>Крайний модуль</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</section>

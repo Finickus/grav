@@ -1,0 +1,378 @@
+<div class="main-wrapper"><header class="level is-mobile py-3 px-4 has-background-white has-text-primary">
+<div class="container is-widescreen">
+<div class="level-left">
+<div class="level-item">
+<div class="logo-text title is-5">Service04.ru</div>
+</div>
+</div>
+<div class="level-right is-mobile">
+<div class="level-item is-hidden-mobile"><a href="tel:+79262211348" class="phone-header is-size-5 has-text-weight-bold has-text-dark">+7 (926) 221-13-48</a></div>
+<div class="level-item"><button class="button is-primary callback-btn">Заказать звонок</button></div>
+</div>
+</div>
+</header>
+<section class="hero is-medium is-primary is-bold mb-6">
+<div class="hero-body">
+<div class="container is-widescreen has-text-centered">
+<h1 class="title is-2 has-text-white">Профессиональный монтаж системы управления котлом ZONT</h1>
+<p class="subtitle is-5 has-text-white">Умное управление отоплением из любой точки мира. Контроль температуры, экономия до 30% на отоплении, защита от замерзания. Гарантия на монтаж!</p>
+<div class="field is-grouped is-centered mt-5">
+<p class="control"><a href="tel:+79262211348" class="button is-large is-warning has-text-dark">Заказать установку</a></p>
+<p class="control"><a href="#prices" class="button is-large is-outlined is-light">Узнать стоимость</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="section">
+<div class="container is-widescreen">
+<div class="has-text-centered mb-6">
+<h2 class="title is-3">Преимущества системы ZONT</h2>
+<p class="subtitle is-5">Почему стоит установить "умное" управление котлом</p>
+</div>
+<div class="columns is-multiline is-desktop">
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box has-text-centered benefit-card h-100"><span class="icon is-large mb-3 has-text-primary"><i class="fas fa-mobile-alt fa-2x"></i></span>
+<h3 class="title is-5">Управление со смартфона</h3>
+<p class="is-size-6">Контролируйте температуру дома из любой точки мира через мобильное приложение</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box has-text-centered benefit-card h-100"><span class="icon is-large mb-3 has-text-success"><i class="fas fa-ruble-sign fa-2x"></i></span>
+<h3 class="title is-5">Экономия до 30%</h3>
+<p class="is-size-6">Оптимизация работы котла снижает расходы на отопление</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box has-text-centered benefit-card h-100"><span class="icon is-large mb-3 has-text-info"><i class="fas fa-snowflake fa-2x"></i></span>
+<h3 class="title is-5">Защита от замерзания</h3>
+<p class="is-size-6">Автоматическое включение котла при угрозе замерзания системы</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box has-text-centered benefit-card h-100"><span class="icon is-large mb-3 has-text-primary"><i class="fas fa-thermometer-half fa-2x"></i></span>
+<h3 class="title is-5">Графики температуры</h3>
+<p class="is-size-6">Программируйте температуру по дням недели и времени суток</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box has-text-centered benefit-card h-100"><span class="icon is-large mb-3 has-text-warning"><i class="fas fa-bell fa-2x"></i></span>
+<h3 class="title is-5">Оповещения о неполадках</h3>
+<p class="is-size-6">Мгновенные уведомления при сбоях в работе котла</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box has-text-centered benefit-card h-100"><span class="icon is-large mb-3 has-text-danger"><i class="fas fa-chart-line fa-2x"></i></span>
+<h3 class="title is-5">Статистика и аналитика</h3>
+<p class="is-size-6">Мониторинг расхода топлива и температуры в доме</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section has-background-light">
+<div class="container is-widescreen">
+<div class="has-text-centered mb-6">
+<h2 class="title is-3">Как происходит монтаж</h2>
+<p class="subtitle is-5">Профессиональная установка системы ZONT</p>
+</div>
+<div class="columns is-multiline is-variable is-5 has-text-centered">
+<div class="column is-one-fifth-desktop is-full-mobile">
+<div class="step-number tag is-large is-primary is-rounded mb-3">1</div>
+<h3 class="title is-5">Консультация</h3>
+<p class="is-size-6">Подбор оптимальной модели ZONT под ваш котел</p>
+</div>
+<div class="column is-one-fifth-desktop is-full-mobile">
+<div class="step-number tag is-large is-primary is-rounded mb-3">2</div>
+<h3 class="title is-5">Выезд мастера</h3>
+<p class="is-size-6">Специалист приезжает в удобное для вас время</p>
+</div>
+<div class="column is-one-fifth-desktop is-full-mobile">
+<div class="step-number tag is-large is-primary is-rounded mb-3">3</div>
+<h3 class="title is-5">Диагностика</h3>
+<p class="is-size-6">Проверка совместимости и состояния котла</p>
+</div>
+<div class="column is-one-fifth-desktop is-full-mobile">
+<div class="step-number tag is-large is-primary is-rounded mb-3">4</div>
+<h3 class="title is-5">Монтаж</h3>
+<p class="is-size-6">Установка и подключение системы ZONT</p>
+</div>
+<div class="column is-one-fifth-desktop is-full-mobile">
+<div class="step-number tag is-large is-primary is-rounded mb-3">5</div>
+<h3 class="title is-5">Настройка</h3>
+<p class="is-size-6">Программирование и обучение работе с системой</p>
+</div>
+</div>
+</div>
+</section>
+<section class="section">
+<div class="container is-widescreen">
+<div class="has-text-centered mb-6">
+<h2 class="title is-3">Популярные модели ZONT</h2>
+<p class="subtitle is-5">Мы устанавливаем все модели систем управления</p>
+</div>
+<div class="columns is-multiline is-centered">
+<div class="column is-one-fifth-desktop is-half-tablet">
+<div class="card model-card has-text-centered h-100">
+<div class="card-image p-4">
+<figure class="image"><img src="https://zont-online.ru/upload/iblock/8a0/8a0a7d1a7d0f6b1c8d3e5f0a1b2c3d4e.png" alt="ZONT H-1"></figure>
+</div>
+<div class="card-content">
+<h3 class="title is-5">ZONT H-1</h3>
+<p class="is-size-6">Базовый контроллер для газовых и электрических котлов</p>
+</div>
+</div>
+</div>
+<div class="column is-one-fifth-desktop is-half-tablet">
+<div class="card model-card has-text-centered h-100">
+<div class="card-image p-4">
+<figure class="image"><img src="https://zont-online.ru/upload/iblock/9b1/9b1c5d1e5d7f6b1c8d3e5f0a1b2c3d4e.png" alt="ZONT H-2"></figure>
+</div>
+<div class="card-content">
+<h3 class="title is-5">ZONT H-2</h3>
+<p class="is-size-6">Расширенная версия с поддержкой GSM</p>
+</div>
+</div>
+</div>
+<div class="column is-one-fifth-desktop is-half-tablet">
+<div class="card model-card has-text-centered h-100">
+<div class="card-image p-4">
+<figure class="image"><img src="https://zont-online.ru/upload/iblock/6e7/6e7c5d1e5d7f6b1c8d3e5f0a1b2c3d4e.png" alt="ZONT H-3"></figure>
+</div>
+<div class="card-content">
+<h3 class="title is-5">ZONT H-3</h3>
+<p class="is-size-6">Премиум модель с Wi-Fi и расширенными функциями</p>
+</div>
+</div>
+</div>
+<div class="column is-one-fifth-desktop is-half-tablet">
+<div class="card model-card has-text-centered h-100">
+<div class="card-image p-4">
+<figure class="image"><img src="https://zont-online.ru/upload/iblock/2f5/2f5c5d1e5d7f6b1c8d3e5f0a1b2c3d4e.png" alt="ZONT Climatic"></figure>
+</div>
+<div class="card-content">
+<h3 class="title is-5">ZONT Climatic</h3>
+<p class="is-size-6">Для управления климатическими системами</p>
+</div>
+</div>
+</div>
+<div class="column is-one-fifth-desktop is-half-tablet">
+<div class="card model-card has-text-centered h-100">
+<div class="card-image p-4">
+<figure class="image"><img src="https://zont-online.ru/upload/iblock/4d9/4d9c5d1e5d7f6b1c8d3e5f0a1b2c3d4e.png" alt="ZONT Termo"></figure>
+</div>
+<div class="card-content">
+<h3 class="title is-5">ZONT Termo</h3>
+<p class="is-size-6">Компактное решение для электрических котлов</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section pricing has-background-light" id="prices">
+<div class="container is-widescreen">
+<div class="has-text-centered mb-6">
+<h2 class="title is-3">Стоимость монтажа</h2>
+<p class="subtitle is-5">Прозрачное ценообразование на услуги</p>
+</div>
+<div class="columns is-multiline is-centered">
+<div class="column is-one-third-desktop is-full-tablet mb-4">
+<div class="card price-card is-fullwidth h-100 has-shadow">
+<div class="card-header has-background-light">
+<div class="card-header-title is-centered is-size-4 has-text-primary">Базовый монтаж</div>
+</div>
+<div class="card-content has-text-centered">
+<div class="price title is-2 has-text-success">от 5 900₽</div>
+<p class="subtitle is-6 mb-4">Для стандартных котлов</p>
+<div class="content mb-5 has-text-left">
+<ul class="ml-4">
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Установка контроллера</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Подключение к котлу</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Базовая настройка</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Гарантия 1 год</li>
+</ul>
+</div>
+<a href="tel:+79262211348" class="button is-primary is-large is-fullwidth">Заказать</a></div>
+</div>
+</div>
+<div class="column is-one-third-desktop is-full-tablet mb-4">
+<div class="card price-card is-fullwidth h-100 has-shadow">
+<div class="card-header has-background-light">
+<div class="card-header-title is-centered is-size-4 has-text-primary">Расширенный монтаж</div>
+</div>
+<div class="card-content has-text-centered">
+<div class="price title is-2 has-text-success">от 8 900₽</div>
+<p class="subtitle is-6 mb-4">Для сложных систем</p>
+<div class="content mb-5 has-text-left">
+<ul class="ml-4">
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Установка контроллера</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Подключение датчиков</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Настройка сценариев</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Обучение работе</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Гарантия 2 года</li>
+</ul>
+</div>
+<a href="tel:+79262211348" class="button is-primary is-large is-fullwidth">Заказать</a></div>
+</div>
+</div>
+<div class="column is-one-third-desktop is-full-tablet mb-4">
+<div class="card price-card is-fullwidth h-100 has-shadow">
+<div class="card-header has-background-light">
+<div class="card-header-title is-centered is-size-4 has-text-primary">Комплексный пакет</div>
+</div>
+<div class="card-content has-text-centered">
+<div class="price title is-2 has-text-success">от 12 900₽</div>
+<p class="subtitle is-6 mb-4">Монтаж "под ключ"</p>
+<div class="content mb-5 has-text-left">
+<ul class="ml-4">
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Монтаж системы ZONT</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Установка дополнительных датчиков</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Настройка умного дома</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Годовое обслуживание</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Гарантия 3 года</li>
+</ul>
+</div>
+<a href="tel:+79262211348" class="button is-primary is-large is-fullwidth">Заказать</a></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section">
+<div class="container is-widescreen">
+<div class="has-text-centered mb-6">
+<h2 class="title is-3">Отзывы клиентов</h2>
+<p class="subtitle is-5">Что говорят наши клиенты о монтаже ZONT</p>
+</div>
+<div class="columns is-multiline is-desktop">
+<div class="column is-one-third-desktop is-full-tablet">
+<div class="card testimonial-card h-100 has-shadow">
+<div class="card-content">
+<div class="content mb-4">
+<p>Установили систему ZONT H-1 на газовый котел. Мастер приехал точно в срок, все сделал аккуратно, объяснил как пользоваться. Теперь управляю отоплением с телефона, даже когда в командировке. Экономия на газе заметная!</p>
+</div>
+<div class="level is-mobile">
+<div class="level-left">
+<div class="author-info">
+<h4 class="title is-5 mb-0">Сергей Иванов</h4>
+<p class="subtitle is-7 has-text-grey">Модель: ZONT H-1</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="column is-one-third-desktop is-full-tablet">
+<div class="card testimonial-card h-100 has-shadow">
+<div class="card-content">
+<div class="content mb-4">
+<p>Заказали монтаж ZONT H-3 для загородного дома. Работой очень довольны! Система предупредила о падении давления в системе, когда мы были в отъезде. Спасли трубы от замерзания. Спасибо за качественную установку!</p>
+</div>
+<div class="level is-mobile">
+<div class="level-left">
+<div class="author-info">
+<h4 class="title is-5 mb-0">Ольга Петрова</h4>
+<p class="subtitle is-7 has-text-grey">Модель: ZONT H-3</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="column is-one-third-desktop is-full-tablet">
+<div class="card testimonial-card h-100 has-shadow">
+<div class="card-content">
+<div class="content mb-4">
+<p>Установили ZONT Termo на электрический котел. Стало гораздо удобнее управлять температурой, особенно ночью и когда уезжаем. Экономия на электричестве около 25%. Мастер все настроил, показал как работать с приложением.</p>
+</div>
+<div class="level is-mobile">
+<div class="level-left">
+<div class="author-info">
+<h4 class="title is-5 mb-0">Алексей Смирнов</h4>
+<p class="subtitle is-7 has-text-grey">Модель: ZONT Termo</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section faq has-background-light">
+<div class="container is-widescreen">
+<div class="has-text-centered mb-6">
+<h2 class="title is-3">Часто задаваемые вопросы</h2>
+<p class="subtitle is-5">Ответы на популярные вопросы о системе ZONT</p>
+</div>
+<div class="columns is-centered">
+<div class="column is-two-thirds-desktop">
+<div class="faq-grid content"><details class="box mb-3">
+<summary class="title is-6 has-text-dark is-flex is-justify-content-space-between is-align-items-center"><span>С какими котлами совместим ZONT?</span> <span class="icon"><i class="fas fa-chevron-down"></i></span></summary>
+<div class="p-4">
+<p>Системы ZONT совместимы с большинством газовых, электрических, дизельных и твердотопливных котлов. Наши специалисты перед монтажом всегда проверяют совместимость конкретной модели.</p>
+</div>
+</details><details class="box mb-3">
+<summary class="title is-6 has-text-dark is-flex is-justify-content-space-between is-align-items-center"><span>Сколько времени занимает установка?</span> <span class="icon"><i class="fas fa-chevron-down"></i></span></summary>
+<div class="p-4">
+<p>Стандартный монтаж занимает 2-3 часа. Для сложных систем с дополнительными датчиками может потребоваться до 4-5 часов.</p>
+</div>
+</details><details class="box mb-3">
+<summary class="title is-6 has-text-dark is-flex is-justify-content-space-between is-align-items-center"><span>Нужен ли интернет для работы системы?</span> <span class="icon"><i class="fas fa-chevron-down"></i></span></summary>
+<div class="p-4">
+<p>Для удаленного управления через приложение необходим интернет. Однако базовые функции (поддержание температуры, защита от замерзания) работают без интернета.</p>
+</div>
+</details><details class="box mb-3">
+<summary class="title is-6 has-text-dark is-flex is-justify-content-space-between is-align-items-center"><span>Какая гарантия на монтаж?</span> <span class="icon"><i class="fas fa-chevron-down"></i></span></summary>
+<div class="p-4">
+<p>Мы предоставляем гарантию на монтаж от 1 до 3 лет в зависимости от выбранного пакета услуг. Гарантия на оборудование - согласно гарантии производителя.</p>
+</div>
+</details><details class="box mb-3">
+<summary class="title is-6 has-text-dark is-flex is-justify-content-space-between is-align-items-center"><span>Можно ли установить ZONT самостоятельно?</span> <span class="icon"><i class="fas fa-chevron-down"></i></span></summary>
+<div class="p-4">
+<p>Теоретически возможно, но мы не рекомендуем это делать без специальных знаний. Неправильная установка может привести к повреждению котла и потере гарантии. Профессиональный монтаж обеспечит корректную работу системы.</p>
+</div>
+</details></div>
+</div>
+</div>
+</div>
+</section>
+<section class="section contact-section" id="contact">
+<div class="container is-widescreen">
+<div class="box p-5 has-shadow">
+<div class="has-text-centered">
+<h2 class="title is-3">Закажите монтаж системы ZONT</h2>
+<p class="subtitle is-5">Мы готовы ответить на ваши вопросы и организовать установку</p>
+</div>
+<div class="columns is-multiline is-centered mt-5">
+<div class="column is-one-third-desktop is-half-tablet has-text-centered">
+<div class="box h-100"><span class="icon is-large has-text-primary mb-3"><i class="fas fa-phone-alt fa-2x"></i></span>
+<h3 class="title is-5">Позвоните нам</h3>
+<a href="tel:+79262211348" class="is-size-4 has-text-weight-bold has-text-dark phone-link">+7 (926) 221-13-48</a>
+<p class="is-size-7 mt-2 has-text-grey">Основной номер для заказов</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet has-text-centered">
+<div class="box h-100"><span class="icon is-large has-text-info mb-3"><i class="fas fa-comments fa-2x"></i></span>
+<h3 class="title is-5">Онлайн-консультация</h3>
+<p class="is-size-6">Получите ответы на вопросы</p>
+<a href="https://service04.ru/contact-us/feedback" class="button is-info is-medium mt-3">Задать вопрос</a></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<script>
+        // Callback button functionality
+        const callbackBtn = document.querySelector('.callback-btn');
+        if (callbackBtn) {
+            callbackBtn.addEventListener('click', () => {
+                const phoneNumber = document.querySelector('.phone-header').textContent;
+                alert(`Пожалуйста, позвоните нам по номеру ${phoneNumber} или оставьте свой номер в разделе контактов, и мы вам перезвоним.`);
+            });
+        }
+
+        // Smooth scrolling is handled by browser if we remove the JS anchors.
+        // Keeping only the callback logic here.
+    </script>
+</div>

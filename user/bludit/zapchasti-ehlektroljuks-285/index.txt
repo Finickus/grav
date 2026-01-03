@@ -1,0 +1,185 @@
+<section class="section">
+<div class="container"><!-- Hero / Заголовок -->
+<section class="hero is-primary is-bold mb-5">
+<div class="hero-body">
+<div class="container">
+<h1 class="title is-3"><i class="fas fa-wrench mr-2"></i> Запчасти для газовой колонки Electrolux 285</h1>
+<p class="subtitle is-5">Найдите и купите все необходимые комплектующие для вашей колонки Electrolux 285</p>
+</div>
+</div>
+</section>
+<!-- Введение -->
+<div class="card mb-5">
+<div class="card-content">
+<div class="columns is-vcentered is-multiline">
+<div class="column is-12 is-8-desktop">
+<p class="is-size-5 mb-3">Текущий теплообменник, порванный уплотнитель, неисправный блок управления или вышедший из строя микровыключатель больше не станут причиной долгого простоя колонки.</p>
+<p>Позвоните в наш центр «Сервис 04», и вы подберёте все необходимые запчасти и комплектующие для газовой колонки Electrolux 285 по наличию и под вашу модель.</p>
+<p class="notification is-info mt-3"><strong>Сообщите оператору модель газовой колонки и название детали — вам предложат варианты запчастей для Electrolux 285 по одной из лучших цен в Москве.</strong></p>
+<p><strong>Модель колонки указана на заводской табличке:</strong> как правило, она расположена в нижней части аппарата, под корпусом.</p>
+</div>
+<div class="column is-12 is-4-desktop has-text-centered">
+<figure class="image is-inline-block mb-3"><a href="https://service04.ru/bl-content/img/2019/12/electrolux285-1-a5c86b33.jpg" target="_blank" rel="noopener"> <img src="https://service04.ru/bl-content/img/2019/12/electrolux285-1-a5c86b33.jpg" alt="Запчасти Electrolux 285" class="rounded"> </a></figure>
+</div>
+</div>
+<div class="has-text-centered mt-4">
+<figure class="image is-inline-block mb-3"><a href="https://service04.ru/bl-content/img/2019/12/electrolux285-3.jpg" target="_blank" rel="noopener"> <img src="https://service04.ru/bl-content/img/2019/12/electrolux285-3.jpg" alt="Заводская табличка Electrolux 285" class="rounded"> </a></figure>
+<p class="mt-2">Вы можете подъехать к нам на склад и приобрести запчасти Electrolux 285 (оплата наличными или картой), либо заказать курьерскую доставку по Москве и области.</p>
+<p class="notification is-danger is-light mt-3 mb-0"><strong>Доставка по всей России осуществляется через транспортные компании.</strong></p>
+</div>
+</div>
+</div>
+<!-- Часто заменяемые запчасти -->
+<div class="card mb-5"><header class="card-header has-background-warning">
+<p class="card-header-title has-text-dark"><i class="fas fa-tools mr-2"></i> Запчасти Electrolux, наиболее часто подлежащие замене</p>
+</header>
+<div class="card-content">
+<div class="has-text-centered mb-4">
+<figure class="image is-inline-block"><a href="https://service04.ru/bl-content/img/2019/12/shema2-03cc1877.jpg" target="_blank" rel="noopener"> <img src="https://service04.ru/bl-content/img/2019/12/shema2-03cc1877.jpg" alt="Схема газовой колонки Electrolux 285" class="rounded"> </a></figure>
+</div>
+<div class="table-container">
+<table class="table is-bordered is-striped is-fullwidth is-vcentered">
+<thead>
+<tr>
+<th class="has-text-centered">№</th>
+<th class="has-text-centered">Фото</th>
+<th class="has-text-centered">Наименование</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="has-text-centered"><strong>22</strong></td>
+<td class="has-text-centered">
+<figure class="image is-96x96 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20160912_115333_wm.jpg" alt="Теплообменник"></figure>
+</td>
+<td><a href="#" class="has-text-link"> Теплообменник Electrolux 285 (медный, Тула) </a>
+<div class="mt-2"><span class="tag is-success is-medium">Цена: 4 490 руб.</span> <a href="#" class="button is-primary is-small ml-2">КУПИТЬ</a></div>
+</td>
+</tr>
+<tr>
+<td class="has-text-centered"><strong>18</strong></td>
+<td class="has-text-centered">—</td>
+<td>Горелка (сопло из нержавеющей стали, работа на природном газе).</td>
+</tr>
+<tr>
+<td class="has-text-centered"><strong>19</strong></td>
+<td class="has-text-centered">
+<figure class="image is-96x96 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20160905_151350_wm.jpg" alt="Электроды"></figure>
+</td>
+<td>Электроды зажигания и контроля пламени (розжиг и ионизационный контроль наличия пламени).</td>
+</tr>
+<tr>
+<td class="has-text-centered"><strong>15</strong></td>
+<td class="has-text-centered">
+<figure class="image is-96x96 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20160912_115657_wm.jpg" alt="Газовая арматура"></figure>
+</td>
+<td>Вентиль подачи газа (газовая арматура) с двумя предохранительными клапанами и ручным регулятором мощности (50–100 %).
+<div class="mt-2"><a href="#" class="button is-primary is-small">КУПИТЬ</a></div>
+</td>
+</tr>
+<tr>
+<td class="has-text-centered"><strong>10</strong></td>
+<td class="has-text-centered">
+<figure class="image is-96x96 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20160912_115644_wm.jpg" alt="Водяной блок"></figure>
+</td>
+<td>Вентиль подачи воды (водяной блок).</td>
+</tr>
+<tr>
+<td class="has-text-centered"><strong>21</strong></td>
+<td class="has-text-centered">
+<figure class="image is-96x96 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20160912_115631_wm.jpg" alt="Блок управления"></figure>
+</td>
+<td>Электронная схема (блок розжига) для автоматического поджига и контроля наличия пламени.</td>
+</tr>
+<tr>
+<td class="has-text-centered"><strong>24</strong></td>
+<td class="has-text-centered">
+<figure class="image is-96x96 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20160912_115759_wm.jpg" alt="Датчик тяги"></figure>
+</td>
+<td>Датчик тяги (термостат контроля температуры продуктов сгорания).</td>
+</tr>
+<tr>
+<td class="has-text-centered"><strong>25</strong></td>
+<td class="has-text-centered">
+<figure class="image is-96x96 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20160905_151520_wm.jpg" alt="Микропереключатель"></figure>
+</td>
+<td>Микропереключатель водяного узла.</td>
+</tr>
+<tr>
+<td class="has-text-centered"><strong>7</strong></td>
+<td class="has-text-centered">
+<figure class="image is-96x96 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20160912_115747_wm.jpg" alt="Мембрана"></figure>
+</td>
+<td>Мембрана Electrolux 285.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<!-- Устранение неисправностей -->
+<div class="card mb-5"><header class="card-header has-background-info">
+<p class="card-header-title has-text-white"><i class="fas fa-exclamation-circle mr-2"></i> Устранение неисправностей</p>
+</header>
+<div class="card-content">
+<div class="table-container">
+<table class="table is-bordered is-striped is-fullwidth">
+<thead>
+<tr>
+<th>Проблема</th>
+<th>Возможная причина</th>
+<th>Решение</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td rowspan="3">Нет розжига горелки</td>
+<td>Отсутствует подача газа</td>
+<td>Откройте кран подвода газа к водонагревателю.</td>
+</tr>
+<tr>
+<td>Отсутствует проток воды</td>
+<td>Откройте кран подвода воды к колонке.<br>Откройте кран горячей воды в точке водоразбора.</td>
+</tr>
+<tr>
+<td>Разряжен элемент питания или нарушена полярность установки (модели GWH 285 ERN NanoPro)</td>
+<td>Проверьте правильность установки батареи и при необходимости замените элемент питания.</td>
+</tr>
+<tr>
+<td>Низкая температура выходящей воды</td>
+<td>Малая подача газа или слишком большой проток воды.</td>
+<td>Увеличьте подачу газа, повернув рукоятку газового клапана.<br>Уменьшите проток воды рукояткой водяного клапана.</td>
+</tr>
+<tr>
+<td rowspan="2">Пламя горелки гаснет во время работы</td>
+<td>Высокая температура дымовых газов, засорение канала отвода продуктов сгорания.</td>
+<td>Проверьте дымоход; при подозрении на засор обратитесь к специализированной организации.</td>
+</tr>
+<tr>
+<td>Недостаточный проток воды</td>
+<td>Увеличьте проток воды рукояткой водяного клапана.</td>
+</tr>
+<tr>
+<td>Появление запаха газа</td>
+<td>Утечка газа в подводящей магистрали или соединениях.</td>
+<td class="has-background-danger has-text-white">Немедленно перекройте подачу газа и обратитесь в аварийную газовую службу.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<!-- Заказ -->
+<div class="card has-background-danger has-text-white">
+<div class="card-content has-text-centered">
+<h3 class="title is-4"><i class="fas fa-phone mr-2"></i> Закажите запчасти прямо сейчас!</h3>
+<p class="subtitle is-5">Позвоните по телефону <strong class="has-text-warning">8 (926) 221‑13‑48</strong> или оставьте заявку на сайте.</p>
+<div class="columns is-centered mt-3">
+<div class="column is-one-third mb-2"><a href="tel:+79262211348" class="button is-light is-large is-fullwidth"> <i class="fas fa-phone mr-2"></i>Позвонить </a></div>
+<div class="column is-one-third mb-2"><a href="https://service04.ru/contact-us/feedback" class="button is-warning is-large is-fullwidth"> <i class="fas fa-envelope mr-2"></i>Оставить заявку </a></div>
+<div class="column is-one-third mb-2"><a href="https://service04.ru/contact-us/feedback" class="button is-info is-large is-fullwidth"> <i class="fas fa-tools mr-2"></i>Вызвать мастера </a></div>
+</div>
+</div>
+</div>
+</div>
+</section>

@@ -1,0 +1,178 @@
+<div class="container is-widescreen mt-5 mb-5">
+<section class="hero is-primary is-bold mb-5">
+<div class="hero-body">
+<div class="container has-text-centered">
+<h1 class="title is-2 has-text-white"><span class="icon is-medium mr-3"><i class="fas fa-exclamation-triangle"></i></span>Коды ошибок котлов Arderia</h1>
+<p class="subtitle is-4 has-text-white">Руководство по диагностике и устранению неисправностей котлов Ардерия</p>
+</div>
+</div>
+</section>
+<div class="columns">
+<div class="column is-full">
+<div class="card mb-5"><header class="card-header has-background-danger">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-list"></i></span>Коды ошибок A1 - AA (Критические)</p>
+</header>
+<div class="card-content p-0">
+<div class="table-container">
+<table class="table is-striped is-bordered is-fullwidth mb-0">
+<thead class="has-background-dark has-text-white">
+<tr>
+<th>Код</th>
+<th>Описание</th>
+<th>Возможные причины</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><span class="tag is-danger is-medium">A1</span></td>
+<td>Датчик давления воздуха замкнут</td>
+<td class="content is-size-7">Задувание/блокировка дымохода, обледенение выходного отверстия.</td>
+</tr>
+<tr>
+<td><span class="tag is-danger is-medium">A2</span></td>
+<td>Вентилятор работает с малой скоростью</td>
+<td class="content is-size-7">Недостаточный контакт/подключение проводов, недостаточная скорость вращения (посторонние предметы).</td>
+</tr>
+<tr>
+<td><span class="tag is-danger is-medium">A4</span></td>
+<td>Срабатывание датчика по перегреву</td>
+<td class="content is-size-7">Закрыты запорные краны, засор фильтра, неисправен насос/3-х ходовой клапан, повреждение датчика протока ГВС.</td>
+</tr>
+<tr>
+<td><span class="tag is-danger is-medium">A5</span></td>
+<td>Пониженное давление теплоносителя</td>
+<td class="content is-size-7">Малый объем воды, наличие воздуха, неисправен насос/датчик напора, утечка воды в системе.</td>
+</tr>
+<tr>
+<td><span class="tag is-danger is-medium">A6</span></td>
+<td>Неисправность розжига</td>
+<td class="content is-size-7">Дымоход заблокирован, низкое давление газа, неисправен газовый клапан/трансформатор.</td>
+</tr>
+<tr>
+<td><span class="tag is-danger is-medium">A8</span></td>
+<td>Остаточное пламя</td>
+<td class="content is-size-7">Остаточное пламя при отсутствии напряжения, повреждение диафрагмы газового клапана.</td>
+</tr>
+<tr>
+<td><span class="tag is-danger is-medium">A9</span></td>
+<td>Замерзание</td>
+<td class="content is-size-7">Снижение температуры воды до 5°C.</td>
+</tr>
+<tr>
+<td><span class="tag is-danger is-medium">AA</span></td>
+<td>Закипание (Перегрев)</td>
+<td class="content is-size-7">Закрыты отопительные контуры, засор фильтра, повреждение насоса/трехходового клапана.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="card mb-5"><header class="card-header has-background-warning">
+<p class="card-header-title has-text-dark is-size-5"><span class="icon mr-2"><i class="fas fa-list"></i></span>Коды ошибок AB - AE (Датчики/Дымоход)</p>
+</header>
+<div class="card-content p-0">
+<div class="table-container">
+<table class="table is-striped is-bordered is-fullwidth mb-0">
+<tbody>
+<tr>
+<td><span class="tag is-warning is-medium">AB, AC</span></td>
+<td>Повреждение термостата</td>
+<td class="content is-size-7">Короткое замыкание в термостате, некорректное соединение контактов.</td>
+</tr>
+<tr>
+<td><span class="tag is-warning is-medium">AE</span></td>
+<td>Дымоход заблокирован</td>
+<td class="content is-size-7">Посторонние предметы в газоходе, деформация газохода.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="card mb-5"><header class="card-header has-background-info">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-info-circle"></i></span>Диагностика и устранение (Коды E0-E3)</p>
+</header>
+<div class="card-content content">
+<div id="errorAccordion"><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-secondary mb-0"><span class="tag is-secondary is-medium mr-2">E0</span> Ошибка режима антизамерзание</summary>
+<div class="p-4 is-size-7">
+<p class="has-text-weight-bold">Описание: Ошибка активна, если после перерыва подачи электроэнергии температура систем отопления или ГВС ниже +1 °С.</p>
+<p class="has-text-weight-bold mt-2">Решение:</p>
+<ul class="ml-4 is-unstyled">
+<li>Убедитесь в целостности магистралей. Блокировка автоматически снимется при повышении температуры выше +1°C.</li>
+</ul>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-secondary mb-0"><span class="tag is-secondary is-medium mr-2">E1</span> Ошибка датчика ионизации</summary>
+<div class="p-4 is-size-7">
+<p class="has-text-weight-bold">Описание: Отображается при неудачном розжиге котла или после неожиданного срыва пламени.</p>
+<p class="has-text-weight-bold mt-2">Решение:</p>
+<ul class="ml-4 is-unstyled">
+<li>Проверьте наличие подачи газа. Система будет пытаться восстановить работу 60 минут. Снять блокировку можно нажатием кнопки MODE.</li>
+</ul>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-secondary mb-0"><span class="tag is-secondary is-medium mr-2">E2</span> Ошибка дифференциального датчика давления воздуха</summary>
+<div class="p-4 is-size-7">
+<p class="has-text-weight-bold">Описание: Отображается в ситуации ненормальной тяги, неисправностью вентилятора или датчика давления воздуха.</p>
+<p class="has-text-weight-bold mt-2">Решение:</p>
+<ul class="ml-4 is-unstyled">
+<li>Убедитесь в нормальном состоянии дымохода. Если через 15 минут ошибка не устраняется, обратитесь в сервисную службу.</li>
+</ul>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-secondary mb-0"><span class="tag is-secondary is-medium mr-2">E3</span> Ошибка защитного термостата перегрева</summary>
+<div class="p-4 is-size-7">
+<p class="has-text-weight-bold">Описание: Отображается в ситуациях отсутствия теплоносителя или его циркуляции.</p>
+<p class="has-text-weight-bold mt-2">Решение:</p>
+<ul class="ml-4 is-unstyled">
+<li>Откройте кран разбора горячей воды для понижения температуры, проверьте состояние вентилей и магистралей отопления. Снять блокировку можно нажатием кнопки MODE.</li>
+</ul>
+</div>
+</details></div>
+</div>
+</div>
+<div class="card mb-5"><header class="card-header has-background-success">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-wrench"></i></span>Возможные неполадки и их устранения</p>
+</header>
+<div class="card-content content">
+<div id="troubleshootingAccordion"><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-dark mb-0">Вентилятор начал работать, но пламя не появляется</summary>
+<div class="p-4 is-size-7">
+<ul class="ml-4">
+<li>Не срабатывает реле давления воздуха / Блокировка дымохода / Утечка в системе отвода продуктов сгорания.</li>
+<li>Напряжение электропитания ниже 170 В - <span class="has-text-danger">Установите стабилизатор напряжения.</span></li>
+<li><span class="has-text-weight-bold">Решение:</span> Немедленно обратитесь в сервисный центр для диагностики.</li>
+</ul>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-dark mb-0">Неправильное горение: цвет пламени желтый или красный</summary>
+<div class="p-4 is-size-7">
+<ul class="ml-4">
+<li>Горелка загрязнена / Неправильное функционирование дымохода / Неверная настройка газового клапана.</li>
+</ul>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-dark mb-0">Котел Ардерия часто выключается</summary>
+<div class="p-4 is-size-7">
+<ul class="ml-4">
+<li>Недостаточное давление/утечки / Наличие воздуха в системе / Вал насоса заблокирован.</li>
+<li><span class="has-text-weight-bold">Решение:</span> Проверьте давление (1-1.2 bar), удалите воздух, поднимите давление в расширительном баке до 1.0 bar.</li>
+</ul>
+</div>
+</details></div>
+</div>
+</div>
+</div>
+</div>
+<div class="box has-background-dark has-text-white has-shadow p-5 mt-5">
+<div class="has-text-centered">
+<h3 class="title is-4 has-text-white"><span class="icon mr-2"><i class="fas fa-phone"></i></span>Нужна помощь специалиста?</h3>
+<p class="subtitle is-5 has-text-white">Не занимайтесь самостоятельным ремонтом газового оборудования!</p>
+<div class="columns is-mobile is-centered mt-4">
+<div class="column is-4-desktop is-half-mobile mb-2"><a href="tel:+79262211348" class="button is-success is-large is-fullwidth"> <span class="icon mr-2"><i class="fas fa-headset"></i></span> <span>Вызвать мастера</span> </a></div>
+</div>
+</div>
+</div>
+</div>

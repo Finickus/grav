@@ -1,0 +1,136 @@
+<section class="section has-background-light">
+<div class="container is-widescreen"><!-- Заголовок -->
+<section class="hero is-primary mb-6">
+<div class="hero-body has-text-centered">
+<h1 class="title is-3"><i class="fas fa-cogs mr-2"></i>Пусконаладочные работы</h1>
+<p class="subtitle is-5">Правильный ввод в эксплуатацию котла — залог надёжной работы и сохранения гарантии</p>
+</div>
+</section>
+<!-- Основное изображение -->
+<div class="box has-text-centered mb-6">
+<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/pusk.png" alt="Пусконаладочные работы" style="border: 1px solid #dbdbdb;"></figure>
+</div>
+<!-- Важность профессиональной пусконаладки -->
+<div class="box mb-6"><header class="has-background-info p-4 mb-4">
+<p class="title is-4 has-text-white mb-0"><i class="fas fa-exclamation-circle mr-2"></i>Важность профессиональной пусконаладки</p>
+</header>
+<div class="content">
+<p>Производители требуют, чтобы новый котёл вводился в эксплуатацию профессионально подготовленной организацией — только в этом случае сохраняется заводская гарантия.</p>
+<div class="notification is-danger mt-4">
+<p class="title is-6 mb-1"><i class="fas fa-times-circle mr-2"></i>Важно!</p>
+<p class="mb-0">Если пусконаладку выполняет специалист, не прошедший обучение у производителя котла, оборудование <strong>может не покрываться гарантией</strong>.</p>
+</div>
+</div>
+</div>
+<!-- Что включает пусконаладка -->
+<div class="box mb-6"><header class="has-background-warning p-4 mb-4">
+<p class="title is-4 has-text-dark mb-0"><i class="fas fa-list mr-2"></i>Ввод в эксплуатацию (пусконаладка котла) включает:</p>
+</header>
+<div class="content">
+<div class="columns">
+<div class="column">
+<ul>
+<li class="mb-2"><i class="fas fa-play-circle has-text-primary mr-2"></i> Первый запуск котла</li>
+<li class="mb-2"><i class="fas fa-sliders-h has-text-success mr-2"></i> Регулировка газового клапана под местные газовые сети</li>
+<li class="mb-2"><i class="fas fa-thermometer-half has-text-danger mr-2"></i> Монтаж и настройка термостата</li>
+<li class="mb-2"><i class="fas fa-shield-alt has-text-info mr-2"></i> Проверка системы на герметичность газа</li>
+</ul>
+</div>
+<div class="column">
+<ul>
+<li class="mb-2"><i class="fas fa-wind has-text-warning mr-2"></i> Проверка притока воздуха к прибору и дымохода</li>
+<li class="mb-2"><i class="fas fa-file-contract has-text-grey mr-2"></i> Заполнение исполнительной документации</li>
+<li class="mb-2"><i class="fas fa-check-circle has-text-success mr-2"></i> Комплексная проверка всех систем</li>
+<li class="mb-2"><i class="fas fa-cog has-text-primary mr-2"></i> Финальная настройка параметров</li>
+</ul>
+</div>
+</div>
+<div class="notification is-info mt-4">
+<p class="title is-6 mb-1"><i class="fas fa-info-circle mr-2"></i>Условия проведения</p>
+<p class="mb-0">Пусконаладка возможна только при условии, что котёл подключён <strong>строго по инструкции по установке</strong> (газ, электропитание, отопление, вода и т.д.).</p>
+</div>
+</div>
+</div>
+<!-- Необходимые документы и подготовка -->
+<div class="box mb-6"><header class="has-background-success p-4 mb-4">
+<p class="title is-4 has-text-white mb-0"><i class="fas fa-clipboard-check mr-2"></i>Необходимые документы и подготовка</p>
+</header>
+<div class="content">
+<p>До начала работы котла у вас <strong>должны быть</strong>:</p>
+<ul>
+<li><i class="fas fa-file-alt has-text-info mr-2"></i> Отчёт о проверке дымохода</li>
+<li><i class="fas fa-bolt has-text-warning mr-2"></i> Рабочее заземление</li>
+</ul>
+<div class="notification is-primary mt-4">
+<p class="title is-6 mb-1"><i class="fas fa-tools mr-2"></i>Мы можем выполнить все необходимые мероприятия</p>
+<p class="mb-0">Все подготовительные работы и проверки можно включить в комплексную услугу по пусконаладке.</p>
+</div>
+</div>
+</div>
+<!-- Производители -->
+<div class="box mb-6"><header class="has-background-grey-darker p-4 mb-4">
+<p class="title is-4 has-text-white mb-0"><i class="fas fa-industry mr-2"></i>Производители котлов, с которыми мы работаем</p>
+</header>
+<div class="content">
+<div class="columns is-multiline has-text-centered">
+<div class="column is-3">
+<div class="box p-4"><i class="fas fa-fire has-text-danger fa-2x mb-2"></i>
+<h6 class="title is-6">Protherm</h6>
+</div>
+</div>
+<div class="column is-3">
+<div class="box p-4"><i class="fas fa-fire has-text-info fa-2x mb-2"></i>
+<h6 class="title is-6">Vaillant</h6>
+</div>
+</div>
+<div class="column is-3">
+<div class="box p-4"><i class="fas fa-fire has-text-success fa-2x mb-2"></i>
+<h6 class="title is-6">Viessmann</h6>
+</div>
+</div>
+<div class="column is-3">
+<div class="box p-4"><i class="fas fa-fire has-text-info fa-2x mb-2"></i>
+<h6 class="title is-6">Junkers</h6>
+</div>
+</div>
+<div class="column is-3">
+<div class="box p-4"><i class="fas fa-fire has-text-warning fa-2x mb-2"></i>
+<h6 class="title is-6">Wolf</h6>
+</div>
+</div>
+<div class="column is-3">
+<div class="box p-4"><i class="fas fa-fire has-text-grey fa-2x mb-2"></i>
+<h6 class="title is-6">Baxi</h6>
+</div>
+</div>
+<div class="column is-3">
+<div class="box p-4"><i class="fas fa-fire has-text-danger fa-2x mb-2"></i>
+<h6 class="title is-6">Immergas</h6>
+</div>
+</div>
+<div class="column is-3">
+<div class="box p-4"><i class="fas fa-fire has-text-info fa-2x mb-2"></i>
+<h6 class="title is-6">Mora / Mora Top</h6>
+</div>
+</div>
+<div class="column is-12">
+<div class="box p-4"><i class="fas fa-fire has-text-success fa-2x mb-2"></i>
+<h6 class="title is-6">Ферроли и другие производители</h6>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Заказ -->
+<div class="box has-background-primary has-text-white">
+<div class="has-text-centered">
+<h3 class="title is-4"><i class="fas fa-shopping-cart mr-2"></i>Закажите пусконаладочные работы</h3>
+<p class="subtitle is-5">Получите профессиональный ввод в эксплуатацию с гарантией</p>
+<div class="columns is-centered mt-4">
+<div class="column is-4"><a href="tel:+79262211348" class="button is-large is-light is-fullwidth"> <i class="fas fa-phone mr-2"></i>Позвонить </a></div>
+<div class="column is-4"><a href="https://service04.ru/contact-us/feedback" class="button is-large is-warning is-fullwidth has-text-dark"> <i class="fas fa-envelope mr-2"></i>Оставить заявку </a></div>
+</div>
+</div>
+</div>
+</div>
+</section>

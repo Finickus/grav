@@ -1,0 +1,194 @@
+<div class="container is-widescreen mt-5 mb-5">
+<section class="hero is-primary is-bold mb-5">
+<div class="hero-body">
+<div class="has-text-centered">
+<h1 class="title is-2 has-text-white"><span class="icon is-medium mr-3"><i class="fas fa-cogs"></i></span>Запчасти для газовой колонки Ariston</h1>
+<p class="subtitle is-4 has-text-white">Оригинальные комплектующие по выгодным ценам</p>
+</div>
+</div>
+</section>
+<div class="box mb-5 has-shadow">
+<p>Газовые колонки Ariston – это надежное и долговечное оборудование, но даже самая качественная техника со временем требует ремонта. Мы предлагаем <strong>полный ассортимент оригинальных запчастей</strong> для газовых колонок Ariston по доступным ценам, которые помогут быстро восстановить работоспособность вашего водонагревателя.</p>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-info">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-question-circle"></i></span> Почему выходят из строя газовые колонки Ariston?</p>
+</header>
+<div class="card-content">
+<div class="content">
+<p>Итальянские проточные водонагреватели Ariston отличаются высокой надежностью, но могут выходить из строя по нескольким причинам:</p>
+<div class="columns is-multiline">
+<div class="column is-half">
+<ul class="ml-0 is-unstyled">
+<li class="mb-2"><span class="icon has-text-danger mr-2"><i class="fas fa-bolt"></i></span> Перепады напряжения в сети</li>
+<li class="mb-2"><span class="icon has-text-warning mr-2"><i class="fas fa-tachometer-alt"></i></span> Нестабильное давление воды или газа</li>
+<li class="mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-hourglass-half"></i></span> Естественный износ деталей</li>
+</ul>
+</div>
+<div class="column is-half">
+<ul class="ml-0 is-unstyled">
+<li class="mb-2"><span class="icon has-text-info mr-2"><i class="fas fa-exclamation-triangle"></i></span> Нарушение правил эксплуатации</li>
+<li class="mb-2"><span class="icon has-text-success mr-2"><i class="fas fa-wrench"></i></span> Отсутствие регулярного обслуживания</li>
+</ul>
+</div>
+</div>
+<p>Для оперативного ремонта требуются <strong>качественные запчасти</strong>, соответствующие оригинальным стандартам производителя.</p>
+</div>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-success">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-list"></i></span> Какие запчасти чаще всего требуют замены?</p>
+</header>
+<div class="card-content">
+<p class="mb-4">В нашем каталоге представлены все необходимые детали для ремонта и обслуживания газовых колонок Ariston:</p>
+<div class="content"><details class="box mb-3 border">
+<summary class="title is-5 has-text-primary mb-0"><span class="icon mr-2"><i class="fas fa-border-all"></i></span> 1. Основные функциональные узлы</summary>
+<div class="details-content">
+<ul class="ml-4 mt-3 is-unstyled">
+<li class="mb-2"><span class="icon has-text-danger mr-2"><i class="fas fa-fire"></i></span> <strong>Теплообменники</strong> - самая важная и дорогостоящая деталь</li>
+<li class="mb-2"><span class="icon has-text-info mr-2"><i class="fas fa-microchip"></i></span> <strong>Блоки/платы управления</strong> - "мозг" вашей колонки</li>
+<li class="mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-tint"></i></span> <strong>Водяные и газовые узлы (редукторы)</strong></li>
+<li class="mb-2"><span class="icon has-text-warning mr-2"><i class="fas fa-sliders-h"></i></span> <strong>Регуляторы протока и мембраны</strong></li>
+</ul>
+</div>
+</details><details class="box mb-3 border">
+<summary class="title is-5 has-text-primary mb-0"><span class="icon mr-2"><i class="fas fa-fire"></i></span> 2. Система розжига и горения</summary>
+<div class="details-content">
+<ul class="ml-4 mt-3 is-unstyled">
+<li class="mb-2"><span class="icon has-text-danger mr-2"><i class="fas fa-burn"></i></span> <strong>Горелки и запальники</strong></li>
+<li class="mb-2"><span class="icon has-text-warning mr-2"><i class="fas fa-wind"></i></span> <strong>Форсунки запальников</strong></li>
+<li class="mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-bolt"></i></span> <strong>Электроды зажигания</strong></li>
+<li class="mb-2"><span class="icon has-text-info mr-2"><i class="fas fa-thermometer-half"></i></span> <strong>Термопары и датчики ионизации</strong></li>
+</ul>
+</div>
+</details><details class="box mb-3 border">
+<summary class="title is-5 has-text-primary mb-0"><span class="icon mr-2"><i class="fas fa-shield-alt"></i></span> 3. Защитные системы</summary>
+<div class="details-content">
+<ul class="ml-4 mt-3 is-unstyled">
+<li class="mb-2"><span class="icon has-text-danger mr-2"><i class="fas fa-thermometer-full"></i></span> <strong>Термостаты и датчики температуры</strong></li>
+<li class="mb-2"><span class="icon has-text-warning mr-2"><i class="fas fa-valve"></i></span> <strong>Предохранительные и трехходовые клапаны</strong></li>
+<li class="mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-battery-half"></i></span> <strong>Магниевые аноды</strong> (для защиты от коррозии)</li>
+</ul>
+</div>
+</details><details class="box mb-3 border">
+<summary class="title is-5 has-text-primary mb-0"><span class="icon mr-2"><i class="fas fa-plus-circle"></i></span> 4. Дополнительные компоненты</summary>
+<div class="details-content">
+<ul class="ml-4 mt-3 is-unstyled">
+<li class="mb-2"><span class="icon has-text-info mr-2"><i class="fas fa-pump"></i></span> <strong>Циркуляционные насосы</strong></li>
+<li class="mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-grip-lines"></i></span> <strong>Уплотнители и прокладки</strong></li>
+<li class="mb-2"><span class="icon has-text-warning mr-2"><i class="fas fa-screwdriver"></i></span> <strong>Крепежные элементы</strong></li>
+<li class="mb-2"><span class="icon has-text-success mr-2"><i class="fas fa-tv"></i></span> <strong>Панели управления и дисплеи</strong></li>
+</ul>
+</div>
+</details></div>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-warning">
+<p class="card-header-title has-text-dark is-size-5"><span class="icon mr-2"><i class="fas fa-thumbs-up"></i></span> 5 преимуществ покупки запчастей у нас</p>
+</header>
+<div class="card-content">
+<div class="columns is-multiline has-text-centered">
+<div class="column is-one-sixth-desktop is-half-mobile mb-4"><span class="icon is-large has-text-success mb-2"><i class="fas fa-certificate fa-2x"></i></span>
+<p class="is-size-7 mb-0"><strong>Гарантия качества</strong></p>
+</div>
+<div class="column is-one-sixth-desktop is-half-mobile mb-4"><span class="icon is-large has-text-primary mb-2"><i class="fas fa-th-large fa-2x"></i></span>
+<p class="is-size-7 mb-0"><strong>Широкий ассортимент</strong></p>
+</div>
+<div class="column is-one-sixth-desktop is-half-mobile mb-4"><span class="icon is-large has-text-info mb-2"><i class="fas fa-search fa-2x"></i></span>
+<p class="is-size-7 mb-0"><strong>Простой подбор</strong></p>
+</div>
+<div class="column is-one-sixth-desktop is-half-mobile mb-4"><span class="icon is-large has-text-warning mb-2"><i class="fas fa-tag fa-2x"></i></span>
+<p class="is-size-7 mb-0"><strong>Доступные цены</strong></p>
+</div>
+<div class="column is-one-sixth-desktop is-half-mobile mb-4"><span class="icon is-large has-text-danger mb-2"><i class="fas fa-truck fa-2x"></i></span>
+<p class="is-size-7 mb-0"><strong>Гибкие условия</strong></p>
+</div>
+<div class="column is-one-sixth-desktop is-half-mobile mb-4"><span class="icon is-large has-text-secondary mb-2"><i class="fas fa-headset fa-2x"></i></span>
+<p class="is-size-7 mb-0"><strong>Поддержка</strong></p>
+</div>
+</div>
+<div class="content mt-3">
+<p class="mb-1"><span class="icon has-text-success mr-2"><i class="fas fa-certificate"></i></span> <strong>Гарантия качества</strong> - Мы предлагаем только оригинальные комплектующие и сертифицированные аналоги, рекомендованные производителем.</p>
+<p class="mb-1"><span class="icon has-text-primary mr-2"><i class="fas fa-th-large"></i></span> <strong>Широкий ассортимент</strong> - В наличии сотни наименований запчастей для всех моделей Ariston.</p>
+<p class="mb-1"><span class="icon has-text-info mr-2"><i class="fas fa-search"></i></span> <strong>Простой подбор</strong> - Найти нужную деталь можно по артикулу, названию или модели.</p>
+<p class="mb-1"><span class="icon has-text-warning mr-2"><i class="fas fa-tag"></i></span> <strong>Доступные цены</strong> - Прямые поставки позволяют предлагать выгодные цены.</p>
+<p class="mb-0"><span class="icon has-text-danger mr-2"><i class="fas fa-truck"></i></span> <strong>Гибкие условия</strong> - Быстрая доставка, заказ отсутствующих деталей, скидки для оптовиков.</p>
+</div>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-secondary">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-question"></i></span> Как правильно выбрать запчасть?</p>
+</header>
+<div class="card-content">
+<div class="content">
+<ol class="mb-0 ml-4">
+<li class="mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-search"></i></span> Определите модель вашей колонки (указана на шильдике)</li>
+<li class="mb-2"><span class="icon has-text-success mr-2"><i class="fas fa-list-ol"></i></span> Найдите в инструкции или на сайте код неисправности</li>
+<li class="mb-2"><span class="icon has-text-warning mr-2"><i class="fas fa-shopping-cart"></i></span> Выберите нужную деталь в нашем каталоге: по номеру, названию или модели.</li>
+</ol>
+<div class="notification is-info is-light mt-3 mb-0">
+<h6 class="title is-6 has-text-dark"><span class="icon mr-2"><i class="fas fa-info-circle"></i></span>Нужна помощь?</h6>
+<p class="mb-0">Наши специалисты бесплатно помогут с подбором!</p>
+</div>
+</div>
+</div>
+</div>
+<div class="card mb-5 has-shadow">
+<div class="card-content">
+<h5 class="title is-6 mb-3" style="color: #e37a25;"><span class="icon mr-2"><i class="fas fa-shopping-basket"></i></span>Где купить оригинальные запчасти?</h5>
+<div class="columns is-multiline has-text-centered">
+<div class="column is-one-third mb-4"><span class="icon is-large has-text-primary mb-2"><i class="fas fa-laptop fa-2x"></i></span>
+<p class="mb-0"><strong>В нашем интернет-магазине</strong> - самый большой выбор</p>
+</div>
+<div class="column is-one-third mb-4"><span class="icon is-large has-text-success mb-2"><i class="fas fa-store fa-2x"></i></span>
+<p class="mb-0"><strong>В розничных магазинах</strong> в вашем городе</p>
+</div>
+<div class="column is-one-third mb-4"><span class="icon is-large has-text-info mb-2"><i class="fas fa-user-tie fa-2x"></i></span>
+<p class="mb-0"><strong>Через официальных дилеров</strong> Ariston</p>
+</div>
+</div>
+<div class="notification is-success is-light mt-3 mb-0">
+<h6 class="title is-6 has-text-dark"><span class="icon mr-2"><i class="fas fa-users"></i></span>Для корпоративных клиентов</h6>
+<p class="mb-0">Действуют **специальные условия сотрудничества**!</p>
+</div>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-danger">
+<p class="card-header-title has-text-white is-size-6"><span class="icon mr-2"><i class="fas fa-tools"></i></span> Профессиональный ремонт или самостоятельная замена?</p>
+</header>
+<div class="card-content">
+<p>Для сложных работ (замена теплообменника, ремонт газового узла) рекомендуем обращаться к сертифицированным специалистам. Простые операции (замена мембраны, чистка горелки) можно выполнить самостоятельно, используя наши инструкции.</p>
+<div class="notification is-warning is-light mb-0 mt-3">
+<h6 class="title is-6 has-text-dark"><span class="icon mr-2"><i class="fas fa-exclamation-triangle"></i></span>Важно!</h6>
+<p class="mb-0">Все работы с газовым оборудованием должны проводиться с соблюдением мер безопасности.</p>
+</div>
+</div>
+</div>
+<div class="card mb-5 has-shadow">
+<div class="card-content">
+<h5 class="title is-6 mb-3" style="color: #e37a25;"><span class="icon mr-2"><i class="fas fa-flag-checkered"></i></span>Заключение</h5>
+<p>Правильно подобранные запчасти для газовой колонки Ariston - залог ее долгой и бесперебойной работы. Мы предлагаем:</p>
+<div class="content">
+<ul class="ml-0 is-unstyled">
+<li class="mb-1"><span class="icon has-text-success mr-2"><i class="fas fa-certificate"></i></span> Оригинальные комплектующие</li>
+<li class="mb-1"><span class="icon has-text-primary mr-2"><i class="fas fa-th-large"></i></span> Широкий ассортимент</li>
+<li class="mb-1"><span class="icon has-text-warning mr-2"><i class="fas fa-tag"></i></span> Доступные цены</li>
+<li class="mb-1"><span class="icon has-text-info mr-2"><i class="fas fa-headset"></i></span> Профессиональную поддержку</li>
+</ul>
+</div>
+<div class="notification is-primary is-light mt-3">
+<h6 class="title is-6 has-text-dark"><span class="icon mr-2"><i class="fas fa-exclamation-circle"></i></span>Не ждите!</h6>
+<p class="mb-0">**Не ждите, пока небольшая поломка превратится в серьезную проблему!** Заказывайте качественные запчасти для газовых колонок Ariston прямо сейчас и верните комфорт в ваш дом.</p>
+</div>
+</div>
+</div>
+<div class="box has-background-primary has-text-white p-5 has-shadow">
+<div class="has-text-centered">
+<h3 class="title is-4 has-text-white mb-3"><span class="icon mr-2"><i class="fas fa-shopping-cart"></i></span>Нужна запчасть для колонки Ariston?</h3>
+<p class="subtitle is-5 has-text-white">Свяжитесь с нами для подбора и заказа!</p>
+<div class="columns is-mobile is-centered mt-4">
+<div class="column is-4-desktop is-half-mobile mb-2"><a href="tel:+79262211348" class="button is-light is-large is-fullwidth"> <span class="icon mr-2"><i class="fas fa-phone"></i></span> <span>Позвонить</span> </a></div>
+<div class="column is-4-desktop is-half-mobile"><a href="https://service04.ru/contact-us/feedback" class="button is-warning is-large is-fullwidth has-text-dark"> <span class="icon mr-2"><i class="fas fa-envelope"></i></span> <span>Оставить заявку</span> </a></div>
+</div>
+</div>
+</div>
+</div>

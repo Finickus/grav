@@ -1,0 +1,174 @@
+<div class="container my-4"><!-- Заголовок -->
+<div class="jumbotron bg-primary text-white rounded">
+<div class="container">
+<h1 class="display-4"><i class="fas fa-fire me-3"></i>SIT 820 Nova</h1>
+<p class="lead">Купить в Москве по цене 4900 руб</p>
+</div>
+</div>
+<!-- Основное описание -->
+<div class="card mb-4">
+<div class="card-body">
+<div class="row">
+<div class="col-md-8">
+<h2 class="card-title" style="color: #e37a25;"><i class="fas fa-info-circle me-2"></i>Описание газового клапана SIT 820 Nova</h2>
+<p class="lead">Многофункциональный регулятор управления подачей газа, без модуляции мощности, с термоэлектрической системой контроля пламени.</p>
+<div class="mt-3">
+<h4 class="text-uppercase" style="color: #e37a25;">Основные характеристики:</h4>
+<ul>
+<li class="mb-2"><i class="fas fa-toggle-on text-primary me-2"></i> Одна кнопка управления (выключено, зажигание запальной горелки, рабочее положение)</li>
+<li class="mb-2"><i class="fas fa-lock text-success me-2"></i> Блокировка повторного розжига</li>
+<li class="mb-2"><i class="fas fa-sliders-h text-warning me-2"></i> Регулировка выходного давления</li>
+<li class="mb-2"><i class="fas fa-tint text-info me-2"></i> Регулировка потока газа на запальную горелку</li>
+<li class="mb-2"><i class="fas fa-sort-amount-up text-danger me-2"></i> Устройство ступенчатого открывания (по заказу)</li>
+</ul>
+</div>
+</div>
+<div class="col-md-4 text-center"><img src="https://service04.ru/bl-content/img/2019/12/16.png" alt="Схема SIT 820" class="img-fluid rounded border mb-3"> <a href="https://service04.ru/admin/edit-content/zapchasti/zapchasti-dlya-kotlov/thermona/303-40924-gazovyj-reduktor-sit-nova-820-detail.html" class="btn btn-success btn-lg btn-block"> <img src="https://service04.ru/bl-content/img/2019/12/buy_nowf-3.png" alt="Купить сейчас" class="img-fluid"> </a>
+<p class="mt-2"><strong>Цена: 4900 руб.</strong></p>
+</div>
+</div>
+</div>
+</div>
+<!-- Технические данные -->
+<div class="card mb-4">
+<div class="card-header bg-info text-white">
+<h3 class="mb-0"><i class="fas fa-list me-2"></i>Технические данные газового клапана 820 NOVA mv</h3>
+</div>
+<div class="card-body">
+<h4 class="card-title text-uppercase" style="color: #e37a25;">Электрические данные клапана 820 NOVA mv:</h4>
+<div class="table-responsive mb-4">
+<table class="table table-bordered table-striped">
+<thead class="thead-dark">
+<tr>
+<th>Параметр</th>
+<th>Значение</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Напряжение в открытой цепи</td>
+<td>≥ 370 мВ</td>
+</tr>
+<tr>
+<td>Напряжение при замкнутой цепи</td>
+<td>≥ 145 мВ</td>
+</tr>
+<tr>
+<td>Сопротивление катушки</td>
+<td>2,2 Ω</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 class="card-title text-uppercase mt-4" style="color: #e37a25;">Механические и рабочие параметры:</h4>
+<div class="table-responsive mb-4">
+<table class="table table-bordered table-striped">
+<thead class="thead-dark">
+<tr>
+<th>Параметр</th>
+<th>Значение</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Максимальное входное давление газа</td>
+<td>60 мБар</td>
+</tr>
+<tr>
+<td>Диапазон настройки регулятора примерно</td>
+<td>3..30 мБар</td>
+</tr>
+<tr>
+<td>Термопара</td>
+<td>М9х1</td>
+</tr>
+<tr>
+<td>Время зажигания</td>
+<td>&lt; 10 сек.</td>
+</tr>
+<tr>
+<td>Время сброса</td>
+<td>&lt; 60 сек.</td>
+</tr>
+<tr>
+<td>Число циклов зажигания</td>
+<td>5 000</td>
+</tr>
+<tr>
+<td>Система ручного сброса расчетное число циклов сброса</td>
+<td>5 000</td>
+</tr>
+</tbody>
+</table>
+</div>
+<h4 class="card-title text-uppercase mt-4" style="color: #e37a25;">Расход газа:</h4>
+<div class="table-responsive">
+<table class="table table-bordered table-striped">
+<thead class="thead-dark">
+<tr>
+<th>Семейство</th>
+<th>Расход (Q)</th>
+<th>Перепад давления (ΔP)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>I-е семейство (d=0.45)</td>
+<td>7.5 м³/час</td>
+<td>5 mbar</td>
+</tr>
+<tr>
+<td>II-е семейство (d=0.45)</td>
+<td>6.5 м³/час</td>
+<td>5 mbar</td>
+</tr>
+<tr>
+<td>III-е семейство (d=0.45)</td>
+<td>8.1 кг/час</td>
+<td>5 mbar</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<!-- Каталог -->
+<div class="card mb-4">
+<div class="card-header bg-warning text-dark">
+<h4 class="mb-0 text-uppercase"><i class="fas fa-file-pdf me-2"></i>КАТАЛОГ 820 SIT NOVA</h4>
+</div>
+<div class="card-body">
+<div class="row">
+<div class="col-md-6 mb-3">
+<div class="border rounded p-3 h-100">
+<h5 class="text-uppercase" style="color: #e37a25;">Техническая документация</h5>
+<p>Полное описание технических характеристик, принципа работы и настройки газового клапана SIT 820 Nova.</p>
+<a href="https://service04.ru/admin/edit-content/gazovyj-klapan-sit-820.html?file=files/img/zapchasti/sit/820_NOVA_RU.pdf" class="btn btn-primary"> <img src="https://service04.ru/bl-content/img/2019/12/iconPDF.gif" alt="PDF" class="me-2"> 820_NOVA_RU.pdf <span class="badge bg-secondary">(402.7 КиБ)</span> </a></div>
+</div>
+<div class="col-md-6 mb-3">
+<div class="border rounded p-3 h-100">
+<h5 class="text-uppercase" style="color: #e37a25;">Совместимость</h5>
+<p>Газовый клапан SIT 820 Nova совместим с различными моделями газовых котлов и колонок.</p>
+<ul class="mb-0">
+<li><i class="fas fa-check text-success me-2"></i> Котлы BAXI</li>
+<li><i class="fas fa-check text-success me-2"></i> Котлы Vaillant</li>
+<li><i class="fas fa-check text-success me-2"></i> Котлы Protherm</li>
+<li><i class="fas fa-check text-success me-2"></i> Котлы Junkers</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Заказ -->
+<div class="card bg-primary text-white">
+<div class="card-body text-center">
+<h3 class="card-title"><i class="fas fa-shopping-cart me-2"></i>Купить газовый клапан SIT 820 Nova</h3>
+<p class="card-text lead">Оригинальный клапан по выгодной цене 4900 руб.</p>
+<div class="row justify-content-center">
+<div class="col-md-4 mb-2"><a href="tel:+79262211348" class="btn btn-light btn-lg btn-block"> <i class="fas fa-phone me-2"></i>Позвонить </a></div>
+<div class="col-md-4"><a href="https://service04.ru/contact-us/feedback" class="btn btn-warning btn-lg btn-block text-dark"> <i class="fas fa-envelope me-2"></i>Оставить заявку </a></div>
+</div>
+</div>
+</div>
+</div>

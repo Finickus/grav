@@ -1,0 +1,125 @@
+<div class="container is-widescreen mt-5 mb-5">
+<section class="hero is-primary is-bold mb-5">
+<div class="hero-body">
+<div class="container has-text-centered">
+<h1 class="title is-2 has-text-white"><span class="icon is-medium mr-3"><i class="fas fa-fire"></i></span>Котлы EKCO.R2</h1>
+<p class="subtitle is-4 has-text-white">Электрические котлы от Kospel для надежного отопления</p>
+</div>
+</div>
+</section>
+<div class="card mb-5 has-shadow">
+<div class="card-content has-text-centered">
+<figure class="image is-inline-block"><a href="https://boilererror.ru/wp-content/uploads/2019/12/kotel-kospel10.jpg" target="_blank" rel="noopener"> <img src="https://service04.ru/bl-content/img/2019/12/kotel-kospel10-c924c717.jpg" alt="Котлы EKCO.R2" class="has-border-light"> </a></figure>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-info">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-gamepad"></i></span>Управление котлом EKCO.R2</p>
+</header>
+<div class="card-content">
+<div class="columns is-multiline">
+<div class="column is-half-desktop mb-3">
+<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/kotel-kospel12.jpg" alt="Панель управления EKCO.R2" class="has-border-light mb-3"> <img src="https://service04.ru/bl-content/img/2019/12/kotel-kospel11.jpg" alt="Схема подключения EKCO.R2" class="has-border-light"></figure>
+</div>
+<div class="column is-half-desktop content is-size-7">
+<h5 class="title is-6 has-text-warning">Основы управления</h5>
+<ul class="ml-4">
+<li>**Включение/выключение:** Нажмите и удерживайте кнопку включения.</li>
+<li>**Индикация включения:** Сигнализируется зажженным индикатором [3].</li>
+<li>**Отсутствие протока:** Если индикатор [4] мигает при включенной кнопке - отсутствует требуемый уровень протока теплоносителя.</li>
+</ul>
+<h5 class="title is-6 mt-4 has-text-warning">Экономный режим</h5>
+<ul class="ml-4">
+<li>**Включение:** Кнопка переключателя режима экономии.</li>
+<li>**Ограничение мощности:** Максимальная мощность ограничена до ⅔ номинальной.</li>
+</ul>
+<h5 class="title is-6 mt-4 has-text-warning">Индикация нагрева</h5>
+<ul class="ml-4">
+<li>**Индикатор [4]:** Сигнализирует о включении нагрева.</li>
+<li>**Горит:** Нагрев включен.</li>
+<li>**Мигает:** Отсутствие протока - нагрев блокируется.</li>
+</ul>
+</div>
+</div>
+<div class="notification is-warning mt-3 mb-0">
+<h5 class="title is-6"><span class="icon mr-2"><i class="fas fa-thermometer-three-quarters"></i></span>Установка температуры</h5>
+<p class="mb-0 is-size-7">Требуемая температура теплоносителя устанавливается кнопками <span class="icon has-text-link"><i class="fas fa-plus-circle"></i></span> и <span class="icon has-text-link"><i class="fas fa-minus-circle"></i></span>. На диодной линейке [6] высвечивается актуальная установка температуры на выходе. Мигающий диод на линейке обозначает температуру на 2,5°C ниже температуры, которую показывают предыдущие горящие диоды.</p>
+</div>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-success">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-list"></i></span>Описание панели управления</p>
+</header>
+<div class="card-content">
+<div class="columns is-multiline content is-size-7">
+<div class="column is-half">
+<h5 class="title is-6"><span class="icon mr-2"><i class="fas fa-sliders-h"></i></span>Элементы управления</h5>
+<ol class="ml-4">
+<li>**Индикатор установки температуры**</li>
+<li>**Кнопки управления:** Включатель котла, Увеличение/Понижение заданного значения температуры, Переключатель режима экономии.</li>
+<li>**Индикатор включения котла** <span class="icon has-text-primary"><i class="fas fa-circle"></i></span></li>
+<li>**Индикатор нагрева** <span class="icon has-text-danger"><i class="fas fa-circle"></i></span></li>
+<li>**Индикатор экономного режима** <span class="icon has-text-success"><i class="fas fa-circle"></i></span></li>
+</ol>
+</div>
+<div class="column is-half">
+<h5 class="title is-6"><span class="icon mr-2"><i class="fas fa-plug"></i></span>Подключения</h5>
+<ul class="ml-4">
+<li>**NA:** Блокировка нагрева (приоритетным энергопотребителем)</li>
+<li>**Q:** Подключение датчика протока</li>
+<li>**Twej/Twyj:** Подключение датчиков температуры на входе/выходе</li>
+<li>**Pompa (LN):** Подключение циркуляционного насоса</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-danger">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-exclamation-triangle"></i></span>Диагностика неисправностей</p>
+</header>
+<div class="card-content p-0">
+<div class="table-container">
+<table class="table is-bordered is-striped is-fullwidth mb-0">
+<thead class="has-background-dark has-text-white">
+<tr>
+<th>Признак</th>
+<th>Возможная причина</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>**Не горят индикаторы на панель управления**</td>
+<td>Отсутствие питания в системе управления</td>
+</tr>
+<tr>
+<td>**Мигает индикатор [4] (красный), горит индикатор [3]**</td>
+<td class="content is-size-7">
+<ul class="ml-4 mb-0">
+<li>Заблокирован насос / Отсутствие протока через котел – блокировка котла</li>
+<li>Авария системы питания насоса или датчика протока</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td>**Мигает вся диодная линейка [1]**</td>
+<td>Авария датчика температуры на выходе, нагрев заблокирован</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="notification is-info mt-3 mb-0">
+<h5 class="title is-6"><span class="icon mr-2"><i class="fas fa-file-contract"></i></span>Сервисная документация EKCO.R2</h5>
+<p class="mb-0 is-size-7">Подробная информация о техническом обслуживании и устранении неисправностей содержится в сервисной документации производителя.</p>
+</div>
+</div>
+</div>
+<div class="box has-background-primary has-text-white has-shadow p-5 mt-5">
+<div class="has-text-centered">
+<h3 class="title is-4 has-text-white"><span class="icon mr-2"><i class="fas fa-shopping-cart"></i></span>Запчасти и обслуживание котлов EKCO.R2</h3>
+<p class="subtitle is-5 has-text-white">Подберем нужные детали и обеспечим профессиональное обслуживание</p>
+<div class="columns is-mobile is-centered mt-4">
+<div class="column is-4-desktop is-half-mobile mb-2"><a href="tel:+79262211348" class="button is-light is-large is-fullwidth"> <span class="icon mr-2"><i class="fas fa-phone"></i></span> <span>Позвонить</span> </a></div>
+<div class="column is-4-desktop is-half-mobile"><a href="https://service04.ru/contact-us/feedback" class="button is-warning is-large is-fullwidth has-text-dark"> <span class="icon mr-2"><i class="fas fa-envelope"></i></span> <span>Оставить заявку</span> </a></div>
+</div>
+</div>
+</div>
+</div>

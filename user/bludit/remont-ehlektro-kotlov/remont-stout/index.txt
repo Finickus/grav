@@ -1,0 +1,398 @@
+<div class="main-wrapper"><header class="level is-mobile p-4 has-background-light is-fullwidth">
+<div class="container is-widescreen">
+<div class="level-left">
+<div class="level-item">
+<div class="logo-text title is-5" style="color: #e37a25;">STOUT Сервис</div>
+</div>
+</div>
+<div class="level-right is-hidden-mobile">
+<div class="level-item"><a href="tel:+79262211348" class="phone-header is-size-5 has-text-weight-bold has-text-primary">+7 (926) 221-13-48</a></div>
+<div class="level-item"><button class="button is-primary callback-btn">Заказать звонок</button></div>
+</div>
+<div class="level-right is-hidden-tablet">
+<div class="level-item"><a href="tel:+79262211348" class="button is-primary is-light"> <span class="icon"><i class="fas fa-phone"></i></span> </a></div>
+</div>
+</div>
+</header>
+<section class="hero is-primary is-bold is-medium mb-6">
+<div class="hero-body">
+<div class="container is-widescreen">
+<h1 class="title is-1 has-text-white">Профессиональный ремонт электрических котлов STOUT</h1>
+<p class="subtitle is-4 has-text-white">Бесплатная диагностика при ремонте. Гарантия 1 год на все работы. Выезд мастера в течение 24 часов.</p>
+<div class="field is-grouped is-mobile mt-5">
+<p class="control"><a href="tel:+79262211348" class="button is-large is-primary">Позвонить сейчас</a></p>
+<p class="control"><a href="#contact" class="button is-large is-light is-outlined">Контакты</a></p>
+</div>
+</div>
+</div>
+</section>
+<section class="section">
+<div class="container is-widescreen">
+<div class="has-text-centered mb-6">
+<h2 class="title is-3">Распространенные проблемы котлов STOUT</h2>
+<p class="subtitle is-5">Мы устраняем любые неисправности электрических котлов STOUT</p>
+</div>
+<div class="columns is-multiline is-centered">
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box has-text-centered problem-card"><span class="icon is-large stage-icon mb-3"><i class="fas fa-power-off"></i></span>
+<h3 class="title is-5">Котёл не включается</h3>
+<p class="is-size-6">Проблемы с подачей питания, неисправность блока управления или предохранителей.</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box has-text-centered problem-card"><span class="icon is-large stage-icon mb-3"><i class="fas fa-thermometer-empty"></i></span>
+<h3 class="title is-5">Не нагревает воду</h3>
+<p class="is-size-6">Выход из строя ТЭНов, неисправность терморегулятора или проблемы с датчиками температуры.</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box has-text-centered problem-card"><span class="icon is-large stage-icon mb-3"><i class="fas fa-exclamation-triangle"></i></span>
+<h3 class="title is-5">Появляются ошибки</h3>
+<p class="is-size-6">Расшифровка и устранение ошибок E01, E02, E03, E04 и других кодов неисправностей.</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box has-text-centered problem-card"><span class="icon is-large stage-icon mb-3"><i class="fas fa-tint"></i></span>
+<h3 class="title is-5">Протечки воды</h3>
+<p class="is-size-6">Замена прокладок, уплотнений, ремонт соединений или теплообменника.</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box has-text-centered problem-card"><span class="icon is-large stage-icon mb-3"><i class="fas fa-cogs"></i></span>
+<h3 class="title is-5">Шумная работа</h3>
+<p class="is-size-6">Устранение воздушных пробок, чистка насоса, замена изношенных деталей.</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box has-text-centered problem-card"><span class="icon is-large stage-icon mb-3"><i class="fas fa-bolt"></i></span>
+<h3 class="title is-5">Скачки напряжения</h3>
+<p class="is-size-6">Защита электроники, стабилизация напряжения, замена поврежденных компонентов.</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section has-background-light">
+<div class="container is-widescreen">
+<div class="has-text-centered mb-6">
+<h2 class="title is-3">Почему выбирают нас</h2>
+<p class="subtitle is-5">Наши преимущества в ремонте котлов STOUT</p>
+</div>
+<div class="columns is-multiline is-centered">
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box has-text-centered benefit-card animate-icon-hover"><span class="icon is-large has-text-primary mb-3"><i class="fas fa-tools fa-2x"></i></span>
+<h3 class="title is-5">Специализация на STOUT</h3>
+<p class="is-size-6">Мы ремонтируем исключительно котлы STOUT и знаем все их особенности</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box has-text-centered benefit-card animate-icon-hover"><span class="icon is-large has-text-success mb-3"><i class="fas fa-search fa-2x"></i></span>
+<h3 class="title is-5">Бесплатная диагностика</h3>
+<p class="is-size-6">При проведении ремонта у нас диагностика выполняется бесплатно</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box has-text-centered benefit-card animate-icon-hover"><span class="icon is-large has-text-warning mb-3"><i class="fas fa-cube fa-2x"></i></span>
+<h3 class="title is-5">Оригинальные запчасти</h3>
+<p class="is-size-6">Используем только оригинальные комплектующие STOUT</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box has-text-centered benefit-card animate-icon-hover"><span class="icon is-large has-text-info mb-3"><i class="fas fa-user-tie fa-2x"></i></span>
+<h3 class="title is-5">Опытные мастера</h3>
+<p class="is-size-6">Наши специалисты имеют сертификаты и опыт от 5 лет</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box has-text-centered benefit-card animate-icon-hover"><span class="icon is-large has-text-danger mb-3"><i class="fas fa-shield-alt fa-2x"></i></span>
+<h3 class="title is-5">Гарантия 1 год</h3>
+<p class="is-size-6">Даем гарантию на все выполненные работы и установленные детали</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box has-text-centered benefit-card animate-icon-hover"><span class="icon is-large has-text-secondary mb-3"><i class="fas fa-home fa-2x"></i></span>
+<h3 class="title is-5">Ремонт на дому</h3>
+<p class="is-size-6">Выполняем ремонт без снятия оборудования у вас дома</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section">
+<div class="container is-widescreen">
+<div class="has-text-centered mb-6">
+<h2 class="title is-3">Как мы работаем</h2>
+<p class="subtitle is-5">Простой процесс организации ремонта</p>
+</div>
+<div class="columns is-multiline is-centered has-text-centered">
+<div class="column is-one-fifth-desktop is-half-mobile">
+<div class="step-number tag is-large is-primary is-rounded">1</div>
+<h3 class="title is-5 mt-3">Звонок</h3>
+<p class="is-size-6">Звоните нам по телефону +7 (926) 221-13-48</p>
+</div>
+<div class="column is-one-fifth-desktop is-half-mobile">
+<div class="step-number tag is-large is-primary is-rounded">2</div>
+<h3 class="title is-5 mt-3">Выезд мастера</h3>
+<p class="is-size-6">Мастер приезжает к вам в течение 24 часов</p>
+</div>
+<div class="column is-one-fifth-desktop is-half-mobile">
+<div class="step-number tag is-large is-primary is-rounded">3</div>
+<h3 class="title is-5 mt-3">Диагностика</h3>
+<p class="is-size-6">Бесплатная диагностика оборудования</p>
+</div>
+<div class="column is-one-fifth-desktop is-half-mobile">
+<div class="step-number tag is-large is-primary is-rounded">4</div>
+<h3 class="title is-5 mt-3">Ремонт</h3>
+<p class="is-size-6">Согласование стоимости и выполнение ремонта</p>
+</div>
+<div class="column is-one-fifth-desktop is-half-mobile">
+<div class="step-number tag is-large is-primary is-rounded">5</div>
+<h3 class="title is-5 mt-3">Гарантия</h3>
+<p class="is-size-6">Проверка работы и оформление гарантии</p>
+</div>
+</div>
+</div>
+</section>
+<section class="section has-background-light">
+<div class="container is-widescreen">
+<div class="has-text-centered mb-6">
+<h2 class="title is-3">Какие неисправности мы устраняем</h2>
+<p class="subtitle is-5">Полный перечень ремонтных работ для котлов STOUT</p>
+</div>
+<div class="columns is-multiline is-centered">
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box repair-card">
+<h3 class="title is-5">Ремонт электроники</h3>
+<p class="is-size-6">Диагностика и ремонт блоков управления, замена плат, устранение ошибок кодов</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box repair-card">
+<h3 class="title is-5">Замена нагревательных элементов</h3>
+<p class="is-size-6">Замена ТЭНов, устранение накипи, восстановление нагревательной функции</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box repair-card">
+<h3 class="title is-5">Ремонт системы управления</h3>
+<p class="is-size-6">Восстановление работы термостатов, программируемых контроллеров, дисплеев</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box repair-card">
+<h3 class="title is-5">Устранение протечек</h3>
+<p class="is-size-6">Замена прокладок, уплотнений, ремонт соединений и теплообменника</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box repair-card">
+<h3 class="title is-5">Обслуживание насосов</h3>
+<p class="is-size-6">Чистка, ремонт или замена циркуляционных насосов</p>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet">
+<div class="box repair-card">
+<h3 class="title is-5">Чистка от накипи</h3>
+<p class="is-size-6">Профессиональная очистка котла от накипи и отложений</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section">
+<div class="container is-widescreen">
+<div class="has-text-centered mb-6">
+<h2 class="title is-3">Популярные модели STOUT</h2>
+<p class="subtitle is-5">Мы ремонтируем все модели электрических котлов STOUT</p>
+</div>
+<div class="columns is-multiline is-centered">
+<div class="column is-one-fifth-desktop is-half-tablet">
+<div class="card model-card has-text-centered">
+<div class="card-image p-4">
+<figure class="image"><img src="https://stout.ru/upload/iblock/4d9/4d9c5d1e5d7f6b1c8d3e5f0a1b2c3d4e.png" alt="STOUT SEB"></figure>
+</div>
+<div class="card-content">
+<h3 class="title is-5">STOUT SEB</h3>
+<p class="is-size-6">Одноконтурные модели</p>
+</div>
+</div>
+</div>
+<div class="column is-one-fifth-desktop is-half-tablet">
+<div class="card model-card has-text-centered">
+<div class="card-image p-4">
+<figure class="image"><img src="https://stout.ru/upload/iblock/7a3/7a3c5d1e5d7f6b1c8d3e5f0a1b2c3d4e.png" alt="STOUT SCE"></figure>
+</div>
+<div class="card-content">
+<h3 class="title is-5">STOUT SCE</h3>
+<p class="is-size-6">Двухконтурные модели</p>
+</div>
+</div>
+</div>
+<div class="column is-one-fifth-desktop is-half-tablet">
+<div class="card model-card has-text-centered">
+<div class="card-image p-4">
+<figure class="image"><img src="https://stout.ru/upload/iblock/9b1/9b1c5d1e5d7f6b1c8d3e5f0a1b2c3d4e.png" alt="STOUT SRE"></figure>
+</div>
+<div class="card-content">
+<h3 class="title is-5">STOUT SRE</h3>
+<p class="is-size-6">Премиум серия</p>
+</div>
+</div>
+</div>
+<div class="column is-one-fifth-desktop is-half-tablet">
+<div class="card model-card has-text-centered">
+<div class="card-image p-4">
+<figure class="image"><img src="https://stout.ru/upload/iblock/2f5/2f5c5d1e5d7f6b1c8d3e5f0a1b2c3d4e.png" alt="STOUT SEV"></figure>
+</div>
+<div class="card-content">
+<h3 class="title is-5">STOUT SEV</h3>
+<p class="is-size-6">Вертикальные модели</p>
+</div>
+</div>
+</div>
+<div class="column is-one-fifth-desktop is-half-tablet">
+<div class="card model-card has-text-centered">
+<div class="card-image p-4">
+<figure class="image"><img src="https://stout.ru/upload/iblock/6e7/6e7c5d1e5d7f6b1c8d3e5f0a1b2c3d4e.png" alt="STOUT SEW"></figure>
+</div>
+<div class="card-content">
+<h3 class="title is-5">STOUT SEW</h3>
+<p class="is-size-6">Настенные модели</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section pricing has-background-light" id="prices">
+<div class="container is-widescreen">
+<div class="has-text-centered mb-6">
+<h2 class="title is-3">Стоимость ремонта</h2>
+<p class="subtitle is-5">Прозрачные цены на услуги по ремонту котлов</p>
+</div>
+<div class="columns is-multiline is-centered">
+<div class="column is-one-third-desktop is-full-mobile">
+<div class="card is-fullwidth has-text-centered price-card">
+<div class="card-header has-background-primary-light">
+<div class="card-header-title is-centered is-size-4 has-text-dark">Диагностика</div>
+</div>
+<div class="card-content">
+<div class="price title is-1 has-text-primary">Бесплатно</div>
+<p class="subtitle is-6 mb-4">При ремонте у нас</p>
+<div class="content mb-5">
+<ul class="has-text-left ml-4">
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Выезд мастера</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Проверка оборудования</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Определение неисправности</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Составление сметы</li>
+</ul>
+</div>
+<a href="tel:+79262211348" class="button is-primary is-large is-fullwidth">Заказать диагностику</a></div>
+</div>
+</div>
+<div class="column is-one-third-desktop is-full-mobile">
+<div class="card is-fullwidth has-text-centered price-card">
+<div class="card-header has-background-primary-light">
+<div class="card-header-title is-centered is-size-4 has-text-dark">Стандартный ремонт</div>
+</div>
+<div class="card-content">
+<div class="price title is-1 has-text-primary">от 3 500₽</div>
+<p class="subtitle is-6 mb-4">Наиболее частые неисправности</p>
+<div class="content mb-5">
+<ul class="has-text-left ml-4">
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Замена ТЭНа</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Замена термостата</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Устранение протечек</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Чистка от накипи</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Замена датчиков</li>
+</ul>
+</div>
+<a href="tel:+79262211348" class="button is-primary is-large is-fullwidth">Заказать ремонт</a></div>
+</div>
+</div>
+<div class="column is-one-third-desktop is-full-mobile">
+<div class="card is-fullwidth has-text-centered price-card">
+<div class="card-header has-background-primary-light">
+<div class="card-header-title is-centered is-size-4 has-text-dark">Сложный ремонт</div>
+</div>
+<div class="card-content">
+<div class="price title is-1 has-text-primary">от 7 900₽</div>
+<p class="subtitle is-6 mb-4">Серьезные неисправности</p>
+<div class="content mb-5">
+<ul class="has-text-left ml-4">
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Замена блока управления</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Ремонт электронной платы</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Замена циркуляционного насоса</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Ремонт теплообменника</li>
+<li><span class="icon has-text-success"><i class="fas fa-check"></i></span> Комплексное обслуживание</li>
+</ul>
+</div>
+<a href="tel:+79262211348" class="button is-primary is-large is-fullwidth">Заказать ремонт</a></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section">
+<div class="container is-widescreen">
+<div class="has-text-centered mb-6">
+<h2 class="title is-3">Отзывы клиентов</h2>
+<p class="subtitle is-5">Что говорят наши клиенты о качестве ремонта</p>
+</div>
+<div class="columns is-multiline">
+<div class="column is-one-third-desktop is-full-mobile">
+<div class="card testimonial-card">
+<div class="card-content">
+<div class="testimonial-text mb-4">
+<p class="is-size-6">Котел STOUT перестал включаться, позвонил по телефону. Мастер приехал в тот же день, быстро нашел проблему (перегорел ТЭН). Заменили, все проверили. Работают аккуратно, цена адекватная. Гарантию дали на работу. Рекомендую!</p>
+</div>
+<div class="level is-mobile">
+<div class="level-left">
+<div class="author-info">
+<h4 class="title is-5 mb-0">Игорь Васильев</h4>
+<p class="subtitle is-7 has-text-grey">Модель: STOUT SCE-12</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="column is-one-third-desktop is-full-mobile">
+<div class="card testimonial-card">
+<div class="card-content">
+<div class="testimonial-text mb-4">
+<p class="is-size-6">Появилась ошибка E04 на котле STOUT. Позвонил по номеру +7 (926) 221-13-48. Мастер приехал через 3 часа, диагностировал проблему с датчиком температуры. Заменил датчик, все настроил. Работает уже 4 месяца без нареканий. Спасибо!</p>
+</div>
+<div class="level is-mobile">
+<div class="level-left">
+<div class="author-info">
+<h4 class="title is-5 mb-0">Ольга Семенова</h4>
+<p class="subtitle is-7 has-text-grey">Модель: STOUT SEB-9</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="column is-one-third-desktop is-full-mobile">
+<div class="card testimonial-card">
+<div class="card-content">
+<div class="testimonial-text mb-4">
+<p class="is-size-6">Начал капать котел STOUT SRE. Позвонил в сервис. Оказалось, проблема с соединением труб. Все починили за час, протечек больше нет. Работают чисто, ничего не испачкали. Цена соответствовала озвученной. Буду рекомендовать знакомым.</p>
+</div>
+<div class="level is-mobile">
+<div class="level-left">
+<div class="author-info">
+<h4 class="title is-5 mb-0">Алексей Петров</h4>
+<p class="subtitle is-7 has-text-grey">Модель: STOUT SRE-15</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<div class="has-text-centered mb-5"><img src="https://service04.ru/bl-content/uploads/pages/autosave-072621b09c828c606acbe69430fd19db/Screenshot_43.jpg" alt="Изображение котла STOUT" class="is-fullwidth"></div>
+</div>

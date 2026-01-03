@@ -1,0 +1,56 @@
+﻿---
+title: 'Bez nazvaniya'
+---
+
+
+<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2566_14-x-plyn-rozstrel-male.jpg" alt="Запчасти термона"></p>
+<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'> </p>
+<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>[01] — 41366 Газовый редуктор SIT 845 SIGMA<br>
+[02] — 20253.1 Tрубка газовая 3-Th-0324A/Sit<br>
+[03] — 21302 Горелка 6 ram. NOx, сопла 0,95<br>
+[04] — 40798 Камера сгорания 14X, XZ 3-Th-0328<br>
+[05] — 40810 Изоляция Tibrex 12мм<br>
+[06] — 20400 Теплообменник дымовые газы/вода PR 12-3230003<br>
+[07] — 40797 Тягопрерыватель 14 кВт<br>
+[09] — 40594.1 Ионизационный электрод IS 058.1<br>
+[10] — 40611 Зажигающий электрод ZE 652 (левый a правый )<br>
+[11] — 41424 Катушка соленоида SIT<br>
+[12] — 40612 Зажигающий электрод ZE 651(левый a правый)<br>
+[13] — 40806 Держак свечек — THERM<br>
+[14] — 21300 Рамка горелки 6 ram., NOx<br>
+[42] — 40029 Прокладка 24x16x2<br>
+[45] — 40527 Термостат контактный 36TXE 75°C</p>
+<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'> <img src="https://service04.ru/bl-content/img/2019/12/2566_Vodni-cast-14X.A-male.jpg" alt="Описание котла THERM PRO 14 X.A 2015г. выпуска:"></p>
+<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>[03] — 21302 Горелка 6 ram. NOx, сопла 0,95<br>
+[06] — 20400 Теплообменник дымовые газы/вода PR 12-3230003<br>
+[15] — 26072 Многофункциональный коллектор<br>
+[16] — 41367 Насос GRUNDFOS UPS 15/60 Cacao<br>
+[17] — 20250 Tрубка обратки 3-Th-0323<br>
+[18] — 20271.1 Tрубка отопительная 3-Th-0326B<br>
+[21] — 43545 Предохранительный клапан 1/2“, 3 бар<br>
+[22] — 22168.1 Расширительный бак 7 л, 3/8″<br>
+[23] — 40086 Шланг с оплеткой 1/4Mx3/8Fx38cм<br>
+[24] — 43544 Воздуховыводящий клапан Caleffi<br>
+[25] — 20046 Tрубка обратки 3-Th-0272<br>
+[40] — 40031 Прокладка уплотнительная 16x10x1<br>
+[41] — 40030 Прокладка уплотнительная 18x12x2<br>
+[42] — 40029 Прокладка 24x16x2<br>
+[43] — 40028 Прокладка уплотнительная 29x20x2<br>
+[44] — 40526 Прокладка уплотнительная 11x6x2<br>
+[46] — 40035 Термостат контактный 36 TXE 95°C<br>
+[47] — 21045.3 Температурный зонд<br>
+[55] — 40004 Вставка Ms 1/4<br>
+[58] — 40395 Редукция 1/2″ — 1/4″<br>
+[60] — 40983 Застежка-хомут насоса</p>
+<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'> <img src="https://service04.ru/bl-content/img/2019/12/2566_Panel-14-X.-A-small.jpg" alt="THERM PRO 14 X.A 2015г"></p>
+<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>[65] — 42266.1 Лицевая часть панели управления<br>
+[66] — 42270.1 Задняя крышка панели управления<br>
+[67] — 42268.1 Откидная дверца панели<br>
+[68] — 25880 Манометр 4 бар 1000мм (Альтернативно — скл.№ 29463)<br>
+[69] — 24648 Ось управляющей кнопки<br>
+[70] — 42267.1 Управляющая кнопка<br>
+[71] — 42269.1 Гребенка крепления<br>
+[72] — 42260 Автоматика HDIMS 04<br>
+[73] — 42271.1 Кнопка микровыключателя<br>
+[74] — 42265.1 Крайний модуль</p>
+ 

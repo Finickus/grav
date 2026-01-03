@@ -1,0 +1,80 @@
+﻿---
+title: 'Стабилизаторы напряжения для газовых котлов'
+---
+
+<div class="container my-4"><!-- Заголовок -->
+<div class="jumbotron bg-primary text-white rounded">
+<div class="container text-center">
+
+<p class="lead">Обеспечьте бесперебойную работу вашего отопительного оборудования</p>
+</div>
+</div>
+<!-- Вступление -->
+<div class="card mb-4 shadow-sm">
+<div class="card-body">
+<p class="lead">Для бесперебойной работы газового котельного оборудования необходима стабильная подача электроэнергии. При резких перепадах напряжения техника не раскрывает всего функционала, плата работает со сбоями или полностью выходит из строя. <strong>Стабилизаторы напряжения для газового котла</strong> – это возможность откорректировать напряжения/частоту тока, стабилизировать работу и продлить срок эксплуатации оборудования.</p>
+</div>
+</div>
+<!-- Виды стабилизаторов -->
+<div class="card mb-4 shadow-sm">
+<div class="card-header bg-info text-white">
+<h2 class="mb-0 h4"><i class="fas fa-list me-2"></i>Виды стабилизаторов для котлов отопления</h2>
+</div>
+<div class="card-body">
+<div class="row mb-3">
+<div class="col-md-6 text-center mb-3"><img src="https://service04.ru/bl-content/img/2019/12/stabilizatory.png" class="img-fluid rounded border" alt="Стабилизаторы напряжения для котлов отопления"></div>
+<div class="col-md-6">
+<p>Стабилизатор напряжения – устройство, предназначенное для качественного и бесперебойного электропитания котельного оборудования, арматуры, насосов, вентиляторов, которые используются в системе отопления. На рынке котельного оборудования актуальны несколько типов стабилизаторов, которые отличаются по принципу работы:</p>
+</div>
+</div>
+<div class="row">
+<div class="col-md-4 mb-3 text-center"><i class="fas fa-microchip fa-3x text-primary mb-2"></i>
+<h5 class="h6">Тиристорные (симисторные)</h5>
+<p class="small">Высокая точность и скорость. Бесшумны. Пример: <strong>Teplocom 555</strong> (“Бастион”).</p>
+</div>
+<div class="col-md-4 mb-3 text-center"><i class="fas fa-cogs fa-3x text-success mb-2"></i>
+<h5 class="h6">Электромеханические</h5>
+<p class="small">Приемлемая точность. Устойчивы к перегрузкам. Регулировка щеткой.</p>
+</div>
+<div class="col-md-4 mb-3 text-center"><i class="fas fa-bolt fa-3x text-warning mb-2"></i>
+<h5 class="h6">Электронные (релейные)</h5>
+<p class="small">Высокая скорость срабатывания. Точность зависит от ступеней.</p>
+</div>
+</div>
+<div class="alert alert-warning mt-3">
+<h5 class="alert-heading h6"><i class="fas fa-exclamation-triangle me-2"></i>Важно!</h5>
+<p class="mb-0">Выбирая <strong>стабилизаторы напряжения Штиль или Бастион для котлов</strong> или устройства иных брендов, важно учесть не только принцип работы, но также: суммарную мощность установленного оборудования, данные электросети и выходные диапазоны стабилизации напряжения.</p>
+</div>
+</div>
+</div>
+<!-- Популярные бренды -->
+<div class="card mb-4 shadow-sm">
+<div class="card-header bg-success text-white">
+<h3 class="mb-0 h5"><i class="fas fa-tags me-2"></i>Популярные бренды стабилизаторов</h3>
+</div>
+<div class="card-body">
+<div class="row text-center">
+<div class="col-md-6 mb-3"><a href="https://service04.ru/stabilizatory-naprjazhenija-bastion.html" target="_blank" rel="noopener"> <img src="https://service04.ru/bl-content/img/2019/12/stabilizatory-bastion.png" class="img-fluid rounded border mb-2" style="max-height: 100px;" alt="Стабилизаторы напряжения Бастион"> </a>
+<h6 class="h6"><a href="https://service04.ru/stabilizatory-naprjazhenija-bastion.html" class="text-dark" target="_blank" rel="noopener">БАСТИОН</a></h6>
+<a href="https://service04.ru/blok-zaschity-radel.html" target="_blank" rel="noopener"> <img src="https://service04.ru/bl-content/img/2019/12/rodel800.jpg" class="img-fluid rounded border mb-2" style="max-height: 100px;" alt="Блок защиты Радел-800"> </a>
+<p><a href="https://service04.ru/blok-zaschity-radel.html" class="text-dark" target="_blank" rel="noopener">Блок защиты Радел-800</a></p>
+</div>
+<div class="col-md-6 mb-3"><a href="https://service04.ru/stabilizatory-shtil.html" target="_blank" rel="noopener"> <img src="https://service04.ru/bl-content/img/2019/12/stabilizatory-shtil.png" class="img-fluid rounded border mb-2" style="max-height: 100px;" alt="Стабилизаторы Штиль"> </a>
+<h6 class="h6"><a href="https://service04.ru/stabilizatory-shtil.html" class="text-dark" target="_blank" rel="noopener">ШТИЛЬ</a></h6>
+</div>
+</div>
+</div>
+</div>
+<!-- Призыв к действию -->
+<div class="card bg-primary text-white shadow">
+<div class="card-body text-center">
+<h3 class="card-h3 h4"><i class="fas fa-shopping-cart me-2"></i>Нужен стабилизатор напряжения для котла?</h3>
+<p class="card-text lead">Подберем и установим подходящее оборудование для надежной работы вашего отопления!</p>
+<div class="row justify-content-center">
+<div class="col-md-4 mb-2"><a href="tel:+79262211348" class="btn btn-light btn-lg btn-block"> <i class="fas fa-phone me-2"></i>Позвонить </a></div>
+<div class="col-md-4"><a href="https://service04.ru/contact-us/feedback" class="btn btn-warning btn-lg btn-block text-dark"> <i class="fas fa-envelope me-2"></i>Оставить заявку </a></div>
+</div>
+</div>
+</div>
+</div>
+<!-- /container -->

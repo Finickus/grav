@@ -1,0 +1,122 @@
+<div class="container is-widescreen mt-6 mb-6">
+<div class="box mb-6">
+<div class="columns is-vcentered">
+<div class="column is-one-quarter has-text-centered">
+<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/rossiyanka-logo.jpg" alt="колонка россиянка"></figure>
+</div>
+<div class="column is-three-quarters content">
+<p class="mb-3">Компания «Россиянка» — производитель современного высокотехнологичного оборудования для комфортного обеспечения горячей водой и отопления жилья. Все изделия разработаны с учетом **российских условий эксплуатации**.</p>
+<p>Уверенно работают при низком давлении воды и идеально подходят семьям с детьми и пожилыми людьми. Оснащены совершенной системой безопасности, назначение которой — не допустить аварийных ситуаций из-за неправильных действий пользователя.</p>
+</div>
+</div>
+</div>
+<div class="box mb-6">
+<h1 class="title is-3 mb-4">Газовые проточные водонагреватели « Россиянка-М»</h1>
+<div class="columns is-variable is-6">
+<div class="column is-4 has-text-centered">
+<figure class="image is-inline-block has-border-light"><a href="https://boilererror.ru/wp-content/uploads/2019/12/5a0eaa2cba3c2_rossiyanka_vpg.jpg" target="_blank" rel="noopener" title="Газовая колонка Россиянка"> <img src="https://service04.ru/bl-content/img/2019/12/5a0eaa2cba3c2_rossiyanka_vpg-9d598bba.jpg" alt="Газовая колонка Россиянка"> </a></figure>
+</div>
+<div class="column is-8 content">
+<p>Данные модели выпускаются с 2001 года. Предназначены для подготовки горячей воды для бытовых нужд в проточном режиме. Производительность, в зависимости от модели, от **5 до 14 литров в минуту**.</p>
+<p>Способ розжига — без спичек, электрический от батарейки или на пьезоэлементах. Устанавливаются в домах и квартирах при наличии стационарного дымохода (кроме модели ВПГ-5 mini).</p>
+<p>Применение высококачественных материалов и наличие в конструкции **защиты от образования накипи** в теплообменнике гарантируют, что долгие годы у Вас не будет проблем с приготовлением горячей воды.</p>
+<p>Газовая колонка должна быть удобной и красивой. Поэтому у всех колонок «Россиянка-М» такие **компактные размеры** и **симпатичный дизайн**. **Гарантия на все модели — 2 года.**</p>
+</div>
+</div>
+<figure class="image mt-5"><img src="https://service04.ru/bl-content/img/2019/12/rossiyanka.jpg" alt="Технические характеристики колонки Россиянка"></figure>
+</div>
+<div class="box mb-6">
+<h2 class="title is-4 mb-4" style="padding-bottom: 5px; border-bottom: 2px solid #e37a25; color: #e37a25;">ТАБЛИЦА ГАЗОВЫХ ПРОТОЧНЫХ ВОДОНАГРЕВАТЕЛЕЙ</h2>
+<div class="columns is-vcentered mb-5">
+<div class="column is-4 has-text-centered">
+<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/5a0eaa2cb8846_rossiyanka_vpg-2-00c78c3c.jpg" alt="Газовая колонка Россиянка ВПГ"></figure>
+</div>
+<div class="column is-8 content">
+<p class="is-size-7 mb-1">Вся продукция сертифицирована Госстандартом России.</p>
+<p class="is-size-6 has-text-weight-bold">Гарантия 2 года</p>
+</div>
+</div>
+<div class="table-container">
+<table class="table is-bordered is-striped is-fullwidth is-narrow">
+<thead class="has-background-grey-lighter">
+<tr>
+<th class="has-text-weight-bold">Модель</th>
+<th class="has-text-weight-bold">Расход воды, л/мин</th>
+<th class="has-text-weight-bold">Полезная мощность, кВт</th>
+<th class="has-text-weight-bold">Габариты с упаковкой, мм</th>
+<th class="has-text-weight-bold">Вес с упаковкой, кг</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="has-text-weight-bold">ВПГ-5 mini <span class="is-size-7 has-text-grey">(пьезорозжиг, не требует подключения к дымоходу)</span></td>
+<td><span class="is-size-7">от 2,7 до 5</span></td>
+<td>8,7</td>
+<td>483*303*283</td>
+<td>8,5</td>
+</tr>
+<tr>
+<td class="has-text-weight-bold">ВПГ-6 mini <span class="is-size-7 has-text-grey">(пьезорозжиг)</span></td>
+<td><span class="is-size-7">от 2,7 до 6</span></td>
+<td>10,4</td>
+<td>635*303*283</td>
+<td>9,3</td>
+</tr>
+<tr>
+<td class="has-text-weight-bold">ВПГ-Б <span class="is-size-7 has-text-grey">(пьезорозжиг, без контроля расхода)</span></td>
+<td><span class="is-size-7">от 2,7 до 11</span></td>
+<td>19,2</td>
+<td>650*365*272</td>
+<td>12,1</td>
+</tr>
+<tr>
+<td class="has-text-weight-bold">ВПГ <span class="is-size-7 has-text-grey">(пьезорозжиг)</span></td>
+<td><span class="is-size-7">от 2,7 до 11</span></td>
+<td>19,2</td>
+<td>650*365*272</td>
+<td>12,1</td>
+</tr>
+<tr>
+<td class="has-text-weight-bold">ВПГ-Е <span class="is-size-7 has-text-grey">(электророзжиг)</span></td>
+<td><span class="is-size-7">от 2,7 до 11</span></td>
+<td>19,2</td>
+<td>650*365*272</td>
+<td>12,1</td>
+</tr>
+<tr>
+<td class="has-text-weight-bold">ВПГ-ЕИ <span class="is-size-7 has-text-grey">(электророзжиг и блок ионизации)</span></td>
+<td><span class="is-size-7">от 2,7 до 11</span></td>
+<td>19,2</td>
+<td>650*365*272</td>
+<td>12,1</td>
+</tr>
+<tr>
+<td class="has-text-weight-bold">ВПГ-24 <span class="is-size-7 has-text-grey">(пьезорозжиг)</span></td>
+<td><span class="is-size-7">от 2,7 до 14</span></td>
+<td>24,4</td>
+<td>750*430*285</td>
+<td>15,3</td>
+</tr>
+<tr>
+<td class="has-text-weight-bold">ВПГ- 24 ЕИ <span class="is-size-7 has-text-grey">(электророзжиг и блок ионизации)</span></td>
+<td><span class="is-size-7">от 2,7 до 14</span></td>
+<td>24,4</td>
+<td>750*430*285</td>
+<td>15,3</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="box mb-6">
+<h2 class="title is-4 mb-4" style="padding-bottom: 5px; border-bottom: 2px solid #e37a25; color: #e37a25;">Ремонт газовых колонок Россиянка</h2>
+<p>Работаем без предоплаты, а также делаем скидки пенсионерам!</p>
+<p>Выезжаем на ремонт газовых колонок Россиянка в любой район Москвы и Ближнего Московской области:</p>
+<p class="has-text-weight-bold">Королев, Красногорск, Видное, Химки, Балашиха, Щелково, Пушкино, Мытищи, Зеленоград и др.</p>
+<p>У нас в машине есть все необходимые комплектующие и запчасти.</p>
+</div>
+<div class="box mb-6">
+<h3 class="title is-5 has-text-uppercase" style="color: #e37a25;">СЕРТИФИКАТЫ</h3>
+<p class="has-text-grey">Здесь будет размещена галерея сертификатов. (Исходный код не содержал изображений).</p>
+</div>
+</div>

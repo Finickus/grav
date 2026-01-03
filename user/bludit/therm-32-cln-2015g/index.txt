@@ -1,0 +1,463 @@
+<section class="section">
+<div class="container"><!-- Заголовок -->
+<section class="hero is-primary is-bold mb-5">
+<div class="hero-body has-text-centered">
+<h1 class="title is-3"><i class="fas fa-fire mr-3"></i>Котел THERM 32 CLN (2015)</h1>
+<p class="subtitle is-5">Описание компонентов газового котла</p>
+</div>
+</section>
+<!-- Введение -->
+<div class="card mb-5">
+<div class="card-content">
+<p class="subtitle is-5">На этой странице представлены компоненты газового котла <strong>THERM 32 CLN</strong> 2015 года выпуска, разделенные по системам для удобства навигации и поиска запчастей.</p>
+<div class="notification is-info has-text-centered mt-4">
+<h5 class="title is-6 mb-0"><i class="fas fa-cogs mr-2"></i>Разделы котла</h5>
+</div>
+</div>
+</div>
+<!-- Навигация по разделам -->
+<div class="card mb-5"><header class="card-header has-background-info">
+<p class="card-header-title has-text-white"><i class="fas fa-list mr-2"></i>Разделы котла</p>
+</header>
+<div class="card-content">
+<div class="columns has-text-centered">
+<div class="column">
+<h5>Раздел газ</h5>
+</div>
+<div class="column">
+<h5>Раздел вода</h5>
+</div>
+<div class="column">
+<h5>Раздел электропанель</h5>
+</div>
+</div>
+</div>
+</div>
+<!-- Раздел Газ -->
+<div id="gas-section" class="card mb-5"><header class="card-header has-background-danger">
+<p class="card-header-title has-text-white"><i class="fas fa-gas-pump mr-2"></i>Раздел Газ</p>
+</header>
+<div class="card-content">
+<div class="has-text-centered mb-4">
+<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/2544_23-CLN-spalovaci-cast.jpg" alt="Описание котла THERM 32 CLN 2015г. выпуска:" class="border"></figure>
+</div>
+<div class="table-container">
+<table class="table is-bordered is-striped is-fullwidth">
+<thead>
+<tr>
+<th>№</th>
+<th>Артикул</th>
+<th>Наименование компонента</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>01</td>
+<td>41482</td>
+<td>Газовый редуктор SIT 845 SIGMA — 230В</td>
+</tr>
+<tr>
+<td>02</td>
+<td>22029.1</td>
+<td>Трубка газовая 3-Th-0148A</td>
+</tr>
+<tr>
+<td>03</td>
+<td>26388</td>
+<td>Горелка 401.1332.02, 16r.</td>
+</tr>
+<tr>
+<td>04</td>
+<td>40376</td>
+<td>Камера сгорания 28 кВт + крышка</td>
+</tr>
+<tr>
+<td>05</td>
+<td>40396</td>
+<td>Изоляция 12 мм</td>
+</tr>
+<tr>
+<td>06</td>
+<td>20075.2</td>
+<td>Теплообменник</td>
+</tr>
+<tr>
+<td>07</td>
+<td>40377</td>
+<td>Тягопрерыватель 28 кВт</td>
+</tr>
+<tr>
+<td>08</td>
+<td>40378</td>
+<td>Экран горелки 28 кВт</td>
+</tr>
+<tr>
+<td>09</td>
+<td>40061.2</td>
+<td>Электрод ионизации</td>
+</tr>
+<tr>
+<td>10</td>
+<td>40061.1</td>
+<td>Электрод поджига</td>
+</tr>
+<tr>
+<td>11</td>
+<td>41424</td>
+<td>Катушка соленоида SIT</td>
+</tr>
+<tr>
+<td>42</td>
+<td>40029</td>
+<td>Прокладка 24x16x2</td>
+</tr>
+<tr>
+<td>45</td>
+<td>40527</td>
+<td>Термостат контактный 36TXE 75°C</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<!-- Раздел Вода -->
+<div id="water-section" class="card mb-5"><header class="card-header has-background-success">
+<p class="card-header-title has-text-white"><i class="fas fa-tint mr-2"></i>Раздел Вода</p>
+</header>
+<div class="card-content">
+<div class="has-text-centered mb-4">
+<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/2544_CLN-vodni-cast-640x.jpg" alt="Водяная часть THERM 32 CLN 2015г. выпуска:" class="border"></figure>
+</div>
+<div class="table-container">
+<table class="table is-bordered is-striped is-fullwidth">
+<thead>
+<tr>
+<th>№</th>
+<th>Артикул</th>
+<th>Наименование компонента</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>06</td>
+<td>20075.2</td>
+<td>Теплообменник</td>
+</tr>
+<tr>
+<td>10</td>
+<td>42376</td>
+<td>Циркуляционный насос</td>
+</tr>
+<tr>
+<td>11</td>
+<td>42377</td>
+<td>Предохранительный клапан 1/2″, 3 бар</td>
+</tr>
+<tr>
+<td>15</td>
+<td>42308</td>
+<td>Гидроблок</td>
+</tr>
+<tr>
+<td>17</td>
+<td>42556</td>
+<td>Tрубка обратки</td>
+</tr>
+<tr>
+<td>22</td>
+<td>21482.1</td>
+<td>Расширительный бак 10л</td>
+</tr>
+<tr>
+<td>24</td>
+<td>40430.1</td>
+<td>Воздухоотводящий вентиль</td>
+</tr>
+<tr>
+<td>25</td>
+<td>42557</td>
+<td>Трубка отопительная</td>
+</tr>
+<tr>
+<td>26</td>
+<td>42558</td>
+<td>Трубка ГВС холодная</td>
+</tr>
+<tr>
+<td>28</td>
+<td>42521</td>
+<td>Проточный выключатель</td>
+</tr>
+<tr>
+<td>29</td>
+<td>42559</td>
+<td>Tрубка ГВС горячая</td>
+</tr>
+<tr>
+<td>31</td>
+<td>42543</td>
+<td>Tрубка подпитки</td>
+</tr>
+<tr>
+<td>35</td>
+<td>42530</td>
+<td>Рама котла</td>
+</tr>
+<tr>
+<td>37</td>
+<td>42378</td>
+<td>Корпус байпаса</td>
+</tr>
+<tr>
+<td>38</td>
+<td>42379</td>
+<td>Байпас</td>
+</tr>
+<tr>
+<td>39</td>
+<td>42538</td>
+<td>Передний кожух</td>
+</tr>
+<tr>
+<td>39</td>
+<td>42380</td>
+<td>Арматура подпитки-слива</td>
+</tr>
+<tr>
+<td>40</td>
+<td>40031</td>
+<td>Прокладка уплотнительная 16x10x1</td>
+</tr>
+<tr>
+<td>40</td>
+<td>42381</td>
+<td>Сливной кран</td>
+</tr>
+<tr>
+<td>41</td>
+<td>40030.1</td>
+<td>Прокладка 18x12x2</td>
+</tr>
+<tr>
+<td>41</td>
+<td>42382</td>
+<td>Связка</td>
+</tr>
+<tr>
+<td>42</td>
+<td>40029.2</td>
+<td>Прокладка 24x16x2</td>
+</tr>
+<tr>
+<td>42</td>
+<td>42307</td>
+<td>Сенсор давления</td>
+</tr>
+<tr>
+<td>43</td>
+<td>40526</td>
+<td>Прокладка уплотнительная 11x6x2</td>
+</tr>
+<tr>
+<td>43</td>
+<td>42383</td>
+<td>Переходник 3/8″</td>
+</tr>
+<tr>
+<td>44</td>
+<td>42384</td>
+<td>Воздуховыводящий клапан насоса</td>
+</tr>
+<tr>
+<td>45</td>
+<td>42385</td>
+<td>О-кольцо 20.35×1.78</td>
+</tr>
+<tr>
+<td>46</td>
+<td>42386</td>
+<td>О-кольцо 1.8×2.65</td>
+</tr>
+<tr>
+<td>47</td>
+<td>42387</td>
+<td>О-кольцо 5.28×1.78</td>
+</tr>
+<tr>
+<td>48</td>
+<td>42388</td>
+<td>Вал клапана подпитки</td>
+</tr>
+<tr>
+<td>49</td>
+<td>42389</td>
+<td>Ручка подпитки</td>
+</tr>
+<tr>
+<td>50</td>
+<td>42390</td>
+<td>Винт M4x6</td>
+</tr>
+<tr>
+<td>53</td>
+<td>42391</td>
+<td>Переходник клапана подпитки</td>
+</tr>
+<tr>
+<td>54</td>
+<td>42392</td>
+<td>О-кольцо 9.25×1.78</td>
+</tr>
+<tr>
+<td>55</td>
+<td>42568</td>
+<td>О-кольцо прокладка 17.86×2,6</td>
+</tr>
+<tr>
+<td>46</td>
+<td>40035</td>
+<td>Термостат контактный 36 TXE 95°C</td>
+</tr>
+<tr>
+<td>47</td>
+<td>21045</td>
+<td>Термозонд</td>
+</tr>
+<tr>
+<td>49</td>
+<td>40367</td>
+<td>Подставка воздуховыводящего вентиля</td>
+</tr>
+<tr>
+<td>50</td>
+<td>42258</td>
+<td>Переходная муфта 1/2″</td>
+</tr>
+<tr>
+<td>51</td>
+<td>42253</td>
+<td>Пружинный фиксатор</td>
+</tr>
+<tr>
+<td>52</td>
+<td>20630</td>
+<td>Пружина для стержня RG0112</td>
+</tr>
+<tr>
+<td>53</td>
+<td>20629</td>
+<td>Стержень</td>
+</tr>
+<tr>
+<td>54</td>
+<td>40604</td>
+<td>Гайка для стержня M4</td>
+</tr>
+<tr>
+<td>55</td>
+<td>42229.L</td>
+<td>Держак расш.бака левый</td>
+</tr>
+<tr>
+<td>56</td>
+<td>42229.P</td>
+<td>Держак расш.бака правый</td>
+</tr>
+<tr>
+<td>57</td>
+<td>40147</td>
+<td>Гайка Fe G1/2“</td>
+</tr>
+<tr>
+<td>58</td>
+<td>3222</td>
+<td>Шланг в оплетке</td>
+</tr>
+<tr>
+<td>59</td>
+<td>42392</td>
+<td>O-kroužek 9.25×1.78</td>
+</tr>
+<tr>
+<td>60</td>
+<td>42253</td>
+<td>Pojistná spona</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<!-- Раздел Электропанель -->
+<div id="control-panel-section" class="card mb-5"><header class="card-header has-background-warning">
+<p class="card-header-title has-text-dark"><i class="fas fa-microchip mr-2"></i>Раздел Электропанель</p>
+</header>
+<div class="card-content">
+<div class="has-text-centered mb-4">
+<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/2544_23-CLN-ovladaci-panel.jpg" alt="Электропанель" class="border"></figure>
+</div>
+<div class="table-container">
+<table class="table is-bordered is-striped is-fullwidth">
+<thead>
+<tr>
+<th>№</th>
+<th>Артикул</th>
+<th>Наименование компонента</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>65</td>
+<td>42516</td>
+<td>Лицевая крышка + Задняя крышка панели управления</td>
+</tr>
+<tr>
+<td>66</td>
+<td>42516</td>
+<td>Лицевая крышка + Задняя крышка панели управления</td>
+</tr>
+<tr>
+<td>67</td>
+<td>42515</td>
+<td>Дисплей</td>
+</tr>
+<tr>
+<td>68</td>
+<td>42514</td>
+<td>Автоматика BIC 0.580.228</td>
+</tr>
+<tr>
+<td>69</td>
+<td>42516.3</td>
+<td>Ось управляющей кнопки</td>
+</tr>
+<tr>
+<td>70</td>
+<td>42516.2</td>
+<td>Управляющая кнопка</td>
+</tr>
+<tr>
+<td>71</td>
+<td>24644</td>
+<td>Соединительный провод дисплея 400мм</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<!-- Общая информация -->
+<div class="card has-background-light">
+<div class="card-content has-text-centered">
+<h4 class="title is-4" style="color: #e37a25;"><i class="fas fa-info-circle mr-2"></i>Информация о котле</h4>
+<p class="subtitle is-5">THERM 32 CLN - 2015 год выпуска</p>
+<p>Эта страница предоставляет информацию о компонентах котла для целей технического обслуживания и ремонта.</p>
+<div class="columns is-centered mt-4">
+<div class="column is-one-third mb-2"><a href="tel:+79262211348" class="button is-primary is-large is-fullwidth"> <i class="fas fa-phone mr-2"></i>Позвонить </a></div>
+<div class="column is-one-third mb-2"><a href="https://service04.ru/contact-us/feedback" class="button is-success is-large is-fullwidth"> <i class="fas fa-envelope mr-2"></i>Оставить заявку </a></div>
+</div>
+</div>
+</div>
+</div>
+</section>

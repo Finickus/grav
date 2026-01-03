@@ -1,0 +1,146 @@
+﻿---
+title: 'Ошибка E25 на котле Baxi'
+---
+
+<div class="container-fluid mt-5 mb-5">
+<section class="bg-primary text-white fw-bold mb-5">
+<div class="py-5">
+<div class="container text-center">
+
+<p class="h4 lead text-white">Диагностика и устранение неисправности циркуляции воды</p>
+</div>
+</div>
+</section>
+<div class="card mb-5 shadow">
+<div class="content">
+<p class="fs-5">Газовый котел **Baxi** является надежным и популярным решением для отопления и горячего водоснабжения. Одной из наиболее распространенных проблем, с которой сталкиваются владельцы, является **ошибка E25**. Этот код указывает на **блокировку котла** из-за **отсутствия циркуляции воды** в первичном контуре.</p>
+<div class="notification is-warning mt-4">
+<h5 class="h6 text-dark"><span class="icon me-2"><i class="fas fa-exclamation-triangle"></i></span>Важно!</h5>
+<p class="mb-0">Появление ошибки E25 – это **критический сигнал**, требующий немедленного внимания. При отсутствии уверенности в своих действиях всегда рекомендуется обращаться к **квалифицированным специалистам**.</p>
+</div>
+</div>
+</div>
+<div class="card mb-5 shadow"><header class="card-header bg-info text-white">
+<p class="card-h3 text-white fs-4"><span class="icon me-2"><i class="fas fa-question-circle"></i></span>Что означает ошибка E25?</p>
+</header>
+<div class="card-body">
+<p>Код ошибки **E25** на дисплее котла **Baxi** сигнализирует о **блокировке котла** из-за **превышения максимальной температуры теплоносителя**. Это происходит из-за того, что циркуляционный насос либо не работает, либо не может протолкнуть воду через систему (котел "кипит сам в себе").</p>
+</div>
+</div>
+<div class="card mb-5 shadow"><header class="card-header bg-success text-white">
+<p class="card-h3 text-white fs-5"><span class="icon me-2"><i class="fas fa-redo"></i></span>Первые шаги: попытка сброса ошибки</p>
+</header>
+<div class="card-body">
+<p>Прежде всего, можно попытаться сбросить ошибку самостоятельно. Для этого необходимо **нажать и удерживать не менее 2 секунд кнопку «R»** (Reset), расположенную на панели управления котла. Если ошибка E25 появляется снова после перезапуска, следует приступить к более детальной диагностике.</p>
+</div>
+</div>
+<div class="card mb-5 shadow"><header class="card-header bg-warning text-dark">
+<p class="card-h3 text-dark fs-5"><span class="icon me-2"><i class="fas fa-list"></i></span>Возможные причины ошибки E25 и методы их устранения</p>
+</header>
+<div class="card-body content">
+<p>Причины возникновения ошибки E25 могут быть как внешними (связанными с системой отопления), так и внутренними (связанными с самим котлом).</p>
+<div id="accordionE25Causes"><details open="" class="card mb-3">
+<summary class="h5 text-primary mb-0"><span class="icon me-2"><i class="fas fa-home"></i></span> Внешние причины (проблемы в системе отопления)</summary>
+<div class="p-4"><details class="card mb-3">
+<summary class="h6 text-dark mb-0"><span class="icon me-2"><i class="fas fa-tachometer-alt"></i></span> 1. Недостаточное давление в системе</summary>
+<div class="p-4">
+<ul class="ml-4 list-unstyled">
+<li class="mb-2"><span class="icon me-2 text-primary"><i class="fas fa-search"></i></span> **Проверка:** Давление должно находиться в пределах **1-2 бар**.</li>
+<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-plus-circle"></i></span> **Устранение:** Если давление ниже нормы, **подпитайте систему, открыв кран заполнения**.</li>
+</ul>
+</div>
+</details><details class="card mb-3">
+<summary class="h6 text-dark mb-0"><span class="icon me-2"><i class="fas fa-wind"></i></span> 2. Завоздушенность системы отопления</summary>
+<div class="p-4">
+<ul class="ml-4 list-unstyled">
+<li class="mb-2"><span class="icon me-2 text-info"><i class="fas fa-search"></i></span> **Проверка:** Воздушные пробки блокируют циркуляцию.</li>
+<li class="mb-2"><span class="icon me-2 text-warning"><i class="fas fa-broom"></i></span> **Устранение:** Удалите воздух через **краны Маевского на радиаторах** и автоматический воздухоотводчик насоса.</li>
+</ul>
+</div>
+</details><details class="card mb-3">
+<summary class="h6 text-dark mb-0"><span class="icon me-2"><i class="fas fa-filter"></i></span> 3. Засорение фильтра грубой очистки («грязевика»)</summary>
+<div class="p-4">
+<ul class="ml-4 list-unstyled">
+<li class="mb-2"><span class="icon me-2 text-danger"><i class="fas fa-search"></i></span> **Проверка:** Фильтр на обратной линии перед котлом.</li>
+<li class="mb-2"><span class="icon me-2 text-warning"><i class="fas fa-broom"></i></span> **Устранение:** **Почистите и промойте сетку фильтра**.</li>
+</ul>
+</div>
+</details><details class="card mb-3">
+<summary class="h6 text-dark mb-0"><span class="icon me-2"><i class="fas fa-cogs"></i></span> 4. Закрыты краны или вмешательство в балансировку</summary>
+<div class="p-4">
+<ul class="ml-4 list-unstyled">
+<li class="mb-2"><span class="icon me-2 text-info"><i class="fas fa-search"></i></span> **Проверка:** Убедитесь, что все запорные краны на подаче/обратке **полностью открыты**.</li>
+<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-check-circle"></i></span> **Устранение:** Откройте все краны и проверьте настройки.</li>
+</ul>
+</div>
+</details><details class="card mb-3">
+<summary class="h6 text-dark mb-0"><span class="icon me-2"><i class="fas fa-snowflake"></i></span> 5. Заморозка или засорение элементов системы</summary>
+<div class="p-4">
+<ul class="ml-4 list-unstyled">
+<li class="mb-2"><span class="icon me-2 text-primary"><i class="fas fa-search"></i></span> **Проверка:** Актуально для однотрубных систем.</li>
+<li class="mb-2"><span class="icon me-2 text-warning"><i class="fas fa-fire"></i></span> **Устранение:** Отогрейте замерзшие участки или проведите прочистку.</li>
+</ul>
+</div>
+</details></div>
+</details><details class="card mb-3">
+<summary class="h5 text-primary mb-0"><span class="icon me-2"><i class="fas fa-cogs"></i></span> Внутренние причины (проблемы в самом котле BAXI)</summary>
+<div class="p-4"><details class="card mb-3">
+<summary class="h6 text-dark mb-0"><span class="icon me-2"><i class="fas fa-pump"></i></span> 1. Неисправен или заблокирован циркуляционный насос</summary>
+<div class="p-4">
+<ul class="ml-4 list-unstyled">
+<li class="mb-2"><span class="icon me-2 text-primary"><i class="fas fa-search"></i></span> **Проверка:** Послушайте, работает ли насос. Проверьте питание.</li>
+<li class="mb-2"><span class="icon me-2 text-warning"><i class="fas fa-sync"></i></span> **Устранение:** **Открутите "таблетку"** на насосе и **прокрутите вал отверткой** для разблокировки. Если не помогает, требуется замена.</li>
+</ul>
+</div>
+</details><details class="card mb-3">
+<summary class="h6 text-dark mb-0"><span class="icon me-2"><i class="fas fa-border-all"></i></span> 2. Засорение теплообменника</summary>
+<div class="p-4">
+<ul class="ml-4 list-unstyled">
+<li class="mb-2"><span class="icon me-2 text-danger"><i class="fas fa-search"></i></span> **Проверка:** Накипь или шлам в теплообменнике вызывают локальный перегрев.</li>
+<li class="mb-2"><span class="icon me-2 text-warning"><i class="fas fa-broom"></i></span> **Устранение:** Требуется **химическая или гидропневматическая промывка теплообменника**. При сильном засорении — замена.</li>
+</ul>
+</div>
+</details><details class="card mb-3">
+<summary class="h6 text-dark mb-0"><span class="icon me-2"><i class="fas fa-thermometer-half"></i></span> 3. Неисправность датчика температуры (NTC) на подаче</summary>
+<div class="p-4">
+<ul class="ml-4 list-unstyled">
+<li class="mb-2"><span class="icon me-2 text-info"><i class="fas fa-search"></i></span> **Проверка:** Датчик может давать ложные данные о перегреве. Прозвоните его мультиметром (10 кОм при 25°C).</li>
+<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-exchange-alt"></i></span> **Устранение:** **Замените датчик температуры**, если он неисправен.</li>
+</ul>
+</div>
+</details><details class="card mb-3">
+<summary class="h6 text-dark mb-0"><span class="icon me-2"><i class="fas fa-microchip"></i></span> 4. Поломка электронной платы</summary>
+<div class="p-4">
+<ul class="ml-4 list-unstyled">
+<li class="mb-2"><span class="icon me-2 text-primary"><i class="fas fa-search"></i></span> **Проверка:** Если все остальное проверено, проблема может быть в плате (плохой контакт с кабелем насоса, сгоревший элемент).</li>
+<li class="mb-2"><span class="icon me-2 text-danger"><i class="fas fa-user-md"></i></span> **Устранение:** Требуется **диагностика и ремонт платы** специалистом.</li>
+</ul>
+</div>
+</details></div>
+</details></div>
+</div>
+</div>
+<div class="card mb-5 shadow"><header class="card-header bg-danger text-white">
+<p class="card-h3 text-white fs-5"><span class="icon me-2"><i class="fas fa-user-md"></i></span>Когда обращаться к специалисту</p>
+</header>
+<div class="card-body">
+<p>Несмотря на возможность самостоятельной диагностики, **серьезные работы, связанные с насосом, теплообменником или электроникой**, должны выполнять **квалифицированные сервисные инженеры**.</p>
+<p>**Обратитесь к специалисту, если:**</p>
+<ul class="ml-4 list-unstyled">
+<li class="mb-2"><span class="icon me-2 text-danger"><i class="fas fa-times-circle"></i></span> **Ошибка E25 появляется регулярно** после перезагрузки.</li>
+<li class="mb-2"><span class="icon me-2 text-warning"><i class="fas fa-question-circle"></i></span> Вы **не уверены в своих действиях** или не обладаете необходимыми знаниями для работы с компонентами котла.</li>
+<li class="mb-2"><span class="icon me-2 text-primary"><i class="fas fa-wrench"></i></span> Требуется **разборка котла** для доступа к насосу, теплообменнику или плате.</li>
+</ul>
+</div>
+</div>
+<div class="card bg-primary text-white shadow p-5">
+<div class="text-center">
+<h3 class="h4 display-4 text-white mb-3"><span class="icon me-2"><i class="fas fa-user-md"></i></span>Нужна помощь с котлом Baxi?</h3>
+<p class="h5 lead text-white">Наши специалисты помогут диагностировать и устранить ошибку E25!</p>
+<div class="row is-centered mt-4">
+<div class="col-lg-4 is-half-mobile mb-2"><a href="tel:+79262211348" class="btn btn-light btn-lg w-100"> <span class="icon me-2"><i class="fas fa-phone"></i></span> <span>Позвонить</span> </a></div>
+<div class="col-lg-4 is-half-mobile"><a href="https://service04.ru/contact-us/feedback" class="btn btn-warning btn-lg w-100 text-dark"> <span class="icon me-2"><i class="fas fa-envelope"></i></span> <span>Оставить заявку</span> </a></div>
+</div>
+</div>
+</div>
+</div>

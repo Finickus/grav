@@ -1,0 +1,66 @@
+<div class="container is-widescreen mt-5 mb-5">
+<section class="hero is-primary is-bold mb-5">
+<div class="hero-body">
+<div class="has-text-centered">
+<h1 class="title is-2 has-text-white"><span class="icon is-medium mr-3"><i class="fas fa-list"></i></span>Схема запчастей котла Kospel EKCO L2</h1>
+<p class="subtitle is-4 has-text-white">Визуальное руководство по компонентам электрического котла</p>
+</div>
+</div>
+</section>
+<div class="card mb-5 has-shadow">
+<div class="card-content">
+<div class="content">
+<p class="is-size-5">Ниже представлена схема расположения и обозначения основных запасных частей и компонентов **электрического котла Kospel EKCO L2**. Используйте эту схему для идентификации деталей при подборе запчастей.</p>
+<div class="notification is-info is-light mt-4">
+<h5 class="title is-6 has-text-dark"><span class="icon mr-2"><i class="fas fa-info-circle"></i></span>Важно!</h5>
+<p class="mb-0">Для точного подбора запчасти сверяйтесь с артикулом на схеме и технической документацией котла. При сомнениях обратитесь к специалистам.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-info">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-project-diagram"></i></span> Схема компонентов</p>
+</header>
+<div class="card-content has-text-centered">
+<p class="mb-4">**Щелкните по изображению, чтобы открыть увеличенную версию схемы.**</p>
+<a href="https://service04.ru/bl-content/uploads/image/KOSPEL/temp2228.png" data-lightbox="ekco-l2-scheme" data-title="Схема запчастей котла Kospel EKCO L2"> <img src="https://service04.ru/bl-content/uploads/image/KOSPEL/temp2228.png" class="is-fullwidth has-border-light" alt="Схема запчастей котла Kospel EKCO L2"> </a>
+<p class="mt-2 has-text-grey">Схема запчастей котла Kospel EKCO L2</p>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-success">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-cogs"></i></span> Распространенные запчасти EKCO L2</p>
+</header>
+<div class="card-content">
+<div class="content">
+<p>Ниже перечислены некоторые из наиболее часто заменяемых компонентов котла Kospel EKCO L2:</p>
+<div class="columns is-multiline">
+<div class="column is-half">
+<ul class="ml-0 is-unstyled">
+<li class="mb-2"><span class="icon mr-2 has-text-primary"><i class="fas fa-microchip"></i></span> <strong>Плата управления</strong></li>
+<li class="mb-2"><span class="icon mr-2 has-text-info"><i class="fas fa-thermometer-half"></i></span> <strong>Датчики температуры</strong></li>
+<li class="mb-2"><span class="icon mr-2 has-text-warning"><i class="fas fa-bolt"></i></span> <strong>ТЭНы (электронагревательные элементы)</strong></li>
+</ul>
+</div>
+<div class="column is-half">
+<ul class="ml-0 is-unstyled">
+<li class="mb-2"><span class="icon mr-2 has-text-success"><i class="fas fa-pump"></i></span> <strong>Циркуляционный насос</strong></li>
+<li class="mb-2"><span class="icon mr-2 has-text-danger"><i class="fas fa-valve"></i></span> <strong>Предохранительный клапан</strong></li>
+<li class="mb-2"><span class="icon mr-2 has-text-grey"><i class="fas fa-grip-lines"></i></span> <strong>Уплотнения и прокладки</strong></li>
+</ul>
+</div>
+</div>
+<p>Полный перечень запчастей с артикулами вы можете найти на увеличенной схеме выше.</p>
+</div>
+</div>
+</div>
+<div class="box has-background-primary has-text-white has-shadow p-5">
+<div class="has-text-centered">
+<h3 class="title is-4 has-text-white mb-3"><span class="icon mr-2"><i class="fas fa-shopping-cart"></i></span>Нужна запчасть для котла Kospel EKCO L2?</h3>
+<p class="subtitle is-5 has-text-white">Свяжитесь с нами для подбора и заказа оригинальных комплектующих!</p>
+<div class="columns is-mobile is-centered mt-4">
+<div class="column is-4-desktop is-half-mobile mb-2"><a href="tel:+79262211348" class="button is-light is-large is-fullwidth"> <span class="icon mr-2"><i class="fas fa-phone"></i></span> <span>Позвонить</span> </a></div>
+<div class="column is-4-desktop is-half-mobile"><a href="https://service04.ru/contact-us/feedback" class="button is-warning is-large is-fullwidth has-text-dark"> <span class="icon mr-2"><i class="fas fa-envelope"></i></span> <span>Оставить заявку</span> </a></div>
+</div>
+</div>
+</div>
+</div>

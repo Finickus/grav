@@ -1,0 +1,51 @@
+<div class="content-box">
+<div class="container is-widescreen mt-6 mb-6"><!-- Заголовок -->
+<h1 class="title is-3 mb-5">Запчасти Attack для газовых и твердотопливных котлов</h1>
+<p class="mb-5">Котельное оборудование от крупнейшего словацкого производителя — это надёжная, экономичная и безопасная техника бюджетного класса. Выпускаемые компанией <strong>Attack</strong> котлы, запчасти и комплектующие к ним отличаются высоким качеством, которое гарантируют ведущие производители материалов для комплектации отопительной техники.</p>
+<figure class="image has-text-centered mb-6"><img src="https://service04.ru/bl-content/img/2019/12/zapchasti-dlja-kotlov-attak.png" alt="Запчасти для котлов Аттак" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<!-- Оригинальные запчасти -->
+<h2 class="title is-4 mb-4" style="color: #e37a25; padding-bottom: 5px; border-bottom: 2px solid #e37a25;">Оригинальные запчасти для качественного котла</h2>
+<p class="mb-4">Газовое и твердотопливное отопительное оборудование от компании <strong>Attack</strong> отличается не только надёжностью и стабильностью работы, но также спецификой сборки. Поэтому при ремонте или обслуживании необходимо использовать только оригинальные <strong>запчасти Attack</strong>, которые гарантируют:</p>
+<ul class="mb-6">
+<li><strong>Совместимость</strong> — детали имеют уникальную конструкцию и не всегда подходят к аналогам других брендов;</li>
+<li><strong>Надёжность</strong> — производитель предоставляет длительную гарантию на весь ассортимент;</li>
+<li><strong>Простоту монтажа</strong> — не требуют специального инструмента;</li>
+<li><strong>Доступность</strong> — как и сами котлы <strong>Attack</strong>, запчасти имеют демократичную стоимость, что позволяет выполнять ремонт с минимальными затратами.</li>
+</ul>
+<!-- Ассортимент -->
+<h3 class="title is-5 mb-4" style="color: #e37a25; text-transform: uppercase;">ЗАПЧАСТИ И ДЕТАЛИ ДЛЯ ВСЕХ МОДИФИКАЦИЙ КОТЛОВ ATTACK</h3>
+<p class="mb-4">Мы осуществляем продажу запасных частей, расходных материалов и узлов в сборе для профилактического, аварийного ремонта и сервисного обслуживания. Владельцы оборудования, частные мастера и сервисные центры могут подобрать и купить все необходимые <strong>запчасти Attack</strong>:</p>
+<div class="columns is-multiline mb-5">
+<div class="column is-half">
+<ul class="mb-0">
+<li>Пилотные горелки и форсунки;</li>
+<li>Все виды клапанов (трёхходовые, газовые, предохранительные);</li>
+<li>Термоэлементы и термопары;</li>
+<li>Элементы и блоки розжига, расходные материалы к ним;</li>
+</ul>
+</div>
+<div class="column is-half">
+<ul class="mb-0">
+<li>Электронные платы, блоки управления;</li>
+<li>Стенки и крышки корпусов, лицевые пластиковые панели;</li>
+<li>Датчики, реле, термостаты, манометры и термометры;</li>
+<li>Теплообменники, ТЭНы, расширительные баки и др.</li>
+</ul>
+</div>
+</div>
+<p class="mb-4">При подборе запчастей учитывайте, что многие модели котлов <strong>Attack</strong> сняты с производства. Поэтому при заказе обязательно уточняйте у наших специалистов наличие детали или рекомендованные производителем аналоги.</p>
+<p class="mb-5">Мы предлагаем выгодные цены на все <strong>запчасти Attack</strong> для котлов, выпущенных не более 10 лет назад. Для оптовых покупателей действуют специальные условия по цене, ассортименту и доставке.</p>
+<figure class="image has-text-centered"><img src="https://service04.ru/bl-content/img/2019/12/2018-03-15_223553-ec4d3962.jpg" alt="Запчасти для котлов Атак" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<!-- Призыв к действию -->
+<div class="box has-background-primary has-text-white mt-6">
+<div class="has-text-centered">
+<h3 class="title is-4 mb-3">Нужны запчасти для котла Attack?</h3>
+<p class="subtitle is-5">Подберём оригинальные комплектующие по вашей модели!</p>
+<div class="columns is-centered">
+<div class="column is-one-third"><a href="tel:+79262211348" class="button is-large is-light is-fullwidth"> <i class="fas fa-phone mr-2"></i>Позвонить </a></div>
+<div class="column is-one-third"><a href="https://service04.ru/contact-us/feedback" class="button is-large is-warning is-fullwidth has-text-dark"> <i class="fas fa-envelope mr-2"></i>Оставить заявку </a></div>
+</div>
+</div>
+</div>
+</div>
+</div>

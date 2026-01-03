@@ -1,0 +1,167 @@
+<div class="main-wrapper">
+<div class="has-background-dark has-text-white py-2 has-text-centered is-size-6 has-text-weight-bold">
+<div class="container is-widescreen"><span class="icon mr-2"><i class="fas fa-fire"></i></span> Официальный сервисный центр Ferroli <span class="icon ml-2"><i class="fas fa-tools"></i></span></div>
+</div>
+<section class="hero is-primary is-medium is-bold">
+<div class="hero-body">
+<div class="container is-widescreen has-text-centered">
+<h1 class="title is-2 has-text-white"><span class="icon mr-3"><i class="fas fa-tools"></i></span> Ремонт настенных котлов Ferroli разных модификаций</h1>
+<p class="subtitle is-4 mt-4 has-text-white">Профессиональный ремонт с гарантией 1 год</p>
+<a href="#contact" class="button is-warning is-large mt-3 has-text-dark has-text-weight-bold">Вызвать мастера сейчас</a></div>
+</div>
+</section>
+<section class="section">
+<div class="container is-widescreen">
+<div class="columns is-multiline">
+<div class="column is-half-desktop content">
+<p class="is-size-5">Газовое котельное оборудование от компании «Ferroli» отличается современным дизайном, функциональностью и стабильной работой. Гарантией полноценной эксплуатации является своевременное обслуживание и профессионально выполненный **ремонт котла Ferroli Domitech**.</p>
+<div class="mt-5">
+<h3 class="title is-4"><span class="icon mr-2 has-text-warning"><i class="fas fa-exclamation-triangle"></i></span> Тревожные симптомы:</h3>
+<ul class="ml-4 is-unstyled">
+<li class="mb-2"><span class="icon mr-2"><i class="fas fa-question-circle"></i></span> Настенный котел не включается или отключается сразу после запуска?</li>
+<li class="mb-2"><span class="icon mr-2"><i class="fas fa-shower"></i></span> Не греется вода для системы ГВС или поступает с минимальным напором?</li>
+<li class="mb-2"><span class="icon mr-2"><i class="fas fa-wind"></i></span> Чувствуется запах газа при работе техники?</li>
+<li class="mb-2"><span class="icon mr-2"><i class="fas fa-volume-up"></i></span> После включения слышны нехарактерные шумы?</li>
+<li class="mb-2"><span class="icon mr-2"><i class="fas fa-power-off"></i></span> Не работает кнопка пьезорозжига или прибор подпитки системы?</li>
+</ul>
+</div>
+</div>
+<div class="column is-half-desktop">
+<div class="card border-0 has-shadow h-100">
+<div class="card-content p-5">
+<h3 class="title is-4 has-text-centered mb-4"><span class="icon mr-2 has-text-success"><i class="fas fa-check-circle"></i></span> Наши принципы работы</h3>
+<p class="has-text-centered is-size-6">Если дан утвердительный ответ хотя бы на один вопрос, то **ремонт газового котла Ферроли** должен быть выполнен:</p>
+<div class="columns is-multiline mt-4 has-text-centered">
+<div class="column is-half mb-4">
+<div class="icon is-large mx-auto mb-2 has-text-warning"><i class="fas fa-bolt fa-3x"></i></div>
+<h5 class="title is-6">Оперативно</h5>
+<p class="is-size-7">Выезд мастера в течение 2 часов</p>
+</div>
+<div class="column is-half mb-4">
+<div class="icon is-large mx-auto mb-2 has-text-info"><i class="fas fa-user-tie fa-3x"></i></div>
+<h5 class="title is-6">Опытными мастерами</h5>
+<p class="is-size-7">Специалисты с сертификацией Ferroli</p>
+</div>
+<div class="column is-half mb-4">
+<div class="icon is-large mx-auto mb-2 has-text-success"><i class="fas fa-cog fa-3x"></i></div>
+<h5 class="title is-6">Оригинальные запчасти</h5>
+<p class="is-size-7">Только сертифицированные компоненты</p>
+</div>
+<div class="column is-half mb-4">
+<div class="icon is-large mx-auto mb-2 has-text-warning"><i class="fas fa-shield-alt fa-3x"></i></div>
+<h5 class="title is-6">Гарантия качества</h5>
+<p class="is-size-7">Гарантия на работы до 2 лет</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class="section has-background-dark has-text-white">
+<div class="container is-widescreen">
+<div class="has-text-centered mb-6">
+<h2 class="title is-3 has-text-white"><span class="icon mr-2"><i class="fas fa-concierge-bell"></i></span> Все виды ремонта настенных котлов «Ferroli»</h2>
+<p class="subtitle is-5 has-text-white">Профессиональное решение любых проблем с вашим котлом</p>
+</div>
+<p class="is-size-6">Наша компания специализируется на ремонте и обслуживании котельного оборудования всех известных брендов. Располагая отменной технической базой, собственным складом запчастей и опытными сотрудниками с многолетним опытом, мы выполняем все виды ремонта настенных отопительных или двухконтурных котлов от итальянского концерна «Ferroli»:</p>
+<div class="columns is-multiline mt-5">
+<div class="column is-one-third-desktop is-half-tablet mb-4">
+<div class="card service-card h-100 has-shadow">
+<div class="card-content has-text-centered p-4"><span class="icon is-large mb-2 has-text-primary"><i class="fas fa-laptop-medical fa-2x"></i></span>
+<h5 class="title is-6">Комплексная диагностика</h5>
+<p class="is-size-7">Оборудования с использованием специального оборудования и компьютерных программ</p>
+</div>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet mb-4">
+<div class="card service-card h-100 has-shadow">
+<div class="card-content has-text-centered p-4"><span class="icon is-large mb-2 has-text-primary"><i class="fas fa-microchip fa-2x"></i></span>
+<h5 class="title is-6">Ремонт электроники</h5>
+<p class="is-size-7">Замена или **ремонт платы котла Ферроли**, подбор и установка блоков управления</p>
+</div>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet mb-4">
+<div class="card service-card h-100 has-shadow">
+<div class="card-content has-text-centered p-4"><span class="icon is-large mb-2 has-text-primary"><i class="fas fa-temperature-high fa-2x"></i></span>
+<h5 class="title is-6">Теплообменники</h5>
+<p class="is-size-7">Замена или чистка теплообменника с использованием бустера</p>
+</div>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet mb-4">
+<div class="card service-card h-100 has-shadow">
+<div class="card-content has-text-centered p-4"><span class="icon is-large mb-2 has-text-primary"><i class="fas fa-wind fa-2x"></i></span>
+<h5 class="title is-6">Дымоходы и трубы</h5>
+<p class="is-size-7">Восстановление труб и очистка дымохода</p>
+</div>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet mb-4">
+<div class="card service-card h-100 has-shadow">
+<div class="card-content has-text-centered p-4"><span class="icon is-large mb-2 has-text-primary"><i class="fas fa-tint fa-2x"></i></span>
+<h5 class="title is-6">Гидравлика</h5>
+<p class="is-size-7">Замена циркуляционных насосов, фильтров и мембран</p>
+</div>
+</div>
+</div>
+<div class="column is-one-third-desktop is-half-tablet mb-4">
+<div class="card service-card h-100 has-shadow">
+<div class="card-content has-text-centered p-4"><span class="icon is-large mb-2 has-text-primary"><i class="fas fa-burn fa-2x"></i></span>
+<h5 class="title is-6">Горелки и розжиг</h5>
+<p class="is-size-7">Чистка горелки, замена элементов и кнопок розжига</p>
+</div>
+</div>
+</div>
+</div>
+<div class="box mt-5 has-background-primary-light">
+<h4 class="title is-5"><span class="icon mr-2"><i class="fas fa-star"></i></span> Гарантия качества</h4>
+<p class="is-size-6">Выполняя **ремонт котла Ферроли**, мы успешно справляемся с устранением неисправностей всей линейки оборудования: С24, F24, C24 m и др. Доверив нам выполнение ремонтных или сервисных работ, вы можете быть уверены в высоком профессионализме, в оперативности обслуживания, в грамотном подборе всех запасных частей и оптимальных расценках на услуги любого уровня сложности.</p>
+</div>
+</div>
+</section>
+<section class="section" id="contact">
+<div class="container is-widescreen">
+<div class="columns is-centered">
+<div class="column is-two-thirds-desktop">
+<div class="box p-5 has-shadow has-background-light">
+<div class="has-text-centered">
+<h3 class="title is-3"><span class="icon mr-2"><i class="fas fa-headset"></i></span> Вызовите мастера прямо сейчас!</h3>
+<p class="subtitle is-5 mt-3">Оставьте заявку и получите бесплатную диагностику</p>
+</div>
+<div class="columns is-multiline mt-4 has-text-centered">
+<div class="column is-half-desktop mb-3">
+<div class="box has-background-white p-3"><span class="icon is-large has-text-primary mb-2"><i class="fas fa-phone-alt fa-2x"></i></span>
+<h4 class="title is-5">Телефон</h4>
+<p class="is-size-5 has-text-weight-bold has-text-dark">+7(495) 664-34-72</p>
+</div>
+</div>
+<div class="column is-half-desktop mb-3">
+<div class="box has-background-white p-3"><span class="icon is-large has-text-primary mb-2"><i class="fas fa-clock fa-2x"></i></span>
+<h4 class="title is-5">Рабочее время</h4>
+<p class="is-size-6 mb-0">Пн-Вс: 8:00-22:00</p>
+<p class="is-size-6">Без выходных</p>
+</div>
+</div>
+</div>
+<div class="has-text-centered mt-4"><a href="tel:+74951234567" class="button is-warning is-large is-fullwidth has-text-dark"> <span class="icon mr-2"><i class="fas fa-phone-alt"></i></span> Позвонить сейчас </a></div>
+</div>
+</div>
+</div>
+</div>
+</section>
+<footer class="footer has-background-dark has-text-white">
+<div class="container is-widescreen">
+<div class="columns is-multiline">
+<div class="column is-half-desktop content">
+<h5 class="title is-5 has-text-white"><span class="icon mr-2"><i class="fas fa-fire"></i></span> Сервисный центр Ferroli</h5>
+<p class="is-size-6">Профессиональный ремонт и обслуживание котлов Ferroli всех моделей</p>
+</div>
+<div class="column is-half-desktop has-text-right-desktop">
+<p class="is-size-7">© 2023 Сервисный центр Ferroli. Все права защищены.</p>
+</div>
+</div>
+</div>
+</footer></div>

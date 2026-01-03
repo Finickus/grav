@@ -1,0 +1,162 @@
+﻿---
+title: 'Коды ошибок и неисправностей котлов Kiturami'
+---
+
+<div class="container-fluid mt-5 mb-5">
+<section class="bg-primary text-white fw-bold mb-5">
+<div class="py-5">
+<div class="container text-center">
+
+<p class="h4 lead text-white">Диагностика и устранение</p>
+</div>
+</div>
+</section>
+<div class="card mb-5">
+<div class="card-body">
+<p class="fs-5">Котлы **Kiturami (Китурами)** — надежные и функциональные устройства, но могут выдавать ошибки, сигнализирующие о неполадках. В этом руководстве рассмотрены основные коды, их возможные причины и способы устранения.</p>
+</div>
+</div>
+<div class="card mb-5"><header class="card-header bg-secondary text-white">
+<p class="card-h3 text-white fs-5"><span class="icon me-2"><i class="fas fa-list"></i></span>Основные коды ошибок котлов Kiturami</p>
+</header>
+<div class="card-body content"><details open="" class="card mb-3 p-0 bg-danger-light">
+<summary class="h5 text-danger mb-0"><span class="icon me-2"><i class="fas fa-fire"></i></span> Ошибки 01, 02, 03 – Проблемы с розжигом</summary>
+<div class="p-4 fs-6">
+<h6 class="h6 text-danger"><span class="icon me-2"><i class="fas fa-exclamation-circle"></i></span>Симптомы:</h6>
+<ul class="ml-4 list-unstyled">
+<li class="mb-1"><span class="icon mr-1 text-muted"><i class="fas fa-ban"></i></span> Горелка не зажигается или отключается сразу после розжига.</li>
+</ul>
+<h6 class="h6 mt-3 text-warning"><span class="icon me-2"><i class="fas fa-search"></i></span>Возможные причины:</h6>
+<ol class="ml-4 list-unstyled">
+<li class="mb-2"><span class="icon me-2 text-primary"><i class="fas fa-lock"></i></span> **Закрыт газовый кран.**</li>
+<li class="mb-2"><span class="icon me-2 text-info"><i class="fas fa-filter"></i></span> **Загрязнен газовый фильтр.**</li>
+<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-wind"></i></span> **Недостаточная тяга** (проверить дымоход, вентиляцию).</li>
+<li class="mb-2"><span class="icon me-2 text-warning"><i class="fas fa-bolt"></i></span> **Неисправность датчика ионизации/электродов розжига.**</li>
+</ol>
+<h6 class="h6 mt-3 text-success"><span class="icon me-2"><i class="fas fa-wrench"></i></span>Решение:</h6>
+<ul class="ml-4 list-unstyled">
+<li class="mb-1"><span class="icon mr-1 text-primary"><i class="fas fa-unlock"></i></span> Открыть газовый вентиль, прочистить фильтр.</li>
+<li class="mb-1"><span class="icon mr-1 has-text-home"><i class="fas fa-home"></i></span> Убедиться, что дымоход не засорен.</li>
+<li class="mb-1"><span class="icon mr-1 text-danger"><i class="fas fa-user-md"></i></span> Если проблема не решается – вызвать сервисного мастера.</li>
+</ul>
+</div>
+</details><details class="card mb-3 p-0 bg-info-light">
+<summary class="h5 text-info mb-0"><span class="icon me-2"><i class="fas fa-thermometer-empty"></i></span> Ошибка 04 – Неисправность датчика температуры воды</summary>
+<div class="p-4 fs-6">
+<h6 class="h6 text-danger"><span class="icon me-2"><i class="fas fa-exclamation-circle"></i></span>Симптомы:</h6>
+<ul class="ml-4 list-unstyled">
+<li class="mb-1"><span class="icon mr-1 text-muted"><i class="fas fa-satellite-dish"></i></span> Котел не получает данные от датчика.</li>
+</ul>
+<h6 class="h6 mt-3 text-warning"><span class="icon me-2"><i class="fas fa-search"></i></span>Причины:</h6>
+<ul class="ml-4 list-unstyled">
+<li class="mb-2"><span class="icon me-2 text-danger"><i class="fas fa-cut"></i></span> Обрыв проводов / Выход из строя датчика.</li>
+</ul>
+<h6 class="h6 mt-3 text-success"><span class="icon me-2"><i class="fas fa-wrench"></i></span>Решение:</h6>
+<ul class="ml-4 list-unstyled">
+<li class="mb-1"><span class="icon mr-1 text-primary"><i class="fas fa-plug"></i></span> Проверить соединения датчика.</li>
+<li class="mb-1"><span class="icon mr-1 text-warning"><i class="fas fa-sync"></i></span> Если контакт есть, но ошибка остается – заменить датчик.</li>
+</ul>
+</div>
+</details><details class="card mb-3 p-0 bg-primary-light">
+<summary class="h5 text-primary mb-0"><span class="icon me-2"><i class="fas fa-fan"></i></span> Ошибка 07 – Проблемы с вентилятором</summary>
+<div class="p-4 fs-6">
+<h6 class="h6 text-danger"><span class="icon me-2"><i class="fas fa-exclamation-circle"></i></span>Симптомы:</h6>
+<ul class="ml-4 list-unstyled">
+<li class="mb-1"><span class="icon mr-1 text-muted"><i class="fas fa-power-off"></i></span> Вентилятор не запускается или работает с перебоями.</li>
+</ul>
+<h6 class="h6 mt-3 text-warning"><span class="icon me-2"><i class="fas fa-search"></i></span>Причины:</h6>
+<ol class="ml-4 list-unstyled">
+<li class="mb-2"><span class="icon me-2 text-info"><i class="fas fa-broom"></i></span> **Механическое засорение** (пыль, мусор).</li>
+<li class="mb-2"><span class="icon me-2 text-danger"><i class="fas fa-bolt"></i></span> **Обрыв или замыкание** в обмотке двигателя.</li>
+</ol>
+<h6 class="h6 mt-3 text-success"><span class="icon me-2"><i class="fas fa-wrench"></i></span>Решение:</h6>
+<ul class="ml-4 list-unstyled">
+<li class="mb-1"><span class="icon mr-1 text-info"><i class="fas fa-broom"></i></span> Очистить вентилятор.</li>
+<li class="mb-1"><span class="icon mr-1 text-danger"><i class="fas fa-sync"></i></span> Проверить напряжение, при неисправности – заменить.</li>
+</ul>
+</div>
+</details><details class="card mb-3 p-0 bg-secondary-light">
+<summary class="h5 has-text-secondary mb-0"><span class="icon me-2"><i class="fas fa-tint"></i></span> Ошибка 95 – Низкий уровень теплоносителя</summary>
+<div class="p-4 fs-6">
+<h6 class="h6 text-danger"><span class="icon me-2"><i class="fas fa-exclamation-circle"></i></span>Симптомы:</h6>
+<ul class="ml-4 list-unstyled">
+<li class="mb-1"><span class="icon mr-1 text-muted"><i class="fas fa-tachometer-alt"></i></span> Давление в системе **ниже 0,8 бар**.</li>
+</ul>
+<h6 class="h6 mt-3 text-warning"><span class="icon me-2"><i class="fas fa-search"></i></span>Причины:</h6>
+<ul class="ml-4 list-unstyled">
+<li class="mb-2"><span class="icon me-2 text-danger"><i class="fas fa-tint-slash"></i></span> Утечка в системе.</li>
+</ul>
+<h6 class="h6 mt-3 text-success"><span class="icon me-2"><i class="fas fa-wrench"></i></span>Решение:</h6>
+<ul class="ml-4 list-unstyled">
+<li class="mb-1"><span class="icon mr-1 text-primary"><i class="fas fa-fill"></i></span> **Долить воду**, проверить герметичность.</li>
+<li class="mb-1"><span class="icon mr-1 text-warning"><i class="fas fa-search"></i></span> Если давление падает повторно – **искать утечку**.</li>
+</ul>
+</div>
+</details><details class="card mb-3 p-0 bg-danger-light">
+<summary class="h5 text-danger mb-0"><span class="icon me-2"><i class="fas fa-radiation"></i></span> Ошибка 97 – Утечка газа (Критично)</summary>
+<div class="p-4 fs-6">
+<div class="notification is-danger">
+<h6 class="h6 text-white"><span class="icon me-2 text-white"><i class="fas fa-exclamation-triangle"></i></span>Опасная ситуация!</h6>
+<ol class="ml-4 list-unstyled">
+<li class="mb-2"><span class="icon me-2 text-danger"><i class="fas fa-lock"></i></span> **Закрыть газовый кран.**</li>
+<li class="mb-2"><span class="icon me-2 text-info"><i class="fas fa-wind"></i></span> **Проветрить помещение.**</li>
+<li class="mb-2"><span class="icon me-2 text-warning"><i class="fas fa-ban"></i></span> **Не включать электроприборы.**</li>
+<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-phone"></i></span> **Вызвать аварийную газовую службу.**</li>
+</ol>
+</div>
+</div>
+</details><details class="card mb-3 p-0 bg-light">
+<summary class="h5 text-dark mb-0"><span class="icon me-2"><i class="fas fa-ellipsis-h"></i></span> Прочие распространенные ошибки</summary>
+<div class="p-4 fs-6">
+<div class="table-container">
+<table class="table is-bordered is-striped w-100">
+<thead class="bg-secondary-light">
+<tr>
+<th>Код</th>
+<th>Описание</th>
+<th>Решение</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>**05, 96**</td>
+<td>Датчик перегрева не отвечает / Перегрев котла (&gt;97°C)</td>
+<td>Проверить насос, очистить фильтры/теплообменник, сбросить воздух.</td>
+</tr>
+<tr>
+<td>**08**</td>
+<td>Нет связи с комнатным термостатом (CTR-5700)</td>
+<td>Проверить длину и целостность проводов (макс. 10 м).</td>
+</tr>
+<tr>
+<td>**14, 34**</td>
+<td>Неисправность датчиков ГВС</td>
+<td>Проверить контакты, заменить датчик.</td>
+</tr>
+<tr>
+<td>**97**</td>
+<td>Отказ кнопки разблокировки</td>
+<td>Замена вышедшего из строя элемента.</td>
+</tr>
+<tr>
+<td>**96**</td>
+<td>Перегрев котла (&gt;97°C)</td>
+<td>(См. 05) Сбросить воздух, проверить насос/фильтры.</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</details></div>
+</div>
+<div class="card bg-primary text-white shadow p-5 mt-5">
+<div class="text-center">
+<h3 class="h4 display-4 text-white"><span class="icon me-2"><i class="fas fa-phone"></i></span>Нужна помощь специалиста?</h3>
+<p class="h5 lead text-white">Свяжитесь с нами для профессиональной диагностики и ремонта:</p>
+<div class="row is-centered mt-4">
+<div class="col-lg-4 is-half-mobile mb-2"><a href="tel:+79262211348" class="btn btn-light btn-lg w-100"> <span class="icon me-2"><i class="fas fa-phone"></i></span> <span>+7(926) 221-13-48</span> </a></div>
+<div class="col-lg-4 is-half-mobile"><a href="https://service04.ru/contact-us/feedback" class="btn btn-warning btn-lg w-100 text-dark"> <span class="icon me-2"><i class="fas fa-envelope"></i></span> <span>Написать нам</span> </a></div>
+</div>
+</div>
+</div>
+</div>

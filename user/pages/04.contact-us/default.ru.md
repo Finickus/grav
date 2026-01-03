@@ -53,7 +53,6 @@ process:
                 <div class="card-body">
                     <h5 class="card-title fw-bold" style="color: #e37a25;">Телефоны</h5>
                     <p class="card-text fs-5">
-                        <strong>+7 (495) 664-34-72</strong><br>
                         <strong>+7 (926) 221-13-48</strong>
                     </p>
                     <a href="tel:+79262211348" class="btn btn-primary w-100">Позвонить</a>

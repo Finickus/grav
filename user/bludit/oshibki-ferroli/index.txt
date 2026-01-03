@@ -1,0 +1,232 @@
+<div class="container is-widescreen mt-5 mb-5">
+<section class="hero is-primary is-bold mb-5">
+<div class="hero-body">
+<div class="container has-text-centered">
+<h1 class="title is-2 has-text-white"><span class="icon is-medium mr-3"><i class="fas fa-book"></i></span>Полное руководство по ошибкам котлов Ferroli</h1>
+<p class="subtitle is-4 has-text-white">Диагностика и ремонт настенных и напольных котлов Ферроли</p>
+</div>
+</div>
+</section>
+<div class="card mb-5 has-shadow">
+<div class="card-content">
+<h2 class="title is-4 has-text-primary"><span class="icon mr-2"><i class="fas fa-info-circle"></i></span>Введение</h2>
+<p class="is-size-5">Котлы **Ferroli** - надежное отопительное оборудование, но в процессе эксплуатации могут возникать различные ошибки. В этом подробном руководстве мы рассмотрим все возможные коды ошибок, их причины и предоставим пошаговые инструкции по диагностике и ремонту.</p>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-info">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-fire"></i></span>Ошибки настенных котлов Ferroli</p>
+</header>
+<div class="card-content content">
+<div id="accordionWallErrors"><details open="" class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-warning mb-0"><span class="icon mr-2"><i class="fas fa-fire-extinguisher"></i></span> Ошибка А01 - Отсутствие сигнала о пламени</summary>
+<div class="p-4">
+<h6 class="title is-6 has-text-warning">Причины и решения:</h6>
+<div class="columns is-multiline is-size-7">
+<div class="column is-half">
+<p class="has-text-weight-bold">Проблемы с подачей газа:</p>
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-2 has-text-danger"><i class="fas fa-gas-pump"></i></span> Проверить открытие всех газовых кранов</li>
+<li class="mb-1"><span class="icon mr-2 has-text-warning"><i class="fas fa-wind"></i></span> Устранить воздушные пробки в газопроводе</li>
+<li class="mb-1"><span class="icon mr-2 has-text-primary"><i class="fas fa-tachometer-alt"></i></span> Проверить давление газа (норма: 20 мбар)</li>
+</ul>
+<p class="has-text-weight-bold mt-3">Неисправность газового клапана:</p>
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-2 has-text-info"><i class="fas fa-valve"></i></span> Проверить сопротивление катушек: Модулирующая (24 Ом), Запорная (65 Ом)</li>
+<li class="mb-1"><span class="icon mr-2 has-text-success"><i class="fas fa-tint"></i></span> При залипании клапана: подать воздух через штуцер</li>
+</ul>
+</div>
+<div class="column is-half">
+<p class="has-text-weight-bold">Проблемы с электродом розжига:</p>
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-2 has-text-danger"><i class="fas fa-bolt"></i></span> Очистить электрод от нагара</li>
+<li class="mb-1"><span class="icon mr-2 has-text-warning"><i class="fas fa-ruler"></i></span> Проверить зазор (3,0±0,5 мм)</li>
+<li class="mb-1"><span class="icon mr-2 has-text-primary"><i class="fas fa-plug"></i></span> Проверить изоляцию проводов</li>
+</ul>
+<p class="has-text-weight-bold mt-3">Дополнительные меры:</p>
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-2 has-text-info"><i class="fas fa-plug"></i></span> Проверить заземление котла</li>
+<li class="mb-1"><span class="icon mr-2 has-text-success"><i class="fas fa-tint"></i></span> Устранить конденсат в камере сгорания</li>
+</ul>
+</div>
+</div>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-warning mb-0"><span class="icon mr-2"><i class="fas fa-fire"></i></span> Ошибка А02 - Ложное обнаружение пламени</summary>
+<div class="p-4">
+<h6 class="title is-6 has-text-warning">Диагностика и ремонт:</h6>
+<div class="columns is-multiline is-size-7">
+<div class="column is-half">
+<p class="has-text-weight-bold">Электрод ионизации:</p>
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-2 has-text-danger"><i class="fas fa-broom"></i></span> Тщательная очистка от загрязнений</li>
+<li class="mb-1"><span class="icon mr-2 has-text-warning"><i class="fas fa-plug"></i></span> Проверка целостности изоляции</li>
+</ul>
+</div>
+<div class="column is-half">
+<p class="has-text-weight-bold">Плата управления:</p>
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-2 has-text-danger"><i class="fas fa-bolt"></i></span> Проверить трансформатор розжига</li>
+<li class="mb-1"><span class="icon mr-2 has-text-warning"><i class="fas fa-microchip"></i></span> При повторяющихся ошибках - замена платы</li>
+</ul>
+</div>
+</div>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-warning mb-0"><span class="icon mr-2"><i class="fas fa-thermometer-full"></i></span> Ошибка А03 - Перегрев котла</summary>
+<div class="p-4">
+<h6 class="title is-6 has-text-warning">Пошаговая диагностика:</h6>
+<div class="columns is-multiline is-size-7">
+<div class="column is-half">
+<p class="has-text-weight-bold">Циркуляция теплоносителя:</p>
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-2 has-text-danger"><i class="fas fa-tachometer-alt"></i></span> Проверить давление (1,2 бар в холодной системе)</li>
+<li class="mb-1"><span class="icon mr-2 has-text-warning"><i class="fas fa-wind"></i></span> Удалить воздух через краны Маевского</li>
+</ul>
+</div>
+<div class="column is-half">
+<p class="has-text-weight-bold">Циркуляционный насос:</p>
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-2 has-text-bolt"><i class="fas fa-bolt"></i></span> Проверить напряжение питания (230В)</li>
+<li class="mb-1"><span class="icon mr-2 has-text-success"><i class="fas fa-sync"></i></span> Проверить свободное вращение вала</li>
+</ul>
+<div class="notification is-warning is-light mt-3">
+<p class="mb-0 is-size-7"><span class="icon mr-2 has-text-danger"><i class="fas fa-exclamation-triangle"></i></span>При перегреве дать котлу остыть перед повторным запуском</p>
+</div>
+</div>
+</div>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-warning mb-0"><span class="icon mr-2"><i class="fas fa-thermometer-full"></i></span> Ошибка F04 - Перегрев дымовых газов</summary>
+<div class="p-4">
+<h6 class="title is-6 has-text-warning">Методы устранения:</h6>
+<p class="is-size-7">Проверить тягу и прочистить дымоход. Устранить ледяные пробки. Проверить прерыватель тяги. Проверить датчик температуры и заменить при неисправности.</p>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-warning mb-0"><span class="icon mr-2"><i class="fas fa-fan"></i></span> Ошибка F05 - Неисправность вентилятора</summary>
+<div class="p-4">
+<h6 class="title is-6 has-text-warning">Пошаговый ремонт:</h6>
+<p class="is-size-7">Проверить целостность проводов, убедиться в надежности разъемов. Измерить напряжение на контактах (норма: 220 В). Очистить вентилятор от загрязнений. При неисправности двигателя — замена вентилятора.</p>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-warning mb-0"><span class="icon mr-2"><i class="fas fa-fire"></i></span> Ошибка A06 - Частое затухание пламени</summary>
+<div class="p-4">
+<h6 class="title is-6 has-text-warning">Ремонт:</h6>
+<p class="is-size-7">Очистить и отрегулировать зазор электрода ионизации. Проверить параметры работы вентилятора и газовой смеси.</p>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-warning mb-0"><span class="icon mr-2"><i class="fas fa-thermometer-half"></i></span> Ошибка F08 - Перегрев теплообменника</summary>
+<div class="p-4">
+<h6 class="title is-6 has-text-warning">Диагностика:</h6>
+<p class="is-size-7">Проверить давление в системе (1,2-1,5 бар). Удалить воздух, очистить фильтры. При необходимости промыть теплообменник от накипи.</p>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-warning mb-0"><span class="icon mr-2"><i class="fas fa-tachometer-alt"></i></span> Ошибка F37 - Низкое давление</summary>
+<div class="p-4">
+<h6 class="title is-6 has-text-warning">Действия:</h6>
+<p class="is-size-7">Найти и устранить утечки. Долить теплоноситель. Проверить работу реле давления и заменить при необходимости.</p>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-warning mb-0"><span class="icon mr-2"><i class="fas fa-bolt"></i></span> Ошибки F34/F35 - Проблемы с электропитанием</summary>
+<div class="p-4">
+<h6 class="title is-6 has-text-warning">Решение:</h6>
+<p class="is-size-7">Проверить напряжение сети (норма: 220 В ±10%). Установить стабилизатор напряжения. Проверить параметр b06 (частота сети).</p>
+</div>
+</details></div>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-success">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-industry"></i></span>Ошибки напольных котлов Ferroli</p>
+</header>
+<div class="card-content content">
+<div id="accordionFloorErrors"><details open="" class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-success mb-0"><span class="icon mr-2"><i class="fas fa-fire"></i></span> Проблемы с пилотной горелкой</summary>
+<div class="p-4">
+<h6 class="title is-6 has-text-success">Диагностика:</h6>
+<div class="columns is-multiline is-size-7">
+<div class="column is-half">
+<p class="has-text-weight-bold">Подача газа:</p>
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-2 has-text-danger"><i class="fas fa-gas-pump"></i></span> Проверить давление в газопроводе</li>
+<li class="mb-1"><span class="icon mr-2 has-text-warning"><i class="fas fa-wind"></i></span> Очистить форсунку сжатым воздухом</li>
+</ul>
+</div>
+<div class="column is-half">
+<p class="has-text-weight-bold">Термопара:</p>
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-2 has-text-info"><i class="fas fa-plug"></i></span> Проверить соединения</li>
+<li class="mb-1"><span class="icon mr-2 has-text-success"><i class="fas fa-exchange-alt"></i></span> Заменить при неисправности</li>
+</ul>
+</div>
+</div>
+</div>
+</details><details class="box mb-3 p-0 has-background-light">
+<summary class="title is-5 has-text-success mb-0"><span class="icon mr-2"><i class="fas fa-fire"></i></span> Проблемы с основной горелкой</summary>
+<div class="p-4">
+<h6 class="title is-6 has-text-success">Решение:</h6>
+<div class="columns is-multiline is-size-7">
+<div class="column is-half">
+<p class="has-text-weight-bold">Подача воздуха:</p>
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-2 has-text-danger"><i class="fas fa-wind"></i></span> Проверить вентиляцию помещения</li>
+<li class="mb-1"><span class="icon mr-2 has-text-warning"><i class="fas fa-broom"></i></span> Очистить камеру сгорания</li>
+</ul>
+</div>
+<div class="column is-half">
+<p class="has-text-weight-bold">Теплообменник:</p>
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-2 has-text-danger"><i class="fas fa-border-all"></i></span> Очистить от сажи и накипи</li>
+<li class="mb-1"><span class="icon mr-2 has-text-warning"><i class="fas fa-tint"></i></span> Проверить циркуляцию теплоносителя</li>
+</ul>
+</div>
+</div>
+</div>
+</details></div>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-warning">
+<p class="card-header-title has-text-dark is-size-5"><span class="icon mr-2"><i class="fas fa-tools"></i></span>Общие рекомендации по обслуживанию</p>
+</header>
+<div class="card-content">
+<div class="columns is-multiline is-size-7">
+<div class="column is-half content">
+<p class="has-text-weight-bold">Регулярная чистка:</p>
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-2 has-text-danger"><i class="fas fa-fire"></i></span> Горелки и камеры сгорания - 1 раз в год</li>
+<li class="mb-1"><span class="icon mr-2 has-text-warning"><i class="fas fa-border-all"></i></span> Теплообменник - по необходимости</li>
+</ul>
+</div>
+<div class="column is-half content">
+<p class="has-text-weight-bold">Проверка параметров:</p>
+<ul class="ml-4 is-unstyled">
+<li class="mb-1"><span class="icon mr-2 has-text-gas-pump"><i class="fas fa-gas-pump"></i></span> Давление газа</li>
+<li class="mb-1"><span class="icon mr-2 has-text-success"><i class="fas fa-tachometer-alt"></i></span> Давление в системе отопления</li>
+<li class="mb-1"><span class="icon mr-2 has-text-danger"><i class="fas fa-bolt"></i></span> Напряжение питания</li>
+</ul>
+<div class="notification is-danger mt-3">
+<p class="mb-0 is-size-7"><span class="icon mr-2 has-text-white"><i class="fas fa-exclamation-triangle"></i></span>Для сложных неисправностей, связанных с газовой арматурой или электроникой, рекомендуется обращаться к сертифицированным специалистам.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="card mb-5 has-shadow"><header class="card-header has-background-secondary">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-flag-checkered"></i></span>Заключение</p>
+</header>
+<div class="card-content">
+<p>Своевременное устранение ошибок и регулярное техническое обслуживание значительно продлят срок службы котла Ferroli. Всегда соблюдайте меры безопасности при работе с газовым оборудованием и отключайте питание перед проведением любых ремонтных работ.</p>
+<div class="notification is-danger mt-4">
+<p class="has-text-weight-bold mb-0"><span class="icon mr-2 has-text-white"><i class="fas fa-exclamation-triangle"></i></span>Перед любыми работами **отключайте питание котла** и **перекрывайте газ!**</p>
+</div>
+</div>
+</div>
+<div class="box has-background-primary has-text-white has-shadow p-5">
+<div class="has-text-centered">
+<h3 class="title is-4 has-text-white"><span class="icon mr-2"><i class="fas fa-user-md"></i></span>Нужна помощь с котлом Ferroli?</h3>
+<p class="subtitle is-5 has-text-white">Наши специалисты помогут диагностировать и устранить неисправность!</p>
+<div class="columns is-mobile is-centered mt-4">
+<div class="column is-4-desktop is-half-mobile mb-2"><a href="tel:+79262211348" class="button is-light is-large is-fullwidth"> <span class="icon mr-2"><i class="fas fa-phone"></i></span> <span>Позвонить</span> </a></div>
+<div class="column is-4-desktop is-half-mobile"><a href="https://service04.ru/contact-us/feedback" class="button is-warning is-large is-fullwidth has-text-dark"> <span class="icon mr-2"><i class="fas fa-envelope"></i></span> <span>Оставить заявку</span> </a></div>
+</div>
+</div>
+</div>
+</div>

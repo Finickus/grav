@@ -1,0 +1,23 @@
+<div class="container is-widescreen mt-6">
+<h1 class="title is-4 has-text-grey-darker mb-4">Схема запчастей EKCO_R2</h1>
+<div class="has-text-centered">
+<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/wklejka-EKCO_R2-page-001-e731be2a.jpg" alt="Схема запчастей EKCO_R2"></figure>
+</div>
+</div>
+<div class="content mt-4">
+<p class="subtitle is-5">Схема запчастей <strong>EKCO_R2</strong> предназначена для быстрого и точного подбора оригинальных комплектующих к газовому водонагревателю или отопительному котлу, оснащённому автоматикой серии EKCO_R2.</p>
+<p>Данная схема содержит маркировку всех ключевых узлов и элементов: от газового клапана и пилотной горелки до термопар, регуляторов и крепёжных деталей. Благодаря детальной разметке вы можете легко определить артикул необходимой запчасти и избежать ошибок при заказе.</p>
+<div class="notification is-info mt-4">
+<h5 class="title is-5"><i class="fas fa-info-circle mr-2"></i>Как использовать схему?</h5>
+<ul class="mb-0">
+<li>Найдите на схеме нужный вам узел (например, «термопара» или «газовый клапан»)</li>
+<li>Запишите каталожный номер (артикул), указанный рядом с изображением</li>
+<li>Введите артикул в строку поиска на нашем сайте или сообщите его нашему консультанту</li>
+</ul>
+</div>
+<p class="mt-4">Все запчасти, соответствующие схеме EKCO_R2, представлены в нашем каталоге. Мы предлагаем только оригинальные комплектующие от производителя <strong>SIT Group</strong> — надёжные, безопасные и полностью совместимые с вашим оборудованием.</p>
+<div class="notification is-warning mt-4">
+<p class="mb-0"><strong>Важно:</strong> при самостоятельной замене запчастей убедитесь, что вы точно идентифицировали модель и артикул. В случае сомнений — свяжитесь с нашим техническим специалистом. Неправильно подобранная деталь может привести к неисправности оборудования или нарушению условий гарантии.</p>
+</div>
+<div class="has-text-centered mt-5"><a href="tel:+79262211348" class="button is-primary is-large mr-3"> <i class="fas fa-phone mr-2"></i>Позвонить специалисту </a> <a href="https://service04.ru/contact-us/feedback" class="button is-warning is-large has-text-dark"> <i class="fas fa-envelope mr-2"></i>Запросить подбор запчастей </a></div>
+</div>

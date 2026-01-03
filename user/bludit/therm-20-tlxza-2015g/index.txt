@@ -1,0 +1,420 @@
+<div class="content-box">
+<div class="container is-widescreen mt-6 mb-6"><!-- Заголовок -->
+<section class="hero is-primary is-bold mb-6">
+<div class="hero-body has-text-centered">
+<h1 class="title is-3"><i class="fas fa-fire mr-3"></i>Запчасти для котлов THERM</h1>
+<p class="subtitle is-5">Оригинальные комплектующие для надежной работы вашего отопительного оборудования</p>
+</div>
+</section>
+<!-- Категории -->
+<div class="box mb-6"><header class="has-background-info p-4 mb-4">
+<h2 class="title is-4 mb-0 has-text-white"><i class="fas fa-tags mr-2"></i>Категории запчастей</h2>
+</header>
+<div class="field is-grouped is-grouped-multiline is-justify-content-center">
+<div class="control"><span class="tag is-medium is-grey m-1">Газовые компоненты</span></div>
+<div class="control"><span class="tag is-medium is-grey m-1">Горелки</span></div>
+<div class="control"><span class="tag is-medium is-grey m-1">Теплообменники</span></div>
+<div class="control"><span class="tag is-medium is-grey m-1">Электроника</span></div>
+<div class="control"><span class="tag is-medium is-grey m-1">Трубки</span></div>
+<div class="control"><span class="tag is-medium is-grey m-1">Прокладки</span></div>
+<div class="control"><span class="tag is-medium is-grey m-1">Клапаны</span></div>
+</div>
+</div>
+<!-- Информация для заказа -->
+<div class="box mb-6">
+<div class="notification is-primary-light">
+<h5 class="title is-5 mb-2"><i class="fas fa-info-circle mr-2"></i> Информация для заказа</h5>
+<p class="mb-0">Для точного подбора запчастей укажите модель и год выпуска вашего котла THERM. Все представленные запчасти — оригинальные комплектующие.</p>
+</div>
+</div>
+<!-- Каталог запчастей -->
+<div class="box mb-6"><header class="has-background-warning p-4 mb-4">
+<h3 class="title is-4 mb-0 has-text-dark"><i class="fas fa-list mr-2"></i>Каталог запчастей для котлов THERM</h3>
+</header><!-- Поиск -->
+<div class="field mb-5">
+<div class="control has-icons-right"><input type="text" id="partSearch" class="input is-medium" placeholder="Поиск по коду или названию..."> <span class="icon is-right"> <i class="fas fa-search"></i> </span></div>
+</div>
+<!-- 1. Газовые компоненты -->
+<h4 class="title is-5 mb-3"><i class="fas fa-gas-pump text-danger mr-2"></i> Газовые компоненты</h4>
+<div class="table-container mb-5">
+<table class="table is-striped is-bordered is-fullwidth">
+<thead>
+<tr>
+<th>Позиция</th>
+<th>Код</th>
+<th>Название компонента</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[01]</td>
+<td>41366</td>
+<td>Газовый редуктор SIT 845 SIGMA</td>
+</tr>
+<tr>
+<td>[02]</td>
+<td>22029.1</td>
+<td>Трубка газовая 3-Th-0148A</td>
+</tr>
+<tr>
+<td>[11]</td>
+<td>41424</td>
+<td>Катушка соленоида SIT</td>
+</tr>
+<tr>
+<td>[15]</td>
+<td>26113.1</td>
+<td>Микровыключатель SPDT</td>
+</tr>
+<tr>
+<td>[15]</td>
+<td>26072</td>
+<td>Многофункциональный коллектор</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- 2. Водяные компоненты -->
+<h4 class="title is-5 mb-3"><i class="fas fa-tint text-primary mr-2"></i> Водяные компоненты</h4>
+<div class="table-container mb-5">
+<table class="table is-striped is-bordered is-fullwidth">
+<thead>
+<tr>
+<th>Позиция</th>
+<th>Код</th>
+<th>Название компонента</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[16]</td>
+<td>41367</td>
+<td>Насос GRUNDFOS UPS 15/60 Cacao</td>
+</tr>
+<tr>
+<td>[17]</td>
+<td>20250</td>
+<td>Трубка обратки 3-Th-0323</td>
+</tr>
+<tr>
+<td>[18]</td>
+<td>20271.1</td>
+<td>Трубка отопительная 3-Th-0326B</td>
+</tr>
+<tr>
+<td>[21]</td>
+<td>43545</td>
+<td>Предохранительный клапан 1/2", 3 бар</td>
+</tr>
+<tr>
+<td>[22]</td>
+<td>22168.1</td>
+<td>Расширительный бак 7 л, 3/8"</td>
+</tr>
+<tr>
+<td>[23]</td>
+<td>40086</td>
+<td>Шланг с оплеткой 1/4Mx3/8Fx38cм</td>
+</tr>
+<tr>
+<td>[24]</td>
+<td>43544</td>
+<td>Воздуховыводящий клапан Caleffi</td>
+</tr>
+<tr>
+<td>[25]</td>
+<td>20046</td>
+<td>Трубка обратки 3-Th-0272</td>
+</tr>
+<tr>
+<td>[26]</td>
+<td>21481.1</td>
+<td>Расширительный бак 8л</td>
+</tr>
+<tr>
+<td>[27]</td>
+<td>40549</td>
+<td>Гибкий шланг 30 cм</td>
+</tr>
+<tr>
+<td>[28]</td>
+<td>43544</td>
+<td>Воздуховыводящий клапан Caleffi</td>
+</tr>
+<tr>
+<td>[29]</td>
+<td>21841.1</td>
+<td>Трубка отоп. к бойлеру</td>
+</tr>
+<tr>
+<td>[30]</td>
+<td>22108.1</td>
+<td>Трубка отопит.</td>
+</tr>
+<tr>
+<td>[31]</td>
+<td>22103.1</td>
+<td>Трубка обратки</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- 3. Теплообменники и изоляция -->
+<h4 class="title is-5 mb-3"><i class="fas fa-border-all text-success mr-2"></i> Теплообменники и изоляция</h4>
+<div class="table-container mb-5">
+<table class="table is-striped is-bordered is-fullwidth">
+<thead>
+<tr>
+<th>Позиция</th>
+<th>Код</th>
+<th>Название компонента</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[06]</td>
+<td>20400</td>
+<td>Теплообменник дымовые газы/вода PR 12-3230003</td>
+</tr>
+<tr>
+<td>[04]</td>
+<td>40810</td>
+<td>Изоляция Tibrex 12мм</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- 4. Прокладки -->
+<h4 class="title is-5 mb-3"><i class="fas fa-grip-lines text-grey mr-2"></i> Прокладки</h4>
+<div class="table-container mb-5">
+<table class="table is-striped is-bordered is-fullwidth">
+<thead>
+<tr>
+<th>Позиция</th>
+<th>Код</th>
+<th>Название компонента</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[40]</td>
+<td>40031</td>
+<td>Прокладка уплотнительная 16x10x1</td>
+</tr>
+<tr>
+<td>[41]</td>
+<td>40030</td>
+<td>Прокладка уплотнительная 18x12x2</td>
+</tr>
+<tr>
+<td>[42]</td>
+<td>40029</td>
+<td>Прокладка 24x16x2</td>
+</tr>
+<tr>
+<td>[43]</td>
+<td>40028</td>
+<td>Прокладка уплотнительная 29x20x2</td>
+</tr>
+<tr>
+<td>[44]</td>
+<td>40526</td>
+<td>Прокладка уплотнительная 11x6x2</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- 5. Электроника и управление -->
+<h4 class="title is-5 mb-3"><i class="fas fa-microchip text-warning mr-2"></i> Электроника и управление</h4>
+<div class="table-container mb-5">
+<table class="table is-striped is-bordered is-fullwidth">
+<thead>
+<tr>
+<th>Позиция</th>
+<th>Код</th>
+<th>Название компонента</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[46]</td>
+<td>40035</td>
+<td>Термостат контактный 36 TXE 95°C</td>
+</tr>
+<tr>
+<td>[47]</td>
+<td>21045.3</td>
+<td>Температурный зонд</td>
+</tr>
+<tr>
+<td>[65]</td>
+<td>42266.1</td>
+<td>Лицевая часть панели управления (темно-коричневый)</td>
+</tr>
+<tr>
+<td>[66]</td>
+<td>42270.1</td>
+<td>Задняя крышка панели управления (темно-коричневый)</td>
+</tr>
+<tr>
+<td>[67]</td>
+<td>42268.1</td>
+<td>Откидная дверца панели (темно-коричневый)</td>
+</tr>
+<tr>
+<td>[68]</td>
+<td>25880</td>
+<td>Манометр 4 бар 1000мм (Альтернативно — скл.№ 29463)</td>
+</tr>
+<tr>
+<td>[69]</td>
+<td>24648</td>
+<td>Ось управляющей кнопки</td>
+</tr>
+<tr>
+<td>[70]</td>
+<td>42267.1</td>
+<td>Управляющая кнопка (темно-коричневый)</td>
+</tr>
+<tr>
+<td>[71]</td>
+<td>42269.1</td>
+<td>Гребенка крепления (темно-коричневый)</td>
+</tr>
+<tr>
+<td>[72]</td>
+<td>42260</td>
+<td>Автоматика HDIMS 04</td>
+</tr>
+<tr>
+<td>[73]</td>
+<td>42271.1</td>
+<td>Кнопка микровыключателя (темно-коричневый)</td>
+</tr>
+<tr>
+<td>[74]</td>
+<td>42265.1</td>
+<td>Крайний модуль (темно-коричневый)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!-- 6. Прочие компоненты -->
+<h4 class="title is-5 mb-3"><i class="fas fa-cogs text-info mr-2"></i> Прочие компоненты</h4>
+<div class="table-container mb-5">
+<table class="table is-striped is-bordered is-fullwidth">
+<thead>
+<tr>
+<th>Позиция</th>
+<th>Код</th>
+<th>Название компонента</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>[03]</td>
+<td>23117</td>
+<td>Горелка 6 ram. NOx, 09.92, медь</td>
+</tr>
+<tr>
+<td>[05]</td>
+<td>40798</td>
+<td>Камера сгорания 14X, XZ 3-Th-0328</td>
+</tr>
+<tr>
+<td>[07]</td>
+<td>40865</td>
+<td>Дымосборник</td>
+</tr>
+<tr>
+<td>[09]</td>
+<td>40594.1</td>
+<td>Ионизационный электрод IS 058.1</td>
+</tr>
+<tr>
+<td>[13]</td>
+<td>40806</td>
+<td>Держак свечек — THERM</td>
+</tr>
+<tr>
+<td>[14]</td>
+<td>21300</td>
+<td>Рамка горелки 6 ram., NOx</td>
+</tr>
+<tr>
+<td>[39]</td>
+<td>42564</td>
+<td>Передняя панель</td>
+</tr>
+<tr>
+<td>[48]</td>
+<td>4841780</td>
+<td>Арматура 54015 водно-газовая</td>
+</tr>
+<tr>
+<td>[49]</td>
+<td>4841789</td>
+<td>Держатель арматуры 54016</td>
+</tr>
+<tr>
+<td>[55]</td>
+<td>40004</td>
+<td>Вставка Ms 1/4</td>
+</tr>
+<tr>
+<td>[58]</td>
+<td>40395</td>
+<td>Редукция 1/2" - 1/4"</td>
+</tr>
+<tr>
+<td>[60]</td>
+<td>40983</td>
+<td>Застежка-хомут насоса</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<!-- Заказ -->
+<div class="box has-background-primary has-text-white">
+<div class="has-text-centered">
+<h3 class="title is-3 mb-3"><i class="fas fa-shopping-cart mr-2"></i>Заказать запчасти для котлов THERM</h3>
+<p class="subtitle is-5">Подберем нужные детали и обеспечим профессиональное обслуживание</p>
+<div class="columns is-centered">
+<div class="column is-one-third"><a href="tel:+79262211348" class="button is-large is-light is-fullwidth"> <i class="fas fa-phone mr-2"></i>Позвонить </a></div>
+<div class="column is-one-third"><a href="https://service04.ru/contact-us/feedback" class="button is-large is-warning is-fullwidth has-text-dark"> <i class="fas fa-envelope mr-2"></i>Оставить заявку </a></div>
+</div>
+</div>
+</div>
+<!-- JavaScript: поиск по таблицам -->
+<script>
+      document.addEventListener('DOMContentLoaded', function () {
+        const searchInput = document.getElementById('partSearch');
+        if (!searchInput) return;
+
+        searchInput.addEventListener('input', function () {
+          const query = this.value.trim().toLowerCase();
+          const containers = document.querySelectorAll('.table-container');
+
+          containers.forEach(container => {
+            const rows = container.querySelectorAll('tbody tr');
+            let visibleCount = 0;
+
+            rows.forEach(row => {
+              const text = row.textContent.toLowerCase();
+              if (query === '' || text.includes(query)) {
+                row.style.display = '';
+                visibleCount++;
+              } else {
+                row.style.display = 'none';
+              }
+            });
+
+            // Скрываем раздел, если нет совпадений
+            container.style.display = visibleCount > 0 ? '' : 'none';
+          });
+        });
+      });
+    </script>
+</div>
+</div>

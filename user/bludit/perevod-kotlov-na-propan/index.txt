@@ -1,0 +1,167 @@
+<div class="content-box">
+<div class="container is-widescreen mt-6 mb-6">
+<section class="hero is-primary is-bold mb-6">
+<div class="hero-body has-text-centered">
+<h1 class="title is-3 has-text-white"><span class="icon is-medium mr-3"><i class="fas fa-gas-pump"></i></span>Перевод котлов на пропан</h1>
+<p class="subtitle is-5 has-text-white">Перевод котлов PLO и KLO версии 15 на сжиженный газ (пропан)</p>
+</div>
+</section>
+<div class="box mb-6">
+<p class="subtitle is-5">Для корректной работы газовых котлов <strong>PLO</strong> и <strong>KLO</strong> версии 15 при переходе на сжиженный газ (пропан) необходимо выполнить ряд процедур по замене компонентов и настройке параметров газового клапана.</p>
+<div class="notification is-warning mt-4">
+<h5 class="title is-5 mb-1 has-text-dark"><span class="icon mr-2"><i class="fas fa-exclamation-triangle"></i></span>Предупреждение</h5>
+<p class="mb-0">Работы с газовым оборудованием должны выполняться квалифицированными специалистами. Самостоятельное вмешательство может быть опасным.</p>
+</div>
+</div>
+<div class="box mb-6">
+<div class="notification is-info p-4 mb-5">
+<h2 class="title is-4 mb-0 has-text-white"><span class="icon mr-2"><i class="fas fa-list-ol"></i></span>Последовательность работы</h2>
+</div>
+<div class="columns is-variable is-6">
+<div class="column">
+<ol class="mb-0 has-text-justified">
+<li class="mb-4"><strong>Демонтаж горелки:</strong>
+<ul class="mt-2 mb-3">
+<li>Из котла снимите горелку</li>
+<li>Снимите тепловую изоляцию из горелки</li>
+<li>Снимите трубочные горелки</li>
+<li>Снимите форсунки 2,65 мм</li>
+</ul>
+<div class="has-text-centered is-fullwidth">
+<figure class="image is-inline-block" style="max-height: 150px; overflow: hidden; border: 1px solid #ddd;"><img src="https://service04.ru/bl-content/img/2019/12/image_1.png" alt="Демонтаж форсунок"></figure>
+</div>
+</li>
+<li><strong>Установка новых компонентов:</strong>
+<ul class="mt-2 mb-3">
+<li>Поставьте новые форсунки 1,70 mm (ном. заказа 0020027525) с медными прокладками (ном. заказа 0020035252)</li>
+<li>Поставьте новые трубочные горелки (номер заказа 0020025292)</li>
+</ul>
+<div class="has-text-centered is-fullwidth">
+<figure class="image is-inline-block" style="max-height: 100px; overflow: hidden; border: 1px solid #ddd;"><img src="https://service04.ru/bl-content/img/2019/12/image_2.png" alt="Новые форсунки"></figure>
+<figure class="image is-inline-block" style="max-height: 100px; overflow: hidden; border: 1px solid #ddd;"><img src="https://service04.ru/bl-content/img/2019/12/image_3.png" alt="Новые трубочные горелки"></figure>
+</div>
+</li>
+</ol>
+</div>
+<div class="column">
+<ol start="3" class="mb-0 has-text-justified">
+<li class="mb-4"><strong>Сборка и монтаж:</strong>
+<ul class="mt-2 mb-3">
+<li>Поставьте тепловую изоляцию</li>
+<li>Горелки поставьте снизу держатели стержней вида "U" (ном. зак. 0020027527)</li>
+<li>В держатель стержней "U" ближе к тепл.изоляции поставьте держатель (ном. зак. 0020027526)</li>
+<li>В держатель поставьте стержни (ном. зак. 0020025237) вместе со следующим держателем</li>
+<li>Поставьте следующий держатель в держатель вида "U"</li>
+</ul>
+<div class="has-text-centered is-fullwidth">
+<figure class="image is-inline-block" style="max-height: 100px; overflow: hidden; border: 1px solid #ddd;"><img src="https://service04.ru/bl-content/img/2019/12/image_4.png" alt="Тепловая изоляция и держатели"></figure>
+<figure class="image is-inline-block" style="max-height: 100px; overflow: hidden; border: 1px solid #ddd;"><img src="https://service04.ru/bl-content/img/2019/12/image_2-1.png" alt="Держатели стержней"></figure>
+</div>
+</li>
+<li><strong>Важно:</strong>
+<ul class="mt-2 mb-3">
+<li>У котлов <strong>PLO</strong> — против запальной горелки</li>
+<li>У котлов <strong>KLO</strong> — напротив электродов розжига</li>
+<li>Надо поставить укороченный стержень (н.з. 0020027612)</li>
+</ul>
+<div class="has-text-centered is-fullwidth">
+<figure class="image is-inline-block" style="max-height: 100px; overflow: hidden; border: 1px solid #ddd;"><img src="https://service04.ru/bl-content/img/2019/12/image_3-2.png" alt="Укороченный стержень"></figure>
+</div>
+</li>
+</ol>
+</div>
+</div>
+<div class="notification is-success mt-4">
+<h5 class="title is-5 mb-1 has-text-white"><span class="icon mr-2"><i class="fas fa-check-circle"></i></span>Важно</h5>
+<p class="mb-0">После монтажа горелки в котёл у котлов <strong>PLO</strong> надо настроить количество газа на запальную горелку с помощью винта <strong>PILOT</strong> на газовом клапане так, чтобы термопара была целиком в конце пламени.</p>
+</div>
+</div>
+<div class="box mb-6">
+<div class="notification is-warning is-light p-4 mb-5">
+<h2 class="title is-4 mb-0 has-text-dark"><span class="icon mr-2"><i class="fas fa-sliders-h"></i></span>Настройка газового клапана на пропан</h2>
+</div>
+<h5 class="title is-5 mb-4" style="color: #e37a25;">Параметры настройки (для сжиженного газа — пропан)</h5>
+<div class="table-container mb-5">
+<table class="table is-bordered is-striped is-fullwidth has-text-centered">
+<thead>
+<tr>
+<th>Параметр</th>
+<th>Значение</th>
+<th>Условия</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Давление газа на входе</strong></td>
+<td>300 мм водного столба</td>
+<td>Пропан</td>
+</tr>
+<tr>
+<td><strong>Давление при макс. мощности Pmax</strong></td>
+<td>270 мм водного столба</td>
+<td>Переключатель мощности в положении "два пламени"</td>
+</tr>
+<tr>
+<td><strong>Давление при мин. мощности Pmin</strong></td>
+<td>130 мм водного столба</td>
+<td>Кроме 60PLO, KLO. Переключатель мощности в положении "одно пламя"</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="notification is-info is-light">
+<h5 class="title is-5 mb-3 has-text-dark"><span class="icon mr-2"><i class="fas fa-info-circle"></i></span>Настройка газового клапана SIT 824 Nova</h5>
+<div class="columns is-variable is-6">
+<div class="column is-half-desktop">
+<h6 class="title is-6 mb-2">Описание клапана:</h6>
+<ol class="mb-0">
+<li>Винт PILOT настройки факела розжига</li>
+<li>Подключение термопары</li>
+<li>Выход газа для факела розжига</li>
+<li>Выход газа в горелку</li>
+<li>Вход газа</li>
+<li>Точка измерения давления газа на входе</li>
+<li>Точка измерения давления газа на выходе</li>
+<li>Кнопка управления газ. клапаном</li>
+<li>Катушка модулятора</li>
+</ol>
+</div>
+<div class="column is-half-desktop">
+<h6 class="title is-6 mb-2">Процедура настройки:</h6>
+<ol class="mb-3">
+<li>Подключите манометр к точке измерения (7)</li>
+<li>Снимите пластмассовое покрытие (A)</li>
+<li>Настройте давление при макс. мощности (винт C)</li>
+<li>Настройте давление при мин. мощности (винт B)</li>
+<li>Проверьте герметичность</li>
+</ol>
+<div class="has-text-centered is-fullwidth">
+<figure class="image is-inline-block" style="max-height: 150px; overflow: hidden; border: 1px solid #ddd;"><img src="https://service04.ru/bl-content/img/2019/12/image_5.png" alt="Газовый клапан SIT 824 Nova"></figure>
+<figure class="image is-inline-block" style="max-height: 100px; overflow: hidden; border: 1px solid #ddd;"><img src="https://service04.ru/bl-content/img/2019/12/11.jpg" alt="Настройка давления"></figure>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="box mb-6">
+<div class="notification is-success p-4 mb-5">
+<h3 class="title is-5 mb-0 has-text-white"><span class="icon mr-2"><i class="fas fa-file-pdf"></i></span>Документация и инструкции</h3>
+</div>
+<div class="columns is-multiline is-variable is-6 has-text-centered">
+<div class="column is-one-third"><a href="https://service04.ru/zapchasti-dlja-kotlov-ariston.html?file=files/img/zapchasti/Ariston/kotly/napolnye/Napolnye%20kotly%20UNOBLOC%20G%2038%20RI.pdf" target="_blank" rel="noopener" class="button is-primary is-fullwidth is-large"> <span class="icon mr-1"><i class="fas fa-download"></i></span> <span>UNOBLOC G 38 RI.pdf</span> </a></div>
+<div class="column is-one-third"><a href="https://service04.ru/zapchasti-dlja-kotlov-ariston.html?file=files/img/zapchasti/Ariston/kotly/napolnye/Napolnye%20kotly%20UNOBLOC%20G%2045%20RI.pdf" target="_blank" rel="noopener" class="button is-info is-fullwidth is-large"> <span class="icon mr-1"><i class="fas fa-file-pdf"></i></span> <span>UNOBLOC G 45 RI.pdf</span> </a></div>
+<div class="column is-one-third"><a href="https://service04.ru/zapchasti-dlja-kotlov-ariston.html?file=files/img/zapchasti/Ariston/kotly/napolnye/Napolnye%20kotly%20UNOBLOC%20G%2055%20RI.pdf" target="_blank" rel="noopener" class="button is-warning has-text-dark is-fullwidth is-large"> <span class="icon mr-1"><i class="fas fa-table"></i></span> <span>UNOBLOC G 55 RI.pdf</span> </a></div>
+</div>
+</div>
+<div class="box has-background-primary has-text-white">
+<div class="has-text-centered">
+<h3 class="title is-4 has-text-white mb-3"><span class="icon mr-2"><i class="fas fa-shopping-cart"></i></span>Закажите запчасти и обслуживание</h3>
+<p class="subtitle is-5 has-text-white">Для правильного перевода вашего котла на пропан</p>
+<div class="columns is-centered mt-4">
+<div class="column is-one-third"><a href="tel:+79262211348" class="button is-large is-light is-fullwidth"> <span class="icon mr-2"><i class="fas fa-phone"></i></span> <span>Позвонить</span> </a></div>
+<div class="column is-one-third"><a href="https://service04.ru/contact-us/feedback" class="button is-large is-warning is-fullwidth has-text-dark"> <span class="icon mr-2"><i class="fas fa-envelope"></i></span> <span>Оставить заявку</span> </a></div>
+</div>
+</div>
+</div>
+</div>
+</div>

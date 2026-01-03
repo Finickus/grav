@@ -96,7 +96,7 @@ title: 'Ремонт газовых колонок Electrolux'
         <p class="small text-center">Вызвать мастера для ремонта газовых колонок Electrolux у нас очень просто:</p>
         
         <ul class="list-unstyled ms-3 small row g-3 mt-3">
-            <li class="col-md-6"><i class="fas fa-phone me-2 text-warning"></i> Свяжитесь с нами по телефону: **+7(495) 664-34-72** или **+7(926) 221-13-48** или через онлайн-форму обратной связи.</li>
+            <li class="col-md-6"><i class="fas fa-phone me-2 text-warning"></i> Свяжитесь с нами по телефону: **+7(926) 221-13-48** или через онлайн-форму обратной связи.</li>
             <li class="col-md-6"><i class="fas fa-comment-dots me-2 text-warning"></i> Опишите проблему с вашей газовой колонкой и укажите модель Electrolux, если это возможно.</li>
             <li class="col-md-6"><i class="fas fa-calendar-check me-2 text-warning"></i> Наш специалист свяжется с вами для уточнения деталей и назначения удобного времени для визита.</li>
             <li class="col-md-6"><i class="fas fa-tools me-2 text-warning"></i> Мастер приедет к вам в указанное время, проведет диагностику и выполнит необходимый ремонт.</li>

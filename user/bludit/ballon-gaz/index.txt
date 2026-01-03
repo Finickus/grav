@@ -1,0 +1,249 @@
+<p></p>
+<!-- Bootstrap 4 CSS -->
+<p></p>
+<!-- Font Awesome -->
+<p></p>
+<!-- Навигация --><nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+<div class="container"><a class="navbar-brand" href="#"> <i class="fas fa-fire"></i> ГазБаллонОтопление </a> <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"> <span class="navbar-toggler-icon"></span> </button>
+<div class="collapse navbar-collapse" id="navbarNav">
+<ul class="navbar-nav ml-auto">
+<li class="nav-item"><a class="nav-link" href="#benefits">Преимущества</a></li>
+<li class="nav-item"><a class="nav-link" href="#system">Система</a></li>
+<li class="nav-item"><a class="nav-link" href="#pros-cons">Плюсы и минусы</a></li>
+<li class="nav-item"><a class="nav-link" href="#calculation">Расчет</a></li>
+<li class="nav-item"><a class="nav-link" href="#contact">Контакты</a></li>
+</ul>
+</div>
+</div>
+</nav><!-- Герой-секция -->
+<div class="hero-section">
+<div class="container">
+<div class="row">
+<div class="col-lg-8 mx-auto text-center">
+<h1 class="display-4 mb-4">Отопление дачи газовыми баллонами — это реально!</h1>
+<p class="lead mb-5">Экономичное и эффективное решение для вашего загородного дома</p>
+<a href="#contact" class="btn btn-custom btn-lg">Получить консультацию</a></div>
+</div>
+</div>
+</div>
+<!-- Основная информация -->
+<div class="section">
+<div class="container">
+<div class="row">
+<div class="col-lg-10 mx-auto">
+<div class="text-center mb-5">
+<h2 class="section-title d-inline-block">Экономное отопление для вашей дачи</h2>
+</div>
+<p class="lead text-center mb-5">Во время строительства и обустройства дома необходимо внимательно отнестись к его отоплению. Одним из самых востребованных способов экономно и качественно обогреть дом — это отопление газовыми баллонами.</p>
+<div class="feature-highlight rounded-lg mb-5">
+<div class="container"><i class="fas fa-home feature-icon"></i>
+<h2>Отопление газовыми баллонами — взвешенное решение</h2>
+<p class="lead">Часто единственный разумный вариант для загородных домов</p>
+</div>
+</div>
+<p>Отопление газовыми баллонами, зачастую, является единственным взвешенным решением во время монтажа систем отопления в домах. Кроме отопления есть возможность подключения ГВС для нескольких точек в доме.</p>
+<p class="font-weight-bold">Сжиженный баллонный газ – это экономически выгодное решение для отопления и ГВС домов, которые расположены в удалении от газовых магистралей.</p>
+</div>
+</div>
+</div>
+</div>
+<!-- Компоненты системы -->
+<div class="section bg-light" id="system">
+<div class="container">
+<h2 class="section-title">Компоненты системы отопления</h2>
+<p class="lead mb-5">Для качественного монтажа системы отопления на пропан-бутане потребуется:</p>
+<div class="row">
+<div class="col-md-6 col-lg-3 mb-4">
+<div class="system-component">
+<div class="component-icon"><i class="fas fa-fire"></i></div>
+<h4>Газовый котел</h4>
+<p>Адаптированный для работы на сжиженном топливе</p>
+</div>
+</div>
+<div class="col-md-6 col-lg-3 mb-4">
+<div class="system-component">
+<div class="component-icon"><i class="fas fa-burn"></i></div>
+<h4>Специальная горелка</h4>
+<p>Для работы на сжиженном газе</p>
+</div>
+</div>
+<div class="col-md-6 col-lg-3 mb-4">
+<div class="system-component">
+<div class="component-icon"><i class="fas fa-gas-pump"></i></div>
+<h4>Газовые баллоны</h4>
+<p>Емкости для хранения сжиженного газа</p>
+</div>
+</div>
+<div class="col-md-6 col-lg-3 mb-4">
+<div class="system-component">
+<div class="component-icon"><i class="fas fa-cogs"></i></div>
+<h4>Редукторы и арматура</h4>
+<p>Для безопасного подключения системы</p>
+</div>
+</div>
+</div>
+<div class="alert alert-info mt-5"><i class="fas fa-info-circle mr-2"></i> <strong>Важно:</strong> Немаловажным фактором является правильно смонтированный газопровод, который соединит все комплектующие в единую систему.</div>
+</div>
+</div>
+<!-- Плюсы и минусы -->
+<div class="section pros-cons-section" id="pros-cons">
+<div class="container">
+<h2 class="section-title">Преимущества и недостатки</h2>
+<div class="row">
+<div class="col-lg-6 mb-5 mb-lg-0">
+<h3 class="mb-4"><i class="fas fa-check-circle text-success mr-2"></i> Преимущества</h3>
+<ul class="pros-list">
+<li><i class="fas fa-check"></i> Высокая чистота топлива – пропан отвечает всем требованиям к чистоте и экологичности</li>
+<li><i class="fas fa-check"></i> Независимость отопления</li>
+<li><i class="fas fa-check"></i> Стабильное давление в системе без перепадов</li>
+<li><i class="fas fa-check"></i> Простое управление, легкость в эксплуатации и обслуживании</li>
+<li><i class="fas fa-check"></i> Возможность экономить баллонный газ</li>
+</ul>
+</div>
+<div class="col-lg-6">
+<h3 class="mb-4"><i class="fas fa-exclamation-triangle text-danger mr-2"></i> Недостатки</h3>
+<ul class="cons-list">
+<li><i class="fas fa-times"></i> При максимальной нагрузке котла - большие расходы топлива</li>
+<li><i class="fas fa-times"></i> Иногда возникают проблемы с своевременной заправкой баллонов</li>
+<li><i class="fas fa-times"></i> Некачественный газ может привести к поломке оборудования</li>
+<li><i class="fas fa-times"></i> Необходимо постоянно контролировать уровень топлива</li>
+</ul>
+<div class="alert alert-warning mt-4"><i class="fas fa-exclamation-triangle mr-2"></i> Выбирая сжиженный газ в качестве топлива, необходимо позаботиться о качестве газа и своевременности заправки баллонов.</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Расчет расходов -->
+<div class="section" id="calculation">
+<div class="container">
+<h2 class="section-title">Расчет отопления баллонным газом</h2>
+<p class="lead mb-5">Рассчитайте примерные расходы на отопление вашего дома</p>
+<div class="row">
+<div class="col-lg-8 mb-5 mb-lg-0">
+<div class="calculation-box">
+<div class="calculation-step">
+<div class="step-number">1</div>
+<div>
+<h4>Расход газа котлом</h4>
+<p>Газовые котлы используют около <strong>0,12 кг топлива в час</strong> для выработки 1 кВт энергии тепла</p>
+</div>
+</div>
+<div class="calculation-step">
+<div class="step-number">2</div>
+<div>
+<h4>Мощность котла</h4>
+<p>Для дома площадью <strong>100 м²</strong> требуется котел мощностью <strong>10 кВт</strong>, что соответствует расходу <strong>1,2 кг газа в час</strong></p>
+</div>
+</div>
+<div class="calculation-step">
+<div class="step-number">3</div>
+<div>
+<h4>Емкость баллонов</h4>
+<p>Один баллон содержит <strong>22 кг</strong> (около 40 литров) сжиженного газа. Стоимость заправки - <strong>450-500 рублей</strong> (12-13 руб/литр)</p>
+</div>
+</div>
+<div class="calculation-step">
+<div class="step-number">4</div>
+<div>
+<h4>Суточный расход</h4>
+<p>Для поддержания температуры 22-23°C в утепленном доме 100 м² требуется <strong>7-9 кг газа в день</strong> (84-107 рублей)</p>
+</div>
+</div>
+<div class="calculation-step">
+<div class="step-number">5</div>
+<div>
+<h4>Месячные расходы</h4>
+<p>Месячный расход - не более <strong>9 баллонов</strong>, что составляет около <strong>4500 рублей</strong> (при наличии качественного утепления и регуляторов)</p>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-4">
+<div class="result-box"><i class="fas fa-calculator fa-3x mb-4"></i>
+<h3>Экономия с автоматикой</h3>
+<p>При оснащении отопительного оборудования регулирующей автоматикой расходы топлива значительно уменьшаются</p>
+<div class="divider"></div>
+<div class="stat-number">до 30%</div>
+<p>экономии с современными регуляторами</p>
+<div class="divider"></div>
+<h4>Важно знать:</h4>
+<p>При работе котла на максимальной мощности стоит рассмотреть другие варианты отопления</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Контактная форма -->
+<div class="section contact-section" id="contact">
+<div class="container">
+<div class="row">
+<div class="col-lg-6 mb-5 mb-lg-0">
+<h2 class="text-white mb-4">Остались вопросы?</h2>
+<p class="lead mb-4">Наши специалисты помогут рассчитать точную стоимость отопления для вашего дома</p>
+<div class="mb-4">
+<h4><i class="fas fa-phone-alt mr-2"></i> Телефон</h4>
+<p class="h3">+7 (495) 123-45-67</p>
+</div>
+<div class="mb-4">
+<h4><i class="fas fa-clock mr-2"></i> Режим работы</h4>
+<p>Пн-Пт: 9:00-20:00<br>Сб-Вс: 10:00-18:00</p>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="contact-form">
+<h3 class="mb-4">Заказать консультацию</h3>
+<form>
+<div class="form-group"><input type="text" class="form-control form-control-lg" placeholder="Ваше имя" required=""></div>
+<div class="form-group"><input type="tel" class="form-control form-control-lg" placeholder="Ваш телефон" required=""></div>
+<div class="form-group"><textarea class="form-control form-control-lg" rows="3" placeholder="Ваш вопрос"></textarea></div>
+<button type="submit" class="btn btn-custom btn-block">Отправить заявку</button></form></div>
+</div>
+</div>
+</div>
+</div>
+<!-- Футер --><footer>
+<div class="container">
+<div class="row">
+<div class="col-md-4 mb-4">
+<h4><span style="font-size: 16px;">Профессиональный монтаж и обслуживание систем отопления на сжиженном газе</span><i class="fas fa-fire mr-2"></i></h4>
+</div>
+<div class="col-md-4 mb-4">
+<h4>Навигация</h4>
+<ul>
+<li><a href="#benefits">Преимущества</a></li>
+<li><a href="#system">Компоненты системы</a></li>
+<li><a href="#pros-cons">Плюсы и минусы</a></li>
+<li><a href="#calculation">Расчет расходов</a></li>
+</ul>
+</div>
+<div class="col-md-4 mb-4">
+<ul class="list-unstyled">
+<li></li>
+</ul>
+</div>
+</div>
+<div class="text-center">
+<p></p>
+</div>
+</div>
+</footer><!-- Bootstrap JS и зависимости -->
+<p>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"></script>
+</p>
+<!-- Плавная прокрутка -->
+<p>
+<script>
+        $(document).ready(function(){
+            $('a[href^="#"]').on('click', function(e) {
+                e.preventDefault();
+                var target = this.hash;
+                var $target = $(target);
+                $('html, body').animate({
+                    'scrollTop': $target.offset().top - 70
+                }, 800, 'swing');
+            });
+        });
+    </script>
+</p>

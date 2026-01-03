@@ -1,0 +1,76 @@
+<div class="container is-widescreen mt-5 mb-5">
+<section class="hero is-primary is-bold mb-5">
+<div class="hero-body">
+<div class="has-text-centered">
+<h1 class="title is-2 has-text-white"><span class="icon is-medium mr-3"><i class="fas fa-wave-square"></i></span>Мембраны для газовых колонок</h1>
+<p class="subtitle is-4 has-text-white">Ключевые комплектующие для бесперебойной работы</p>
+</div>
+</div>
+</section>
+<div class="card mb-5">
+<div class="card-content has-text-centered"><a href="https://service04.ru/bl-content/img/2019/12/31-03-51_membrany.jpg" target="_blank" data-title="Мембраны для газовых колонок" rel="noopener"> <img src="https://service04.ru/bl-content/img/2019/12/31-03-51_membrany.jpg" alt="Мембраны для газовых колонок" class="is-fullwidth is-rounded has-border-light"> </a></div>
+</div>
+<div class="card mb-5"><header class="card-header has-background-info">
+<p class="card-header-title has-text-white is-size-4"><span class="icon mr-2"><i class="fas fa-list"></i></span> Мембраны водяного блока для различных моделей</p>
+</header>
+<div class="card-content">
+<p class="has-text-weight-bold is-size-5">Мембрана водяного блока ВПГ</p>
+<div class="content">
+<ul class="ml-0 is-unstyled columns is-multiline is-mobile">
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> <a href="https://service04.ru/membrana-vodjanogo-bloka-kgi-56.html">Мембрана водяного блока КГИ-56</a></li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> <a href="https://service04.ru/membrana-vodjanogo-bloka-neva-32083210spb-gazapparat.html">Мембрана водяного блока «Нева-3208,3210»(Спб-Газаппарат)</a></li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> <a href="https://service04.ru/membrana-vodjanogo-bloka-proton-3-i-1m-mora.html">Мембрана водяного блока «Протон 3 и 1м», «Мора»</a></li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водяного блока «Россиянка», «Demrad»</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водяного блока Termet (Польша) РG-6(большая )</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водяного блока Termet (Польша) РG-6(малая )</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водяного блока «Протон -1»</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водяного блока «Нева-транзит» мод12Е», «ORION», «VEKTOR», ВПГ-12Е</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водяного блока Vector-Star, Power, Oasis, Нева-Транзит «Нева-транзит» ВПГ-10Е.</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> <a href="https://service04.ru/membrana-vodjanogo-bloka-neva-4510-4511-4513.html">Мембрана водяного блока «NEVA-4510/4511/4513»</a></li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водяного блока «NEVA-4610» ( с одним ушком)</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водяного блока «NEVA-5514/6014/6011/5611/5111» (черная)</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водяного блока «NEVA-5514/6014/6011/5611/5111» (черная с тарелками, сальником штока)</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водяного блока «NEVA-5514/6014/6011/5611/5111» (черная с тарелками, сальником штока, направляющая штока из пластика)</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водяного блока «NEVA-5514/6014/6011/5611/5111» (черная с тарелками, сальником штока, направляющая штока из латуни(вместо пластиковой))</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> <a href="https://service04.ru/membrana-vodjanogo-bloka-electrolux-gwh-275.html">Мембрана водяного блока «Electrolux GWH 275»,</a></li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана Vaillant MAG OE 11-0/0XZ пьезорозжиг.</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водяного блока «Electrolux GWH 275»,</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водяного блока «Electrolux GWH 285 ERN NANO PRO»</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водяного блока «Electrolux GWH 350 RN»</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водяного блока «Ariston GIWH»(восьмерка)</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водяного блока «Ariston Fast»</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водяного блока «Bosh Junkers WR-10, WR-11, WR-13 »</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водяного блока «Bosh Junkers WR-275, WR-350»</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водогазового узла«NEVALUX 5013/5016»,«Mertik» ВПГ NEVA LUX 50</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водяного блока Beretta IDRABAGNO AQUA</li>
+<li class="column is-full-mobile is-half-desktop mb-2"><span class="icon has-text-primary mr-2"><i class="fas fa-chevron-right"></i></span> Мембрана водяного блока Beretta IDRABAGNO 11,14,17(i)</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="card mb-5"><header class="card-header has-background-success">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-info-circle"></i></span> Мембрана для газовой колонки</p>
+</header>
+<div class="card-content">
+<div class="content">
+<p>Эффективная работа газовой колонки зависит от исправности всех узлов. **Мембрана** в газовой колонке является одной из самых **заменяемых запчастей**. Ее можно отнести к одной из самых важных запчастей. Со временем она просто изнашивается, и ее нужно менять.</p>
+<p>Материал мембраны, как правило, выполнен из **резины**, но также ее выполняют из других материалов. Она находится в основании **водяного узла** и реагирует на перепады давления в системе. То есть, когда вы открываете кран с горячей водой, **давлением воды она выгибается** и **выталкивает шток**, который, в свою очередь, приводит в действие газовый клапан.</p>
+<p>Износ мембраны, как правило, происходит со временем и в результате долгой интенсивной работы, но бывает, это может произойти и внезапно (к примеру - заводской брак).</p>
+<div class="notification is-warning is-light mt-4">
+<h5 class="title is-5 has-text-dark"><span class="icon mr-2"><i class="fas fa-exclamation-circle"></i></span>Важно!</h5>
+<p class="mb-0">Для каждой отдельной колонки **мембрана подбирается индивидуально**. В нашем интернет-магазине вы можете купить мембрану практически на все газовые колонки. Если вы не уверены в своей модели водонагревателя, лучше обратитесь к нашему специалисту - он подберет вам мембрану именно ту, которая нужна. Также вы можете заказать у нас выезд специалиста, который произведет замену мембраны в кратчайшие сроки.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="box has-background-primary has-text-white p-5">
+<div class="has-text-centered">
+<h3 class="title is-4 has-text-white mb-3"><span class="icon mr-2"><i class="fas fa-phone"></i></span>Нужна помощь с выбором мембраны?</h3>
+<p class="subtitle is-5 has-text-white">Консультация и подбор запчасти</p>
+<div class="columns is-mobile is-centered mt-4">
+<div class="column is-4-desktop is-half-mobile mb-2"><a href="tel:+79262211348" class="button is-light is-large is-fullwidth"> <span class="icon mr-2"><i class="fas fa-phone"></i></span> <span>+7(926) 221-13-48</span> </a></div>
+<div class="column is-4-desktop is-half-mobile"><a href="https://service04.ru/contact-us/feedback" class="button is-warning is-large is-fullwidth has-text-dark"> <span class="icon mr-2"><i class="fas fa-envelope"></i></span> <span>Написать нам</span> </a></div>
+</div>
+</div>
+</div>
+</div>

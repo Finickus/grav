@@ -77,9 +77,6 @@ title: 'Анод Mor Flo'
             <h3 class="h4 fw-bold mb-4"><i class="fas fa-shopping-cart me-2"></i>Купить с доставкой и консультацией</h3>
             <div class="row justify-content-center my-3 g-3">
                 <div class="col-12 col-md-4 mb-2">
-                    <a href="tel:+74956643472" class="btn btn-light btn-lg w-100 fw-bold shadow-sm"><i class="fas fa-phone-alt me-2"></i>+7 (495) 664-34-72</a>
-                </div>
-                <div class="col-12 col-md-4 mb-2">
                     <a href="tel:+79262211348" class="btn btn-light btn-lg w-100 fw-bold shadow-sm"><i class="fas fa-phone-alt me-2"></i>+7 (926) 221-13-48</a>
                 </div>
                 <div class="col-12 col-md-4 mb-2">

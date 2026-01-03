@@ -1,0 +1,105 @@
+<div class="container is-widescreen custom-bg py-5">
+<div class="columns is-vcentered mb-5">
+<div class="column is-8">
+<h1 class="custom-title is-2 mb-4"><span class="icon mr-3"><i class="fas fa-fire has-text-danger"></i></span>Ремонт газовых плит в Москве – гарантия и минимальные цены</h1>
+<p class="subtitle is-5">Газовая плита - незаменимый помощник на каждой кухне. Поломка создает не только бытовые неудобства, но и опасность утечки газа. Наши мастера выполнят профессиональный ремонт с гарантией безопасности.</p>
+</div>
+<div class="column is-4 has-text-centered"><img src="https://service04.ru/bl-content/img/2019/12/remont-gazovyx-plit2.jpg" alt="Профессиональный ремонт газовых плит" class="is-fullwidth has-shadow"></div>
+</div>
+<div class="columns mb-6">
+<div class="column is-full">
+<h2 class="custom-heading title is-3 mb-4"><span class="icon mr-3"><i class="fas fa-exclamation-triangle has-text-warning"></i></span> Когда плите требуется ремонт?</h2>
+<p>Современные газовые плиты надежны, но даже они могут выйти из строя. Обращайтесь к нам при первых признаках проблем:</p>
+<div class="columns mt-4">
+<div class="column is-half content">
+<ul class="ml-0 is-unstyled">
+<li><span class="icon mr-2"><i class="fas fa-fire-alt has-text-danger"></i></span>Слабое или неравномерное пламя</li>
+<li><span class="icon mr-2"><i class="fas fa-bolt has-text-warning"></i></span>Не работает электроподжиг</li>
+<li><span class="icon mr-2"><i class="fas fa-hand-paper has-text-primary"></i></span>Заклинило или плохо вращаются ручки</li>
+<li><span class="icon mr-2"><i class="fas fa-wind has-text-success"></i></span>Запах газа при работе</li>
+</ul>
+</div>
+<div class="column is-half content">
+<ul class="ml-0 is-unstyled">
+<li><span class="icon mr-2"><i class="fas fa-temperature-high has-text-danger"></i></span>Проблемы с розжигом духовки</li>
+<li><span class="icon mr-2"><i class="fas fa-gas-pump has-text-secondary"></i></span>Подача газа прекращается после отпускания ручки</li>
+<li><span class="icon mr-2"><i class="fas fa-hammer has-text-warning"></i></span>Механические повреждения конфорок</li>
+<li><span class="icon mr-2"><i class="fas fa-shield-alt has-text-info"></i></span>Любые признаки утечки газа</li>
+</ul>
+</div>
+</div>
+<div class="notification is-danger mt-4">
+<div class="level is-mobile is-vcentered">
+<div class="level-left"><span class="icon is-large mr-4"><i class="fas fa-radiation-alt fa-2x"></i></span>
+<div class="content">
+<h5 class="title is-5 mb-1 has-text-white">Важно!</h5>
+<p class="is-size-6 mb-0 has-text-white">Газовые плиты - оборудование повышенной опасности. Не пытайтесь ремонтировать их самостоятельно - это может привести к утечке газа и взрыву!</p>
+</div>
+</div>
+</div>
+</div>
+<div class="has-text-centered mt-5"><img src="https://service04.ru/bl-content/img/2019/12/remont-gazovyx-plit.jpg" alt="Ремонт газовых плит на дому" class="is-fullwidth"></div>
+</div>
+</div>
+<div class="columns mb-6">
+<div class="column is-full">
+<h3 class="title is-4 has-text-uppercase custom-orange mb-4"><span class="icon mr-2"><i class="fas fa-tools"></i></span> Ремонт плит всех производителей</h3>
+<p class="subtitle is-5">Наши мастера работают со всеми брендами и моделями газовых плит. Мы предлагаем комплексный подход к ремонту:</p>
+<div class="columns is-multiline mt-4">
+<div class="column is-half-desktop is-full-mobile mb-4">
+<div class="card h-100 has-shadow">
+<div class="card-content">
+<h5 class="title is-5 d-flex align-items-center"><span class="icon mr-2"><i class="fas fa-search has-text-info"></i></span> Профессиональная диагностика</h5>
+<p class="is-size-6">Точное определение неисправности без лишней разборки оборудования.</p>
+</div>
+</div>
+</div>
+<div class="column is-half-desktop is-full-mobile mb-4">
+<div class="card h-100 has-shadow">
+<div class="card-content">
+<h5 class="title is-5 d-flex align-items-center"><span class="icon mr-2"><i class="fas fa-sync-alt has-text-warning"></i></span> Замена комплектующих</h5>
+<p class="is-size-6">Ручки, вентили, форсунки, термопары, ТЭНы - все в наличии.</p>
+</div>
+</div>
+</div>
+<div class="column is-half-desktop is-full-mobile mb-4">
+<div class="card h-100 has-shadow">
+<div class="card-content">
+<h5 class="title is-5 d-flex align-items-center"><span class="icon mr-2"><i class="fas fa-broom has-text-success"></i></span> Чистка и регулировка</h5>
+<p class="is-size-6">Прочистка форсунок, регулировка давления газа, настройка оборудования.</p>
+</div>
+</div>
+</div>
+<div class="column is-half-desktop is-full-mobile mb-4">
+<div class="card h-100 has-shadow">
+<div class="card-content">
+<h5 class="title is-5 d-flex align-items-center"><span class="icon mr-2"><i class="fas fa-glass-whiskey has-text-primary"></i></span> Ремонт духовых шкафов</h5>
+<p class="is-size-6">Замена стекол, уплотнителей, ламп подсветки и других элементов.</p>
+</div>
+</div>
+</div>
+</div>
+<div class="card is-fullwidth mt-4 has-border-primary"><header class="card-header has-background-primary">
+<p class="card-header-title has-text-white is-size-5"><span class="icon mr-2"><i class="fas fa-medal"></i></span> Преимущества нашего сервиса</p>
+</header>
+<div class="card-content">
+<div class="columns is-multiline">
+<div class="column is-half content">
+<ul class="ml-0 is-unstyled">
+<li><span class="icon mr-2"><i class="fas fa-bolt has-text-warning"></i></span>Выезд мастера в день обращения</li>
+<li><span class="icon mr-2"><i class="fas fa-user-clock has-text-info"></i></span>Работаем в удобное для вас время</li>
+</ul>
+</div>
+<div class="column is-half content">
+<ul class="ml-0 is-unstyled">
+<li><span class="icon mr-2"><i class="fas fa-id-card has-text-success"></i></span>Мастера с допусками к газовому оборудованию</li>
+<li><span class="icon mr-2"><i class="fas fa-ruble-sign has-text-danger"></i></span>Фиксированные цены без переплат</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="has-text-centered mt-5"><img src="https://service04.ru/bl-content/img/2019/12/remont-gazovyx-plit1.jpg" alt="Ремонт плит всех производителей" class="is-fullwidth"></div>
+</div>
+</div>
+</div>

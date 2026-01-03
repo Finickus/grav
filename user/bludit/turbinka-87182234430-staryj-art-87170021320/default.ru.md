@@ -1,0 +1,153 @@
+﻿---
+title: 'Турбинка (датчик протока)'
+---
+
+<div class="container my-4"><!-- Заголовок -->
+<div class="jumbotron bg-primary text-white rounded">
+<div class="container">
+
+<p class="lead">Артикул 87182234430 (старый арт. 87170021320)</p>
+</div>
+</div>
+<!-- Основное описание -->
+<div class="card mb-4">
+<div class="card-body">
+<div class="row">
+<div class="col-md-4 mb-3"><img src="https://service04.ru/bl-content/img/2019/12/2018-03-12_001436-b9cf3792.jpg" alt="Турбинка (датчик протока) артикул 87182234430 (старый арт. 87170021320)" class="img-fluid rounded border"></div>
+<div class="col-md-8">
+<h3 class="card-h3" style="color: #e37a25;">Турбинка (датчик протока) артикул 87182234430 (старый арт. 87170021320)</h3>
+<p class="lead">Используется на котлах для точного измерения расхода воды и управления работой модулируемой горелки в режиме приготовления горячей воды (ГВС).</p>
+<div class="alert alert-info mt-3">
+<h5 class="alert-heading"><i class="fas fa-info-circle me-2"></i>Назначение</h5>
+<p class="mb-0">Предназначена для включения модулируемой горелки в режиме приготовления горячей воды (ГВС).</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Совместимость -->
+<div class="card mb-4">
+<div class="card-header bg-info text-white">
+<h4 class="mb-0"><i class="fas fa-industry me-2"></i>Совместимость</h4>
+</div>
+<div class="card-body">
+<p><strong>Турбинка (датчик протока) артикул 87182234430 (старый арт. 87170021320)</strong> используется на котлах:</p>
+<div class="row">
+<div class="col-md-6">
+<h5 class="text-uppercase" style="color: #e37a25;">Buderus</h5>
+<ul>
+<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> Buderus Logamax U022(042,044,052,054)-24K</li>
+<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> Buderus Logamax U052-28K</li>
+<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> Buderus Logamax U054-24K</li>
+<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> Buderus Logamax U052-28K</li>
+<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> Buderus Logamax U042(44)-24K</li>
+<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> Buderus Logamax U022(24)-24K</li>
+</ul>
+</div>
+<div class="col-md-6">
+<h5 class="text-uppercase" style="color: #e37a25;">Bosch</h5>
+<ul>
+<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> GAZ 4000 W</li>
+<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> GAZ 7000 W</li>
+<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> ZWE24(28)-4(5)MFA(MFK)</li>
+<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> ZWB28-3C</li>
+<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> Eurostar | Евростар ZWE 24-4 MFK, ZSE 24-4 MFK, ZWE 24/28-4 MFA</li>
+<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> Ceraclass Excellence ZWC28-3MFK | MFA</li>
+<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> Euromax | Евромакс ZWC 24-1 MF2A | K | 31, ZWC 28-1 MF2A | K 23 | 31, ZWC 24-1 MFK 23 | 31, ZWC 28-1 MFK 23 | 31, ZWC 24-1 MFA 23 | 31, ZWC 28-1 MFA 23 | 3</li>
+</ul>
+</div>
+</div>
+<div class="alert alert-warning mt-3">
+<h5 class="alert-heading"><i class="fas fa-flag me-2"></i>Страна производства</h5>
+<p class="mb-0"><strong>Германия</strong></p>
+</div>
+</div>
+</div>
+<!-- Принцип работы -->
+<div class="card mb-4">
+<div class="card-header bg-success text-white">
+<h4 class="mb-0"><i class="fas fa-cogs me-2"></i>Принцип работы</h4>
+</div>
+<div class="card-body">
+<div class="row">
+<div class="col-md-6 mb-3"><img src="https://service04.ru/bl-content/img/2019/12/gidroturbinka-gaz-4000-w-bosch-8-718-223-443-8-717-002-132.jpg" alt="Гидротурбинка GAZ 4000 W Bosch 8 718 223 443 / 8 717 002 132" class="img-fluid rounded border mb-3">
+<p class="text-center"><small>Гидротурбинка GAZ 4000 W Bosch 8 718 223 443 / 8 717 002 132</small></p>
+</div>
+<div class="col-md-6">
+<h5 class="text-uppercase" style="color: #e37a25;">Как работает датчик протока</h5>
+<ul>
+<li class="mb-2"><i class="fas fa-wave-square text-primary me-2"></i> <strong>Подача импульсов:</strong> Датчик протока подает импульсы с определенной частотой электронной плате котла во время протока воды</li>
+<li class="mb-2"><i class="fas fa-calculator text-success me-2"></i> <strong>Измерение расхода:</strong> Датчик подсчитывает количество протекающей жидкости через него в минуту и подает эту информацию на плату управления</li>
+<li class="mb-2"><i class="fas fa-thermometer-half text-warning me-2"></i> <strong>Поддержание температуры:</strong> От степени открывания крана горячей воды, на выходе всегда будет вода с постоянной температурой</li>
+<li class="mb-2"><i class="fas fa-bolt text-danger me-2"></i> <strong>Управление горелкой:</strong> При протоке воды турбинка активирует модулируемую горелку для нагрева воды</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<!-- Доставка -->
+<div class="card mb-4">
+<div class="card-header bg-warning text-dark">
+<h4 class="mb-0"><i class="fas fa-truck me-2"></i>Доставка</h4>
+</div>
+<div class="card-body">
+<div class="row">
+<div class="col-md-6 mb-3">
+<h5 class="text-uppercase" style="color: #e37a25;">Способы доставки</h5>
+<ul>
+<li class="mb-2"><i class="fas fa-motorcycle text-primary me-2"></i> <strong>Курьер по Москве и МО</strong></li>
+<li class="mb-2"><i class="fas fa-store text-success me-2"></i> <strong>Самовывоз — бесплатно</strong></li>
+<li class="mb-2"><i class="fas fa-truck-loading text-warning me-2"></i> <strong>По России ТК СДЭК</strong></li>
+</ul>
+</div>
+<div class="col-md-6">
+<h5 class="text-uppercase" style="color: #e37a25;">Информация о доставке</h5>
+<p>Компания Сервис04 осуществляет доставку запчастей для котельного оборудования по Москве и Московской области и по России.</p>
+<p>Доставка запчастей для котлов по России осуществляется Транспортной компанией СДЕК.</p>
+<p>Так же у Вас есть возможность забрать запчасть <strong>87182234430</strong> самостоятельно, у нас на складе. Адрес склада вы можете посмотреть в разделе <a href="https://service04.ru/contacts" class="text-decoration-none">Контакты</a>.</p>
+</div>
+</div>
+</div>
+</div>
+<!-- Дополнительные услуги -->
+<div class="card mb-4">
+<div class="card-header bg-secondary text-white">
+<h4 class="mb-0"><i class="fas fa-tools me-2"></i>Дополнительные услуги</h4>
+</div>
+<div class="card-body">
+<p>Вы можете не только приобрести нужные запчасти для газовых котлов <strong>BOSCH BUDERUS</strong>, но и сделать:</p>
+<div class="row text-center">
+<div class="col-md-4 mb-3">
+<div class="border rounded p-3 h-100"><i class="fas fa-search fa-2x text-primary mb-2"></i>
+<h5>Диагностику</h5>
+<p class="mb-0 small">Точное определение неисправности</p>
+</div>
+</div>
+<div class="col-md-4 mb-3">
+<div class="border rounded p-3 h-100"><i class="fas fa-wrench fa-2x text-success mb-2"></i>
+<h5>Ремонт</h5>
+<p class="mb-0 small">Профессиональное восстановление работоспособности</p>
+</div>
+</div>
+<div class="col-md-4 mb-3">
+<div class="border rounded p-3 h-100"><i class="fas fa-cog fa-2x text-warning mb-2"></i>
+<h5>Техническое обслуживание</h5>
+<p class="mb-0 small">Профилактика и настройка оборудования</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Заказ -->
+<div class="card bg-primary text-white">
+<div class="card-body text-center">
+<h3 class="card-h3"><i class="fas fa-shopping-cart me-2"></i>Купить турбинку (датчик протока) 87182234430</h3>
+<p class="card-text lead">Оригинальная запчасть от SIT Group с гарантией</p>
+<div class="row justify-content-center">
+<div class="col-md-4 mb-2"><a href="tel:+79262211348" class="btn btn-light btn-lg btn-block"> <i class="fas fa-phone me-2"></i>Позвонить </a></div>
+<div class="col-md-4"><a href="https://service04.ru/shop/search/?search=87182234430" class="btn btn-warning btn-lg btn-block text-dark" target="_blank" rel="noopener"> <i class="fas fa-shopping-cart me-2"></i>Перейти в магазин </a></div>
+<div class="col-md-4"><a href="https://service04.ru/contact-us/feedback" class="btn btn-info btn-lg btn-block"> <i class="fas fa-envelope me-2"></i>Оставить заявку </a></div>
+</div>
+</div>
+</div>
+</div>

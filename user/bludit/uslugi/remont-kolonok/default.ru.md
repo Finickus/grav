@@ -1,0 +1,98 @@
+﻿---
+title: 'Квалифицированные специалисты | Гарантия'
+---
+
+<!-- Заголовок и призыв -->
+<div class="card bg-light text-center py-5">
+
+<p class="subh6">Вы столкнулись с проблемой в работе газовой колонки? Не беспокойтесь, мы готовы помочь! Мы специализируемся на ремонте газовых колонок в Москве и предлагаем качественные услуги по доступным ценам.</p>
+<a href="https://service04.ru/master" class="btn btn-success" h3="Вызов мастера" target="_blank" rel="noopener"> Вызов мастера </a></div>
+<p>Вы столкнулись с проблемой в работе газовой колонки? Не беспокойтесь, мы готовы помочь! Мы специализируемся на ремонте газовых колонок в Москве и предлагаем качественные услуги по доступным ценам. Наша команда состоит из высококвалифицированных специалистов, готовых оперативно и эффективно восстановить работу вашей газовой колонки.</p>
+<!-- Скидки -->
+<div class="notification is-success"><strong>Скидка 10% Пенсионерам</strong> по телефону (женщинам 55-ти лет и старше, мужчинам 60-ти лет и старше) при предъявлении пенсионного удостоверения и паспорта. Пожалуйста, сообщите оператору, что Вы делаете заказ через сайт.</div>
+<div class="notification is-success"><strong>Скидка 5% Всем клиентам,</strong> которые оформили заказ через «Форму заказа онлайн». Действует при заказе «День в день».</div>
+<!-- Почему выбирают нас -->
+<p><strong>Почему выбирают нас для ремонта газовых колонок в Москве?</strong></p>
+<ol>
+<li><strong>Квалифицированные специалисты:</strong> Наша команда состоит из опытных мастеров с профессиональным образованием и богатым опытом в ремонте газовых колонок. Мы обновляем свои знания и следим за последними технологическими достижениями.</li>
+<li><strong>Широкий спектр услуг:</strong> Мы осуществляем ремонт газовых колонок различных марок и моделей. Независимо от проблемы — найдём решение.</li>
+<li><strong>Использование оригинальных запчастей:</strong> Работаем только с оригинальными запчастями от производителей — это гарантирует надёжность и долговечность ремонта.</li>
+<li><strong>Профессиональное обслуживание:</strong> Ценим каждого клиента, всегда готовы к консультации и рекомендациям по эксплуатации.</li>
+<li><strong>Быстрое реагирование:</strong> Оперативно выезжаем и устраняем неисправности в кратчайшие сроки.</li>
+</ol>
+<p>Мы работаем с газовыми колонками всех типов и моделей, используем только оригинальные запчасти и современное оборудование.</p>
+<!-- Бренды — 1-я строка -->
+<div class="row g-3 is-centered mb-5"><!-- Bosch -->
+<div class="col-md-4 is-3-desktop">
+<div class="card text-center">
+<h5 class="h5"><a href="https://service04.ru/remont-gazovoj-kolonki-bosch-bosh">BOSCH</a></h5>
+<ul class="fs-6">
+<li><a href="https://service04.ru/remont-gazovoj-kolonki-bosch-bosh">Bosch WR 10|13|15-2P 23</a></li>
+<li><a href="https://service04.ru/remont-gazovoj-kolonki-bosch-bosh">Bosch WR 10|13|15-2B</a></li>
+<li><a href="https://service04.ru/remont-gazovoj-kolonki-bosch-bosh">Bosch Junkers WR-275, WR-350</a></li>
+<li><a href="https://service04.ru/remont-gazovoj-kolonki-bosch-bosh">Bosch W 10 KB</a></li>
+<li><a href="https://service04.ru/remont-gazovoj-kolonki-bosch-bosh">Bosch WTD 12E AM</a></li>
+</ul>
+</div>
+</div>
+<!-- Mora -->
+<div class="col-md-4 is-3-desktop">
+<div class="card text-center">
+<h5 class="h5"><a href="https://service04.ru/remont-gazovykh-kolonok-mora">MORA</a></h5>
+<ul class="fs-6">
+<li><a href="https://service04.ru/remont-gazovykh-kolonok-mora">Mora Top VEGA 10|13|16</a></li>
+<li><a href="https://service04.ru/remont-gazovykh-kolonok-mora">Mora Top VEGA 10|13|16 E</a></li>
+</ul>
+</div>
+</div>
+<!-- Electrolux -->
+<div class="col-md-4 is-3-desktop">
+<div class="card text-center">
+<h5 class="h5"><a href="https://service04.ru/remont-kolonok-electrolux">Electrolux</a></h5>
+<ul class="fs-6">
+<li><a href="https://service04.ru/remont-kolonok-electrolux">GWH 10|12|14 NanoPlus 2.0</a></li>
+<li><a href="https://service04.ru/remont-kolonok-electrolux">GWH 265 ERN Nano Plus</a></li>
+<li><a href="https://service04.ru/remont-kolonok-electrolux">GWH 10 High Performance Eco</a></li>
+<li><a href="https://service04.ru/remont-kolonok-electrolux">GWH 11 ProInverter</a></li>
+<li><a href="https://service04.ru/remont-kolonok-electrolux">GWH 275-350</a></li>
+</ul>
+</div>
+</div>
+</div>
+<!-- Бренды — 2-я строка -->
+<div class="row g-3 is-centered mb-5"><!-- Oasis -->
+<div class="col-md-4 is-4-desktop">
+<div class="card text-center">
+<h5 class="h5"><a href="https://service04.ru/remont-kolonok-oasis">Oasis</a></h5>
+<ul class="fs-6">
+<li><a href="https://service04.ru/remont-kolonok-oasis"><strong>Oasis Standart</strong><br>OR-12W / OR-16W / OR-20W / OR-24W / OR-26W<br>OR-12S / OR-16S / OR-20S / OR-24S / OR-26S</a></li>
+<li><a href="https://service04.ru/remont-kolonok-oasis"><strong>Oasis Eco</strong><br>W-16, W-20, W-24 / S-16, S-20, S-24</a></li>
+<li><a href="https://service04.ru/remont-kolonok-oasis"><strong>Oasis Pro WM</strong></a></li>
+</ul>
+</div>
+</div>
+<!-- Ariston -->
+<div class="col-md-4 is-4-desktop">
+<div class="card text-center">
+<h5 class="h5">Ariston</h5>
+<p class="fs-6">/</p>
+</div>
+</div>
+<!-- Нева -->
+<div class="col-md-4 is-4-desktop">
+<div class="card text-center">
+<h5 class="h5"><a href="https://service04.ru/remont-kolonok/remont-kolonki-neva">НЕВА</a></h5>
+<p class="fs-6">\</p>
+</div>
+</div>
+</div>
+<!-- Услуги -->
+<p><strong>Наши услуги включают:</strong></p>
+<ul style="list-style-type: square;">
+<li>– выезд на ремонт;</li>
+<li>– диагностику и выявление неисправностей;</li>
+<li>– замену запчастей и комплектующих;</li>
+<li>– регулировку и настройку работы колонки;</li>
+<li>– устранение утечек газа и других проблем.</li>
+</ul>
+<p>Звоните нам прямо сейчас и получите бесплатную консультацию от наших экспертов по ремонту газовых колонок в Москве. Мы обещаем качественное обслуживание и результат, с которым вы будете довольны!</p>
