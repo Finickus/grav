@@ -1,152 +1,119 @@
----
+﻿---
 title: 'GSM управление котлом'
 ---
 
-<div class="container-xl my-5">
-    
-    <header class="bg-primary text-white rounded-3 p-4 p-md-5 mb-5 shadow-lg position-relative overflow-hidden">
-        <div class="text-center position-relative" style="z-index: 2;">
-            <h1 class="display-4 fw-bold mb-3">
-                <i class="fas fa-mobile-alt me-3"></i>GSM управление котлом
-            </h1>
-            <p class="lead fs-3 opacity-75">Контроль и настройка работы оборудования на расстоянии</p>
-        </div>
-        <div style="position: absolute; top: -50px; right: -50px; width: 200px; height: 200px; background: rgba(255,255,255,0.1); border-radius: 50%;"></div>
-    </header>
+<div class="container-fluid mt-5 mb-5">
+<section class="bg-primary text-white fw-bold mb-5">
+<div class="py-5">
+<div class="container text-center">
 
-    <div class="card mb-5 border-0 shadow-sm">
-        <div class="card-body p-4 p-md-5">
-            <div class="row g-4 align-items-center">
-                <div class="col-lg-6 text-center">
-                    <img src="https://service04.ru/bl-content/img/2019/12/20140902_174257.jpg" alt="GSM управление котлом" class="img-fluid rounded shadow-sm">
-                </div>
-                <div class="col-lg-6">
-                    <p class="fs-5 text-muted"><strong>GSM управление котлом</strong> позволяет осуществлять полноценную настройку работы оборудования на расстоянии. Компактная система с датчиками — это современное решение для автоматизации отопления.</p>
-                    <p class="text-muted">Управление котлом с телефона с каждым годом становится все популярней, проще и доступней для каждого владельца дома.</p>
-                    <div class="alert alert-success mt-4 text-center border-0 shadow-sm py-3">
-                        <h4 class="h5 mb-0 fw-bold text-uppercase">Мы продаем и устанавливаем:</h4>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="row g-4 mb-5 text-center">
-        <div class="col-md-6">
-            <div class="card h-100 border-0 shadow-sm hover-shadow transition">
-                <div class="card-body p-4">
-                    <div class="mb-3" style="height: 100px; display: flex; align-items: center; justify-content: center;">
-                        <img src="https://service04.ru/bl-content/img/2019/12/zont5.png" alt="ZONT" class="img-fluid" style="max-height: 80px;">
-                    </div>
-                    <h5 class="fw-bold mb-3">
-                        <a href="https://service04.ru/admin/edit-content/distancionnoe-upravlenie-kotlom-zont.html" class="text-decoration-none text-primary">Дистанционное управление ZONT</a>
-                    </h5>
-                </div>
-            </div>
-        </div>
-        <div class="col-md-6">
-            <div class="card h-100 border-0 shadow-sm opacity-75 bg-light">
-                <div class="card-body p-4">
-                    <div class="mb-3" style="height: 100px; display: flex; align-items: center; justify-content: center;">
-                        <img src="https://service04.ru/bl-content/img/2019/12/bastion.png" alt="Bastion" class="img-fluid" style="max-height: 80px;">
-                    </div>
-                    <h5 class="fw-bold text-muted">Bastion</h5>
-                    <p class="small text-muted mb-0">(Информация скоро будет добавлена)</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="card mb-5 border-0 shadow overflow-hidden">
-        <div class="card-header bg-info text-white py-3 px-4">
-            <h2 class="h5 mb-0 fw-bold"><i class="fas fa-thumbs-up me-2"></i>Достоинства GSM управления</h2>
-        </div>
-        <div class="card-body p-4 p-md-5">
-            <p class="mb-4 text-muted">Дистанционное управление решает задачи, требовавшие ранее личного присутствия владельца или мастера:</p>
-            <div class="row g-3">
-                <div class="col-md-6">
-                    <ul class="list-unstyled mb-0">
-                        <li class="mb-3 d-flex align-items-center"><i class="fas fa-thermometer-half me-3 text-primary fa-fw fs-5"></i>Удаленная установка температуры</li>
-                        <li class="mb-3 d-flex align-items-center"><i class="fas fa-bell me-3 text-warning fa-fw fs-5"></i>Отчеты о сбоях в работе системы</li>
-                        <li class="mb-3 d-flex align-items-center"><i class="fas fa-sliders-h me-3 text-success fa-fw fs-5"></i>Зональное управление комнатами</li>
-                    </ul>
-                </div>
-                <div class="col-md-6">
-                    <ul class="list-unstyled mb-0">
-                        <li class="mb-3 d-flex align-items-center"><i class="fas fa-power-off me-3 text-danger fa-fw fs-5"></i>Экономия топлива (дистанционный пуск)</li>
-                        <li class="mb-3 d-flex align-items-center"><i class="fas fa-euro-sign me-3 text-info fa-fw fs-5"></i>Снижение затрат на обслуживание</li>
-                        <li class="mb-0 d-flex align-items-center"><i class="fas fa-clock me-3 text-secondary fa-fw fs-5"></i>Сокращение времени на сервис</li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="card mb-5 border-0 shadow">
-        <div class="card-header bg-warning text-dark py-3 px-4">
-            <h2 class="h5 mb-0 fw-bold text-uppercase"><i class="fas fa-cogs me-2"></i>Принцип работы системы</h2>
-        </div>
-        <div class="card-body p-4 p-md-5">
-            <div class="row">
-                <div class="col-lg-8">
-                    <p class="text-muted">GSM-модуль соединяется с чувствительными датчиками, которые реагируют на изменения температуры. При отклонениях система мгновенно отправляет SMS-сообщение с кодом ошибки на ваш телефон.</p>
-                    <p class="text-muted">Большинство моделей (Baxi, Vaillant, Ariston) позволяют контролировать работу через Интернет в режиме реального времени.</p>
-                    
-                    <h5 class="fw-bold mt-4" style="color: #e37a25;">Оригинальный или универсальный?</h5>
-                    <p class="small text-muted mb-0">Пользователь может выбрать оригинальный модуль от производителя или универсальную совместимую модель. Перед покупкой мы рекомендуем проконсультироваться с нашими инженерами.</p>
-                </div>
-                <div class="col-lg-4 mt-4 mt-lg-0 text-center bg-light rounded p-3">
-                    
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="bg-light border rounded-3 p-4 p-md-5 mb-5 shadow-sm text-center">
-        <h3 class="h4 fw-bold mb-4" style="color: #e37a25;"><i class="fas fa-box me-2"></i>ВСЕ ЭТО В ОДНОЙ КОРОБКЕ!</h3>
-        <div class="row g-4 justify-content-center">
-            <div class="col-6 col-md-3">
-                <img src="https://service04.ru/bl-content/img/2019/12/stabilizator.png" alt="Стабилизатор" class="mb-2" style="height: 60px;">
-                <p class="small fw-bold mb-0">Стабилизатор</p>
-            </div>
-            <div class="col-6 col-md-3">
-                <img src="https://service04.ru/bl-content/img/2019/12/ibp.png" alt="ИБП" class="mb-2" style="height: 60px;">
-                <p class="small fw-bold mb-0">ИБП</p>
-            </div>
-            <div class="col-6 col-md-3">
-                <img src="https://service04.ru/bl-content/img/2019/12/safe.png" alt="Безопасность" class="mb-2" style="height: 60px;">
-                <p class="small fw-bold mb-0">Безопасность</p>
-            </div>
-        </div>
-    </div>
-
-    <div class="card border-0 shadow-lg bg-primary text-white text-center">
-        <div class="card-body p-4 p-md-5">
-            <h3 class="fw-bold mb-2"><i class="fas fa-shopping-cart me-2"></i>Подобрать GSM управление</h3>
-            <p class="lead mb-4">При заказе монтажа — доставка <strong>БЕСПЛАТНО</strong>!</p>
-            
-            <div class="row g-3 justify-content-center mb-4">
-                <div class="col-md-auto">
-                    <a href="tel:+79262211348" class="btn btn-light btn-lg px-5 fw-bold shadow-sm">
-                        <i class="fas fa-phone me-2 text-primary"></i>+7 (926) 22-11-348
-                    </a>
-                </div>
-            </div>
-
-            <div class="pt-4 border-top border-white border-opacity-25">
-                <p class="mb-3 fw-bold">Вы можете вызвать мастера через форму со скидкой 10%:</p>
-                <form action="https://service04.ru/mail.php" method="post">
-                    <button type="button" class="btn btn-warning btn-lg px-5 fw-bold shadow">
-                        Заказать со скидкой
-                    </button>
-                </form>
-            </div>
-        </div>
-    </div>
+<p class="h4 lead text-white">Контроль и настройка работы оборудования на расстоянии</p>
 </div>
-
-<style>
-    /* Плавные переходы для карточек */
-    .transition { transition: all 0.3s ease; }
-    .hover-shadow:hover { transform: translateY(-5px); box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important; }
-</style>
+</div>
+</section>
+<div class="card mb-5">
+<div class="card-body">
+<div class="row align-items-center is-multiline">
+<div class="col-6 text-center mb-4">
+<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20140902_174257.jpg" alt="GSM управление котлом фото"></figure>
+</div>
+<div class="col-6 content">
+<p>**GSM управление котлом** позволяет осуществлять **контроль и полноценную настройку работы оборудования на расстоянии**. Компактная система, оснащенная датчиками, – это новинка на отечественном рынке устройств для автоматизации и корректировки котельного оборудования.</p>
+<p>Но, не смотря на новизну, управление котлом с телефона с каждым годом становится все популярней, проще и доступней.</p>
+<div class="notification is-success text-center mt-4">
+<h4 class="h4 display-4 text-white mb-0">МЫ ПРОДАЕМ И УСТАНАВЛИВАЕМ</h4>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="card mb-5">
+<div class="card-body">
+<div class="row g-3 text-center">
+<div class="col-6 mb-4">
+<div class="card h-100">
+<figure class="image is-inline-block mb-3" style="max-height: 150px; overflow: hidden;"><img src="https://service04.ru/bl-content/img/2019/12/zont5.png" alt="ZONT"></figure>
+<h5 class="h5"><a href="https://service04.ru/admin/edit-content/distancionnoe-upravlenie-kotlom-zont.html" class="has-text-link">Дистанционное управление котлом ZONT</a></h5>
+</div>
+</div>
+<div class="col-6 mb-4">
+<div class="card h-100">
+<figure class="image is-inline-block mb-3" style="max-height: 150px; overflow: hidden;"><img src="https://service04.ru/bl-content/img/2019/12/bastion.png" alt="Bastion"></figure>
+<h5 class="h5">Bastion</h5>
+<p class="text-muted">(Информация скоро будет добавлена)</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="card mb-5"><header class="card-header bg-info text-white">
+<p class="card-h3 text-white fs-4"><span class="icon me-2"><i class="fas fa-thumbs-up"></i></span>Достоинства GSM управления отопительной системой</p>
+</header>
+<div class="card-body">
+<div class="content">
+<p>Дистанционное управление котельным оборудованием позволяет справиться с задачами, для решения которых раньше требовалось непосредственное присутствие владельца дома или мастера сервисной службы:</p>
+<div class="row g-3">
+<div class="col-6">
+<ul class="ml-4">
+<li class="mb-2"><span class="icon me-2 text-primary"><i class="fas fa-thermometer-half"></i></span> Удаленная установка комфортного температурного режима</li>
+<li class="mb-2"><span class="icon me-2 text-warning"><i class="fas fa-bell"></i></span> Оперативное получение отчета о серьезных сбоях в работе системы</li>
+<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-sliders-h"></i></span> Изменение температуры во всей системе или в отдельном помещении</li>
+</ul>
+</div>
+<div class="col-6">
+<ul class="ml-4">
+<li class="mb-2"><span class="icon me-2 text-danger"><i class="fas fa-power-off"></i></span> Включение котельного оборудования дистанционно (экономия топлива)</li>
+<li class="mb-2"><span class="icon me-2 text-info"><i class="fas fa-euro-sign"></i></span> Экономия средств на оплате труда специалистов</li>
+<li class="mb-2"><span class="icon me-2 has-text-secondary"><i class="fas fa-clock"></i></span> Сокращение времени на обслуживание системы</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="card mb-5"><header class="card-header bg-warning text-dark">
+<p class="card-h3 text-dark is-uppercase fs-4"><span class="icon me-2"><i class="fas fa-cogs"></i></span>Принцип работы системы GSM управления</p>
+</header>
+<div class="card-body">
+<div class="content">
+<p>Установка специального модуля (в зависимости от марки и типа котла) позволяет осуществлять **управление газовым котлом с телефона**. Подобранный под определенное оборудование GSM-модуль соединен с чувствительными датчиками, которые реагируют на изменения температуры в отапливаемом помещении.</p>
+<p>При значительных отклонениях температурных показателей от параметров, заданных пользователем, сообщение с кодом поломки/сбоя отправляется на указанный в памяти модуля телефон.</p>
+<p>Также возможен полноценный контроль работы оборудования с использованием сети Интернет. Большинство европейских производителей делают дистанционную работу с оборудованием более комфортной. К примеру, **GSM управление котлом vaillant** дает возможность удаленно получать полноценный отчет как в виде смс-сообщения, так и в электронном виде в режиме реального времени.</p>
+<h5 class="h5 mt-4" style="color: #e37a25;">Оригинальный или универсальный модуль?</h5>
+<p>После получения сообщения о поломке оборудования, сбое в работе системы или иных отклонениях, пользователь самостоятельно принимает решение о дальнейших действиях: корректировка параметров работы оборудования или отключение котла.</p>
+<p>Также пользователи имеют право выбора при покупке модуля. **GSM управление котлом baxi, Vaillant, Ariston** возможно с использованием оригинальных модулей фирмы-производителя котельного оборудования или с установкой универсальных/совместимых моделей.</p>
+<p>**Какой приобрести модуль для дистанционного управления котлом отопления решает владелец котла.** Но перед покупкой стоит посоветоваться со специалистами, которые выполнят установку, настройку и будут осуществлять поддержку оборудования.</p>
+</div>
+</div>
+</div>
+<div class="card bg-light mb-5">
+<div class="text-center p-4">
+<h3 class="h4 display-4" style="color: #e37a25;"><span class="icon me-2"><i class="fas fa-card"></i></span>ВСЕ ЭТО В ОДНОЙ КОРОБКЕ!</h3>
+<div class="row justify-content-center mt-4">
+<div class="col is-one-quarter mb-3">
+<figure class="image is-inline-block" style="max-height: 80px; overflow: hidden;"><img src="https://service04.ru/bl-content/img/2019/12/stabilizator.png" alt="Стабилизатор"></figure>
+<p class="mt-1 fs-6">Стабилизатор</p>
+</div>
+<div class="col is-one-quarter mb-3">
+<figure class="image is-inline-block" style="max-height: 80px; overflow: hidden;"><img src="https://service04.ru/bl-content/img/2019/12/ibp.png" alt="ИБП"></figure>
+<p class="mt-1 fs-6">ИБП</p>
+</div>
+<div class="col is-one-quarter mb-3">
+<figure class="image is-inline-block" style="max-height: 80px; overflow: hidden;"><img src="https://service04.ru/bl-content/img/2019/12/safe.png" alt="Безопасность"></figure>
+<p class="mt-1 fs-6">Безопасность</p>
+</div>
+</div>
+</div>
+</div>
+<div class="card bg-primary text-white mt-4">
+<div class="card-body text-center">
+<h3 class="h4 display-4 text-white mb-3"><span class="icon me-2"><i class="fas fa-shopping-cart"></i></span>Подобрать и купить GSM управление для котла</h3>
+<p class="h5 lead text-white">При заказе монтажа - доставка БЕСПЛАТНО!</p>
+<p class="mb-4">При возникновении вопросов по подбору, установке стоит обратиться к нашим специалистам:</p>
+<a href="tel:+79262211348" class="btn btn-light btn-lg"> <span class="icon me-2"><i class="fas fa-phone"></i></span> <span>+7 (926) 22-11-348</span> </a>
+<div class="mt-4">
+<p class="mb-3 has-text-weight-bold">Вы можете вызвать мастера через форму Скидка 10%:</p>
+<form action="https://service04.ru/mail.php" method="post" class="is-inline-block"><btn btn-primary type="btn btn-primary" class="btn btn-warning btn-lg text-dark">Заказать со скидкой</btn btn-primary></form></div>
+</div>
+</div>
+</div>

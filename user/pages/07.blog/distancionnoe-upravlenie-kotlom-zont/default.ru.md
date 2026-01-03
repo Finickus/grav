@@ -1,170 +1,261 @@
+﻿---
+title: 'Умное управление отоплением с системой ZONT'
 ---
-title: 'Дистанционное управление котлом ZONT'
----
 
-<div class="container py-5">
-    <style>
-        .benefit-icon { font-size: 2rem; color: #0d6efd; margin-right: 1.25rem; }
-        .feature-card, .advantage-card { transition: transform 0.3s ease, box-shadow 0.3s ease; border: none; box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,0.075); }
-        .feature-card:hover, .advantage-card:hover { transform: translateY(-5px); box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15); }
-        .section-title { border-left: 5px solid #0d6efd; padding-left: 15px; margin-bottom: 2rem; font-weight: bold; }
-        .mode-card { border: none; transition: 0.3s; }
-        .mode-card:hover { background-color: #fff !important; box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.1); }
-        .gallery-item img { transition: 0.3s; cursor: pointer; }
-        .gallery-item img:hover { filter: brightness(1.1); }
-    </style>
+<p></p>
+<p></p>
+<div class="container py-5"><!-- Заголовок и введение -->
+<div class="text-center mb-5">
 
-    <div class="text-center mb-5">
-        <h1 class="display-4 fw-bold mb-3"><i class="bi bi-house-heart text-primary"></i> Умное управление отоплением ZONT</h1>
-        <p class="lead text-muted mx-auto" style="max-width: 800px;">Автоматизация и дистанционный контроль вашего котла отопления из любой точки мира через смартфон или ПК.</p>
-    </div>
-
-    <div class="row g-4 mb-5">
-        <div class="col-lg-6">
-            <div class="card h-100 shadow-sm border-0 overflow-hidden">
-                <div class="row g-0">
-                    <div class="col-md-5">
-                        <img src="https://service04.ru/bl-content/img/2019/12/zont5-668aa572.jpg" alt="Система ZONT" class="img-fluid h-100 object-fit-cover">
-                    </div>
-                    <div class="col-md-7">
-                        <div class="card-body">
-                            <h3 class="fw-bold mb-3 text-primary">Что такое ZONT?</h3>
-                            <p class="small text-muted">Современная система дистанционного управления котлом, позволяющая создать "Умный дом" с минимальными расходами.</p>
-                            <ul class="list-group list-group-flush small">
-                                <li class="list-group-item d-flex align-items-center"><i class="bi bi-phone text-success me-2"></i> Управление через приложение iOS/Android</li>
-                                <li class="list-group-item d-flex align-items-center"><i class="bi bi-sim text-info me-2"></i> Собственная SIM-карта в комплекте</li>
-                                <li class="list-group-item d-flex align-items-center"><i class="bi bi-thermometer-half text-warning me-2"></i> Высокоточный цифровой термостат</li>
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="col-lg-6">
-            <div class="card h-100 shadow-sm border-0">
-                <div class="card-header bg-primary text-white py-3">
-                    <h4 class="mb-0 h5 fw-bold"><i class="bi bi-stars me-2"></i> Основные преимущества</h4>
-                </div>
-                <div class="card-body">
-                    <div class="d-flex mb-3">
-                        <div class="benefit-icon"><i class="bi bi-cash-coin"></i></div>
-                        <div>
-                            <h5 class="fw-bold h6 mb-1">Экономия ресурсов</h5>
-                            <p class="small text-muted mb-0">Оптимизация расхода топлива до 30% за счет точного контроля графиков.</p>
-                        </div>
-                    </div>
-                    <div class="d-flex mb-3">
-                        <div class="benefit-icon"><i class="bi bi-globe2"></i></div>
-                        <div>
-                            <h5 class="fw-bold h6 mb-1">Удалённое управление</h5>
-                            <p class="small text-muted mb-0">Контроль и настройка параметров котла из любой точки мира через облако.</p>
-                        </div>
-                    </div>
-                    <div class="d-flex">
-                        <div class="benefit-icon"><i class="bi bi-shield-check"></i></div>
-                        <div>
-                            <h5 class="fw-bold h6 mb-1">Автоматизация и Безопасность</h5>
-                            <p class="small text-muted mb-0">Мгновенные оповещения об авариях, протечках и отключении питания.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="mb-5">
-        <h3 class="section-title"><i class="bi bi-cpu me-2"></i> Функциональные возможности</h3>
-        <div class="row g-4 text-md-start text-center">
-            <div class="col-md-6">
-                <div class="card feature-card h-100">
-                    <div class="card-body d-md-flex align-items-center">
-                        <i class="bi bi-thermometer-high display-5 text-warning me-md-4 mb-3 mb-md-0 d-block"></i>
-                        <div>
-                            <h4 class="h5 fw-bold">Микроклимат</h4>
-                            <p class="small text-muted mb-0">Точная настройка температуры по датчикам в каждой комнате отдельно.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <div class="card feature-card h-100">
-                    <div class="card-body d-md-flex align-items-center">
-                        <i class="bi bi-calendar-check display-5 text-success me-md-4 mb-3 mb-md-0 d-block"></i>
-                        <div>
-                            <h4 class="h5 fw-bold">Расписание на неделю</h4>
-                            <p class="small text-muted mb-0">Снижайте температуру, когда вас нет дома, и прогревайте дом к вашему приезду.</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="mb-5">
-        <h3 class="section-title"><i class="bi bi-gear me-2"></i> Режимы работы</h3>
-        <div class="row g-3">
-            <div class="col-6 col-md-4 col-lg-2 text-center">
-                <div class="card mode-card bg-light h-100 py-3">
-                    <i class="bi bi-currency-dollar h2 text-warning mb-2"></i>
-                    <p class="fw-bold small mb-0">Эконом</p>
-                </div>
-            </div>
-            <div class="col-6 col-md-4 col-lg-2 text-center">
-                <div class="card mode-card bg-light h-100 py-3">
-                    <i class="bi bi-emoji-smile h2 text-success mb-2"></i>
-                    <p class="fw-bold small mb-0">Комфорт</p>
-                </div>
-            </div>
-            <div class="col-6 col-md-4 col-lg-2 text-center">
-                <div class="card mode-card bg-light h-100 py-3">
-                    <i class="bi bi-alarm h2 text-info mb-2"></i>
-                    <p class="fw-bold small mb-0">График</p>
-                </div>
-            </div>
-            <div class="col-6 col-md-4 col-lg-2 text-center">
-                <div class="card mode-card bg-light h-100 py-3">
-                    <i class="bi bi-power h2 text-secondary mb-2"></i>
-                    <p class="fw-bold small mb-0">Антизамерз</p>
-                </div>
-            </div>
-            <div class="col-6 col-md-4 col-lg-2 text-center">
-                <div class="card mode-card bg-light h-100 py-3">
-                    <i class="bi bi-exclamation-triangle h2 text-danger mb-2"></i>
-                    <p class="fw-bold small mb-0">Авария</p>
-                </div>
-            </div>
-            <div class="col-6 col-md-4 col-lg-2 text-center">
-                <div class="card mode-card bg-light h-100 py-3">
-                    <i class="bi bi-bell h2 text-primary mb-2"></i>
-                    <p class="fw-bold small mb-0">Оповещение</p>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="mb-5">
-        <h3 class="section-title"><i class="bi bi-play-btn me-2"></i> Видеообзор системы ZONT</h3>
-        <div class="ratio ratio-16x9 shadow rounded overflow-hidden">
-            <video controls poster="https://service04.ru/bl-content/img/2019/12/zont5-668aa572.jpg">
-                <source src="https://service04.ru/files/img/prinadlejnosti/Zont/My%20Edited%20Video.mp4" type="video/mp4">
-                Ваш браузер не поддерживает видео.
-            </video>
-        </div>
-    </div>
-
-    <div class="card border-0 shadow-lg bg-dark text-white rounded-4 overflow-hidden">
-        <div class="card-body text-center py-5 position-relative">
-            <div class="position-relative" style="z-index: 2;">
-                <h2 class="fw-bold mb-3">Готовы автоматизировать своё отопление?</h2>
-                <p class="lead mb-4 text-light opacity-75">Закажите систему ZONT прямо сейчас и получите профессиональную настройку в подарок!</p>
-                <div class="d-flex flex-wrap justify-content-center gap-3">
-                    <a href="https://service04.ru/contact-us" class="btn btn-primary btn-lg px-5 fw-bold"><i class="bi bi-cart-check me-2"></i> Заказать монтаж</a>
-                    <a href="tel:+79262211348" class="btn btn-outline-light btn-lg px-5 fw-bold"><i class="bi bi-telephone me-2"></i> Консультация</a>
-                </div>
-            </div>
-            <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 300px; height: 300px; background: radial-gradient(circle, rgba(13,110,253,0.2) 0%, rgba(13,110,253,0) 70%);"></div>
-        </div>
-    </div>
+<p class="lead text-muted">Автоматизация и дистанционный контроль вашего котла отопления</p>
 </div>
-
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+<!-- Основное содержание -->
+<div class="row mb-5">
+<div class="col-lg-6">
+<div class="card shadow-sm mb-4">
+<div class="row no-gutters">
+<div class="col-md-5"><img src="https://service04.ru/bl-content/img/2019/12/zont5-668aa572.jpg" alt="Система ZONT" class="img-fluid rounded-start"></div>
+<div class="col-md-7">
+<div class="card-body">
+<h3 class="card-h3">Что такое ZONT?</h3>
+<p class="card-text">Современная система дистанционного управления котлом отопления ZONT позволяет создать собственную программу "Умный дом" с минимальными расходами и максимальным комфортом.</p>
+<ul class="list-group list-group-flush">
+<li class="list-group-item"><i class="bi bi-phone text-success"></i> Управление через смартфон или компьютер</li>
+<li class="list-group-item"><i class="bi bi-sim text-info"></i> Оснащена собственной SIM-картой</li>
+<li class="list-group-item"><i class="bi bi-thermometer-half text-warning"></i> Высокоточный термостат</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-lg-6">
+<div class="card shadow-sm">
+<div class="card-header bg-primary text-white">
+<h4 class="mb-0"><i class="bi bi-stars"></i> Основные преимущества</h4>
+</div>
+<div class="card-body">
+<div class="d-flex mb-4">
+<div class="benefit-icon"><i class="bi bi-cash-coin"></i></div>
+<div>
+<h5>Экономия ресурсов</h5>
+<p>Оптимизация расхода топлива до 30% за счет точного контроля температуры</p>
+</div>
+</div>
+<div class="d-flex mb-4">
+<div class="benefit-icon"><i class="bi bi-globe2"></i></div>
+<div>
+<h5>Удалённое управление</h5>
+<p>Контроль и настройка работы котла из любой точки мира</p>
+</div>
+</div>
+<div class="d-flex">
+<div class="benefit-icon"><i class="bi bi-shield-check"></i></div>
+<div>
+<h5>Автоматизация</h5>
+<p>Интеллектуальное поддержание комфортной температуры без вашего участия</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Функциональные возможности -->
+<div class="mb-5">
+<h3 class="section-h3"><i class="bi bi-cpu"></i> Функциональные возможности системы</h3>
+<div class="row">
+<div class="col-md-6">
+<div class="card feature-card">
+<div class="card-body">
+<div class="d-flex align-items-start"><i class="bi bi-thermometer-high display-4 text-warning me-3"></i>
+<div>
+<h4>Комфортный температурный режим</h4>
+<p>Автоматическая интеграция всех отопительных приборов и точная настройка параметров для оптимального микроклимата.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="card feature-card">
+<div class="card-body">
+<div class="d-flex align-items-start"><i class="bi bi-phone display-4 text-info me-3"></i>
+<div>
+<h4>Удалённый контроль и управление</h4>
+<p>Управление котлом через SMS, мобильное приложение или веб-интерфейс из любой точки мира.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="card feature-card">
+<div class="card-body">
+<div class="d-flex align-items-start"><i class="bi bi-calendar-check display-4 text-success me-3"></i>
+<div>
+<h4>Интеллектуальное расписание</h4>
+<p>Автоматическое переключение между режимами "Эконом" и "Комфорт" в зависимости от времени суток и вашего расписания.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<div class="card feature-card">
+<div class="card-body">
+<div class="d-flex align-items-start"><i class="bi bi-laptop display-4 text-primary me-3"></i>
+<div>
+<h4>Простота управления</h4>
+<p>Интуитивно понятный веб-интерфейс без необходимости установки специального программного обеспечения.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Режимы работы -->
+<div class="mb-5">
+<h3 class="section-h3"><i class="bi bi-gear"></i> Режимы работы котла под управлением ZONT</h3>
+<div class="row">
+<div class="col-md-4 mb-4">
+<div class="card mode-card bg-light">
+<div class="card-body text-center"><i class="bi bi-currency-dollar display-3 text-warning mb-3"></i>
+<h4>Эконом</h4>
+<p>Постоянная поддержка минимальной температуры для экономии ресурсов</p>
+</div>
+</div>
+</div>
+<div class="col-md-4 mb-4">
+<div class="card mode-card bg-light">
+<div class="card-body text-center"><i class="bi bi-emoji-smile display-3 text-success mb-3"></i>
+<h4>Комфорт</h4>
+<p>Поддержка оптимальной температуры на протяжении всего времени</p>
+</div>
+</div>
+</div>
+<div class="col-md-4 mb-4">
+<div class="card mode-card bg-light">
+<div class="card-body text-center"><i class="bi bi-alarm display-3 text-info mb-3"></i>
+<h4>Расписание</h4>
+<p>Автоматическое изменение температуры по заданному графику</p>
+</div>
+</div>
+</div>
+<div class="col-md-4 mb-4">
+<div class="card mode-card bg-light">
+<div class="card-body text-center"><i class="bi bi-power display-3 text-secondary mb-3"></i>
+<h4>Выключение</h4>
+<p>Работа в режиме "антиразморозки" с минимальным энергопотреблением</p>
+</div>
+</div>
+</div>
+<div class="col-md-4 mb-4">
+<div class="card mode-card bg-light">
+<div class="card-body text-center"><i class="bi bi-exclamation-triangle display-3 text-danger mb-3"></i>
+<h4>Аварийный режим</h4>
+<p>Автоматическая активация при неисправности температурного датчика</p>
+</div>
+</div>
+</div>
+<div class="col-md-4 mb-4">
+<div class="card mode-card bg-light">
+<div class="card-body text-center"><i class="bi bi-bell display-3 text-primary mb-3"></i>
+<h4>Оповещения</h4>
+<p>Тревожные сообщения при выходе за пороговые температурные значения</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Преимущества покупки -->
+<div class="mb-5">
+<h3 class="section-h3"><i class="bi bi-check-circle"></i> Преимущества покупки у нас</h3>
+<div class="row">
+<div class="col-md-6 mb-4">
+<div class="card advantage-card h-100">
+<div class="card-body">
+<div class="d-flex align-items-start"><i class="bi bi-wrench-adjustable display-4 text-primary me-3"></i>
+<div>
+<h4>Комплексные решения</h4>
+<p>Подбор системы с учётом площади помещения, типа котла и ваших потребностей. Профессиональный монтаж и интеграция с минимальным дискомфортом.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6 mb-4">
+<div class="card advantage-card h-100">
+<div class="card-body">
+<div class="d-flex align-items-start"><i class="bi bi-cash-stack display-4 text-success me-3"></i>
+<div>
+<h4>Экономия средств</h4>
+<p>Оптимальные цены на оборудование и установку. Система окупается за 1 сезон за счёт снижения расходов на топливо.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6 mb-4">
+<div class="card advantage-card h-100">
+<div class="card-body">
+<div class="d-flex align-items-start"><i class="bi bi-people display-4 text-info me-3"></i>
+<div>
+<h4>Обучение и поддержка</h4>
+<p>Подробный инструктаж по использованию системы. Круглосуточная техническая поддержка наших специалистов.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-6 mb-4">
+<div class="card advantage-card h-100">
+<div class="card-body">
+<div class="d-flex align-items-start"><i class="bi bi-shield-check display-4 text-warning me-3"></i>
+<div>
+<h4>Гарантия и обслуживание</h4>
+<p>Официальная гарантия на оборудование 2 года. Возможность заключения договора на регулярное обслуживание системы.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Видеообзор -->
+<div class="mb-5">
+<h3 class="section-h3"><i class="bi bi-play-btn"></i> Видеообзор системы ZONT</h3>
+<div class="video-container">
+<div class="embed-responsive embed-responsive-16by9"><video class="embed-responsive-item" controls="controls">
+                        <source src="https://service04.ru/files/img/prinadlejnosti/Zont/My%20Edited%20Video.mp4" type="video/mp4">
+                        Ваш браузер не поддерживает видео тег.
+                    </video></div>
+</div>
+</div>
+<!-- Галерея изображений -->
+<div class="mb-5">
+<h3 class="section-h3"><i class="bi bi-images"></i> Галерея системы ZONT</h3>
+<div class="row">
+<div class="col-md-4">
+<div class="gallery-item"><img src="https://service04.ru/bl-content/img/2019/12/zont5-89d8e6a3.png" alt="ZONT система" class="img-fluid rounded shadow"></div>
+</div>
+<div class="col-md-4">
+<div class="gallery-item"><img src="https://service04.ru/bl-content/img/2019/12/zont6-6a83f0f4.jpg" alt="ZONT интерфейс" class="img-fluid rounded shadow"></div>
+</div>
+<div class="col-md-4">
+<div class="gallery-item"><img src="https://service04.ru/bl-content/img/2019/12/zont7-6698616e.jpg" alt="ZONT монтаж" class="img-fluid rounded shadow"></div>
+</div>
+</div>
+</div>
+<!-- Призыв к действию -->
+<div class="card bg-light border-0 mb-5">
+<div class="card-body text-center py-5">
+<h2 class="mb-4"><i class="bi bi-lightning-charge text-warning"></i> Готовы автоматизировать своё отопление?</h2>
+<p class="lead mb-4">Закажите систему ZONT прямо сейчас и получите профессиональную установку с настройкой!</p>
+<btn btn-primary class="btn btn-primary btn-lg me-3"> <i class="bi bi-cart-check"></i> Заказать систему </btn btn-primary> <btn btn-primary class="btn btn-outline-primary btn-lg"> <i class="bi bi-question-circle"></i> Задать вопрос </btn btn-primary></div>
+</div>
+</div>
+<p>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+</p>
