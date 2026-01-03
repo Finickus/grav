@@ -1,0 +1,39 @@
+name: 🚀 Deploy to Beget
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    name: 🎉 Deploy
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 🚚 Получить код
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: 📂 Деплой на хостинг
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          server-dir: ${{ secrets.FTP_SERVER_DIR }}
+          dangerous-clean-slate: false
+          dry-run: false
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            README.md
+            .htpasswd
+            .env
+            .env.*
+          local-dir: ./
+          timeout: 60000
+          protocol: ftp
+          state-name: .ftp-deploy-sync-state.json
