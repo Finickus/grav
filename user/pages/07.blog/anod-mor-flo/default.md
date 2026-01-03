@@ -2,7 +2,7 @@
 title: 'Магниевый анод Mor-Flo'
 ---
 
-<div class="container my-4" style="font-family: 'Open Sans',Verdana,Arial,Helvetica,sans-serif; color: #60584d; background-color: #fbfaf9;"><!-- Заголовок -->
+<div class="container my-4" style=" color: #60584d; background-color: #fbfaf9;"><!-- Заголовок -->
 <div class="jumbotron bg-primary text-white rounded mb-4">
 <div class="text-center">
 

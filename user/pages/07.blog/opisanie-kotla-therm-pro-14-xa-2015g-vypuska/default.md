@@ -3,9 +3,9 @@ title: 'Bez nazvaniya'
 ---
 
 
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2566_14-x-plyn-rozstrel-male.jpg" alt="Запчасти термона"></p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'> </p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>[01] — 41366 Газовый редуктор SIT 845 SIGMA<br>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2566_14-x-plyn-rozstrel-male.jpg" alt="Запчасти термона"></p>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'> </p>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>[01] — 41366 Газовый редуктор SIT 845 SIGMA<br>
 [02] — 20253.1 Tрубка газовая 3-Th-0324A/Sit<br>
 [03] — 21302 Горелка 6 ram. NOx, сопла 0,95<br>
 [04] — 40798 Камера сгорания 14X, XZ 3-Th-0328<br>
@@ -20,8 +20,8 @@ title: 'Bez nazvaniya'
 [14] — 21300 Рамка горелки 6 ram., NOx<br>
 [42] — 40029 Прокладка 24x16x2<br>
 [45] — 40527 Термостат контактный 36TXE 75°C</p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'> <img src="https://service04.ru/bl-content/img/2019/12/2566_Vodni-cast-14X.A-male.jpg" alt="Описание котла THERM PRO 14 X.A 2015г. выпуска:"></p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>[03] — 21302 Горелка 6 ram. NOx, сопла 0,95<br>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'> <img src="https://service04.ru/bl-content/img/2019/12/2566_Vodni-cast-14X.A-male.jpg" alt="Описание котла THERM PRO 14 X.A 2015г. выпуска:"></p>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>[03] — 21302 Горелка 6 ram. NOx, сопла 0,95<br>
 [06] — 20400 Теплообменник дымовые газы/вода PR 12-3230003<br>
 [15] — 26072 Многофункциональный коллектор<br>
 [16] — 41367 Насос GRUNDFOS UPS 15/60 Cacao<br>
@@ -42,8 +42,8 @@ title: 'Bez nazvaniya'
 [55] — 40004 Вставка Ms 1/4<br>
 [58] — 40395 Редукция 1/2″ — 1/4″<br>
 [60] — 40983 Застежка-хомут насоса</p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'> <img src="https://service04.ru/bl-content/img/2019/12/2566_Panel-14-X.-A-small.jpg" alt="THERM PRO 14 X.A 2015г"></p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>[65] — 42266.1 Лицевая часть панели управления<br>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'> <img src="https://service04.ru/bl-content/img/2019/12/2566_Panel-14-X.-A-small.jpg" alt="THERM PRO 14 X.A 2015г"></p>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>[65] — 42266.1 Лицевая часть панели управления<br>
 [66] — 42270.1 Задняя крышка панели управления<br>
 [67] — 42268.1 Откидная дверца панели<br>
 [68] — 25880 Манометр 4 бар 1000мм (Альтернативно — скл.№ 29463)<br>

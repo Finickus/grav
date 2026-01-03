@@ -4,8 +4,8 @@ title: 'Описание котла THERM PRO 14 TKX.A 2015г. выпуска:'
 
 
 
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2570_14-Tkx-plyn-rozstrely-male.jpg" alt="THERM PRO 14 TKX.A 2015"></p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>Названия компонентов по спецификации<br>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2570_14-Tkx-plyn-rozstrely-male.jpg" alt="THERM PRO 14 TKX.A 2015"></p>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>Названия компонентов по спецификации<br>
 [01] — 41366 Газовый редуктор SIT 845 SIGMA<br>
 [02] — 20229.1 Tрубка газовая 4-Th-0149A<br>
 [03] — 23117 Горелка 6 ram. NOx, 09.92, медь<br>
@@ -33,7 +33,7 @@ title: 'Описание котла THERM PRO 14 TKX.A 2015г. выпуска:'
 [88] — 40062 Окошко большое<br>
 [90] — 20779 Проходной изолятор овальный I 324, 19,5×40,5<br>
 [91] — 20545 Проходной изолятор для трубки I 326, диам.14×38</p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2570_vodni-cast-male.jpg" alt="THERM PRO 14 TKX.A 2015"><br>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2570_vodni-cast-male.jpg" alt="THERM PRO 14 TKX.A 2015"><br>
 Названия компонентов по спецификации<br>
 [03] — 23117 Горелка 6 ram. NOx, 09.92, медь<br>
 [06] — 20400 Теплообменник дымовые газы/вода PR 12-3230003<br>
@@ -68,7 +68,7 @@ title: 'Описание котла THERM PRO 14 TKX.A 2015г. выпуска:'
 [46] — 40035 Термостат контактный 36 TXE 95°C<br>
 [47] — 21045.3 Температурный зонд<br>
 [81] — 22169 вентиль сброса</p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2570_Sestava-kotle-14-KX.A-panel-bily-zmenseny.jpg" alt=""><br>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2570_Sestava-kotle-14-KX.A-panel-bily-zmenseny.jpg" alt=""><br>
 Названия компонентов по спецификации<br>
 [65] — 42266 Лицевая часть панели управления<br>
 [66] — 42270 Задняя крышка панели управления<br>

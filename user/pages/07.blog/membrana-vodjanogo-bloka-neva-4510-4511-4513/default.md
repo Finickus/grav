@@ -3,7 +3,7 @@ title: 'Мембрана водяного блока НЕВА NEVA-4510 4511 451
 ---
 
 
-<div class="ce_text first block" style='overflow: hidden; margin-left: 10px; margin-right: 10px; color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>
+<div class="ce_text first block" style='overflow: hidden; margin-left: 10px; margin-right: 10px; color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>
 
 <figure class="image_container float_left" style="margin: 0px 20px 0px 0px; padding: 0px; float: left;"><a class="ccardElement" data-lightcard="54ff17" href="https://boilererror.ru/wp-content/uploads/2019/12/%D0%B2%D0%BE%D0%B4%D1%8F%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-NEVA-4510.jpg" style="color: rgb(96, 88, 77);" h3="Мембрана водяного блока НЕВА NEVA-4510 4511 4513"><img src="https://service04.ru/bl-content/img/2019/12/водяного-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-NEVA-4510-a95cc2ac.jpg" alt="Мембрана водяного блока НЕВА NEVA-4510 4511 4513"></a></figure>
 <p>Признаки при которых требуется замена мембрана для газовой колонки.</p>
@@ -36,10 +36,10 @@ title: 'Мембрана водяного блока НЕВА NEVA-4510 4511 451
 Доставка в остальные регионы осуществляет транспортная компания СДЭК по предоплате.<br>
  </p>
 </div>
-<div class="ce_youtube block" style='overflow: hidden; margin-left: 10px; margin-right: 10px; color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>
+<div class="ce_youtube block" style='overflow: hidden; margin-left: 10px; margin-right: 10px; color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>
 <h4>Видео Мембрана водяного блока «NEVA-4510/4511/4513»</h4>
 <p><span class="mejs-offscreen" style="clip: rect(1px, 1px, 1px, 1px); clip-path: polygon(0px 0px, 0px 0px, 0px 0px, 0px 0px); height: 1px; width: 1px; overflow: hidden; position: absolute !important;">Video Player</span></p>
-<div aria-label="Video Player" class="mejs-container svg mejs-video" id="mep_0" role="application" style="position: relative; background: rgb(0, 0, 0); font-family: Helvetica, Arial; vertical-align: top; width: 600px; height: 500px;" tabindex="0">
+<div aria-label="Video Player" class="mejs-container svg mejs-video" id="mep_0" role="application" style="position: relative; background: rgb(0, 0, 0);  vertical-align: top; width: 600px; height: 500px;" tabindex="0">
 <div class="mejs-inner">
 <div class="mejs-mediaelement" style="position: absolute; top: 0px; left: 0px; width: 600px; height: 500px;"><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="1" class="me-plugin" frameborder="0" height="500" id="me_youtube_0_container" src="https://www.youtube.com/embed/c76Xyw5WOyo?controls=0&amp;wmode=transparent&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fservice04.ru&amp;widgetid=1" style="position: absolute;" h3="YouTube video player" width="600"></iframe></div>
 <div class="mejs-layers">
@@ -60,7 +60,7 @@ title: 'Мембрана водяного блока НЕВА NEVA-4510 4511 451
 </div>
 </div>
 </div>
-<div class="ce_form last tableless block" style='overflow: hidden; margin-left: 10px; margin-right: 10px; color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>
+<div class="ce_form last tableless block" style='overflow: hidden; margin-left: 10px; margin-right: 10px; color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>
 <h3 style="text-transform: uppercase; color: rgb(227, 122, 37);">КУПИТЬ МЕМБРАНУ ДЛЯ КОЛОНКИ НЕВА</h3>
 </div>
  

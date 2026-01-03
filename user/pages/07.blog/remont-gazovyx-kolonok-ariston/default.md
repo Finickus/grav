@@ -10,7 +10,7 @@ title: ''
 </div>
 <div class="row align-items-center">
 <div class="col-md-6" style="width: 427.5px;">
-<p style="margin-right: 0px; margin-bottom: 16px; margin-left: 0px; line-height: 1.5; padding: 0px; font-family: 'YS Text', 'Helvetica Neue', Arial, sans-serif; font-size: 14px; color: rgba(0, 0, 0, 0.8);"></p>
+<p style="margin-right: 0px; margin-bottom: 16px; margin-left: 0px; line-height: 1.5; padding: 0px;  font-size: 14px; color: rgba(0, 0, 0, 0.8);"></p>
 <p>Мы используем только качественные запчасти и материалы, чтобы обеспечить надежную работу вашего оборудования. Кроме того, мы предлагаем доступные цены на наши услуги и гарантию на все работы. Вы можете быть уверены, что мы выполним ремонт качественно и в срок.</p>
 <p>Не откладывайте ремонт газовой колонки Ariston на потом! Обратитесь к нам уже сегодня и получите профессиональную помощь в кратчайшие сроки.</p>
 </div>
@@ -30,7 +30,7 @@ title: ''
 <div class="row">
 <div class="shadow-sm bg-light col-lg-3 col-sm-6" style="width: 213.266px;">
 <h5 style="line-height: 1.2;">Нестабильная работа:</h5>
-<p class="mt-2 mb-0">Газовая колонка может работать нестабильно, что может привести к низкому уровню нагрева воды или даже к отключению, это может привести к накоплению накипи или других отложений на нагревательных элементах.<span style="color: rgba(0, 0, 0, 0.8); font-family: 'YS Text', 'Helvetica Neue', Arial, sans-serif; font-size: 14px;"></span></p>
+<p class="mt-2 mb-0">Газовая колонка может работать нестабильно, что может привести к низкому уровню нагрева воды или даже к отключению, это может привести к накоплению накипи или других отложений на нагревательных элементах.<span style="color: rgba(0, 0, 0, 0.8);  font-size: 14px;"></span></p>
 </div>
 <div class="shadow-sm col-lg-3 col-sm-6" style="width: 213.266px;">
 <h5 style="line-height: 1.2;">Повреждение теплообменника:</h5>

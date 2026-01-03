@@ -1,4 +1,4 @@
-<p>Если вы ищете качественный и надежный ремонт котлов MORA, то вы попали по адресу!  Наша компания предлагает профессиональный сервис по ремонту и обслуживанию котельного оборудования.</p>
+﻿<p>Если вы ищете качественный и надежный ремонт котлов MORA, то вы попали по адресу!  Наша компания предлагает профессиональный сервис по ремонту и обслуживанию котельного оборудования.</p>
 <div class="row a">
 <div class="col-md-12 border bg-light py-5">
 <h2>Ремонт за 1 выезд. Запчасти у мастера с собой</h2>
@@ -28,33 +28,33 @@
 <p><strong>Снижение эффективности:</strong> Если ваш котел не обеспечивает должного уровня тепла или тратит слишком много энергии, причина может быть в загрязненных фильтрах, износившихся компонентах или других проблемах. Мы проведем тщательную диагностику и приведем ваш котел в оптимальное состояние.</p>
 </li>
 </ol>
-<p style="padding: 0px; margin: 0px; font-family: 'YS Text', 'Helvetica Neue', Arial, sans-serif; font-size: 14px; line-height: 1.5; color: rgba(0, 0, 0, 0.8);"><span></span></p>
+<p style="padding: 0px; margin: 0px;  font-size: 14px; line-height: 1.5; color: rgba(0, 0, 0, 0.8);"><span></span></p>
 <p>У нас вы найдете следующие услуги, связанные с котельным оборудованием:</p>
 <div class="row">
 <div class="col-md-4">
-<h2><span style="font-weight: bolder; color: rgba(0, 0, 0, 0.8); font-family: 'YS Text', 'Helvetica Neue', Arial, sans-serif; font-size: 14px;">Ремонт котельного оборудования:</span></h2>
+<h2><span style="font-weight: bolder; color: rgba(0, 0, 0, 0.8);  font-size: 14px;">Ремонт котельного оборудования:</span></h2>
 <p> Мы предлагаем профессиональный ремонт котлов Mora и других производителей. Наши опытные техники проходят ежегодное обучение на представительстве Mora и имеют большой опыт в области ремонта котельного оборудования, что позволяет нам быстро и качественно исправлять любые неисправности.</p>
 </div>
 <div class="col-md-4">
-<h2><span style="font-weight: bolder; color: rgba(0, 0, 0, 0.8); font-family: 'YS Text', 'Helvetica Neue', Arial, sans-serif; font-size: 14px;">Запчасти для котлов Mora:</span><span style="color: rgba(0, 0, 0, 0.8); font-family: 'YS Text', 'Helvetica Neue', Arial, sans-serif; font-size: 14px;"> </span></h2>
+<h2><span style="font-weight: bolder; color: rgba(0, 0, 0, 0.8);  font-size: 14px;">Запчасти для котлов Mora:</span><span style="color: rgba(0, 0, 0, 0.8);  font-size: 14px;"> </span></h2>
 <p>Мы предлагаем широкий выбор оригинальных запчастей для котлов Mora, чтобы обеспечить их оптимальную работу и долгий срок службы. Все запчасти предлагаются по конкурентным ценам и соответствуют высоким стандартам качества.</p>
 </div>
 <div class="col-md-4">
-<h2><span style="font-weight: bolder; color: rgba(0, 0, 0, 0.8); font-family: 'YS Text', 'Helvetica Neue', Arial, sans-serif; font-size: 14px;">Гарантийное обслуживание котлов:</span></h2>
+<h2><span style="font-weight: bolder; color: rgba(0, 0, 0, 0.8);  font-size: 14px;">Гарантийное обслуживание котлов:</span></h2>
 <p>Если ваш котел находится в гарантийном периоде, мы предлагаем гарантийное обслуживание, чтобы обеспечить его бесперебойную работу. Наши сертифицированные техники выполнят все необходимые ремонтные работы в соответствии с гарантийными условиями производителя.</p>
 </div>
 </div>
 <div class="row">
 <div class="col-md-4">
-<h2><span style="font-weight: bolder; color: rgba(0, 0, 0, 0.8); font-family: 'YS Text', 'Helvetica Neue', Arial, sans-serif; font-size: 14px;">Сервисное обслуживание котлов:</span><span style="color: rgba(0, 0, 0, 0.8); font-family: 'YS Text', 'Helvetica Neue', Arial, sans-serif; font-size: 14px;"> </span></h2>
+<h2><span style="font-weight: bolder; color: rgba(0, 0, 0, 0.8);  font-size: 14px;">Сервисное обслуживание котлов:</span><span style="color: rgba(0, 0, 0, 0.8);  font-size: 14px;"> </span></h2>
 <p>Мы предлагаем сервисное обслуживание котлов Mora и других марок. Регулярное техническое обслуживание помогает поддерживать оптимальную работу вашего котельного оборудования, предотвращает возможные поломки и продлевает срок его службы. В нашей компании вы можете заказать сервисное обслуживание котлов, которое включает в себя регулярную проверку состояния оборудования, замену изношенных деталей и проведение профилактических работ. Мы гарантируем высокое качество обслуживания и доступные цены.</p>
 </div>
 <div class="col-md-4">
-<h2><span style="font-weight: bolder; color: rgba(0, 0, 0, 0.8); font-family: 'YS Text', 'Helvetica Neue', Arial, sans-serif; font-size: 14px;">Диагностика и профилактика котлов:</span></h2>
+<h2><span style="font-weight: bolder; color: rgba(0, 0, 0, 0.8);  font-size: 14px;">Диагностика и профилактика котлов:</span></h2>
 <p>Наши специалисты проведут диагностику вашего котельного оборудования, чтобы выявить любые проблемы и предложить наилучшие решения. Мы также предлагаем профилактическое обслуживание, чтобы предотвратить возможные поломки и обеспечить бесперебойную работу вашего котла.</p>
 </div>
 <div class="col-md-4">
-<h2><span style="font-weight: bolder; color: rgba(0, 0, 0, 0.8); font-family: 'YS Text', 'Helvetica Neue', Arial, sans-serif; font-size: 14px;">Замена элементов (запчастей) котла:</span></h2>
+<h2><span style="font-weight: bolder; color: rgba(0, 0, 0, 0.8);  font-size: 14px;">Замена элементов (запчастей) котла:</span></h2>
 <p>Если вашему котлу требуется замена каких-либо элементов, мы можем предложить вам широкий выбор качественных запасных частей и произвести их замену с высокой точностью.</p>
 </div>
 </div>

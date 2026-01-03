@@ -9,7 +9,7 @@ title: 'Список запчастей газового оборудовани�
 
 <p class="h4 lead text-white">Оригинальные комплектующие для котлов и колонок Mora Top</p>
 <p class="h4 lead text-white"></p>
-<div class="card content-card p-0" style="card-sizing: inherit; background-color: #ffffff; border-radius: 6px; card-shadow: rgba(10, 10, 10, 0.1) 0px 0.5em 1em -0.125em, rgba(10, 10, 10, 0.02) 0px 0px 0px 1px; color: #4a4a4a; margin-bottom: 1.5rem; font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif; padding: 0px !important;">
+<div class="card content-card p-0" style="card-sizing: inherit; background-color: #ffffff; border-radius: 6px; card-shadow: rgba(10, 10, 10, 0.1) 0px 0.5em 1em -0.125em, rgba(10, 10, 10, 0.02) 0px 0px 0px 1px; color: #4a4a4a; margin-bottom: 1.5rem;  padding: 0px !important;">
 <div class="table-container" style="card-sizing: inherit; overflow: auto hidden; max-width: 100%;">
 <table class="table is-bordered w-100" style="card-sizing: inherit; border-spacing: 0px; background-color: #fbfaf9; color: #60584d; width: 912px; font-size: 0.95rem; border-color: #ccc085;">
 <thead style="card-sizing: inherit; background-color: transparent;">
@@ -2367,7 +2367,7 @@ title: 'Список запчастей газового оборудовани�
 </table>
 </div>
 </div>
-<div class="card bg-primary text-white text-center mt-5" style="card-sizing: inherit; border-radius: 6px; card-shadow: rgba(10, 10, 10, 0.1) 0px 0.5em 1em -0.125em, rgba(10, 10, 10, 0.02) 0px 0px 0px 1px; padding: 1.25rem; font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif; background-color: #00d1b2 !important; color: #ffffff !important; margin-top: 1.5rem !important; text-align: center !important;"></div>
+<div class="card bg-primary text-white text-center mt-5" style="card-sizing: inherit; border-radius: 6px; card-shadow: rgba(10, 10, 10, 0.1) 0px 0.5em 1em -0.125em, rgba(10, 10, 10, 0.02) 0px 0px 0px 1px; padding: 1.25rem;  background-color: #00d1b2 !important; color: #ffffff !important; margin-top: 1.5rem !important; text-align: center !important;"></div>
 </div>
 </div>
 </section>

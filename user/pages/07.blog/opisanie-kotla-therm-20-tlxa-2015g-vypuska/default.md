@@ -4,9 +4,9 @@ title: 'Описание котла THERM 20 TLX.A 2015г. выпуска:'
 
 
 
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>Описание котла THERM 20 TLX.A 2015г. выпуска:</p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/1.jpg" alt=""></p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>азвания компонентов по спецификации<br>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>Описание котла THERM 20 TLX.A 2015г. выпуска:</p>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/1.jpg" alt=""></p>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>азвания компонентов по спецификации<br>
 [01] — 41366 Газовый редуктор SIT 845 SIGMA<br>
 [02] — 22029.1 Трубка газовая 3-Th-0148A<br>
 [03] — 26389 Горелка 401.1330.02, 11r.<br>
@@ -29,8 +29,8 @@ title: 'Описание котла THERM 20 TLX.A 2015г. выпуска:'
 [90] — 20779 Проходной изолятор овальный I 324, 19,5×40,5<br>
 [91] — 20545 Проходной изолятор для трубки I 326, диам.14×38<br>
 [92] — 22133 Проходной изолятор для трубки ST 503</p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2.jpg" alt=""></p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>Названия компонентов по спецификации<br>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2.jpg" alt=""></p>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>Названия компонентов по спецификации<br>
 [06] — 21477 Теплообменник PR17-402<br>
 [15] — 26072 Многофункциональный коллектор<br>
 [16] — 41367 Насос GRUNDFOS UPS 15/60 Cacao<br>
@@ -59,8 +59,8 @@ title: 'Описание котла THERM 20 TLX.A 2015г. выпуска:'
 [57] — 40644 Гайка G 3/4<br>
 [58] — 40395 Редукция 1/2″ — 1/4″<br>
 [62] — 40005 Переходник 1/2</p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/3.jpg" alt=""></p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>Названия компонентов по спецификации<br>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/3.jpg" alt=""></p>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>Названия компонентов по спецификации<br>
 [65] — 42266 Лицевая часть панели управления<br>
 [66] — 42270 Задняя крышка панели управления<br>
 [67] — 42268 Откидная дверца панели<br>

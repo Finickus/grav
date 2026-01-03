@@ -3,7 +3,7 @@ title: 'Раздел газ'
 ---
 
 
-<div class="ce_text first block" style='overflow: hidden; margin-left: 10px; margin-right: 10px; color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>
+<div class="ce_text first block" style='overflow: hidden; margin-left: 10px; margin-right: 10px; color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>
 
 <figure class="image_container float_above" style="margin: 0px; padding: 0px;"><img src="https://service04.ru/bl-content/img/2019/12/2576_14-TX-spalovaci-cast.jpg" alt="Запчасти для котла THERM PRO 14 TX.A 2015г. выпуска"></figure>
 <p>Названия компонентов по спецификации<br>
@@ -28,7 +28,7 @@ title: 'Раздел газ'
 [90] — 20545 Проходной изолятор для трубки I 326, диам.14×38<br>
 [91] — 20779 Проходной изолятор овальный I 324, 19,5×40,5</p>
 </div>
-<div class="ce_text block" style='overflow: hidden; margin-left: 10px; margin-right: 10px; color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>
+<div class="ce_text block" style='overflow: hidden; margin-left: 10px; margin-right: 10px; color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>
 
 <figure class="image_container float_above" style="margin: 0px; padding: 0px;"><img src="https://service04.ru/bl-content/img/2019/12/2576_Vodni-cast-14X.A-do-ND.jpg" alt=""></figure>
 <p>Названия компонентов по спецификации<br>
@@ -57,7 +57,7 @@ title: 'Раздел газ'
 [58] — 40395 Редукция 1/2″ — 1/4″<br>
 [60] — 40983 Застежка-хомут насоса</p>
 </div>
-<div class="ce_text block" style='overflow: hidden; margin-left: 10px; margin-right: 10px; color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>
+<div class="ce_text block" style='overflow: hidden; margin-left: 10px; margin-right: 10px; color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>
 
 <figure class="image_container float_above" style="margin: 0px; padding: 0px;"><img src="https://service04.ru/bl-content/img/2019/12/2576_Panel-14-X.-A-small.jpg" alt="Запчасти для котла THERM PRO 14 TX.A 2015г. выпуска"></figure>
 <p>Названия компонентов по спецификации<br>

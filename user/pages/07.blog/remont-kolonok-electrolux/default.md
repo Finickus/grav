@@ -36,7 +36,7 @@ title: ''
 </div>
 </div>
 <p></p>
-<p style="margin-right: 0px; margin-bottom: 10px; margin-left: 0px; color: #000000; font-family: Roboto, sans-serif;"></p>
+<p style="margin-right: 0px; margin-bottom: 10px; margin-left: 0px; color: #000000; "></p>
 <h4> Почему клиенты обращаются к нам для ремонта газовых колонок Electrolux</h4>
 <p></p>
 <p>Мы являемся опытными и профессиональными специалистами в области ремонта газовых колонок Electrolux. Вот несколько причин, почему клиенты выбирают нас:</p>

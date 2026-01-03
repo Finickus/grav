@@ -2,11 +2,11 @@
 title: 'Основные тарифы'
 ---
 
-<div class="head   left def-mob  " style="position: relative; z-index: 5; margin-bottom: 20px; color: #181818; font-family: SegoeUIRegular, Arial, 'PT Sans Caption';">
+<div class="head   left def-mob  " style="position: relative; z-index: 5; margin-bottom: 20px; color: #181818; ">
 
 <div class="descrip dark" style="font-size: 18px; line-height: 25px; color: #5d5d5d;">Прайс-лист на услуги сервисного центра "ГазСервис"</div>
 </div>
-<div class="content " style="position: relative; margin-top: 30px; color: #181818; font-family: SegoeUIRegular, Arial, 'PT Sans Caption';">
+<div class="content " style="position: relative; margin-top: 30px; color: #181818; ">
 <div class="">
 <div class="">
 <div class="descriptive">

@@ -4,9 +4,9 @@ title: 'Запчасти котла THERM 20 CX.A 2015г.'
 
 
 
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2548_23-CLN-spalovaci-cast.jpg" alt="Запчасти  котла THERM 20 CX.A 2015г. "></p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2548_23-CLN-spalovaci-cast.jpg" alt="Запчасти  котла THERM 20 CX.A 2015г. "></p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>Названия компонентов по спецификации<br>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2548_23-CLN-spalovaci-cast.jpg" alt="Запчасти  котла THERM 20 CX.A 2015г. "></p>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2548_23-CLN-spalovaci-cast.jpg" alt="Запчасти  котла THERM 20 CX.A 2015г. "></p>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>Названия компонентов по спецификации<br>
 [01]     — 41366     Газовый редуктор SIT 845 SIGMA<br>
 [02]     — 22029.1     Трубка газовая 3-Th-0148A<br>
 [03]     — 26389     Горелка 401.1330.02, 11r.<br>
@@ -21,8 +21,8 @@ title: 'Запчасти котла THERM 20 CX.A 2015г.'
 [42]     — 40029     Прокладка 24x16x2<br>
 [45]     — 40527     Термостат контактный 36TXE 75°C</p>
 <p> </p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2548_20-CX.A-voda.jpg" alt="Запчати котла THERM 20 CX.A 2015г."></p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>Названия компонентов по спецификации<br>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2548_20-CX.A-voda.jpg" alt="Запчати котла THERM 20 CX.A 2015г."></p>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>Названия компонентов по спецификации<br>
 [06]     — 20071.2     Теплообменник<br>
 [07]     — 42319     Боковая часть левая<br>
 [08]     — 42320     Боковая часть правая<br>
@@ -52,9 +52,9 @@ title: 'Запчасти котла THERM 20 CX.A 2015г.'
 [44]     — 40526     Прокладка уплотнительная 11x6x2<br>
 [46]     — 40035     Термостат контактный 36 TXE 95°C<br>
 [47]     — 21045.3     Температурный зонд</p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'> </p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2548_panel-20-pozice.jpg" alt="Запчати котла THERM 20 CX.A 2015г"></p>
-<p style='color: rgb(96, 88, 77); font-family: "Open Sans", Verdana, Arial, Helvetica, sans-serif; background-color: rgb(251, 250, 249);'>Названия компонентов по спецификации<br>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'> </p>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2548_panel-20-pozice.jpg" alt="Запчати котла THERM 20 CX.A 2015г"></p>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>Названия компонентов по спецификации<br>
 [65]     — 42266     Лицевая часть панели управления<br>
 [66]     — 42270     Задняя крышка панели управления<br>
 [67]     — 42268     Откидная дверца панели<br>

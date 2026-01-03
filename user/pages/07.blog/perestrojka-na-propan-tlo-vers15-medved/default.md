@@ -2,7 +2,7 @@
 title: 'Перестройка на пропан — TLO верс.15 (Медведь)'
 ---
 
-<div class="container my-4" style="color: #60584d; font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif; background-color: #fbfaf9;"><!-- Заголовок -->
+<div class="container my-4" style="color: #60584d;  background-color: #fbfaf9;"><!-- Заголовок -->
 <div class="jumbotron bg-primary text-white rounded">
 <div class="container text-center">
 

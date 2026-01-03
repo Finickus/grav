@@ -1,6 +1,6 @@
-
-<h1 style="font-size: 1.571em; color: #60584d; font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;">ТЕПЛООБМЕННИК Electrolux GWH 275 и 250 (НЕ ПУТАТЬ С КОЛОНКОЙ 350 так как мощность этой колонки больше)</h1>
-<div class="feature" style="color: #60584d; font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;">
+﻿
+<h1 style="font-size: 1.571em; color: #60584d; ">ТЕПЛООБМЕННИК Electrolux GWH 275 и 250 (НЕ ПУТАТЬ С КОЛОНКОЙ 350 так как мощность этой колонки больше)</h1>
+<div class="feature" style="color: #60584d; ">
 <p><img src="https://service04.ru/bl-content/img/2019/12/wpd93ff186_05_06.jpg" alt=""></p>
 <p><span style="color: #ff0000; font-size: 16px;"><strong>Стоимость при покупке со склада 8900 руб</strong></span></p>
 <p><a href="zapchasti/gazovye-kolonki/electrolux/85-electrolux-gwh-275-sern/teploobmennik-gwh-275srn-detail.html"><span style="color: #ff0000; font-size: 16px;"><strong><img src="https://service04.ru/bl-content/img/2019/12/buy_nowf-3.png" alt=""></strong></span></a></p>
@@ -31,7 +31,7 @@
 <p> </p>
 <p>ОПТОВИКАМ СКИДКИ % от 3 шт</p>
 </div>
-<div class="story" style="color: #60584d; font-family: 'Open Sans', Verdana, Arial, Helvetica, sans-serif;">
+<div class="story" style="color: #60584d; ">
 <h3 style="text-transform: uppercase; color: #e37a25;">ФОТО ГАЗОВОЙ КОЛОНКИ ELECTROLUX 275</h3>
 <p><img src="https://service04.ru/bl-content/img/2019/12/electrolux-gwh-275-rn1.jpg" alt=""> <img src="https://service04.ru/bl-content/img/2019/12/59207042.jpg" alt="Шилдик электрролюкс 275"></p>
 <p>Купить теплообменник электролюкс с доставкой </p>

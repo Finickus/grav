@@ -1,8 +1,8 @@
-<div class="head   left def-mob  " style="position: relative; z-index: 5; margin-bottom: 20px; color: #181818; font-family: SegoeUIRegular, Arial, 'PT Sans Caption';">
-<h2 class="main1 dark" style="font-family: SegoeUILight, Arial, 'PT Sans Caption'; line-height: 39px; margin-bottom: 10px; font-size: 33px; margin-right: 0px; margin-left: 0px;">Основные тарифы</h2>
+﻿<div class="head   left def-mob  " style="position: relative; z-index: 5; margin-bottom: 20px; color: #181818; ">
+<h2 class="main1 dark" style=" line-height: 39px; margin-bottom: 10px; font-size: 33px; margin-right: 0px; margin-left: 0px;">Основные тарифы</h2>
 <div class="descrip dark" style="font-size: 18px; line-height: 25px; color: #5d5d5d;">Прайс-лист на услуги сервисного центра "ГазСервис"</div>
 </div>
-<div class="content " style="position: relative; margin-top: 30px; color: #181818; font-family: SegoeUIRegular, Arial, 'PT Sans Caption';">
+<div class="content " style="position: relative; margin-top: 30px; color: #181818; ">
 <div class="">
 <div class="">
 <div class="descriptive">

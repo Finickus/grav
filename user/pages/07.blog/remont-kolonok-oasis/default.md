@@ -89,7 +89,7 @@ title: '1.'
 <figure class="image is-inline-block text-center my-5"><img src="https://service04.ru/bl-content/uploads/image/oasis/Screenshot_24%20min.jpg" alt="Сертификат сервисного центра" style="max-width: 754px;"></figure>
 </section>
 <section class="section bg-light">
-<h3 class="h4 display-4 text-center" style="font-family: 'Roboto Condensed', sans-serif;">Список городов Подмосковья (Московской области) где выполняется ремонт газовых колонок</h3>
+<h3 class="h4 display-4 text-center" style="">Список городов Подмосковья (Московской области) где выполняется ремонт газовых колонок</h3>
 <div class="row g-3 is-centered mt-5 fs-6 text-muted-dark">
 <div class="col is-one-quarter content">
 <ul class="ml-0 list-unstyled">

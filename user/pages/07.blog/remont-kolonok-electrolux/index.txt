@@ -1,4 +1,4 @@
-<h2><img src="https://service04.ru/bl-content/uploads/pages/2e47220c8d3e1de941c7ffe0d7002412/electroluxtop(1).jpg" alt=""></h2>
+﻿<h2><img src="https://service04.ru/bl-content/uploads/pages/2e47220c8d3e1de941c7ffe0d7002412/electroluxtop(1).jpg" alt=""></h2>
 <h2>Основные поломки и неисправности газовых колонок Electrolux</h2>
 <p>Газовые колонки Electrolux, несомненно, являются надежными и высококачественными устройствами, однако иногда они могут подвергаться поломкам и неисправностям. Вот некоторые из основных поломок и неисправностей, с которыми часто сталкиваются владельцы газовых колонок Electrolux:</p>
 <ul style="list-style-type: square;">
@@ -32,7 +32,7 @@
 </div>
 </div>
 <p></p>
-<p style="margin-right: 0px; margin-bottom: 10px; margin-left: 0px; color: #000000; font-family: Roboto, sans-serif;"></p>
+<p style="margin-right: 0px; margin-bottom: 10px; margin-left: 0px; color: #000000; "></p>
 <h4> Почему клиенты обращаются к нам для ремонта газовых колонок Electrolux</h4>
 <p></p>
 <p>Мы являемся опытными и профессиональными специалистами в области ремонта газовых колонок Electrolux. Вот несколько причин, почему клиенты выбирают нас:</p>

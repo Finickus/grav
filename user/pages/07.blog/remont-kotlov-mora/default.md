@@ -32,7 +32,7 @@ title: 'Ремонт за 1 выезд. Запчасти у мастера с с
 <p><strong>Снижение эффективности:</strong> Если ваш котел не обеспечивает должного уровня тепла или тратит слишком много энергии, причина может быть в загрязненных фильтрах, износившихся компонентах или других проблемах. Мы проведем тщательную диагностику и приведем ваш котел в оптимальное состояние.</p>
 </li>
 </ol>
-<p style="padding: 0px; margin: 0px; font-family: 'YS Text', 'Helvetica Neue', Arial, sans-serif; font-size: 14px; line-height: 1.5; color: rgba(0, 0, 0, 0.8);"><span></span></p>
+<p style="padding: 0px; margin: 0px;  font-size: 14px; line-height: 1.5; color: rgba(0, 0, 0, 0.8);"><span></span></p>
 <p>У нас вы найдете следующие услуги, связанные с котельным оборудованием:</p>
 <div class="row">
 <div class="col-md-4">
