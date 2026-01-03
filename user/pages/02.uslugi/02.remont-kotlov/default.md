@@ -227,7 +227,7 @@ process:
             
             <div class="row g-3">
                 <div class="col-md-6 col-lg-4">
-                    <a href="remont-kotla-baxi" class="text-decoration-none">
+                    <a href="remont-kotlov/remont-kotla-baxi" class="text-decoration-none">
                         <div class="card h-100 border-0 shadow-sm hover-lift transition">
                             <div class="card-body p-3 d-flex align-items-center">
                                 <div class="bg-primary bg-opacity-10 rounded-circle p-3 me-3">
@@ -243,7 +243,7 @@ process:
                 </div>
                 
                 <div class="col-md-6 col-lg-4">
-                    <a href="remont-kotla-protherm" class="text-decoration-none">
+                    <a href="remont-kotlov/remont-kotla-protherm" class="text-decoration-none">
                         <div class="card h-100 border-0 shadow-sm hover-lift transition">
                             <div class="card-body p-3 d-flex align-items-center">
                                 <div class="bg-success bg-opacity-10 rounded-circle p-3 me-3">
@@ -259,7 +259,7 @@ process:
                 </div>
                 
                 <div class="col-md-6 col-lg-4">
-                    <a href="remont-kotlov-ariston" class="text-decoration-none">
+                    <a href="remont-kotlov/remont-kotlov-ariston" class="text-decoration-none">
                         <div class="card h-100 border-0 shadow-sm hover-lift transition">
                             <div class="card-body p-3 d-flex align-items-center">
                                 <div class="bg-danger bg-opacity-10 rounded-circle p-3 me-3">
@@ -275,7 +275,7 @@ process:
                 </div>
                 
                 <div class="col-md-6 col-lg-4">
-                    <a href="remont-kotlov-attack" class="text-decoration-none">
+                    <a href="remont-kotlov/remont-kotlov-attack" class="text-decoration-none">
                         <div class="card h-100 border-0 shadow-sm hover-lift transition">
                             <div class="card-body p-3 d-flex align-items-center">
                                 <div class="bg-warning bg-opacity-10 rounded-circle p-3 me-3">
@@ -291,7 +291,7 @@ process:
                 </div>
                 
                 <div class="col-md-6 col-lg-4">
-                    <a href="remont-kotlov-bosch" class="text-decoration-none">
+                    <a href="remont-kotlov/remont-kotlov-bosch" class="text-decoration-none">
                         <div class="card h-100 border-0 shadow-sm hover-lift transition">
                             <div class="card-body p-3 d-flex align-items-center">
                                 <div class="bg-info bg-opacity-10 rounded-circle p-3 me-3">
@@ -307,7 +307,7 @@ process:
                 </div>
                 
                 <div class="col-md-6 col-lg-4">
-                    <a href="remont-kotlov-ferroli" class="text-decoration-none">
+                    <a href="remont-kotlov/remont-kotlov-ferroli" class="text-decoration-none">
                         <div class="card h-100 border-0 shadow-sm hover-lift transition">
                             <div class="card-body p-3 d-flex align-items-center">
                                 <div class="bg-primary bg-opacity-10 rounded-circle p-3 me-3">
@@ -323,7 +323,7 @@ process:
                 </div>
                 
                 <div class="col-md-6 col-lg-4">
-                    <a href="remont-kotlov-mora" class="text-decoration-none">
+                    <a href="remont-kotlov/remont-kotlov-mora" class="text-decoration-none">
                         <div class="card h-100 border-0 shadow-sm hover-lift transition">
                             <div class="card-body p-3 d-flex align-items-center">
                                 <div class="bg-success bg-opacity-10 rounded-circle p-3 me-3">
@@ -339,7 +339,7 @@ process:
                 </div>
                 
                 <div class="col-md-6 col-lg-4">
-                    <a href="remont-kotlov-viessmann" class="text-decoration-none">
+                    <a href="remont-kotlov/remont-kotlov-viessmann" class="text-decoration-none">
                         <div class="card h-100 border-0 shadow-sm hover-lift transition">
                             <div class="card-body p-3 d-flex align-items-center">
                                 <div class="bg-danger bg-opacity-10 rounded-circle p-3 me-3">
@@ -355,7 +355,7 @@ process:
                 </div>
                 
                 <div class="col-md-6 col-lg-4">
-                    <a href="remont-gazovykh-kotlov-thermona" class="text-decoration-none">
+                    <a href="remont-kotlov/remont-gazovykh-kotlov-thermona" class="text-decoration-none">
                         <div class="card h-100 border-0 shadow-sm hover-lift transition">
                             <div class="card-body p-3 d-flex align-items-center">
                                 <div class="bg-warning bg-opacity-10 rounded-circle p-3 me-3">
@@ -371,7 +371,7 @@ process:
                 </div>
                 
                 <div class="col-md-6 col-lg-4">
-                    <a href="remont-gazovykh-kotlov-vaillant" class="text-decoration-none">
+                    <a href="remont-kotlov/remont-gazovykh-kotlov-vaillant" class="text-decoration-none">
                         <div class="card h-100 border-0 shadow-sm hover-lift transition">
                             <div class="card-body p-3 d-flex align-items-center">
                                 <div class="bg-info bg-opacity-10 rounded-circle p-3 me-3">
@@ -387,7 +387,7 @@ process:
                 </div>
                 
                 <div class="col-md-6 col-lg-4">
-                    <a href="remont-elektricheskikh-kotlov-protherm" class="text-decoration-none">
+                    <a href="remont-kotlov/remont-elektricheskikh-kotlov-protherm" class="text-decoration-none">
                         <div class="card h-100 border-0 shadow-sm hover-lift transition">
                             <div class="card-body p-3 d-flex align-items-center">
                                 <div class="bg-primary bg-opacity-10 rounded-circle p-3 me-3">
@@ -403,7 +403,7 @@ process:
                 </div>
                 
                 <div class="col-md-6 col-lg-4">
-                    <a href="remont-elektricheskikh-kotlov-stout" class="text-decoration-none">
+                    <a href="remont-kotlov/remont-elektricheskikh-kotlov-stout" class="text-decoration-none">
                         <div class="card h-100 border-0 shadow-sm hover-lift transition">
                             <div class="card-body p-3 d-flex align-items-center">
                                 <div class="bg-success bg-opacity-10 rounded-circle p-3 me-3">
@@ -419,7 +419,7 @@ process:
                 </div>
                 
                 <div class="col-md-6 col-lg-4">
-                    <a href="remont-elektricheskikh-kotlov-vaillant" class="text-decoration-none">
+                    <a href="remont-kotlov/remont-elektricheskikh-kotlov-vaillant" class="text-decoration-none">
                         <div class="card h-100 border-0 shadow-sm hover-lift transition">
                             <div class="card-body p-3 d-flex align-items-center">
                                 <div class="bg-danger bg-opacity-10 rounded-circle p-3 me-3">
@@ -435,7 +435,7 @@ process:
                 </div>
                 
                 <div class="col-md-6 col-lg-4">
-                    <a href="remont-napolnykh-gazovykh-kotlov-electrolux-fsb-p" class="text-decoration-none">
+                    <a href="remont-kotlov/remont-napolnykh-gazovykh-kotlov-electrolux-fsb-p" class="text-decoration-none">
                         <div class="card h-100 border-0 shadow-sm hover-lift transition">
                             <div class="card-body p-3 d-flex align-items-center">
                                 <div class="bg-warning bg-opacity-10 rounded-circle p-3 me-3">
@@ -451,7 +451,7 @@ process:
                 </div>
                 
                 <div class="col-md-6 col-lg-4">
-                    <a href="remont-nastennykh-kotlov-ferroli" class="text-decoration-none">
+                    <a href="remont-kotlov/remont-nastennykh-kotlov-ferroli" class="text-decoration-none">
                         <div class="card h-100 border-0 shadow-sm hover-lift transition">
                             <div class="card-body p-3 d-flex align-items-center">
                                 <div class="bg-info bg-opacity-10 rounded-circle p-3 me-3">
