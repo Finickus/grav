@@ -216,6 +216,269 @@ process:
         </div>
     </div>
     
+    <div class="card shadow-lg border-0 mb-5">
+        <div class="card-header bg-gradient text-white py-4 px-4" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+            <h2 class="h3 mb-0 fw-bold text-center">
+                <i class="fas fa-fire-alt me-3"></i>Ремонт котлов по брендам
+            </h2>
+        </div>
+        <div class="card-body p-4 p-md-5 bg-light">
+            <p class="text-center mb-4 text-muted">Выберите производителя вашего котла для получения специализированной информации</p>
+            
+            <div class="row g-3">
+                <div class="col-md-6 col-lg-4">
+                    <a href="remont-kotla-baxi" class="text-decoration-none">
+                        <div class="card h-100 border-0 shadow-sm hover-lift transition">
+                            <div class="card-body p-3 d-flex align-items-center">
+                                <div class="bg-primary bg-opacity-10 rounded-circle p-3 me-3">
+                                    <i class="fas fa-wrench text-primary fa-lg"></i>
+                                </div>
+                                <div>
+                                    <h5 class="h6 fw-bold mb-1 text-dark">Baxi</h5>
+                                    <p class="small text-muted mb-0">Ремонт котлов Бакси</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="col-md-6 col-lg-4">
+                    <a href="remont-kotla-protherm" class="text-decoration-none">
+                        <div class="card h-100 border-0 shadow-sm hover-lift transition">
+                            <div class="card-body p-3 d-flex align-items-center">
+                                <div class="bg-success bg-opacity-10 rounded-circle p-3 me-3">
+                                    <i class="fas fa-tools text-success fa-lg"></i>
+                                </div>
+                                <div>
+                                    <h5 class="h6 fw-bold mb-1 text-dark">Protherm</h5>
+                                    <p class="small text-muted mb-0">Ремонт котлов Протерм</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="col-md-6 col-lg-4">
+                    <a href="remont-kotlov-ariston" class="text-decoration-none">
+                        <div class="card h-100 border-0 shadow-sm hover-lift transition">
+                            <div class="card-body p-3 d-flex align-items-center">
+                                <div class="bg-danger bg-opacity-10 rounded-circle p-3 me-3">
+                                    <i class="fas fa-fire text-danger fa-lg"></i>
+                                </div>
+                                <div>
+                                    <h5 class="h6 fw-bold mb-1 text-dark">Ariston</h5>
+                                    <p class="small text-muted mb-0">Ремонт котлов Аристон</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="col-md-6 col-lg-4">
+                    <a href="remont-kotlov-attack" class="text-decoration-none">
+                        <div class="card h-100 border-0 shadow-sm hover-lift transition">
+                            <div class="card-body p-3 d-flex align-items-center">
+                                <div class="bg-warning bg-opacity-10 rounded-circle p-3 me-3">
+                                    <i class="fas fa-cog text-warning fa-lg"></i>
+                                </div>
+                                <div>
+                                    <h5 class="h6 fw-bold mb-1 text-dark">Attack</h5>
+                                    <p class="small text-muted mb-0">Ремонт котлов Атак</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="col-md-6 col-lg-4">
+                    <a href="remont-kotlov-bosch" class="text-decoration-none">
+                        <div class="card h-100 border-0 shadow-sm hover-lift transition">
+                            <div class="card-body p-3 d-flex align-items-center">
+                                <div class="bg-info bg-opacity-10 rounded-circle p-3 me-3">
+                                    <i class="fas fa-shield-alt text-info fa-lg"></i>
+                                </div>
+                                <div>
+                                    <h5 class="h6 fw-bold mb-1 text-dark">Bosch</h5>
+                                    <p class="small text-muted mb-0">Ремонт котлов Бош</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="col-md-6 col-lg-4">
+                    <a href="remont-kotlov-ferroli" class="text-decoration-none">
+                        <div class="card h-100 border-0 shadow-sm hover-lift transition">
+                            <div class="card-body p-3 d-flex align-items-center">
+                                <div class="bg-primary bg-opacity-10 rounded-circle p-3 me-3">
+                                    <i class="fas fa-burn text-primary fa-lg"></i>
+                                </div>
+                                <div>
+                                    <h5 class="h6 fw-bold mb-1 text-dark">Ferroli</h5>
+                                    <p class="small text-muted mb-0">Ремонт котлов Ферроли</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="col-md-6 col-lg-4">
+                    <a href="remont-kotlov-mora" class="text-decoration-none">
+                        <div class="card h-100 border-0 shadow-sm hover-lift transition">
+                            <div class="card-body p-3 d-flex align-items-center">
+                                <div class="bg-success bg-opacity-10 rounded-circle p-3 me-3">
+                                    <i class="fas fa-temperature-high text-success fa-lg"></i>
+                                </div>
+                                <div>
+                                    <h5 class="h6 fw-bold mb-1 text-dark">Mora</h5>
+                                    <p class="small text-muted mb-0">Ремонт котлов Мора</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="col-md-6 col-lg-4">
+                    <a href="remont-kotlov-viessmann" class="text-decoration-none">
+                        <div class="card h-100 border-0 shadow-sm hover-lift transition">
+                            <div class="card-body p-3 d-flex align-items-center">
+                                <div class="bg-danger bg-opacity-10 rounded-circle p-3 me-3">
+                                    <i class="fas fa-industry text-danger fa-lg"></i>
+                                </div>
+                                <div>
+                                    <h5 class="h6 fw-bold mb-1 text-dark">Viessmann</h5>
+                                    <p class="small text-muted mb-0">Ремонт котлов Висман</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="col-md-6 col-lg-4">
+                    <a href="remont-gazovykh-kotlov-thermona" class="text-decoration-none">
+                        <div class="card h-100 border-0 shadow-sm hover-lift transition">
+                            <div class="card-body p-3 d-flex align-items-center">
+                                <div class="bg-warning bg-opacity-10 rounded-circle p-3 me-3">
+                                    <i class="fas fa-gas-pump text-warning fa-lg"></i>
+                                </div>
+                                <div>
+                                    <h5 class="h6 fw-bold mb-1 text-dark">Thermona</h5>
+                                    <p class="small text-muted mb-0">Ремонт газовых котлов</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="col-md-6 col-lg-4">
+                    <a href="remont-gazovykh-kotlov-vaillant" class="text-decoration-none">
+                        <div class="card h-100 border-0 shadow-sm hover-lift transition">
+                            <div class="card-body p-3 d-flex align-items-center">
+                                <div class="bg-info bg-opacity-10 rounded-circle p-3 me-3">
+                                    <i class="fas fa-flame text-info fa-lg"></i>
+                                </div>
+                                <div>
+                                    <h5 class="h6 fw-bold mb-1 text-dark">Vaillant</h5>
+                                    <p class="small text-muted mb-0">Ремонт газовых котлов</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="col-md-6 col-lg-4">
+                    <a href="remont-elektricheskikh-kotlov-protherm" class="text-decoration-none">
+                        <div class="card h-100 border-0 shadow-sm hover-lift transition">
+                            <div class="card-body p-3 d-flex align-items-center">
+                                <div class="bg-primary bg-opacity-10 rounded-circle p-3 me-3">
+                                    <i class="fas fa-bolt text-primary fa-lg"></i>
+                                </div>
+                                <div>
+                                    <h5 class="h6 fw-bold mb-1 text-dark">Protherm Electric</h5>
+                                    <p class="small text-muted mb-0">Ремонт электрокотлов</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="col-md-6 col-lg-4">
+                    <a href="remont-elektricheskikh-kotlov-stout" class="text-decoration-none">
+                        <div class="card h-100 border-0 shadow-sm hover-lift transition">
+                            <div class="card-body p-3 d-flex align-items-center">
+                                <div class="bg-success bg-opacity-10 rounded-circle p-3 me-3">
+                                    <i class="fas fa-plug text-success fa-lg"></i>
+                                </div>
+                                <div>
+                                    <h5 class="h6 fw-bold mb-1 text-dark">Stout Electric</h5>
+                                    <p class="small text-muted mb-0">Ремонт электрокотлов</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="col-md-6 col-lg-4">
+                    <a href="remont-elektricheskikh-kotlov-vaillant" class="text-decoration-none">
+                        <div class="card h-100 border-0 shadow-sm hover-lift transition">
+                            <div class="card-body p-3 d-flex align-items-center">
+                                <div class="bg-danger bg-opacity-10 rounded-circle p-3 me-3">
+                                    <i class="fas fa-charging-station text-danger fa-lg"></i>
+                                </div>
+                                <div>
+                                    <h5 class="h6 fw-bold mb-1 text-dark">Vaillant Electric</h5>
+                                    <p class="small text-muted mb-0">Ремонт электрокотлов</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="col-md-6 col-lg-4">
+                    <a href="remont-napolnykh-gazovykh-kotlov-electrolux-fsb-p" class="text-decoration-none">
+                        <div class="card h-100 border-0 shadow-sm hover-lift transition">
+                            <div class="card-body p-3 d-flex align-items-center">
+                                <div class="bg-warning bg-opacity-10 rounded-circle p-3 me-3">
+                                    <i class="fas fa-layer-group text-warning fa-lg"></i>
+                                </div>
+                                <div>
+                                    <h5 class="h6 fw-bold mb-1 text-dark">Electrolux</h5>
+                                    <p class="small text-muted mb-0">Напольные котлы FSB-P</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="col-md-6 col-lg-4">
+                    <a href="remont-nastennykh-kotlov-ferroli" class="text-decoration-none">
+                        <div class="card h-100 border-0 shadow-sm hover-lift transition">
+                            <div class="card-body p-3 d-flex align-items-center">
+                                <div class="bg-info bg-opacity-10 rounded-circle p-3 me-3">
+                                    <i class="fas fa-th text-info fa-lg"></i>
+                                </div>
+                                <div>
+                                    <h5 class="h6 fw-bold mb-1 text-dark">Ferroli Wall</h5>
+                                    <p class="small text-muted mb-0">Настенные котлы</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <style>
+        .hover-lift {
+            transition: all 0.3s ease;
+        }
+        .hover-lift:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.15) !important;
+        }
+    </style>
+    
     <h2 class="fw-bold mb-4 text-primary"><i class="fas fa-broom me-2"></i>Профилактика и Обслуживание</h2>
     <div class="row g-4 mb-5 align-items-center border p-4 rounded shadow-lg bg-light">
         <div class="col-md-4 text-center">
