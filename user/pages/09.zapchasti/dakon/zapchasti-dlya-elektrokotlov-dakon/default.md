@@ -1,7 +1,27 @@
 ---
-title: 'Запчасти для электрокотлов Dakon'
+title: Запчасти для электрокотлов Dakon
+metadata:
+  description: Запчасти для электрокотлов Dakon Оригинальность деталей для безопасной
+    эксплуатации Электрические котлы Dakon — это комфортное и надежное оборудование
+    для...
+  og:type: article
+  og:title: Запчасти для электрокотлов Dakon - Service04
+  og:description: Запчасти для электрокотлов Dakon Оригинальность деталей для безопасной
+    эксплуатации Электрические котлы Dakon — это комфортное и надежное оборудование
+    для...
+  og:url: https://service04.ru/zapchasti/dakon/zapchasti-dlya-elektrokotlov-dakon
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/zapchasti/dakon/zapchasti-dlya-elektrokotlov-dakon/dakon.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/zapchasti/dakon/zapchasti-dlya-elektrokotlov-dakon
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container my-5">
     
     <header class="bg-primary text-white rounded-3 p-4 p-md-5 mb-5 shadow-lg text-center position-relative overflow-hidden">

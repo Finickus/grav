@@ -1,7 +1,23 @@
 ---
-title: 'Котлы EKCO.R2'
+title: Котлы EKCO.R2
+metadata:
+  description: Электрические котлы от Kospel для надежного отопления...
+  og:type: article
+  og:title: Котлы EKCO.R2 - Service04
+  og:description: Электрические котлы от Kospel для надежного отопления...
+  og:url: https://service04.ru/kody-oshibok/kospel/kotly-ekco-r2
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/kody-oshibok/kospel/kotly-ekco-r2/kotel-kospel10-c924c717.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/kody-oshibok/kospel/kotly-ekco-r2
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
     
     <style>

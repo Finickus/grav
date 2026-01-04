@@ -1,7 +1,25 @@
 ---
-title: 'Ошибки котлов Baxi Main-5 / Eco Compact'
+title: Ошибки котлов Baxi Main-5 / Eco Compact
+metadata:
+  description: Ошибки котлов Baxi Main-5 / Eco Compact Полный справочник по диагностике
+    и устранению неисправностей Внимание.
+  og:type: article
+  og:title: Ошибки котлов Baxi Main-5 / Eco Compact - Service04
+  og:description: Ошибки котлов Baxi Main-5 / Eco Compact Полный справочник по диагностике
+    и устранению неисправностей Внимание.
+  og:url: https://service04.ru/kody-oshibok/baxi/oshibki-kotlov-baxi-main-5-eco-compact
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/images/og-default.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/kody-oshibok/baxi/oshibki-kotlov-baxi-main-5-eco-compact
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="p-5 mb-5 text-white text-center rounded-3 shadow-sm" style="background-color: #009688;">
     <h1 class="display-5 fw-bold">
         <i class="fas fa-exclamation-triangle me-3"></i>Ошибки котлов Baxi Main-5 / Eco Compact

@@ -1,7 +1,25 @@
 ---
-title: 'THERM 14 TLN (2015) — Запчасти и характеристики'
+title: THERM 14 TLN (2015) — Запчасти и характеристики
+metadata:
+  description: THERM 14 TLN (2015) — Запчасти и характеристики Газовый котёл THERM
+    14 TLN — современное отопительное оборудование для эффективного обогрева жилых...
+  og:type: article
+  og:title: THERM 14 TLN (2015) — Запчасти и характеристики - Service04
+  og:description: THERM 14 TLN (2015) — Запчасти и характеристики Газовый котёл THERM
+    14 TLN — современное отопительное оборудование для эффективного обогрева жилых...
+  og:url: https://service04.ru/zapchasti/opisanie-kotla-therm-14-tln-2015g-vypuska
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/zapchasti/opisanie-kotla-therm-14-tln-2015g-vypuska/2572_14-LN-.png
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/zapchasti/opisanie-kotla-therm-14-tln-2015g-vypuska
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
     
     <h1 class="text-center mb-5 fw-bold">THERM 14 TLN (2015) — Запчасти и характеристики</h1>

@@ -1,10 +1,26 @@
 ---
 title: Контакты
 process:
-    twig: true
-    markdown: false
+  twig: true
+  markdown: false
+metadata:
+  description: Свяжитесь с нами удобным для вас способом...
+  og:type: website
+  og:title: Контакты - Service04
+  og:description: Свяжитесь с нами удобным для вас способом...
+  og:url: https://service04.ru/contact-us
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/images/og-default.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/contact-us
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <style>
     /* Небольшие стили для выравнивания иконок внутри кнопок */
     .btn-social {

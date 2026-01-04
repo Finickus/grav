@@ -1,7 +1,27 @@
 ---
-title: 'Ошибки настенных котлов Мора'
+title: Ошибки настенных котлов Мора
+metadata:
+  description: Ошибки настенных котлов Мора Справочник по диагностике и устранению
+    неисправностей линейки MORA Top Быстрая навигация E0 E1 E2 E3 E4 E5 Без дисплея
+    ТО...
+  og:type: article
+  og:title: Ошибки настенных котлов Мора - Service04
+  og:description: Ошибки настенных котлов Мора Справочник по диагностике и устранению
+    неисправностей линейки MORA Top Быстрая навигация E0 E1 E2 E3 E4 E5 Без дисплея
+    ТО...
+  og:url: https://service04.ru/kody-oshibok/mora/oshibki-nastennykh-kotlov-mora
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/kody-oshibok/mora/oshibki-nastennykh-kotlov-mora/1.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/kody-oshibok/mora/oshibki-nastennykh-kotlov-mora
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
     <div class="text-center mb-5">
         <h1 class="fw-bold h2 text-dark">

@@ -1,7 +1,27 @@
 ---
-title: 'Запчасти для котлов Protherm TLO'
+title: Запчасти для котлов Protherm TLO
+metadata:
+  description: Запчасти для котлов Protherm Оригинальные комплектующие для котлов
+    Protherm TLO и серии «Медведь» Здесь представлены самые востребованные запасные
+    части...
+  og:type: article
+  og:title: Запчасти для котлов Protherm TLO - Service04
+  og:description: Запчасти для котлов Protherm Оригинальные комплектующие для котлов
+    Protherm TLO и серии «Медведь» Здесь представлены самые востребованные запасные
+    части...
+  og:url: https://service04.ru/zapchasti/protherm/zapchasti-dlya-kotlov-protherm-tlo
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/zapchasti/protherm/zapchasti-dlya-kotlov-protherm-tlo/Screenshot_311(1).jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/zapchasti/protherm/zapchasti-dlya-kotlov-protherm-tlo
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
     <header class="p-5 mb-4 rounded-3 shadow-lg bg-primary text-white text-center">
         <h1 class="display-4 fw-bold"><i class="fas fa-fire me-3"></i>Запчасти для котлов Protherm</h1>

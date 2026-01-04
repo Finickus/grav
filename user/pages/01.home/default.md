@@ -1,11 +1,29 @@
 ---
 title: Главная
-body_classes: 'title-center title-h1h2'
+body_classes: title-center title-h1h2
 process:
-    twig: true
-    markdown: false
+  twig: true
+  markdown: false
+metadata:
+  description: Профессиональные услуги по ремонту котельного оборудования Наш сервисный
+    центр предлагает профессиональные услуги по ремонту котельного оборудования.
+  og:type: website
+  og:title: Главная - Service04
+  og:description: Профессиональные услуги по ремонту котельного оборудования Наш сервисный
+    центр предлагает профессиональные услуги по ремонту котельного оборудования.
+  og:url: https://service04.ru/
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/home/Service04_3.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <style>
     /* Небольшие стили для красоты, которых нет в базовом Bootstrap */
     .service-icon {

@@ -1,10 +1,28 @@
 ---
 title: Услуги
 process:
-    twig: true
-    markdown: false
+  twig: true
+  markdown: false
+metadata:
+  description: Обратившись в наш сервисный центр, вы получите профессиональную помощь
+    в ремонте и обслуживании отопительного оборудования, а также все необходимые...
+  og:type: website
+  og:title: Услуги - Service04
+  og:description: Обратившись в наш сервисный центр, вы получите профессиональную
+    помощь в ремонте и обслуживании отопительного оборудования, а также все необходимые...
+  og:url: https://service04.ru/uslugi
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/images/og-default.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <style>
     /* Этот стиль нужен, чтобы синие квадраты с иконками были ровными */
     .feature {

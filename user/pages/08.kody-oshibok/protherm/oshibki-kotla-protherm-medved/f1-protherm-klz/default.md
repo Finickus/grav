@@ -1,7 +1,25 @@
 ---
-title: 'F1 Protherm KLZ'
+title: F1 Protherm KLZ
+metadata:
+  description: 'Ошибка F1 на Protherm KLZ Полное руководство по диагностике и устранению
+    Код F1 означает потерю пламени: при открытом газовом клапане плата не получает...'
+  og:type: article
+  og:title: F1 Protherm KLZ - Service04
+  og:description: 'Ошибка F1 на Protherm KLZ Полное руководство по диагностике и устранению
+    Код F1 означает потерю пламени: при открытом газовом клапане плата не получает...'
+  og:url: https://service04.ru/kody-oshibok/protherm/oshibki-kotla-protherm-medved/f1-protherm-klz
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/kody-oshibok/protherm/oshibki-kotla-protherm-medved/f1-protherm-klz/Screenshot_179.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/kody-oshibok/protherm/oshibki-kotla-protherm-medved/f1-protherm-klz
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
 
     <div class="p-5 mb-5 text-white text-center rounded-3 shadow-sm bg-danger">

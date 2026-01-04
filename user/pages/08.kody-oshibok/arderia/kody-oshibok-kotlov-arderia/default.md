@@ -1,7 +1,25 @@
 ---
-title: 'Коды ошибок котлов Arderia'
+title: Коды ошибок котлов Arderia
+metadata:
+  description: Коды ошибок котлов Arderia Руководство по диагностике и устранению
+    неисправностей котлов Ардерия Коды ошибок A1 - AA (Критические) Код Описание Возможные...
+  og:type: article
+  og:title: Коды ошибок котлов Arderia - Service04
+  og:description: Коды ошибок котлов Arderia Руководство по диагностике и устранению
+    неисправностей котлов Ардерия Коды ошибок A1 - AA (Критические) Код Описание Возможные...
+  og:url: https://service04.ru/kody-oshibok/arderia/kody-oshibok-kotlov-arderia
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/images/og-default.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/kody-oshibok/arderia/kody-oshibok-kotlov-arderia
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
 
     <div class="p-5 mb-5 text-white text-center rounded-3 shadow-sm" style="background-color: #009688;">

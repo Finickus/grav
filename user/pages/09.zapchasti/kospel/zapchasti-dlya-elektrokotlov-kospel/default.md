@@ -1,7 +1,27 @@
 ---
-title: 'Запчасти для электрокотлов Kospel'
+title: Запчасти для электрокотлов Kospel
+metadata:
+  description: Запчасти для электрокотлов Kospel Оптимальная стоимость оригинальных
+    деталей Оригинальные детали от польского производителя Электрические котлы «Kospel»
+    –...
+  og:type: article
+  og:title: Запчасти для электрокотлов Kospel - Service04
+  og:description: Запчасти для электрокотлов Kospel Оптимальная стоимость оригинальных
+    деталей Оригинальные детали от польского производителя Электрические котлы «Kospel»
+    –...
+  og:url: https://service04.ru/zapchasti/kospel/zapchasti-dlya-elektrokotlov-kospel
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/zapchasti/kospel/zapchasti-dlya-elektrokotlov-kospel/EKCO_service04.ru_.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/zapchasti/kospel/zapchasti-dlya-elektrokotlov-kospel
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container my-5">
     <header class="bg-primary text-white rounded-3 p-4 p-md-5 mb-5 shadow-lg text-center">
         <h1 class="display-5 fw-bold mb-3"><i class="fas fa-bolt me-3"></i>Запчасти для электрокотлов Kospel</h1>

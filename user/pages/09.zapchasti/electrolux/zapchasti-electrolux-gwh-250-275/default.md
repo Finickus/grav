@@ -1,7 +1,27 @@
 ---
-title: 'Запчасти Electrolux GWH 250-275'
+title: Запчасти Electrolux GWH 250-275
+metadata:
+  description: Запчасти Electrolux GWH 275 Если у вас установлена газовая колонка
+    Electrolux GWH 275 и вам требуется качественная и надежная запчасть, вы попали
+    по...
+  og:type: article
+  og:title: Запчасти Electrolux GWH 250-275 - Service04
+  og:description: Запчасти Electrolux GWH 275 Если у вас установлена газовая колонка
+    Electrolux GWH 275 и вам требуется качественная и надежная запчасть, вы попали
+    по...
+  og:url: https://service04.ru/zapchasti/electrolux/zapchasti-electrolux-gwh-250-275
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/zapchasti/electrolux/zapchasti-electrolux-gwh-250-275/Screenshot_56(1).jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/zapchasti/electrolux/zapchasti-electrolux-gwh-250-275
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
         <div class="row g-4 mb-5 align-items-center bg-primary p-4 rounded-3 shadow-lg text-white">
         <div class="col-12 col-lg-6 py-3">

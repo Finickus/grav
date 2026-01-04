@@ -1,7 +1,25 @@
 ---
-title: 'Коды сбоев, неисправностей и ошибок котлов Vaillant Вайлант'
+title: Коды сбоев, неисправностей и ошибок котлов Vaillant Вайлант
+metadata:
+  description: Коды сбоев, неисправностей и ошибок котлов Vaillant Диагностика и устранение
+    ошибок котлов Вайлант Котлы Vaillant (Вайлант) оснащены системой...
+  og:type: article
+  og:title: Коды сбоев, неисправностей и ошибок котлов Vaillant Вайлант - Service04
+  og:description: Коды сбоев, неисправностей и ошибок котлов Vaillant Диагностика
+    и устранение ошибок котлов Вайлант Котлы Vaillant (Вайлант) оснащены системой...
+  og:url: https://service04.ru/kody-oshibok/vaillant/kody-oshibok-kotlov-vaillant-vailant
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/images/og-default.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/kody-oshibok/vaillant/kody-oshibok-kotlov-vaillant-vailant
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
 
     <div class="p-5 mb-5 text-white text-center rounded-3 shadow-sm" style="background-color: #009688;">

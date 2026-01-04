@@ -1,7 +1,23 @@
 ---
 title: Kospel
+metadata:
+  description: Оптимальная стоимость оригинальных деталей...
+  og:type: article
+  og:title: Kospel - Service04
+  og:description: Оптимальная стоимость оригинальных деталей...
+  og:url: https://service04.ru/zapchasti/kospel
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/zapchasti/kospel/EKCO_service04.ru_.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/zapchasti/kospel
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
     
     <style>

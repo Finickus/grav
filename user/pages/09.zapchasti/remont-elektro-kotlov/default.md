@@ -1,7 +1,25 @@
 ---
-title: 'Ремонт электро котлов'
+title: Ремонт электро котлов
+metadata:
+  description: Ремонт электрических котлов Профессиональное восстановление отопительного
+    оборудования всех марок Мы предлагаем качественный ремонт электрических котлов...
+  og:type: article
+  og:title: Ремонт электро котлов - Service04
+  og:description: Ремонт электрических котлов Профессиональное восстановление отопительного
+    оборудования всех марок Мы предлагаем качественный ремонт электрических котлов...
+  og:url: https://service04.ru/zapchasti/remont-elektro-kotlov
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/zapchasti/remont-elektro-kotlov/remont1.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/zapchasti/remont-elektro-kotlov
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="main-wrapper py-5">
     <div class="container">
         

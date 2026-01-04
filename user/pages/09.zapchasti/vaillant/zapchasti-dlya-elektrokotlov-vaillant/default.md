@@ -1,7 +1,25 @@
 ---
-title: 'Запчасти для электрокотлов Vaillant'
+title: Запчасти для электрокотлов Vaillant
+metadata:
+  description: Запчасти для электрокотлов Vaillant Оригинальные детали и комплектующие
+    для надежной работы Электрические котлы Vaillant – экономичная и безопасная...
+  og:type: article
+  og:title: Запчасти для электрокотлов Vaillant - Service04
+  og:description: Запчасти для электрокотлов Vaillant Оригинальные детали и комплектующие
+    для надежной работы Электрические котлы Vaillant – экономичная и безопасная...
+  og:url: https://service04.ru/zapchasti/vaillant/zapchasti-dlya-elektrokotlov-vaillant
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/zapchasti/vaillant/zapchasti-dlya-elektrokotlov-vaillant/vaillant-2f66573f.png
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/zapchasti/vaillant/zapchasti-dlya-elektrokotlov-vaillant
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container my-5">
     
     <header class="bg-primary text-white rounded-3 p-4 p-md-5 mb-5 shadow-lg">

@@ -1,7 +1,25 @@
 ---
-title: 'Коды ошибок котлов Mizudo'
+title: Коды ошибок котлов Mizudo
+metadata:
+  description: Коды ошибок котлов Mizudo Полный справочник по диагностике и устранению
+    неисправностей Как пользоваться таблицей Таблица содержит все основные ошибки...
+  og:type: article
+  og:title: Коды ошибок котлов Mizudo - Service04
+  og:description: Коды ошибок котлов Mizudo Полный справочник по диагностике и устранению
+    неисправностей Как пользоваться таблицей Таблица содержит все основные ошибки...
+  og:url: https://service04.ru/kody-oshibok/mizudo/kody-oshibok-kotlov-mizudo
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/images/og-default.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/kody-oshibok/mizudo/kody-oshibok-kotlov-mizudo
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
 
     <header class="card has-shadow mb-5">

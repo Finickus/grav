@@ -1,7 +1,27 @@
 ---
-title: 'Ошибки  котла Protherm Медведь'
+title: Ошибки  котла Protherm Медведь
+metadata:
+  description: Ошибки котла Protherm Медведь F1 — потеря пламени F2 — датчик котла
+    F3 — перегрев F4 — датчик бойлера F5 — наружный датчик Ниже приведены коды ошибок,
+    их...
+  og:type: article
+  og:title: Ошибки  котла Protherm Медведь - Service04
+  og:description: Ошибки котла Protherm Медведь F1 — потеря пламени F2 — датчик котла
+    F3 — перегрев F4 — датчик бойлера F5 — наружный датчик Ниже приведены коды ошибок,
+    их...
+  og:url: https://service04.ru/kody-oshibok/protherm/oshibki-kotla-protherm-medved
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/kody-oshibok/protherm/oshibki-kotla-protherm-medved/2019-03-18_224547.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/kody-oshibok/protherm/oshibki-kotla-protherm-medved
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
     
     <nav class="mb-5">

@@ -1,0 +1,42 @@
+Отчет о добавлении SEO мета-тегов
+Дата: 2026-01-04 15:55:13
+======================================================================
+
+Обработано файлов: 341
+Изменено файлов: 8
+Добавлено мета-тегов: 8
+Сгенерировано описаний: 8
+
+
+Измененные файлы:
+----------------------------------------------------------------------
+01.home\default.md
+02.uslugi\default.md
+02.uslugi\02.remont-kotlov\remont-elektricheskikh-kotlov-protherm\default.md
+02.uslugi\02.remont-kotlov\remont-kotlov-ferroli\default.md
+02.uslugi\03.remont-kolonok\remont-gazovykh-kolonok-ariston\default.md
+04.contact-us\default.md
+08.kody-oshibok\kospel\kotly-ekco-r2\default.md
+09.zapchasti\kospel\default.md
+
+
+Примеры добавленных мета-тегов:
+----------------------------------------------------------------------
+
+metadata:
+    description: 'Автоматически сгенерированное описание...'
+    og:type: 'website'
+    og:title: 'Название страницы - Service04'
+    og:description: 'Описание для соцсетей'
+    og:url: 'https://service04.ru/path'
+    og:site_name: 'Service04'
+    og:locale: 'ru_RU'
+    og:image: 'https://service04.ru/image.jpg'
+    og:image:width: '1200'
+    og:image:height: '630'
+    canonical: 'https://service04.ru/path'
+    robots: 'index, follow'
+    yandex-verification: ''
+    geo.region: 'RU-MOW'
+    geo.placename: 'Москва'
+    author: 'Service04'

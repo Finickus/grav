@@ -1,7 +1,26 @@
 ---
-title: 'Ошибки напольных котлов MORA'
+title: Ошибки напольных котлов MORA
+metadata:
+  description: Ошибки напольных котлов MORA SA, SA G, E – Мощность 20–60 кВт В данной
+    статье рассмотрены типичные неисправности напольных газовых котлов MORA и способы...
+  og:type: article
+  og:title: Ошибки напольных котлов MORA - Service04
+  og:description: Ошибки напольных котлов MORA SA, SA G, E – Мощность 20–60 кВт В
+    данной статье рассмотрены типичные неисправности напольных газовых котлов MORA
+    и способы...
+  og:url: https://service04.ru/kody-oshibok/mora/oshibki-napolnykh-kotlov-mora
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/kody-oshibok/mora/oshibki-napolnykh-kotlov-mora/1.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/kody-oshibok/mora/oshibki-napolnykh-kotlov-mora
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
 
     <div class="text-center mb-5">

@@ -1,7 +1,26 @@
 ---
-title: 'Коды ошибок котла Mora'
+title: Коды ошибок котла Mora
+metadata:
+  description: Коды ошибок котлов Mora Диагностика и устранение неисправностей Котлы
+    Mora – это надежные устройства, но могут время от времени сталкиваться с ошибками,...
+  og:type: article
+  og:title: Коды ошибок котла Mora - Service04
+  og:description: Коды ошибок котлов Mora Диагностика и устранение неисправностей
+    Котлы Mora – это надежные устройства, но могут время от времени сталкиваться с
+    ошибками,...
+  og:url: https://service04.ru/kody-oshibok/mora/kody-oshibok-kotla-mora
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/kody-oshibok/mora/Screenshot_136  (1).jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/kody-oshibok/mora/kody-oshibok-kotla-mora
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
 
     <div class="p-5 mb-5 text-white text-center rounded-3 shadow-sm" style="background-color: #009688;">

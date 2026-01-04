@@ -1,7 +1,26 @@
 ---
-title: 'Коды ошибок котлов Bosch Gaz 6000'
+title: Коды ошибок котлов Bosch Gaz 6000
+metadata:
+  description: Неисправности и коды ошибок котлов Bosch Gaz 6000 Руководство по диагностике
+    и устранению ошибок Всегда отключайте питание и газ перед началом работ.
+  og:type: article
+  og:title: Коды ошибок котлов Bosch Gaz 6000 - Service04
+  og:description: Неисправности и коды ошибок котлов Bosch Gaz 6000 Руководство по
+    диагностике и устранению ошибок Всегда отключайте питание и газ перед началом
+    работ.
+  og:url: https://service04.ru/kody-oshibok/bosch/kody-oshibok-kotlov-bosch-gaz-6000
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/images/og-default.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/kody-oshibok/bosch/kody-oshibok-kotlov-bosch-gaz-6000
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
 
     <div class="p-5 mb-5 text-white text-center rounded-3 shadow-sm" style="background-color: #009688;">

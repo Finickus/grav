@@ -1,7 +1,25 @@
 ---
-title: 'Коды ошибок Haier'
+title: Коды ошибок Haier
+metadata:
+  description: 'Коды ошибок газовых котлов Haier Полный гид по диагностике и устранению
+    неисправностей Основные коды неисправностей Ошибка Е1: Отсутствует розжиг котла...'
+  og:type: article
+  og:title: Коды ошибок Haier - Service04
+  og:description: 'Коды ошибок газовых котлов Haier Полный гид по диагностике и устранению
+    неисправностей Основные коды неисправностей Ошибка Е1: Отсутствует розжиг котла...'
+  og:url: https://service04.ru/kody-oshibok/haier/kody-oshibok-haier
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/images/og-default.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/kody-oshibok/haier/kody-oshibok-haier
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
 
     <div class="p-5 mb-5 text-white text-center rounded-3 shadow-sm" style="background-color: #009688;">

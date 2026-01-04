@@ -1,7 +1,25 @@
 ---
 title: Dakon
+metadata:
+  description: Запчасти для всех моделей газовых котлов Dakon Отопительные котлы Dakon
+    – это надежное оборудование, которое при должном уходе служит десятилетиями.
+  og:type: article
+  og:title: Dakon - Service04
+  og:description: Запчасти для всех моделей газовых котлов Dakon Отопительные котлы
+    Dakon – это надежное оборудование, которое при должном уходе служит десятилетиями.
+  og:url: https://service04.ru/zapchasti/dakon
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/zapchasti/dakon/dakon_png-4017b8d7.png
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/zapchasti/dakon
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container my-5">
     
     <div class="card border-0 bg-light shadow-sm mb-5 p-4 overflow-hidden">

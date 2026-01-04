@@ -1,7 +1,25 @@
 ---
-title: 'Запчасти для электрокотлов Protherm'
+title: Запчасти для электрокотлов Protherm
+metadata:
+  description: Запчасти для электрокотлов Protherm Экономичность и качество в каждой
+    детали Электрические котлы Скат Protherm Линейка электрокотлов Protherm Skat...
+  og:type: article
+  og:title: Запчасти для электрокотлов Protherm - Service04
+  og:description: Запчасти для электрокотлов Protherm Экономичность и качество в каждой
+    детали Электрические котлы Скат Protherm Линейка электрокотлов Protherm Skat...
+  og:url: https://service04.ru/zapchasti/protherm/zapchasti-dlya-elektrokotlov-protherm
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/zapchasti/protherm/zapchasti-dlya-elektrokotlov-protherm/skat-proterm-8f33da8d.png
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/zapchasti/protherm/zapchasti-dlya-elektrokotlov-protherm
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <section class="py-5 bg-light">
     <div class="container">
         <div class="text-center mb-5">

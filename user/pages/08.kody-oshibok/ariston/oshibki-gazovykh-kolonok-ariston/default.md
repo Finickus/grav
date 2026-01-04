@@ -1,7 +1,27 @@
 ---
-title: 'Ошибки газовых колонок Ariston'
+title: Ошибки газовых колонок Ariston
+metadata:
+  description: 'Ошибки газовых колонок Ariston Полное руководство по диагностике и
+    устранению неисправностей Коды ошибок газовых колонок Ariston Модели: FAST EVO
+    ONT B(С)...'
+  og:type: article
+  og:title: Ошибки газовых колонок Ariston - Service04
+  og:description: 'Ошибки газовых колонок Ariston Полное руководство по диагностике
+    и устранению неисправностей Коды ошибок газовых колонок Ariston Модели: FAST EVO
+    ONT B(С)...'
+  og:url: https://service04.ru/kody-oshibok/ariston/oshibki-gazovykh-kolonok-ariston
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/kody-oshibok/ariston/oshibki-gazovykh-kolonok-ariston/2018-07-11_225151-ade6591e.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/kody-oshibok/ariston/oshibki-gazovykh-kolonok-ariston
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
 
     <div class="p-5 mb-5 text-white text-center rounded-3 shadow-sm" style="background-color: #009688;">

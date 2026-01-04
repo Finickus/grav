@@ -1,7 +1,25 @@
 ---
-title: 'Коды ошибок котлов Kiturami'
+title: Коды ошибок котлов Kiturami
+metadata:
+  description: Коды ошибок и неисправностей котлов Kiturami Диагностика и устранение
+    Котлы Kiturami (Китурами) — надежные и функциональные устройства, но могут выдавать...
+  og:type: article
+  og:title: Коды ошибок котлов Kiturami - Service04
+  og:description: Коды ошибок и неисправностей котлов Kiturami Диагностика и устранение
+    Котлы Kiturami (Китурами) — надежные и функциональные устройства, но могут выдавать...
+  og:url: https://service04.ru/kody-oshibok/kiturami/kody-oshibok-kotlov-kiturami
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/images/og-default.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/kody-oshibok/kiturami/kody-oshibok-kotlov-kiturami
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
 
     <div class="p-5 mb-5 text-white text-center rounded-3 shadow-sm" style="background-color: #009688;">

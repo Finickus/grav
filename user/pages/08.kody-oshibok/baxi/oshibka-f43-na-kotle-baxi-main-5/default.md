@@ -1,7 +1,25 @@
 ---
-title: 'Ошибка F43 на котле Baxi Main 5'
+title: Ошибка F43 на котле Baxi Main 5
+metadata:
+  description: Ошибка F43 на котле Baxi Main 5 Диагностика и устранение неправильной
+    настройки параметра F43 Газовые котлы Baxi Main 5 оснащены системой самодиагностики.
+  og:type: article
+  og:title: Ошибка F43 на котле Baxi Main 5 - Service04
+  og:description: Ошибка F43 на котле Baxi Main 5 Диагностика и устранение неправильной
+    настройки параметра F43 Газовые котлы Baxi Main 5 оснащены системой самодиагностики.
+  og:url: https://service04.ru/kody-oshibok/baxi/oshibka-f43-na-kotle-baxi-main-5
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/images/og-default.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/kody-oshibok/baxi/oshibka-f43-na-kotle-baxi-main-5
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
 
     <div class="p-5 mb-5 text-white text-center rounded-3 shadow-sm" style="background-color: #009688;">

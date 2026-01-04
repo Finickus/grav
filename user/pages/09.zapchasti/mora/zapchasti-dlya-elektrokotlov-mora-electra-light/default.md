@@ -1,7 +1,25 @@
 ---
-title: 'Запчасти для Электрокотлов Mora Electra Light'
+title: Запчасти для Электрокотлов Mora Electra Light
+metadata:
+  description: Запчасти для электро котла Mora Electra Light Оригинальные комплектующие
+    для надежной работы вашего электрокотла Запчасти для электрокотла Mora Electra...
+  og:type: article
+  og:title: Запчасти для Электрокотлов Mora Electra Light - Service04
+  og:description: Запчасти для электро котла Mora Electra Light Оригинальные комплектующие
+    для надежной работы вашего электрокотла Запчасти для электрокотла Mora Electra...
+  og:url: https://service04.ru/zapchasti/mora/zapchasti-dlya-elektrokotlov-mora-electra-light
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/zapchasti/mora/zapchasti-dlya-elektrokotlov-mora-electra-light/2018-03-06_000516.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/zapchasti/mora/zapchasti-dlya-elektrokotlov-mora-electra-light
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
      <div class="p-5 mb-5 rounded-3 shadow-sm bg-primary text-white">
         <div class="container text-center">

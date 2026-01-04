@@ -1,7 +1,25 @@
 ---
-title: 'Запчасти для колонок Mora (Мора Чехия)'
+title: Запчасти для колонок Mora (Мора Чехия)
+metadata:
+  description: Запчасти для колонок Mora (Мора Чехия) Качественные запчасти для колонок
+    Mora — залог бесперебойной работы вашего оборудования.
+  og:type: article
+  og:title: Запчасти для колонок Mora (Мора Чехия) - Service04
+  og:description: Запчасти для колонок Mora (Мора Чехия) Качественные запчасти для
+    колонок Mora — залог бесперебойной работы вашего оборудования.
+  og:url: https://service04.ru/zapchasti/mora/zapchasti-dlya-kolonok-mora-mora-chekhiya
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/zapchasti/mora/zapchasti-dlya-kolonok-mora-mora-chekhiya/mora.png
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/zapchasti/mora/zapchasti-dlya-kolonok-mora-mora-chekhiya
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="row align-items-center mb-5">
         <div class="col-lg-8">
             <h1 class="display-5 fw-bold text-warning mb-4" style="border-left: 5px solid #ffc107; padding-left: 15px;">

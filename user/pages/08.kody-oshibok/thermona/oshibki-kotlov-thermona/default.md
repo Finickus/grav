@@ -1,7 +1,27 @@
 ---
-title: 'Ошибки котлов Thermona'
+title: Ошибки котлов Thermona
+metadata:
+  description: 'Коды ошибок котлов Thermona Быстрая навигация по кодам ошибок: Код
+    ошибки Е01 — Ошибка розжига Код ошибки Е02 — Ошибка давления Код ошибки Е04 —
+    Ошибка...'
+  og:type: article
+  og:title: Ошибки котлов Thermona - Service04
+  og:description: 'Коды ошибок котлов Thermona Быстрая навигация по кодам ошибок:
+    Код ошибки Е01 — Ошибка розжига Код ошибки Е02 — Ошибка давления Код ошибки Е04
+    — Ошибка...'
+  og:url: https://service04.ru/kody-oshibok/thermona/oshibki-kotlov-thermona
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/kody-oshibok/thermona/oshibki-kotlov-thermona/thermona.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/kody-oshibok/thermona/oshibki-kotlov-thermona
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
     <div class="row g-4 mb-5 align-items-center">
         <div class="col-md-6">

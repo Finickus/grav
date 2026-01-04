@@ -1,7 +1,25 @@
 ---
-title: 'Запчасти для котлов Mora'
+title: Запчасти для котлов Mora
+metadata:
+  description: MORA TOP Котлы Mora являются одними из самых популярных и надежных
+    на рынке благодаря своей высокой эффективности и качеству.
+  og:type: article
+  og:title: Запчасти для котлов Mora - Service04
+  og:description: MORA TOP Котлы Mora являются одними из самых популярных и надежных
+    на рынке благодаря своей высокой эффективности и качеству.
+  og:url: https://service04.ru/zapchasti/mora/zapchasti-dlya-kotlov-mora
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/zapchasti/mora/zapchasti-dlya-kotlov-mora/zapchasti111.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/zapchasti/mora/zapchasti-dlya-kotlov-mora
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
     
     <div class="p-5 mb-5 rounded-3 shadow-lg bg-primary text-white text-center">

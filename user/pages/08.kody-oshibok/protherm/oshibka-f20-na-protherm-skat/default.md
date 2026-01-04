@@ -1,7 +1,25 @@
 ---
-title: 'Ошибка F20 на Protherm Skat'
+title: Ошибка F20 на Protherm Skat
+metadata:
+  description: Ошибка F20 на Protherm Skat Полное руководство для мастеров по устранению
+    перегрева Код F20 сигнализирует о срабатывании аварийного термостата из-за...
+  og:type: article
+  og:title: Ошибка F20 на Protherm Skat - Service04
+  og:description: Ошибка F20 на Protherm Skat Полное руководство для мастеров по устранению
+    перегрева Код F20 сигнализирует о срабатывании аварийного термостата из-за...
+  og:url: https://service04.ru/kody-oshibok/protherm/oshibka-f20-na-protherm-skat
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/kody-oshibok/protherm/oshibka-f20-na-protherm-skat/Screenshot_183(1).jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/kody-oshibok/protherm/oshibka-f20-na-protherm-skat
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container my-5">
     <div class="p-5 mb-4 bg-danger text-white text-center rounded-3 shadow">
         <h1 class="display-5 fw-bold"><i class="fas fa-exclamation-triangle me-3"></i>Ошибка F20 на Protherm Skat</h1>

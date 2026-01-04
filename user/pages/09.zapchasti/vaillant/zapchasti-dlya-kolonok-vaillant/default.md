@@ -1,7 +1,25 @@
 ---
-title: 'Запчасти для колонок Vaillant'
+title: Запчасти для колонок Vaillant
+metadata:
+  description: Запчасти для колонок Vaillant Оригинальные комплектующие для надежной
+    работы вашего оборудования Использование оригинальных запчастей для колонок Vaillant...
+  og:type: article
+  og:title: Запчасти для колонок Vaillant - Service04
+  og:description: Запчасти для колонок Vaillant Оригинальные комплектующие для надежной
+    работы вашего оборудования Использование оригинальных запчастей для колонок Vaillant...
+  og:url: https://service04.ru/zapchasti/vaillant/zapchasti-dlya-kolonok-vaillant
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/zapchasti/vaillant/zapchasti-dlya-kolonok-vaillant/vaillant.png
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/zapchasti/vaillant/zapchasti-dlya-kolonok-vaillant
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
     
     <div class="p-4 p-md-5 mb-4 rounded-3 shadow-lg bg-primary text-white text-center">

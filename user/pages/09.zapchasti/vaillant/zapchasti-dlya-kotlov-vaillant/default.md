@@ -1,7 +1,25 @@
 ---
-title: 'Запчасти для котлов Vaillant'
+title: Запчасти для котлов Vaillant
+metadata:
+  description: Запчасти для котлов Vaillant (Вайлант) Наша компания осуществляет продажу
+    деталей, узлов и запасных частей для котлов Vaillant (Вайлант).
+  og:type: article
+  og:title: Запчасти для котлов Vaillant - Service04
+  og:description: Запчасти для котлов Vaillant (Вайлант) Наша компания осуществляет
+    продажу деталей, узлов и запасных частей для котлов Vaillant (Вайлант).
+  og:url: https://service04.ru/zapchasti/vaillant/zapchasti-dlya-kotlov-vaillant
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/zapchasti/vaillant/zapchasti-dlya-kotlov-vaillant/Vaillant-zapchasti_service04.ru_.png
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/zapchasti/vaillant/zapchasti-dlya-kotlov-vaillant
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
     <div class="text-center mb-5">
         <h1 class="fw-bold h2 text-dark">

@@ -1,7 +1,25 @@
 ---
-title: 'Коды ошибок котла Koreastar'
+title: Коды ошибок котла Koreastar
+metadata:
+  description: Коды ошибок газового котла Koreastar Диагностика и устранение неисправностей
+    На этой странице представлены основные коды ошибок, которые могут...
+  og:type: article
+  og:title: Коды ошибок котла Koreastar - Service04
+  og:description: Коды ошибок газового котла Koreastar Диагностика и устранение неисправностей
+    На этой странице представлены основные коды ошибок, которые могут...
+  og:url: https://service04.ru/kody-oshibok/koreastar/kody-oshibok-kotla-koreastar
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/images/og-default.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/kody-oshibok/koreastar/kody-oshibok-kotla-koreastar
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
 
     <div class="p-5 mb-5 text-white text-center rounded-3 shadow-sm" style="background-color: #009688;">

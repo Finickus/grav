@@ -1,7 +1,25 @@
 ---
-title: 'Ошибки котлов Sime'
+title: Ошибки котлов Sime
+metadata:
+  description: Ошибки котлов Sime Диагностика и устранение неисправностей Котлы Sime
+    оснащены системой самодиагностики, которая при возникновении неисправности...
+  og:type: article
+  og:title: Ошибки котлов Sime - Service04
+  og:description: Ошибки котлов Sime Диагностика и устранение неисправностей Котлы
+    Sime оснащены системой самодиагностики, которая при возникновении неисправности...
+  og:url: https://service04.ru/kody-oshibok/sime/oshibki-kotlov-sime
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/images/og-default.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/kody-oshibok/sime/oshibki-kotlov-sime
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
 
     <div class="p-5 mb-5 text-white text-center rounded-3 shadow-sm" style="background-color: #009688;">

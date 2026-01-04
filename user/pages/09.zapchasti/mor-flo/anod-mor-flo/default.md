@@ -1,7 +1,25 @@
 ---
-title: 'Анод Mor Flo'
+title: Анод Mor Flo
+metadata:
+  description: Магниевый анод Mor-Flo Для American Water Heater, Mor-Flo G61, G62
+    Длина 1000 мм КУПИТЬ Купить на Яндекс Маркете Описание и совместимость Анод магниевый...
+  og:type: article
+  og:title: Анод Mor Flo - Service04
+  og:description: Магниевый анод Mor-Flo Для American Water Heater, Mor-Flo G61, G62
+    Длина 1000 мм КУПИТЬ Купить на Яндекс Маркете Описание и совместимость Анод магниевый...
+  og:url: https://service04.ru/zapchasti/mor-flo/anod-mor-flo
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/zapchasti/mor-flo/anod-mor-flo/morflo_499.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/zapchasti/mor-flo/anod-mor-flo
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
     <div class="p-5 mb-5 rounded-3 shadow-lg bg-custom-dark text-white text-center">
         <h1 class="display-4 fw-bold"><i class="fas fa-water me-3"></i>Магниевый анод Mor-Flo</h1>

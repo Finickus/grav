@@ -1,7 +1,25 @@
 ---
-title: 'Замена секций чугунного котла'
+title: Замена секций чугунного котла
+metadata:
+  description: Добро пожаловать на страницу нашей компании, специализирующейся в ремонте
+    и замене секций чугунных котлов.
+  og:type: article
+  og:title: Замена секций чугунного котла - Service04
+  og:description: Добро пожаловать на страницу нашей компании, специализирующейся
+    в ремонте и замене секций чугунных котлов.
+  og:url: https://service04.ru/blog/zamena-sekcii-chugunnogo-kotla
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/blog/zamena-sekcii-chugunnogo-kotla/sekcii.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/blog/zamena-sekcii-chugunnogo-kotla
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
         <div class="row mb-4">
         <div class="col-12 border bg-light py-4 rounded shadow-sm text-center">
