@@ -7,10 +7,10 @@ title: 'Ремонт Kospel – это наша специализация!'
         <div class="col-lg-6 mb-4 mb-lg-0">
             <h1 class="display-5 fw-bold mb-4">Ремонт электрических котлов Kospel</h1>
             <p class="lead">Мы предлагаем ремонт за <strong>1 выезд</strong>, используя только оригинальные запчасти Коспел. Наша команда опытных мастеров готова выполнить работы любой сложности.</p>
-            <a class="btn btn-primary btn-lg rounded-pill mt-3 px-5 py-3" href="http://example.com">Вызвать мастера</a>
+            <a class="btn btn-primary btn-lg rounded-pill mt-3 px-5 py-3" href="https://service04.ru/contact-us/feedback">Вызвать мастера</a>
         </div>
         <div class="col-lg-6">
-            <img src="/blog/remont-ehlektro-kotlov-kospel/EKCO_R2_przedstawienie.jpg" alt="Котел Kospel" class="img-fluid rounded shadow">
+            <img src="EKCO_R2_przedstawienie.jpg" alt="Котел Kospel" class="img-fluid rounded shadow">
         </div>
     </div>
 </div>
@@ -20,21 +20,21 @@ title: 'Ремонт Kospel – это наша специализация!'
         <div class="row g-4">
             <div class="col-md-4">
                 <div class="text-center">
-                    <img class="mb-3" src="/blog/remont-ehlektro-kotlov-kospel/basic_bolt.svg" alt="Любые ошибки" width="48" height="48">
+                    <img class="mb-3" src="basic_bolt.svg" alt="Любые ошибки" width="48" height="48">
                     <h4 class="fw-bold">Любые ошибки</h4>
                     <p>Поломки могут быть связаны с неисправностью насоса, термостата, ТЭНа, реле или других компонентов. В случае обнаружения проблемы, мы проводим диагностику и быстро устраняем неисправность.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="text-center">
-                    <img class="mb-3" src="/blog/remont-ehlektro-kotlov-kospel/basic_elaboration_document_check.svg" alt="Гарантия на работы" width="48" height="48">
+                    <img class="mb-3" src="basic_elaboration_document_check.svg" alt="Гарантия на работы" width="48" height="48">
                     <h4 class="fw-bold">Гарантия на работы</h4>
                     <p>Мы гарантируем качество наших работ и предоставляем гарантию на все виды услуг.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="text-center">
-                    <img class="mb-3" src="/blog/remont-ehlektro-kotlov-kospel/basic_geolocalize-05.svg" alt="Зона выезда" width="48" height="48">
+                    <img class="mb-3" src="basic_geolocalize-05.svg" alt="Зона выезда" width="48" height="48">
                     <h4 class="fw-bold">Зона выезда</h4>
                     <p>Мы работаем по Москве и Московской области. Чтобы вызвать мастера, позвоните нам по указанному номеру телефона или заполните заявку на сайте.</p>
                 </div>
@@ -297,7 +297,7 @@ title: 'Ремонт Kospel – это наша специализация!'
                 <h3 class="display-6 fw-bold mb-4">Не откладывайте ремонт!</h3>
                 <p class="lead mb-4">Обратитесь к нам прямо сейчас. Наши специалисты с удовольствием помогут вам устранить любые поломки и неисправности у вас дома или в офисе.</p>
                 <p>Когда сталкиваетесь с поломками и неисправностями, важно обратиться к опытным специалистам, которые имеют знания и опыт в ремонте электрических котлов Kospel. Наша компания предлагает профессиональные услуги по диагностике и ремонту электрических котлов Kospel. Мы используем только <a href="https://service04.ru/zapchasti-dlja-ehlektrokotlov-kospel" class="text-white fw-bold">оригинальные запчасти</a>, чтобы обеспечить качественное восстановление вашего оборудования.</p>
-                <a class="btn btn-light btn-lg rounded-pill mt-3 px-5 py-3" href="http://example.com">Заказать ремонт сейчас</a>
+                <a class="btn btn-light btn-lg rounded-pill mt-3 px-5 py-3" href="https://service04.ru/contact-us/feedback">Заказать ремонт сейчас</a>
             </div>
         </div>
     </div>
