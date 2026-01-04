@@ -1,7 +1,25 @@
 ---
-title: 'Ремонт газовых колонок Junkers'
+title: Ремонт газовых колонок Junkers
+metadata:
+  description: Junkers Bosch Вы ищете профессиональный ремонт газовых колонок Junkers.
+    Обратитесь к нам.
+  og:type: website
+  og:title: Ремонт газовых колонок Junkers - Service04
+  og:description: Junkers Bosch Вы ищете профессиональный ремонт газовых колонок Junkers.
+    Обратитесь к нам.
+  og:url: https://service04.ru/uslugi/remont-kolonok/remont-gazovykh-kolonok-junkers
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/uslugi/remont-kolonok/remont-gazovykh-kolonok-junkers/Screenshot_61(1).jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kolonok/remont-gazovykh-kolonok-junkers
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
     
     <div class="p-5 mb-5 rounded-3 shadow-lg bg-dark text-white text-center">

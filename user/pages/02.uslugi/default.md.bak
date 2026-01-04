@@ -1,0 +1,148 @@
+---
+title: Услуги
+process:
+  twig: true
+  markdown: false
+metadata:
+  description: '/* Этот стиль нужен, чтобы синие квадраты с иконками были ровными
+    */ .feature { display: inline-flex; align-items: center; justify-content: center;...'
+  og:type: website
+  og:title: Услуги - Service04
+  og:description: '/* Этот стиль нужен, чтобы синие квадраты с иконками были ровными
+    */ .feature { display: inline-flex; align-items: center; justify-content: center;...'
+  og:url: https://service04.ru/uslugi
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/images/og-default.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
+---
+<style>
+    /* Этот стиль нужен, чтобы синие квадраты с иконками были ровными */
+    .feature {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        height: 4rem;
+        width: 4rem;
+        font-size: 2rem;
+    }
+    /* Небольшой отступ для кнопки внутри карточки */
+    .card-footer-custom {
+        margin-top: auto;
+        padding-top: 1rem;
+    }
+</style>
+
+<header class="py-5">
+    <div class="container px-lg-5">
+        <div class="p-4 p-lg-5 bg-light rounded-3 text-center">
+            <div class="m-4 m-lg-5">
+                <h1 class="display-5 fw-bold">Ремонт и обслуживание котлов</h1>
+                <p class="fs-4">Обратившись в наш сервисный центр, вы получите профессиональную помощь в ремонте и обслуживании отопительного оборудования, а также все необходимые запчасти. Мы гарантируем высокое качество и доступные цены.</p>
+                <a class="btn btn-primary btn-lg" href="tel:+79262211348">Вызвать мастера</a>
+            </div>
+        </div>
+    </div>
+</header>
+
+<section class="pt-4">
+    <div class="container px-lg-5">
+        <div class="row gx-lg-5">
+            
+            <div class="col-lg-6 col-xxl-4 mb-5">
+                <div class="card bg-light border-0 h-100">
+                    <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0 d-flex flex-column">
+                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4 mx-auto">
+                            <i class="fa fa-wrench"></i>
+                        </div>
+                        <h2 class="fs-4 fw-bold">Ремонт котлов</h2>
+                        <p class="mb-0">Профессиональный ремонт газовых и электрических котлов. Устраняем любые неисправности быстро и качественно.</p>
+                        <div class="card-footer-custom">
+                            <a href="/uslugi/remont-kotlov" class="btn btn-outline-primary btn-sm">Подробнее</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-xxl-4 mb-5">
+                <div class="card bg-light border-0 h-100">
+                    <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0 d-flex flex-column">
+                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4 mx-auto">
+                            <i class="fa fa-fire"></i>
+                        </div>
+                        <h2 class="fs-4 fw-bold">Ремонт газовых колонок</h2>
+                        <p class="mb-0">Замена деталей, очистка фильтров, регулировка давления. Обслуживание газовых колонок квалифицированными специалистами.</p>
+                        <div class="card-footer-custom">
+                            <a href="/remont-kolonok" class="btn btn-outline-primary btn-sm">Подробнее</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-xxl-4 mb-5">
+                <div class="card bg-light border-0 h-100">
+                    <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0 d-flex flex-column">
+                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4 mx-auto">
+                            <i class="fa fa-cogs"></i>
+                        </div>
+                        <h2 class="fs-4 fw-bold">Монтаж систем</h2>
+                        <p class="mb-0">Монтаж и ремонт систем отопления в домах и коммерческих помещениях с соблюдением требований безопасности.</p>
+                        <div class="card-footer-custom">
+                            <a href="#" class="btn btn-outline-primary btn-sm">Подробнее</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-xxl-4 mb-5">
+                <div class="card bg-light border-0 h-100">
+                    <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0 d-flex flex-column">
+                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4 mx-auto">
+                            <i class="fa fa-shopping-cart"></i>
+                        </div>
+                        <h2 class="fs-4 fw-bold">Магазин запчастей</h2>
+                        <p class="mb-0">Широкий ассортимент запчастей для котлов и колонок. Всё необходимое для ремонта вашего оборудования.</p>
+                        <div class="card-footer-custom">
+                            <a href="https://stroi-ka.ru" target="_blank" class="btn btn-primary btn-sm">Перейти в магазин</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-xxl-4 mb-5">
+                <div class="card bg-light border-0 h-100">
+                    <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0 d-flex flex-column">
+                        <div class="feature bg-primary bg-gradient text-white rounded-3 mb-4 mt-n4 mx-auto">
+                            <i class="fa fa-thumbs-up"></i>
+                        </div>
+                        <h2 class="fs-4 fw-bold">Наши преимущества</h2>
+                        <p class="mb-0">Гарантия качества, консультации по эксплуатации, гибкие цены и скидки для постоянных клиентов.</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-6 col-xxl-4 mb-5">
+                <div class="card bg-light border-0 h-100">
+                    <div class="card-body text-center p-4 p-lg-5 pt-0 pt-lg-0 d-flex flex-column">
+                        <div class="feature bg-danger bg-gradient text-white rounded-3 mb-4 mt-n4 mx-auto">
+                            <i class="fa fa-phone"></i>
+                        </div>
+                        <h2 class="fs-4 fw-bold text-danger">Срочный вызов</h2>
+                        <p class="mb-0">Круглосуточно для клиентов с договором.<br><strong>+7 (926) 221-13-48</strong><br>Оперативный выезд мастера.</p>
+                        <div class="card-footer-custom">
+                            <a href="tel:+79262211348" class="btn btn-danger btn-sm">Позвонить</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>

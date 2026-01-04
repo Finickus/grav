@@ -1,7 +1,25 @@
 ---
-title: 'Ремонт котла Protherm'
+title: Ремонт котла Protherm
+metadata:
+  description: Ремонт котлов Protherm в Москве и области Добро пожаловать на нашу
+    страницу, посвященную ремонту котлов Protherm.
+  og:type: website
+  og:title: Ремонт котла Protherm - Service04
+  og:description: Ремонт котлов Protherm в Москве и области Добро пожаловать на нашу
+    страницу, посвященную ремонту котлов Protherm.
+  og:url: https://service04.ru/uslugi/remont-kotlov/remont-kotla-protherm
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/uslugi/remont-kotlov/remont-kotla-protherm/KotelProtherm(1).jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kotlov/remont-kotla-protherm
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
     
     <div class="text-center mb-5">

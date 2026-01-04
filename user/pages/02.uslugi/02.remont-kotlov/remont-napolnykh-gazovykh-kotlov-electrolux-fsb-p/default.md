@@ -1,7 +1,25 @@
 ---
-title: 'Ремонт напольных газовых котлов Electrolux FSB P'
+title: Ремонт напольных газовых котлов Electrolux FSB P
+metadata:
+  description: Ремонт и обслуживание котлов Electrolux FSB P Добро пожаловать в наш
+    сервисный центр, специализирующийся на ремонте и обслуживании котельного оборудования...
+  og:type: website
+  og:title: Ремонт напольных газовых котлов Electrolux FSB P - Service04
+  og:description: Ремонт и обслуживание котлов Electrolux FSB P Добро пожаловать в
+    наш сервисный центр, специализирующийся на ремонте и обслуживании котельного оборудования...
+  og:url: https://service04.ru/uslugi/remont-kotlov/remont-napolnykh-gazovykh-kotlov-electrolux-fsb-p
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/images/og-default.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kotlov/remont-napolnykh-gazovykh-kotlov-electrolux-fsb-p
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
         <div class="row mb-5">
         <div class="col-12 border bg-light py-4 rounded shadow-lg text-center">

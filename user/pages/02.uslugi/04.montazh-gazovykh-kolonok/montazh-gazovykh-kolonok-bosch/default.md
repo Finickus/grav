@@ -1,7 +1,25 @@
 ---
-title: 'Монтаж газовых колонок BOSCH'
+title: Монтаж газовых колонок BOSCH
+metadata:
+  description: Профессиональный монтаж газовых колонок BOSCH Это важный этап в процессе
+    установки газового оборудования в доме или квартире.
+  og:type: website
+  og:title: Монтаж газовых колонок BOSCH - Service04
+  og:description: Профессиональный монтаж газовых колонок BOSCH Это важный этап в
+    процессе установки газового оборудования в доме или квартире.
+  og:url: https://service04.ru/uslugi/montazh-gazovykh-kolonok/montazh-gazovykh-kolonok-bosch
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/uslugi/montazh-gazovykh-kolonok/montazh-gazovykh-kolonok-bosch/028c38c2fba363342e4377d9fa6e5da4a0dd0608(2).jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/montazh-gazovykh-kolonok/montazh-gazovykh-kolonok-bosch
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
    
     <div class="row g-4 mb-5 align-items-center">

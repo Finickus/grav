@@ -1,7 +1,23 @@
 ---
-title: 'Ремонт котлов Ferroli'
+title: Ремонт котлов Ferroli
+metadata:
+  description: Комплексные решения для каждого клиента...
+  og:type: website
+  og:title: Ремонт котлов Ferroli - Service04
+  og:description: Комплексные решения для каждого клиента...
+  og:url: https://service04.ru/uslugi/remont-kotlov/remont-kotlov-ferroli
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/uslugi/remont-kotlov/remont-kotlov-ferroli/ferroli-mini-f0c64cf0.png
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kotlov/remont-kotlov-ferroli
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container my-5">
     <style>
         .text-accent-orange { color: #e37a25 !important; }

@@ -1,7 +1,26 @@
 ---
-title: 'Ремонт электрических котлов STOUT'
+title: Ремонт электрических котлов STOUT
+metadata:
+  description: STOUT Сервис +7 (926) 221-13-48 Заказать звонок Профессиональный ремонт
+    котлов STOUT Бесплатная диагностика при ремонте. Гарантия 1 год на все работы.
+  og:type: website
+  og:title: Ремонт электрических котлов STOUT - Service04
+  og:description: STOUT Сервис +7 (926) 221-13-48 Заказать звонок Профессиональный
+    ремонт котлов STOUT Бесплатная диагностика при ремонте. Гарантия 1 год на все
+    работы.
+  og:url: https://service04.ru/uslugi/remont-kotlov/remont-elektricheskikh-kotlov-stout
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://stout.ru/upload/iblock/4d9/4d9c5d1e5d7f6b1c8d3e5f0a1b2c3d4e.png
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kotlov/remont-elektricheskikh-kotlov-stout
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="main-wrapper">
     <header class="bg-light py-3 border-bottom shadow-sm sticky-top">
         <div class="container-xl">

@@ -1,7 +1,25 @@
 ---
-title: 'Ремонт газовых колонок Bosch'
+title: Ремонт газовых колонок Bosch
+metadata:
+  description: Ремонт газовых колонок Bosch Газовые колонки Bosch являются надежным
+    и эффективным источником горячей воды в вашем доме.
+  og:type: website
+  og:title: Ремонт газовых колонок Bosch - Service04
+  og:description: Ремонт газовых колонок Bosch Газовые колонки Bosch являются надежным
+    и эффективным источником горячей воды в вашем доме.
+  og:url: https://service04.ru/uslugi/remont-kolonok/remont-gazovykh-kolonok-bosch
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/uslugi/remont-kolonok/remont-gazovykh-kolonok-bosch/Screenshot_117(1).jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kolonok/remont-gazovykh-kolonok-bosch
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
     
     <div class="row g-4 mb-5 align-items-center">

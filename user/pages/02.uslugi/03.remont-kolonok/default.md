@@ -1,7 +1,25 @@
 ---
-title: 'Ремонт газовых колонок в Москве и МО'
+title: Ремонт газовых колонок в Москве и МО
+metadata:
+  description: Квалифицированные специалисты | Гарантия Вы столкнулись с проблемой
+    в работе газовой колонки. Не беспокойтесь, мы готовы помочь.
+  og:type: website
+  og:title: Ремонт газовых колонок в Москве и МО - Service04
+  og:description: Квалифицированные специалисты | Гарантия Вы столкнулись с проблемой
+    в работе газовой колонки. Не беспокойтесь, мы готовы помочь.
+  og:url: https://service04.ru/uslugi/remont-kolonok
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/images/og-default.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kolonok
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
 
     <div class="p-5 mb-4 bg-light rounded-3 text-center border">

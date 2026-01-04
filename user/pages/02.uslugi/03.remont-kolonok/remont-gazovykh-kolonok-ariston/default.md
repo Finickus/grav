@@ -1,7 +1,25 @@
 ---
-title: 'Ремонт газовых колонок Ariston'
+title: Ремонт газовых колонок Ariston
+metadata:
+  description: Наша компания предлагает услуги по ремонту и обслуживанию газовых колонок
+    Ariston с выездом на дом.
+  og:type: website
+  og:title: Ремонт газовых колонок Ariston - Service04
+  og:description: Наша компания предлагает услуги по ремонту и обслуживанию газовых
+    колонок Ariston с выездом на дом.
+  og:url: https://service04.ru/uslugi/remont-kolonok/remont-gazovykh-kolonok-ariston
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/uslugi/remont-kolonok/remont-gazovykh-kolonok-ariston/hqdefault(1)(1).jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kolonok/remont-gazovykh-kolonok-ariston
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
     
     <style>

@@ -1,7 +1,25 @@
 ---
-title: 'Ремонт бойлеров American Water Heater Company MOR-FLO'
+title: Ремонт бойлеров American Water Heater Company MOR-FLO
+metadata:
+  description: Ремонт и запчасти для бойлеров American Water Heater Company MOR-FLO
+    Газовые бойлеры MOR-FLO представляют собой эффективные и надежные устройства для...
+  og:type: website
+  og:title: Ремонт бойлеров American Water Heater Company MOR-FLO - Service04
+  og:description: Ремонт и запчасти для бойлеров American Water Heater Company MOR-FLO
+    Газовые бойлеры MOR-FLO представляют собой эффективные и надежные устройства для...
+  og:url: https://service04.ru/uslugi/remont-kolonok/remont-boilerov-american-water-heater-company-mor-flo
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/uslugi/remont-kolonok/remont-boilerov-american-water-heater-company-mor-flo/mor-flo4.png
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kolonok/remont-boilerov-american-water-heater-company-mor-flo
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
        <div class="p-5 mb-5 rounded-3 shadow-lg bg-info text-white">
         <h1 class="display-4 fw-bold"><i class="fas fa-tools me-3"></i>Ремонт и запчасти для бойлеров</h1>

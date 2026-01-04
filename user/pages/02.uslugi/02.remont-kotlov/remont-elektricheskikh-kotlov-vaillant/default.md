@@ -1,7 +1,25 @@
 ---
-title: 'Ремонт электрических котлов Vaillant'
+title: Ремонт электрических котлов Vaillant
+metadata:
+  description: Выезжаем по Москве и Московской области. Устраним неисправность в день
+    обращения.
+  og:type: website
+  og:title: Ремонт электрических котлов Vaillant - Service04
+  og:description: Выезжаем по Москве и Московской области. Устраним неисправность
+    в день обращения.
+  og:url: https://service04.ru/uslugi/remont-kotlov/remont-elektricheskikh-kotlov-vaillant
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/uslugi/remont-kotlov/remont-elektricheskikh-kotlov-vaillant/KotelVaillant(1).jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kotlov/remont-elektricheskikh-kotlov-vaillant
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
     
       <div class="text-center mb-4">

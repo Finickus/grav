@@ -1,7 +1,25 @@
 ---
-title: 'Ремонт электрических котлов Протерм'
+title: Ремонт электрических котлов Протерм
+metadata:
+  description: Авторизованный сервисный центр котельного оборудования Электрические
+    котлы **Protherm** - это синоним надежности и комфорта.
+  og:type: website
+  og:title: Ремонт электрических котлов Протерм - Service04
+  og:description: Авторизованный сервисный центр котельного оборудования Электрические
+    котлы **Protherm** - это синоним надежности и комфорта.
+  og:url: https://service04.ru/uslugi/remont-kotlov/remont-elektricheskikh-kotlov-protherm
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/uslugi/remont-kotlov/remont-elektricheskikh-kotlov-protherm/protherm1(1).jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kotlov/remont-elektricheskikh-kotlov-protherm
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
     
     <style>

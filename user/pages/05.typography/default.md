@@ -1,8 +1,26 @@
 ---
 title: Typography
 published: false
+metadata:
+  description: '! Details on the full capabilities of Spectre.css can be found in
+    the [Official Spectre...'
+  og:type: website
+  og:title: Typography - Service04
+  og:description: '! Details on the full capabilities of Spectre.css can be found
+    in the [Official Spectre...'
+  og:url: https://service04.ru/typography
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/images/og-default.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/typography
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 ! Details on the full capabilities of Spectre.css can be found in the [Official Spectre Documentation](https://picturepan2.github.io/spectre/elements.html)
 
 The [Quark theme](https://github.com/getgrav/grav-theme-quark) is the new default theme for Grav built with [Spectre.css](https://picturepan2.github.io/spectre/) the lightweight, responsive and modern CSS framework. Spectre provides  basic styles for typography, elements, and a responsive layout system that utilizes best practices and consistent language design.

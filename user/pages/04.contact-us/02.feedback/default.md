@@ -1,7 +1,27 @@
 ---
-title: 'Связаться с нами'
+title: Связаться с нами
+metadata:
+  description: Связаться с нами Страница «Обратная связь» на сервисе service04.ru
+    создана для того, чтобы вы могли оставлять отзывы, задавать вопросы или предлагать
+    идеи.
+  og:type: website
+  og:title: Связаться с нами - Service04
+  og:description: Связаться с нами Страница «Обратная связь» на сервисе service04.ru
+    создана для того, чтобы вы могли оставлять отзывы, задавать вопросы или предлагать
+    идеи.
+  og:url: https://service04.ru/contact-us/feedback
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/images/og-default.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/contact-us/feedback
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-4">
 
     <div class="card shadow-sm border-0 mb-5">

@@ -1,7 +1,25 @@
 ---
-title: 'Ремонт настенных котлов Ferroli'
+title: Ремонт настенных котлов Ferroli
+metadata:
+  description: Официальный сервисный центр Ferroli Ремонт настенных котлов Ferroli
+    разных модификаций Профессиональный ремонт с гарантией 1 год Вызвать мастера сейчас...
+  og:type: website
+  og:title: Ремонт настенных котлов Ferroli - Service04
+  og:description: Официальный сервисный центр Ferroli Ремонт настенных котлов Ferroli
+    разных модификаций Профессиональный ремонт с гарантией 1 год Вызвать мастера сейчас...
+  og:url: https://service04.ru/uslugi/remont-kotlov/remont-nastennykh-kotlov-ferroli
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/images/og-default.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kotlov/remont-nastennykh-kotlov-ferroli
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="main-wrapper">
     <div class="bg-dark text-white py-2 text-center fw-bold small shadow-sm">
         <div class="container-xl">

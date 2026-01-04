@@ -1,7 +1,25 @@
 ---
-title: 'Ремонт котлов Attack'
+title: Ремонт котлов Attack
+metadata:
+  description: Ремонт котлов Attack за 1 выезд. Мы предлагаем быстрый и эффективный
+    ремонт котлов Attack, выполняемый за один выезд.
+  og:type: website
+  og:title: Ремонт котлов Attack - Service04
+  og:description: Ремонт котлов Attack за 1 выезд. Мы предлагаем быстрый и эффективный
+    ремонт котлов Attack, выполняемый за один выезд.
+  og:url: https://service04.ru/uslugi/remont-kotlov/remont-kotlov-attack
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/uslugi/remont-kotlov/remont-kotlov-attack/Screenshot_65(1).jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kotlov/remont-kotlov-attack
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
     
     <div class="text-center py-3">

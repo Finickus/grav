@@ -1,0 +1,10 @@
+settings:
+  title: Mainmenu
+ordering:
+  home: ''
+  typography:
+    administrator: ''
+items:
+  typography/administrator:
+    title: Administrator
+    link: /ru/typography/administrator

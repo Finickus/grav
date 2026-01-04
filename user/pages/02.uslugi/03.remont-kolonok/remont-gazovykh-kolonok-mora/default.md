@@ -1,7 +1,25 @@
 ---
-title: 'Ремонт газовых колонок Mora'
+title: Ремонт газовых колонок Mora
+metadata:
+  description: Ремонт газовых колонок Mora Ремонт за 1 выезд. Запчасти у мастера с
+    собой.
+  og:type: website
+  og:title: Ремонт газовых колонок Mora - Service04
+  og:description: Ремонт газовых колонок Mora Ремонт за 1 выезд. Запчасти у мастера
+    с собой.
+  og:url: https://service04.ru/uslugi/remont-kolonok/remont-gazovykh-kolonok-mora
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/uslugi/remont-kolonok/remont-gazovykh-kolonok-mora/2022-07-15_125209.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kolonok/remont-gazovykh-kolonok-mora
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
         <div class="row mb-5">
         <div class="col-12 border bg-light py-4 px-4 rounded shadow-lg text-center">

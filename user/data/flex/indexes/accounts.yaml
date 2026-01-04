@@ -1,0 +1,9 @@
+version: '1.2'
+timestamp: 1765618427
+count: 1
+index:
+  admin:
+    storage_key: admin
+    storage_timestamp: 1765618427
+    key: admin
+    email: s89262211348@gmail.com

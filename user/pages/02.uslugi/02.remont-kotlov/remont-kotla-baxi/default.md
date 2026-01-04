@@ -1,7 +1,26 @@
 ---
-title: 'Ремонт котла Baxi'
+title: Ремонт котла Baxi
+metadata:
+  description: Ремонт котла Baxi Профессиональный сервис и обслуживание за один выезд
+    Котлы фирмы BAXI (Бакси) являются одними из самых популярных на российском рынке.
+  og:type: website
+  og:title: Ремонт котла Baxi - Service04
+  og:description: Ремонт котла Baxi Профессиональный сервис и обслуживание за один
+    выезд Котлы фирмы BAXI (Бакси) являются одними из самых популярных на российском
+    рынке.
+  og:url: https://service04.ru/uslugi/remont-kotlov/remont-kotla-baxi
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/uslugi/remont-kotlov/remont-kotla-baxi/baxikotel.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kotlov/remont-kotla-baxi
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container-xl my-5">
     
     <header class="bg-primary text-white rounded-3 p-4 p-md-5 mb-5 shadow-lg position-relative overflow-hidden">

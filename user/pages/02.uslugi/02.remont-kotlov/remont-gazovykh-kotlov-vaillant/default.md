@@ -1,7 +1,26 @@
 ---
 title: 'Ремонт газовых котлов Vaillant '
+metadata:
+  description: Этапы работ Основные поломки Зона обслуживания Профессиональный ремонт
+    котлов Vaillant Когда ваш напольный котел Vaillant требует внимания, важно доверить...
+  og:type: website
+  og:title: Ремонт газовых котлов Vaillant  - Service04
+  og:description: Этапы работ Основные поломки Зона обслуживания Профессиональный
+    ремонт котлов Vaillant Когда ваш напольный котел Vaillant требует внимания, важно
+    доверить...
+  og:url: https://service04.ru/uslugi/remont-kotlov/remont-gazovykh-kotlov-vaillant
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/uslugi/remont-kotlov/remont-gazovykh-kotlov-vaillant/Vailant1.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kotlov/remont-gazovykh-kotlov-vaillant
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container-fluid p-0">
     <header class="position-relative overflow-hidden mb-5">
         <img src="/uslugi/remont-kotlov/remont-gazovykh-kotlov-vaillant/Vailant1.jpg" alt="Котел Vaillant" class="img-fluid w-100 shadow">

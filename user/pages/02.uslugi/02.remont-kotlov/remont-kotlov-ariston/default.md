@@ -1,7 +1,27 @@
 ---
-title: 'Ремонт котлов Аристон'
+title: Ремонт котлов Аристон
+metadata:
+  description: Ремонт котлов Ariston Профессиональная диагностика и восстановление
+    итальянского оборудования Котельная техника от компании «Ariston» — это надежное
+    и...
+  og:type: website
+  og:title: Ремонт котлов Аристон - Service04
+  og:description: Ремонт котлов Ariston Профессиональная диагностика и восстановление
+    итальянского оборудования Котельная техника от компании «Ariston» — это надежное
+    и...
+  og:url: https://service04.ru/uslugi/remont-kotlov/remont-kotlov-ariston
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/uslugi/remont-kotlov/remont-kotlov-ariston/ariston-1-f0e31f1a.png
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kotlov/remont-kotlov-ariston
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container-xl my-5">
     
     <header class="text-white rounded-3 p-4 p-md-5 mb-5 shadow-lg position-relative overflow-hidden" style="background: linear-gradient(141deg, #1f191a 0%, #363636 71%, #464646 100%);">

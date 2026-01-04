@@ -1,7 +1,27 @@
 ---
-title: 'Ремонт котлов Bosch'
+title: Ремонт котлов Bosch
+metadata:
+  description: Ремонт котлов Bosch Профессиональное восстановление оборудования с
+    гарантией качества О нашем сервисном центре Мы специализируемся на обслуживании
+    Bosch с...
+  og:type: website
+  og:title: Ремонт котлов Bosch - Service04
+  og:description: Ремонт котлов Bosch Профессиональное восстановление оборудования
+    с гарантией качества О нашем сервисном центре Мы специализируемся на обслуживании
+    Bosch с...
+  og:url: https://service04.ru/uslugi/remont-kotlov/remont-kotlov-bosch
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/uslugi/remont-kotlov/remont-kotlov-bosch/20160612_142300-7d3fcbb7.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kotlov/remont-kotlov-bosch
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container-xl my-5">
     
     <header class="bg-primary text-white rounded-3 p-4 p-md-5 mb-5 shadow-lg position-relative overflow-hidden">

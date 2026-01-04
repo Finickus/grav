@@ -1,7 +1,25 @@
 ---
-title: 'Ремонт газовых колонок Electrolux'
+title: Ремонт газовых колонок Electrolux
+metadata:
+  description: 'Ремонт газовых колонок Electrolux Основные поломки и неисправности:
+    Газовые колонки Electrolux являются надежными устройствами, однако иногда могут...'
+  og:type: website
+  og:title: Ремонт газовых колонок Electrolux - Service04
+  og:description: 'Ремонт газовых колонок Electrolux Основные поломки и неисправности:
+    Газовые колонки Electrolux являются надежными устройствами, однако иногда могут...'
+  og:url: https://service04.ru/uslugi/remont-kolonok/remont-gazovykh-kolonok-electrolux
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/uslugi/remont-kolonok/remont-gazovykh-kolonok-electrolux/electroluxtop(1).jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kolonok/remont-gazovykh-kolonok-electrolux
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
      <div class="p-4 mb-5 rounded-3 shadow-lg bg-light border border-info">
         <div class="row align-items-center g-4">

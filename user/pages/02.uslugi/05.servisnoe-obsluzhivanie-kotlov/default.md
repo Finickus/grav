@@ -1,7 +1,25 @@
 ---
-title: 'Сервисное обслуживание котлов'
+title: Сервисное обслуживание котлов
+metadata:
+  description: Сервисное обслуживание котлов Гарантия безопасности и долговечности
+    вашего оборудования Отопительное оборудование требует регулярного ухода.
+  og:type: website
+  og:title: Сервисное обслуживание котлов - Service04
+  og:description: Сервисное обслуживание котлов Гарантия безопасности и долговечности
+    вашего оборудования Отопительное оборудование требует регулярного ухода.
+  og:url: https://service04.ru/uslugi/servisnoe-obsluzhivanie-kotlov
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/images/og-default.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/servisnoe-obsluzhivanie-kotlov
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
     
     <header class="bg-primary text-white rounded-3 p-4 p-md-5 mb-5 shadow-lg text-center">

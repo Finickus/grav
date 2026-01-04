@@ -1,7 +1,25 @@
 ---
-title: 'Ремонт газовых колонок Zanussi'
+title: Ремонт газовых колонок Zanussi
+metadata:
+  description: Zanussi Газовые колонки Zanussi — это надежные и эффективные устройства
+    для обеспечения горячей водой.
+  og:type: website
+  og:title: Ремонт газовых колонок Zanussi - Service04
+  og:description: Zanussi Газовые колонки Zanussi — это надежные и эффективные устройства
+    для обеспечения горячей водой.
+  og:url: https://service04.ru/uslugi/remont-kolonok/remont-gazovykh-kolonok-zanussi
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/uslugi/remont-kolonok/remont-gazovykh-kolonok-zanussi/Screenshot_245.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kolonok/remont-gazovykh-kolonok-zanussi
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
     <div class="p-5 mb-5 rounded-3 shadow-lg bg-dark text-white text-center">
         <h1 class="display-4 fw-bold"><i class="fas fa-hot-tub me-3"></i>Zanussi</h1>

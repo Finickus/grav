@@ -1,7 +1,25 @@
 ---
 title: 'Ремонт котлов Mora '
+metadata:
+  description: Ремонт и обслуживание котлов MORA Если вы ищете качественный и надежный
+    ремонт котлов MORA, то вы попали по адресу.
+  og:type: website
+  og:title: Ремонт котлов Mora  - Service04
+  og:description: Ремонт и обслуживание котлов MORA Если вы ищете качественный и надежный
+    ремонт котлов MORA, то вы попали по адресу.
+  og:url: https://service04.ru/uslugi/remont-kotlov/remont-kotlov-mora
+  og:site_name: Service04
+  og:locale: ru_RU
+  og:image: https://service04.ru/images/og-default.jpg
+  og:image:width: '1200'
+  og:image:height: '630'
+  canonical: https://service04.ru/uslugi/remont-kotlov/remont-kotlov-mora
+  robots: index, follow
+  yandex-verification: ''
+  geo.region: RU-MOW
+  geo.placename: Москва
+  author: Service04
 ---
-
 <div class="container py-5">
         <div class="p-5 mb-5 rounded-3 shadow-lg bg-info text-white">
         <h1 class="display-4 fw-bold text-center"><i class="fas fa-toolbox me-3"></i>Ремонт и обслуживание котлов MORA</h1>
