@@ -18,7 +18,7 @@ title: 'Ремонт котлов Ferroli'
         <div class="card-body p-4 p-md-5">
             <div class="row align-items-center">
                 <div class="col-md-4 text-center mb-4 mb-md-0">
-                    <img src="https://service04.ru/bl-content/img/2019/12/ferroli-mini-f0c64cf0.png" alt="Логотип Ferroli" class="img-fluid rounded border p-2" style="max-height: 180px;">
+                    <img src="ferroli-mini-f0c64cf0.png" alt="Логотип Ferroli" class="img-fluid rounded border p-2" style="max-height: 180px;">
                 </div>
                 <div class="col-md-8">
                     <p class="fs-5 fw-bold">Ferroli — международный лидер в производстве высококачественных котлов с более чем 50-летней историей.</p>
@@ -84,7 +84,7 @@ title: 'Ремонт котлов Ferroli'
                     </ul>
                 </div>
                 <div class="col-lg-4 order-1 order-lg-2 text-center mb-4 mb-lg-0">
-                    <img src="https://service04.ru/bl-content/img/2019/12/remont-kotlov-ferroli3-9371ae2a.jpg" alt="Мастер Ferroli" class="img-fluid rounded shadow-sm border p-1">
+                    <img src="remont-kotlov-ferroli3-9371ae2a.jpg" alt="Мастер Ferroli" class="img-fluid rounded shadow-sm border p-1">
                 </div>
             </div>
 

@@ -26,7 +26,7 @@ process:
                     </p>
                 </div>
                 <div class="col-lg-4 text-center">
-                    <img src="https://service04.ru/bl-content/uploads/image/1vse/beda1.jpg" alt="Ремонт котлов" class="img-fluid rounded shadow-sm border border-secondary" style="max-width: 250px;">
+                    <img src="beda1.jpg" alt="Ремонт котлов" class="img-fluid rounded shadow-sm border border-secondary" style="max-width: 250px;">
                 </div>
             </div>
 
@@ -92,7 +92,7 @@ process:
         </div>
         <div class="col-md-6 text-center">
             <a href="#modal-img-1" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-1">
-                <img src="https://service04.ru/bl-content/uploads/pages/242011eabd7e6e27827efb0432d87b3f/Screenshot_38(1).jpg" alt="Услуги сертифицированного ремонта котлов" class="img-fluid rounded shadow-lg">
+                <img src="Screenshot_38(1).jpg" alt="Услуги сертифицированного ремонта котлов" class="img-fluid rounded shadow-lg">
             </a>
         </div>
     </div>
@@ -483,7 +483,7 @@ process:
     <div class="row g-4 mb-5 align-items-center border p-4 rounded shadow-lg bg-light">
         <div class="col-md-4 text-center">
             <a href="#modal-img-2" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-2">
-                <img src="https://service04.ru/bl-content/uploads/pages/242011eabd7e6e27827efb0432d87b3f/Screenshot_39(1).jpg" alt="Профилактика котла" class="img-fluid rounded shadow-lg">
+                <img src="Screenshot_39(1).jpg" alt="Профилактика котла" class="img-fluid rounded shadow-lg">
             </a>
         </div>
         <div class="col-md-8 small">
@@ -522,7 +522,7 @@ process:
                 </div>
             </div>
             
-            <img src="https://service04.ru/bl-content/uploads/image/1vse/remont11.jpg" alt="Этапы ремонта" class="img-fluid mt-5 rounded shadow-sm" style="max-width: 500px;">
+            <img src="remont11.jpg" alt="Этапы ремонта" class="img-fluid mt-5 rounded shadow-sm" style="max-width: 500px;">
         </div>
     </div>
 
@@ -554,7 +554,7 @@ process:
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/242011eabd7e6e27827efb0432d87b3f/Screenshot_38(1).jpg" class="img-fluid rounded" alt="Услуги сертифицированного ремонта котлов" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_38(1).jpg" class="img-fluid rounded" alt="Услуги сертифицированного ремонта котлов" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -563,7 +563,7 @@ process:
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/242011eabd7e6e27827efb0432d87b3f/Screenshot_39(1).jpg" class="img-fluid rounded" alt="Профилактика котла" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_39(1).jpg" class="img-fluid rounded" alt="Профилактика котла" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

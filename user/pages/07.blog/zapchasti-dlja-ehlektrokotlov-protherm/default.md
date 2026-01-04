@@ -14,7 +14,7 @@ title: 'Запчасти для электрокотлов Protherm'
 <div class="card-body">
 <div class="row align-items-center">
 <div class="col-4 text-center">
-<figure class="image is-128x128 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/skat-proterm-8f33da8d.png" alt="Электрокотел Protherm" class="rounded"></figure>
+<figure class="image is-128x128 is-inline-block"><img src="skat-proterm-8f33da8d.png" alt="Электрокотел Protherm" class="rounded"></figure>
 </div>
 <div class="col-8">
 <h3 class="h5">Электрические котлы Скат Protherm</h3>
@@ -74,7 +74,7 @@ title: 'Запчасти для электрокотлов Protherm'
 <div class="row g-3"><!-- ТЭНы -->
 <div class="col-4">
 <div class="card product-card"><span class="tag is-primary category-badge">ТЭНы</span>
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/Image004.jpg" alt="ТЭН для Protherm"></figure>
+<figure class="image"><img src="Image004.jpg" alt="ТЭН для Protherm"></figure>
 <div class="card-body">
 <h5 class="h6">ТЭНы различной мощности</h5>
 <p class="mb-1"><span class="has-text-weight-semibold">0020094646</span> — ТЭН 3 кВт<br><span class="has-text-weight-semibold">0020094647</span> — ТЭН 6 кВт<br><span class="has-text-weight-semibold">0020094648</span> — ТЭН 7 кВт</p>
@@ -85,7 +85,7 @@ title: 'Запчасти для электрокотлов Protherm'
 <!-- Клапаны -->
 <div class="col-4">
 <div class="card product-card"><span class="tag is-info category-badge">Клапаны</span>
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/Image022.jpg" alt="Предохранительный клапан"></figure>
+<figure class="image"><img src="Image022.jpg" alt="Предохранительный клапан"></figure>
 <div class="card-body">
 <h5 class="h6">Клапан предохранительный</h5>
 <p class="mb-1"><span class="has-text-weight-semibold">0020094650</span></p>
@@ -96,7 +96,7 @@ title: 'Запчасти для электрокотлов Protherm'
 <!-- Датчики -->
 <div class="col-4">
 <div class="card product-card"><span class="tag is-warning category-badge">Датчики</span>
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/Image031.jpg" alt="Наружный датчик"></figure>
+<figure class="image"><img src="Image031.jpg" alt="Наружный датчик"></figure>
 <div class="card-body">
 <h5 class="h6">Датчик наружный 18 мм</h5>
 <p class="mb-1"><span class="has-text-weight-semibold">0020035043</span></p>
@@ -118,13 +118,13 @@ title: 'Запчасти для электрокотлов Protherm'
 </ul>
 </div>
 <div id="skat11" class="scheme-pane">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/electro-kotel-protherm2-4f34b55f.jpg" alt="Схема электрокотла Протерм Скат 11"></figure>
+<figure class="image"><img src="electro-kotel-protherm2-4f34b55f.jpg" alt="Схема электрокотла Протерм Скат 11"></figure>
 </div>
 <div id="skat13" class="scheme-pane is-hidden">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/electro-kotel-protherm3-1e2e1c4a.jpg" alt="Схема электрокотла Протерм Скат 13"></figure>
+<figure class="image"><img src="electro-kotel-protherm3-1e2e1c4a.jpg" alt="Схема электрокотла Протерм Скат 13"></figure>
 </div>
 <div id="eloblock" class="scheme-pane is-hidden">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/electro-kotel-protherm1-32d1357e.jpg" alt="Схема электрокотла Протерм EloBlock"></figure>
+<figure class="image"><img src="electro-kotel-protherm1-32d1357e.jpg" alt="Схема электрокотла Протерм EloBlock"></figure>
 </div>
 </div>
 </div>

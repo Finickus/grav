@@ -2,7 +2,7 @@
 title: 'Авторизованный сервисный центр котельного оборудования'
 ---
 
-<p><img src="https://service04.ru/bl-content/uploads/pages/5491a8b7dbd607a019f06c013a6fcad1/protherm1(1).jpg" alt=""></p>
+<p><img src="protherm1(1).jpg" alt=""></p>
 <div class="row a">
 <div class="col-md-12 border bg-light py-5">
 
@@ -20,18 +20,18 @@ title: 'Авторизованный сервисный центр котель�
 </div>
 </div>
 <div class="row">
-<div class="bg-light col-lg-3 col-sm-6"><img class="img-fluid my-5" src="https://service04.ru/bl-content/uploads/image/1ICON/arrows_exclamation.svg" data-fa-icon="sensor-alert" data-fa-style="fab" style="font-size: 1.25rem; width: 64px; height: 64px; display: block; margin-left: auto; margin-right: auto;">
+<div class="bg-light col-lg-3 col-sm-6"><img class="img-fluid my-5" src="arrows_exclamation.svg" data-fa-icon="sensor-alert" data-fa-style="fab" style="font-size: 1.25rem; width: 64px; height: 64px; display: block; margin-left: auto; margin-right: auto;">
 <h5 style="text-align: center;">Диагностика неисправностей</h5>
 </div>
-<div class="col-lg-3 col-sm-6"><img class="img-fluid my-5" src="https://service04.ru/bl-content/uploads/image/1ICON/basic_settings.svg" data-fa-icon="sass" data-fa-style="fab" style="width: 64px; height: 64px; font-size: 1.25rem; display: block; margin-left: auto; margin-right: auto;">
+<div class="col-lg-3 col-sm-6"><img class="img-fluid my-5" src="basic_settings.svg" data-fa-icon="sass" data-fa-style="fab" style="width: 64px; height: 64px; font-size: 1.25rem; display: block; margin-left: auto; margin-right: auto;">
 <h5 style="text-align: center;">Ремонт котлов и техническое обслуживание котлов</h5>
 <p class="mt-2 mb-0"></p>
 </div>
-<div class="bg-light col-lg-3 col-sm-6"><img class="img-fluid my-5" src="https://service04.ru/bl-content/uploads/image/1ICON/arrows_rotate.svg" data-fa-icon="code" data-fa-style="fal" style="width: 64px; height: 64px; font-size: 1.25rem; display: block; margin-left: auto; margin-right: auto;">
+<div class="bg-light col-lg-3 col-sm-6"><img class="img-fluid my-5" src="arrows_rotate.svg" data-fa-icon="code" data-fa-style="fal" style="width: 64px; height: 64px; font-size: 1.25rem; display: block; margin-left: auto; margin-right: auto;">
 <h5 style="text-align: center;">Замена запчастей</h5>
 <p class="mt-2 mb-0"></p>
 </div>
-<div class="col-lg-3 col-sm-6"><img class="img-fluid my-5" src="https://service04.ru/bl-content/uploads/image/1ICON/basic_gear.svg" data-fa-icon="cog" data-fa-style="fal" style="width: 64px; height: 64px; font-size: 1.25rem; display: block; margin-left: auto; margin-right: auto;">
+<div class="col-lg-3 col-sm-6"><img class="img-fluid my-5" src="basic_gear.svg" data-fa-icon="cog" data-fa-style="fal" style="width: 64px; height: 64px; font-size: 1.25rem; display: block; margin-left: auto; margin-right: auto;">
 <h5 style="text-align: center;">Установка и настройка оборудования</h5>
 <p class="mt-2 mb-0"></p>
 </div>
@@ -63,7 +63,7 @@ title: 'Авторизованный сервисный центр котель�
 <p>Если ваш электрический котел Protherm нуждается в ремонте, вы можете полагаться на нашу компанию. Мы предоставляем профессиональные услуги ремонта с учетом всех особенностей и требований данного бренда. Наша команда готова вернуть ваш котел в идеальное рабочее состояние, обеспечивая комфорт и надежность в вашем доме. Свяжитесь с нами, чтобы получить качественный ремонт и экспертное обслуживание электрических котлов Protherm.</p>
 <p><a class="btn btn-primary" href="https://service04.ru/master">Вызвать мастера</a></p>
 </div>
-<div class="col-md-6"><img src="https://service04.ru/bl-content/uploads/pages/5491a8b7dbd607a019f06c013a6fcad1/Screenshot_104(1).jpg" alt=""></div>
+<div class="col-md-6"><img src="Screenshot_104(1).jpg" alt=""></div>
 </div>
 <p></p>
 <hr>

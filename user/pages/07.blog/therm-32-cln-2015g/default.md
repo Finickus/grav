@@ -43,7 +43,7 @@ title: 'Котел THERM 32 CLN (2015)'
 </header>
 <div class="card-body">
 <div class="text-center mb-4">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/2544_23-CLN-spalovaci-cast.jpg" alt="Описание котла THERM 32 CLN 2015г. выпуска:" class="border"></figure>
+<figure class="image is-inline-block"><img src="2544_23-CLN-spalovaci-cast.jpg" alt="Описание котла THERM 32 CLN 2015г. выпуска:" class="border"></figure>
 </div>
 <div class="table-container">
 <table class="table is-bordered is-striped w-100">
@@ -131,7 +131,7 @@ title: 'Котел THERM 32 CLN (2015)'
 </header>
 <div class="card-body">
 <div class="text-center mb-4">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/2544_CLN-vodni-cast-640x.jpg" alt="Водяная часть THERM 32 CLN 2015г. выпуска:" class="border"></figure>
+<figure class="image is-inline-block"><img src="2544_CLN-vodni-cast-640x.jpg" alt="Водяная часть THERM 32 CLN 2015г. выпуска:" class="border"></figure>
 </div>
 <div class="table-container">
 <table class="table is-bordered is-striped w-100">
@@ -399,7 +399,7 @@ title: 'Котел THERM 32 CLN (2015)'
 </header>
 <div class="card-body">
 <div class="text-center mb-4">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/2544_23-CLN-ovladaci-panel.jpg" alt="Электропанель" class="border"></figure>
+<figure class="image is-inline-block"><img src="2544_23-CLN-ovladaci-panel.jpg" alt="Электропанель" class="border"></figure>
 </div>
 <div class="table-container">
 <table class="table is-bordered is-striped w-100">

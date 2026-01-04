@@ -398,5 +398,5 @@ title: 'Профессиональный ремонт электрических
 </div>
 </div>
 </section>
-<div class="text-center mb-5"><img src="https://service04.ru/bl-content/uploads/pages/autosave-072621b09c828c606acbe69430fd19db/Screenshot_43.jpg" alt="Изображение котла STOUT" class="is-fullwidth"></div>
+<div class="text-center mb-5"><img src="Screenshot_43.jpg" alt="Изображение котла STOUT" class="is-fullwidth"></div>
 </div>

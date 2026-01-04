@@ -185,7 +185,7 @@ title: 'Ремонт электрических котлов STOUT'
     </section>
 
     <div class="container-fluid p-0 pt-5">
-        <img src="https://service04.ru/bl-content/uploads/pages/autosave-072621b09c828c606acbe69430fd19db/Screenshot_43.jpg" alt="STOUT Котел" class="img-fluid w-100">
+        <img src="Screenshot_43.jpg" alt="STOUT Котел" class="img-fluid w-100">
     </div>
 </div>
 

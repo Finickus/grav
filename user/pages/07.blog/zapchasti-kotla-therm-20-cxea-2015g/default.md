@@ -12,7 +12,7 @@ title: 'Запчасти котла THERM 20 CXE.A 2015г'
 </div>
 <!-- Секция 1: Газовые компоненты и горелка -->
 <h2 class="h4 display-4 mb-4"><i class="fas fa-fire text-danger me-2"></i> Газовые компоненты и горелка</h2>
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/2548_23-CLN-spalovaci-cast.jpg" alt="Газовые компоненты и горелка" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image mb-4"><img src="2548_23-CLN-spalovaci-cast.jpg" alt="Газовые компоненты и горелка" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 <div class="table-container mb-5">
 <table class="table is-striped w-100">
 <thead>
@@ -103,7 +103,7 @@ title: 'Запчасти котла THERM 20 CXE.A 2015г'
 </div>
 <!-- Секция 2: Водяной контур и корпусные детали -->
 <h2 class="h4 display-4 mb-4"><i class="fas fa-tint text-primary me-2"></i> Водяной контур и корпусные детали</h2>
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/2548_20-CX.A-voda.jpg" alt="Водяной контур и корпусные детали" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image mb-4"><img src="2548_20-CX.A-voda.jpg" alt="Водяной контур и корпусные детали" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 <div class="table-container mb-5">
 <table class="table is-striped w-100">
 <thead>
@@ -279,7 +279,7 @@ title: 'Запчасти котла THERM 20 CXE.A 2015г'
 </div>
 <!-- Секция 3: Панель управления -->
 <h2 class="h4 display-4 mb-4"><i class="fas fa-cogs text-grey me-2"></i> Панель управления</h2>
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/2548_panel-20-pozice.jpg" alt="Панель управления" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image mb-4"><img src="2548_panel-20-pozice.jpg" alt="Панель управления" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 <div class="table-container mb-5">
 <table class="table is-striped w-100">
 <thead>

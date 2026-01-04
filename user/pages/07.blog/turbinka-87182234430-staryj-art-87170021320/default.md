@@ -13,7 +13,7 @@ title: 'Турбинка (датчик протока)'
 <div class="card mb-4">
 <div class="card-body">
 <div class="row">
-<div class="col-md-4 mb-3"><img src="https://service04.ru/bl-content/img/2019/12/2018-03-12_001436-b9cf3792.jpg" alt="Турбинка (датчик протока) артикул 87182234430 (старый арт. 87170021320)" class="img-fluid rounded border"></div>
+<div class="col-md-4 mb-3"><img src="2018-03-12_001436-b9cf3792.jpg" alt="Турбинка (датчик протока) артикул 87182234430 (старый арт. 87170021320)" class="img-fluid rounded border"></div>
 <div class="col-md-8">
 <h3 class="card-h3" style="color: #e37a25;">Турбинка (датчик протока) артикул 87182234430 (старый арт. 87170021320)</h3>
 <p class="lead">Используется на котлах для точного измерения расхода воды и управления работой модулируемой горелки в режиме приготовления горячей воды (ГВС).</p>
@@ -70,7 +70,7 @@ title: 'Турбинка (датчик протока)'
 </div>
 <div class="card-body">
 <div class="row">
-<div class="col-md-6 mb-3"><img src="https://service04.ru/bl-content/img/2019/12/gidroturbinka-gaz-4000-w-bosch-8-718-223-443-8-717-002-132.jpg" alt="Гидротурбинка GAZ 4000 W Bosch 8 718 223 443 / 8 717 002 132" class="img-fluid rounded border mb-3">
+<div class="col-md-6 mb-3"><img src="gidroturbinka-gaz-4000-w-bosch-8-718-223-443-8-717-002-132.jpg" alt="Гидротурбинка GAZ 4000 W Bosch 8 718 223 443 / 8 717 002 132" class="img-fluid rounded border mb-3">
 <p class="text-center"><small>Гидротурбинка GAZ 4000 W Bosch 8 718 223 443 / 8 717 002 132</small></p>
 </div>
 <div class="col-md-6">

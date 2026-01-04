@@ -61,7 +61,7 @@ title: 'Техническое обслуживание дизельной го�
 <div>
 <h4>Начало работ: подготовка</h4>
 <div class="row mt-3">
-<div class="col-md-5"><img src="https://service04.ru/bl-content/img/2019/12/obsluz-dizelnogo-kotla_Image12-cabfb63d.jpg" alt="Снятие крышки горелки" class="img-fluid rounded shadow mb-3"></div>
+<div class="col-md-5"><img src="obsluz-dizelnogo-kotla_Image12-cabfb63d.jpg" alt="Снятие крышки горелки" class="img-fluid rounded shadow mb-3"></div>
 <div class="col-md-7">
 <div class="step-content">
 <p>Первым делом необходимо снять крышку горелки для доступа к внутренним компонентам.</p>
@@ -79,7 +79,7 @@ title: 'Техническое обслуживание дизельной го�
 <div>
 <h4>Замер выбросов</h4>
 <div class="row mt-3">
-<div class="col-md-5"><img src="https://service04.ru/bl-content/img/2019/12/obsluz-dizelnogo-kotla_Image11-0fb4e34b.jpg" alt="Замер выбросов" class="img-fluid rounded shadow mb-3"></div>
+<div class="col-md-5"><img src="obsluz-dizelnogo-kotla_Image11-0fb4e34b.jpg" alt="Замер выбросов" class="img-fluid rounded shadow mb-3"></div>
 <div class="col-md-7">
 <div class="step-content">
 <p>Перед началом работ специалисты советуют измерить выбросы дымовых газов. Эти значения нужны для сравнения после ТО и помогут правильно настроить горелку.</p>
@@ -104,7 +104,7 @@ title: 'Техническое обслуживание дизельной го�
 <div>
 <h4>Демонтаж горелки</h4>
 <div class="row mt-3">
-<div class="col-md-5"><img src="https://service04.ru/bl-content/img/2019/12/obsluz-dizelnogo-kotla_Image10-dcc95ae0.jpg" alt="Демонтаж горелки" class="img-fluid rounded shadow mb-3"></div>
+<div class="col-md-5"><img src="obsluz-dizelnogo-kotla_Image10-dcc95ae0.jpg" alt="Демонтаж горелки" class="img-fluid rounded shadow mb-3"></div>
 <div class="col-md-7">
 <div class="step-content">
 <p>Открутите крепежные болты и аккуратно извлеките горелку из котла.</p>
@@ -134,7 +134,7 @@ title: 'Техническое обслуживание дизельной го�
 <div>
 <h4>Очистка воздушного фильтра</h4>
 <div class="row mt-3">
-<div class="col-md-5"><img src="https://service04.ru/bl-content/img/2019/12/obsluz-dizelnogo-kotla_Image09-cd0b9be7.jpg" alt="Очистка воздушного фильтра" class="img-fluid rounded shadow mb-3"></div>
+<div class="col-md-5"><img src="obsluz-dizelnogo-kotla_Image09-cd0b9be7.jpg" alt="Очистка воздушного фильтра" class="img-fluid rounded shadow mb-3"></div>
 <div class="col-md-7">
 <div class="step-content">
 <p>Снимите фильтр забора воздуха. Очистите его от сухой пыли с помощью кисти или тряпки. При сильном загрязнении замените фильтр.</p>
@@ -152,7 +152,7 @@ title: 'Техническое обслуживание дизельной го�
 <div>
 <h4>Проверка и очистка распылителя</h4>
 <div class="row mt-3">
-<div class="col-md-5"><img src="https://service04.ru/bl-content/img/2019/12/obsluz-dizelnogo-kotla_Image08-5ab31d2b.jpg" alt="Очистка распылителя" class="img-fluid rounded shadow mb-3"></div>
+<div class="col-md-5"><img src="obsluz-dizelnogo-kotla_Image08-5ab31d2b.jpg" alt="Очистка распылителя" class="img-fluid rounded shadow mb-3"></div>
 <div class="col-md-7">
 <div class="step-content">
 <p>Тщательно проверьте распылитель. Очистку производите сухой тряпкой или с помощью чистящих спреев. При обнаружении сажи требуется замена форсунок.</p>
@@ -175,7 +175,7 @@ title: 'Техническое обслуживание дизельной го�
 <div>
 <h4>Обслуживание сопла</h4>
 <div class="row mt-3">
-<div class="col-md-5"><img src="https://service04.ru/bl-content/img/2019/12/obsluz-dizelnogo-kotla_Image06-dd99f216.jpg" alt="Замена сопла" class="img-fluid rounded shadow mb-3"></div>
+<div class="col-md-5"><img src="obsluz-dizelnogo-kotla_Image06-dd99f216.jpg" alt="Замена сопла" class="img-fluid rounded shadow mb-3"></div>
 <div class="col-md-7">
 <div class="step-content">
 <p>Снимите диск и при необходимости очистите. Специалисты рекомендуют ежегодно заменять сопло для поддержания оптимального распыления топлива.</p>
@@ -200,7 +200,7 @@ title: 'Техническое обслуживание дизельной го�
 <div>
 <h4>Проверка фильтра и насоса</h4>
 <div class="row mt-3">
-<div class="col-md-5"><img src="https://service04.ru/bl-content/img/2019/12/obsluz-dizelnogo-kotla_Image04-37367683.jpg" alt="Проверка фильтра и насоса" class="img-fluid rounded shadow mb-3"></div>
+<div class="col-md-5"><img src="obsluz-dizelnogo-kotla_Image04-37367683.jpg" alt="Проверка фильтра и насоса" class="img-fluid rounded shadow mb-3"></div>
 <div class="col-md-7">
 <div class="step-content">
 <p>Тщательно проверьте топливный фильтр и насос, при необходимости очистите или замените. Также осмотрите целостность гидравлических шлангов.</p>
@@ -228,7 +228,7 @@ title: 'Техническое обслуживание дизельной го�
 <div>
 <h4>Проверка всасывания вакуума</h4>
 <div class="row mt-3">
-<div class="col-md-5"><img src="https://service04.ru/bl-content/img/2019/12/obsluz-dizelnogo-kotla_Image03-7f014b98.jpg" alt="Проверка всасывания вакуума" class="img-fluid rounded shadow mb-3"></div>
+<div class="col-md-5"><img src="obsluz-dizelnogo-kotla_Image03-7f014b98.jpg" alt="Проверка всасывания вакуума" class="img-fluid rounded shadow mb-3"></div>
 <div class="col-md-7">
 <div class="step-content">
 <p>Для проверки всасывания вакуума подключите вакуумный манометр. Максимальный показатель всасывания вакуума 0,4 бар не должен быть превышен.</p>
@@ -246,7 +246,7 @@ title: 'Техническое обслуживание дизельной го�
 <div>
 <h4>Проверка давления насоса</h4>
 <div class="row mt-3">
-<div class="col-md-5"><img src="https://service04.ru/bl-content/img/2019/12/obsluz-dizelnogo-kotla_Image02-b384ec96.jpg" alt="Проверка давления насоса" class="img-fluid rounded shadow mb-3"></div>
+<div class="col-md-5"><img src="obsluz-dizelnogo-kotla_Image02-b384ec96.jpg" alt="Проверка давления насоса" class="img-fluid rounded shadow mb-3"></div>
 <div class="col-md-7">
 <div class="step-content">
 <p>Проверьте давление насоса. Оно зависит от размера форсунки и должно соответствовать спецификациям производителя.</p>
@@ -268,7 +268,7 @@ title: 'Техническое обслуживание дизельной го�
 <div>
 <h4>Проверка контроля пламени</h4>
 <div class="row mt-3">
-<div class="col-md-5"><img src="https://service04.ru/bl-content/img/2019/12/obsluz-dizelnogo-kotla_Image01-1f6f711d.jpg" alt="Проверка контроля пламени" class="img-fluid rounded shadow mb-3"></div>
+<div class="col-md-5"><img src="obsluz-dizelnogo-kotla_Image01-1f6f711d.jpg" alt="Проверка контроля пламени" class="img-fluid rounded shadow mb-3"></div>
 <div class="col-md-7">
 <div class="step-content">
 <p>Проверьте функциональность контроля пламени: выньте датчик пламени и произведите его затемнение. Горелка должна перейти в режим сбоя.</p>
@@ -294,7 +294,7 @@ title: 'Техническое обслуживание дизельной го�
 <div>
 <h4>Финальная оценка выбросов</h4>
 <div class="row mt-3">
-<div class="col-md-5"><img src="https://service04.ru/bl-content/img/2019/12/obsluz-dizelnogo-kotla_Image01_1-48d776f7.jpg" alt="Финальная оценка выбросов" class="img-fluid rounded shadow mb-3"></div>
+<div class="col-md-5"><img src="obsluz-dizelnogo-kotla_Image01_1-48d776f7.jpg" alt="Финальная оценка выбросов" class="img-fluid rounded shadow mb-3"></div>
 <div class="col-md-7">
 <div class="step-content">
 <p>После завершения всех работ произведите окончательную оценку выбросов и составьте протокол измерений.</p>

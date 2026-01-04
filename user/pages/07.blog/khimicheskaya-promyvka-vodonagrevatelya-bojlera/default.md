@@ -22,7 +22,7 @@ title: 'Промывка водонагревателей и бойлеров в
 <li><span class="icon has-text-secondary me-2"><i class="fas fa-smog"></i></span>Запах сероводорода</li>
 </ul>
 </div>
-<div class="col-6 text-center"><a href="https://service04.ru/bl-content/uploads/image/him01%20(1).jpg" target="_blank" rel="noopener"> <img src="https://service04.ru/bl-content/uploads/image/him01%20(1).jpg" class="is-fullwidth rounded has-border-light" alt="Когда пора чистить бойлер?"> </a></div>
+<div class="col-6 text-center"><a href="him01 (1).jpg" target="_blank" rel="noopener"> <img src="him01 (1).jpg" class="is-fullwidth rounded has-border-light" alt="Когда пора чистить бойлер?"> </a></div>
 </div>
 <div class="block px-4 mb-5">
 <div class="card bg-light">
@@ -38,7 +38,7 @@ title: 'Промывка водонагревателей и бойлеров в
 <p class="mb-3"><span class="icon text-primary me-2"><i class="fas fa-water"></i></span><strong>Улучшение качества воды:</strong> устранение микроорганизмов и примесей, отсутствие запаха и вкуса.</p>
 </div>
 </div>
-<div class="col-4 text-center"><a href="https://service04.ru/bl-content/uploads/image/Screenshot_96(1).jpg" target="_blank" rel="noopener"> <img src="https://service04.ru/bl-content/uploads/image/Screenshot_96(1).jpg" class="is-fullwidth rounded" alt="Промывка котла"> </a></div>
+<div class="col-4 text-center"><a href="Screenshot_96(1).jpg" target="_blank" rel="noopener"> <img src="Screenshot_96(1).jpg" class="is-fullwidth rounded" alt="Промывка котла"> </a></div>
 </div>
 <hr>
 <h4 class="h4 display-4 text-primary mb-4">Процесс химической промывки бойлера</h4>
@@ -75,7 +75,7 @@ title: 'Промывка водонагревателей и бойлеров в
 </ol>
 <p class="mt-3 text-muted">Рекомендуется доверить процедуру профессионалам для безопасности и эффективности.</p>
 </div>
-<div class="text-center mb-5"><a href="https://service04.ru/bl-content/img/2020/04/2020-04-09_222611.jpg" target="_blank" rel="noopener"> <img src="https://service04.ru/bl-content/img/2020/04/2020-04-09_222611.jpg" class="is-fullwidth rounded" alt="Химическая промывка бойлера"> </a>
+<div class="text-center mb-5"><a href="2020-04-09_222611.jpg" target="_blank" rel="noopener"> <img src="2020-04-09_222611.jpg" class="is-fullwidth rounded" alt="Химическая промывка бойлера"> </a>
 <p class="mt-2 text-muted">Химическая промывка бойлера</p>
 </div>
 <div class="notification is-primary">

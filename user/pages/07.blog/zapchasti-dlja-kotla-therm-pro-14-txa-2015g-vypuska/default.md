@@ -5,7 +5,7 @@ title: 'Раздел газ'
 
 <div class="ce_text first block" style='overflow: hidden; margin-left: 10px; margin-right: 10px; color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>
 
-<figure class="image_container float_above" style="margin: 0px; padding: 0px;"><img src="https://service04.ru/bl-content/img/2019/12/2576_14-TX-spalovaci-cast.jpg" alt="Запчасти для котла THERM PRO 14 TX.A 2015г. выпуска"></figure>
+<figure class="image_container float_above" style="margin: 0px; padding: 0px;"><img src="2576_14-TX-spalovaci-cast.jpg" alt="Запчасти для котла THERM PRO 14 TX.A 2015г. выпуска"></figure>
 <p>Названия компонентов по спецификации<br>
 [01] — 41366 Газовый редуктор SIT 845 SIGMA<br>
 [02] — 20253.1 Трубка газовая 3-Th-0324A/SIT<br>
@@ -30,7 +30,7 @@ title: 'Раздел газ'
 </div>
 <div class="ce_text block" style='overflow: hidden; margin-left: 10px; margin-right: 10px; color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>
 
-<figure class="image_container float_above" style="margin: 0px; padding: 0px;"><img src="https://service04.ru/bl-content/img/2019/12/2576_Vodni-cast-14X.A-do-ND.jpg" alt=""></figure>
+<figure class="image_container float_above" style="margin: 0px; padding: 0px;"><img src="2576_Vodni-cast-14X.A-do-ND.jpg" alt=""></figure>
 <p>Названия компонентов по спецификации<br>
 [03] — 23117 Горелка 6 ram. NOx, 09.92, медь<br>
 [06] — 20400 Теплообменник дымовые газы/вода PR 12-3230003<br>
@@ -59,7 +59,7 @@ title: 'Раздел газ'
 </div>
 <div class="ce_text block" style='overflow: hidden; margin-left: 10px; margin-right: 10px; color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>
 
-<figure class="image_container float_above" style="margin: 0px; padding: 0px;"><img src="https://service04.ru/bl-content/img/2019/12/2576_Panel-14-X.-A-small.jpg" alt="Запчасти для котла THERM PRO 14 TX.A 2015г. выпуска"></figure>
+<figure class="image_container float_above" style="margin: 0px; padding: 0px;"><img src="2576_Panel-14-X.-A-small.jpg" alt="Запчасти для котла THERM PRO 14 TX.A 2015г. выпуска"></figure>
 <p>Названия компонентов по спецификации<br>
 [65] — 42266.1 Лицевая часть панели управления<br>
 [66] — 42270.1 Задняя крышка панели управления<br>

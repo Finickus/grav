@@ -6,13 +6,13 @@ title: 'Bez nazvaniya'
 <div class="container">
 <div class="row">
 <div class="col-12 col-lg-4 py-3">
-<p><img src="https://service04.ru/bl-content/uploads/pages/08ef69847b95b6b6ffe2285e3bd2a100/Service04_3.jpg" alt="Исправление ошибок систем отопления" width="254" height="170"></p>
+<p><img src="Service04_3.jpg" alt="Исправление ошибок систем отопления" width="254" height="170"></p>
 </div>
 <div class="col-12 col-lg-4 py-3">
-<p><img src="https://service04.ru/bl-content/uploads/pages/08ef69847b95b6b6ffe2285e3bd2a100/service04_1.jpg" alt="Диагностика систем отопления" width="254" height="170"></p>
+<p><img src="service04_1.jpg" alt="Диагностика систем отопления" width="254" height="170"></p>
 </div>
 <div class="col-12 col-lg-4 py-3">
-<p><img src="https://service04.ru/bl-content/uploads/pages/08ef69847b95b6b6ffe2285e3bd2a100/service04_2.jpg" alt="Ремонт котлов с выездом на дом" width="254" height="170"></p>
+<p><img src="service04_2.jpg" alt="Ремонт котлов с выездом на дом" width="254" height="170"></p>
 </div>
 </div>
 </div>

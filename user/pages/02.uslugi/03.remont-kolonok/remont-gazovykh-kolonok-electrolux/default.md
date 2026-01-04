@@ -7,7 +7,7 @@ title: 'Ремонт газовых колонок Electrolux'
         <div class="row align-items-center g-4">
             <div class="col-12 text-center">
                 <a href="#modal-main-img" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-main-img">
-                    <img src="https://service04.ru/bl-content/uploads/pages/2e47220c8d3e1de941c7ffe0d7002412/electroluxtop(1).jpg" alt="Газовая колонка Electrolux" class="img-fluid rounded shadow-sm" style="max-height: 200px;">
+                    <img src="electroluxtop(1).jpg" alt="Газовая колонка Electrolux" class="img-fluid rounded shadow-sm" style="max-height: 200px;">
                 </a>
                 <h1 class="display-6 fw-bold mt-3 text-info"><i class="fas fa-tools me-2"></i>Ремонт газовых колонок Electrolux</h1>
             </div>
@@ -76,7 +76,7 @@ title: 'Ремонт газовых колонок Electrolux'
         </div>
         <div class="col-md-6">
             <a href="#modal-img-team" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-team">
-                <img src="https://service04.ru/bl-content/uploads/image/Screenshot_46%20(1).jpg" alt="Команда мастеров" class="img-fluid rounded shadow-lg">
+                <img src="Screenshot_46 (1).jpg" alt="Команда мастеров" class="img-fluid rounded shadow-lg">
             </a>
         </div>
     </div>
@@ -113,7 +113,7 @@ title: 'Ремонт газовых колонок Electrolux'
         </div>
         <div class="col-md-6 text-center">
             <a href="#modal-img-sticker" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-sticker">
-                <img src="https://service04.ru/bl-content/uploads/image/Electrolux/e7ee92331cfd6cbaf8550bf697f9f002f0cc8c85%20(1).jpg" alt="Наклейка с моделью колонки" class="img-fluid rounded shadow-lg">
+                <img src="e7ee92331cfd6cbaf8550bf697f9f002f0cc8c85 (1).jpg" alt="Наклейка с моделью колонки" class="img-fluid rounded shadow-lg">
             </a>
         </div>
     </div>
@@ -127,7 +127,7 @@ title: 'Ремонт газовых колонок Electrolux'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/2e47220c8d3e1de941c7ffe0d7002412/electroluxtop(1).jpg" class="img-fluid rounded" alt="Газовая колонка Electrolux" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="electroluxtop(1).jpg" class="img-fluid rounded" alt="Газовая колонка Electrolux" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -136,7 +136,7 @@ title: 'Ремонт газовых колонок Electrolux'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/image/Screenshot_46%20(1).jpg" class="img-fluid rounded" alt="Команда мастеров" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_46 (1).jpg" class="img-fluid rounded" alt="Команда мастеров" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -145,7 +145,7 @@ title: 'Ремонт газовых колонок Electrolux'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/image/Electrolux/e7ee92331cfd6cbaf8550bf697f9f002f0cc8c85%20(1).jpg" class="img-fluid rounded" alt="Наклейка с моделью колонки" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="e7ee92331cfd6cbaf8550bf697f9f002f0cc8c85 (1).jpg" class="img-fluid rounded" alt="Наклейка с моделью колонки" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

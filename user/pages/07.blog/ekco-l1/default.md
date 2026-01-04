@@ -10,14 +10,14 @@ title: 'Запчасти для электрокотлов Kospel EKCO_L1: ши�
 <p>В период самой бережной эксплуатации с соблюдением всех рекомендаций производителя котельное оборудование может выйти из строя. Поломкам, сбоям в настройках подвергаются надежные и экономичные электрические котлы <strong>Kospel EKCO_L1</strong>, для ремонта которых необходимы правильно подобранные запасные части и комплектующие.</p>
 </div>
 <div class="col-4 text-center">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/20150809_112008-907e3f25.jpg" alt="Запчасти для электрокотлов Kospel EKCO_L1" class="rounded shadow" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="20150809_112008-907e3f25.jpg" alt="Запчасти для электрокотлов Kospel EKCO_L1" class="rounded shadow" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 </div>
 <!-- Второй блок -->
 <div class="card mb-5">
 <h2 class="h4 display-4 mb-4" style="color: #e37a25; text-transform: uppercase;">Какие запчасти и детали вы сможете купить?</h2>
 <div class="text-center mb-5">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/kospel.jpg" alt="Схема электрокотлов Kospel EKCO_L1" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="kospel.jpg" alt="Схема электрокотлов Kospel EKCO_L1" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 <p>Существуют сотни причин поломок котлов <strong>Kospel EKCO_L1</strong>. И для каждого случая требуется перечень запасных частей, подбор которых необходимо выполнять профессионально, руководствуясь рекомендациями производителя.</p>
 <p>Каталог нашей компании — это десятки всегда востребованных, качественных, оригинальных и недорогих запасных частей для ремонта электрокотлов <strong>Kospel EKCO_L1</strong>.</p>
@@ -49,7 +49,7 @@ title: 'Запчасти для электрокотлов Kospel EKCO_L1: ши�
 <div class="card mb-5">
 <h3 class="h5 text-center mb-4" style="color: #e37a25;">Схема запчастей EKCO_L1</h3>
 <div class="text-center">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/wklejka_EKCO_L1_140814-page-001-c7c7e991.jpg" alt="Схема запчастей EKCO_L1" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="wklejka_EKCO_L1_140814-page-001-c7c7e991.jpg" alt="Схема запчастей EKCO_L1" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 </div>
 <!-- Каталог запчастей -->

@@ -19,7 +19,7 @@ title: 'Пневмореле для котлов (моностат)'
 </div>
 <!-- Изображение -->
 <div class="card mb-5 content-card text-center">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20141127_142934.jpg" alt="Пневмореле настенного котла Buderus" class="rounded" style="border: 1px solid #ddd; max-width: 100%;"></figure>
+<figure class="image is-inline-block"><img src="20141127_142934.jpg" alt="Пневмореле настенного котла Buderus" class="rounded" style="border: 1px solid #ddd; max-width: 100%;"></figure>
 <p class="mt-3">Пневмореле настенного котла Buderus<br>— Logamax U042 24K<br><strong>Артикул 87160112910</strong></p>
 <a href="https://service04.ru/pnevmorele-dlja-kotlov-monostat.html" class="btn btn-primary mt-3"> Купить </a></div>
 <!-- Совместимость -->

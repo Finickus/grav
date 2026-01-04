@@ -144,16 +144,16 @@ title: 'Клапаны Honeywell VS8620'
 <!-- Изображения -->
 <div class="row g-3 is-variable is-4 mt-5">
 <div class="col is-full-mobile is-half-tablet is-one-quarter-desktop text-center">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/20151209_174859.jpg" alt="" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="20151209_174859.jpg" alt="" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 <div class="col is-full-mobile is-half-tablet is-one-quarter-desktop text-center">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/20151209_174920.jpg" alt="" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="20151209_174920.jpg" alt="" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 <div class="col is-full-mobile is-half-tablet is-one-quarter-desktop text-center">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/20151209_174932.jpg" alt="" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="20151209_174932.jpg" alt="" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 <div class="col is-full-mobile is-half-tablet is-one-quarter-desktop text-center">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/20151209_174948.jpg" alt="" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="20151209_174948.jpg" alt="" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 </div>
 </div>

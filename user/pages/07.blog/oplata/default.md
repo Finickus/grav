@@ -17,27 +17,27 @@ title: 'Варианты оплаты'
 <div class="content p-4">
 <div class="row g-3 is-centered mb-5">
 <div class="col is-2 text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/2018-03-21_215612.jpg" alt="Оплата наличными" class="rounded"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2018-03-21_215612.jpg" alt="Оплата наличными" class="rounded"></figure>
 <p class="mt-2 fs-6">Наличные</p>
 </div>
 <div class="col is-2 text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/2018-03-21_215838.jpg" alt="Банковская карта" class="rounded"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2018-03-21_215838.jpg" alt="Банковская карта" class="rounded"></figure>
 <p class="mt-2 fs-6">Карта</p>
 </div>
 <div class="col is-2 text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/2018-03-21_215648.jpg" alt="Онлайн оплата" class="rounded"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2018-03-21_215648.jpg" alt="Онлайн оплата" class="rounded"></figure>
 <p class="mt-2 fs-6">Онлайн</p>
 </div>
 <div class="col is-2 text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/2018-03-21_215728.jpg" alt="Qiwi" class="rounded"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2018-03-21_215728.jpg" alt="Qiwi" class="rounded"></figure>
 <p class="mt-2 fs-6">Qiwi</p>
 </div>
 <div class="col is-2 text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/2018-03-21_215749.jpg" alt="Яндекс.Деньги" class="rounded"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2018-03-21_215749.jpg" alt="Яндекс.Деньги" class="rounded"></figure>
 <p class="mt-2 fs-6">Яндекс</p>
 </div>
 <div class="col is-2 text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/2018-03-21_215903.jpg" alt="Перевод на карту" class="rounded"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2018-03-21_215903.jpg" alt="Перевод на карту" class="rounded"></figure>
 <p class="mt-2 fs-6">Перевод</p>
 </div>
 </div>

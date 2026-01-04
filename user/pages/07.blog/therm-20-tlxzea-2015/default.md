@@ -24,7 +24,7 @@ title: 'Запчасти для котла THERM 20 TLXZE.A 2015г'
 </div>
 <!-- Первая секция: Газовые компоненты -->
 <h2 class="h4 display-4 mb-3"><i class="fas fa-fire text-danger me-2"></i> Газовые компоненты и горелка</h2>
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/THERM-20-TLXZE.A-2015g-1.jpg" alt="Газовые компоненты и горелка" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image mb-4"><img src="THERM-20-TLXZE.A-2015g-1.jpg" alt="Газовые компоненты и горелка" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 <div class="table-container mb-5">
 <table class="table is-striped w-100 spec-table">
 <thead>
@@ -165,7 +165,7 @@ title: 'Запчасти для котла THERM 20 TLXZE.A 2015г'
 </div>
 <!-- Вторая секция: Водяной контур -->
 <h2 class="h4 display-4 mb-3"><i class="fas fa-tint text-primary me-2"></i> Водяной контур и корпусные детали</h2>
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/THERM-20-TLXZE.A-2015g-2.jpg" alt="Водяной контур и корпусные детали" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image mb-4"><img src="THERM-20-TLXZE.A-2015g-2.jpg" alt="Водяной контур и корпусные детали" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 <div class="table-container mb-5">
 <table class="table is-striped w-100 spec-table">
 <thead>
@@ -366,7 +366,7 @@ title: 'Запчасти для котла THERM 20 TLXZE.A 2015г'
 </div>
 <!-- Третья секция: Панель управления -->
 <h2 class="h4 display-4 mb-3"><i class="fas fa-cogs text-muted me-2"></i> Панель управления</h2>
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/THERM-20-TLXZE.A-2015g-3.jpg" alt="Панель управления" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image mb-4"><img src="THERM-20-TLXZE.A-2015g-3.jpg" alt="Панель управления" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 <div class="table-container mb-5">
 <table class="table is-striped w-100 spec-table">
 <thead>

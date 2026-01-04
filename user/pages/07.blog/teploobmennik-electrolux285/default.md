@@ -14,7 +14,7 @@ title: 'Теплообменник ELECTROLUX GWH 285 ERN NANO PRO'
 <div class="card-body">
 <div class="row align-items-center">
 <div class="col-4 text-center">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20160912_115333_wm.jpg" alt="Теплообменник Электролюкс 285" class="has-border-light shadow"></figure>
+<figure class="image is-inline-block"><img src="20160912_115333_wm.jpg" alt="Теплообменник Электролюкс 285" class="has-border-light shadow"></figure>
 </div>
 <div class="col is-two-thirds content">
 

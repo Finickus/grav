@@ -22,7 +22,7 @@ title: 'Ошибки котлов Rinnai'
                 </div>
             </div>
             <div class="text-center mt-4">
-                <img src="https://service04.ru/bl-content/uploads/image/Rinnai/Screenshot_44.jpg" alt="Дисплей ошибок Rinnai" class="img-fluid rounded" style="max-width: 235px;">
+                <img src="Screenshot_44.jpg" alt="Дисплей ошибок Rinnai" class="img-fluid rounded" style="max-width: 235px;">
             </div>
         </div>
     </div>

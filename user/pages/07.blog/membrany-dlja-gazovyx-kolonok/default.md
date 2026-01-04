@@ -12,7 +12,7 @@ title: 'Мембраны для газовых колонок'
 </div>
 </section>
 <div class="card mb-5">
-<div class="card-body text-center"><a href="https://service04.ru/bl-content/img/2019/12/31-03-51_membrany.jpg" target="_blank" data-h3="Мембраны для газовых колонок" rel="noopener"> <img src="https://service04.ru/bl-content/img/2019/12/31-03-51_membrany.jpg" alt="Мембраны для газовых колонок" class="is-fullwidth rounded has-border-light"> </a></div>
+<div class="card-body text-center"><a href="31-03-51_membrany.jpg" target="_blank" data-h3="Мембраны для газовых колонок" rel="noopener"> <img src="31-03-51_membrany.jpg" alt="Мембраны для газовых колонок" class="is-fullwidth rounded has-border-light"> </a></div>
 </div>
 <div class="card mb-5"><header class="card-header bg-info text-white">
 <p class="card-h3 text-white fs-4"><span class="icon me-2"><i class="fas fa-list"></i></span> Мембраны водяного блока для различных моделей</p>

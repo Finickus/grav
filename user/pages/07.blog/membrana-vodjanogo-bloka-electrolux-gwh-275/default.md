@@ -7,7 +7,7 @@ title: 'Мембрана для газовой колонки Электролю
 
 <div class="row is-variable is-6 mb-5">
 <div class="col-4">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/20140929_173053-18e83175.jpg" alt="Мембрана для газовой колонки Электролюкс 275 250" class="rounded" style="border: 1px solid #ddd; max-width: 100%;"></figure>
+<figure class="image"><img src="20140929_173053-18e83175.jpg" alt="Мембрана для газовой колонки Электролюкс 275 250" class="rounded" style="border: 1px solid #ddd; max-width: 100%;"></figure>
 </div>
 <div class="col">
 <p>Газовая колонка <strong>Electrolux 275 250</strong> выпускалась на испанском заводе Fagor. Она является одной из самых удачных моделей из линейки Electrolux — с очень простым управлением и высокой надёжностью.</p>
@@ -43,7 +43,7 @@ title: 'Мембрана для газовой колонки Электролю
 </ul>
 <p class="mb-4">Также отправляем запчасти по России транспортной компанией <strong>СДЭК</strong>. Отправка производится по предоплате 100%.</p>
 <p class="mb-4"><strong>Совместимость:</strong> мембрана Electrolux 275, Vaillant MAG 11 C подходит для колонок: <br>ELECTROLUX GWH 250 RN, AEG GWH 11 RN, VAILLANT MAG ОЕ 11-0/0 XС C+, VAILLANT MAG 19/2 XZ</p>
-<figure class="image text-center mb-5"><img src="https://service04.ru/bl-content/img/2019/12/20140929_173038.jpg" alt="Мембрана для газовой колонки Электролюкс 275 250" class="rounded" style="border: 1px solid #ddd; max-width: 100%;" width="199" height="354"></figure>
+<figure class="image text-center mb-5"><img src="20140929_173038.jpg" alt="Мембрана для газовой колонки Электролюкс 275 250" class="rounded" style="border: 1px solid #ddd; max-width: 100%;" width="199" height="354"></figure>
 <!-- Форма обратной связи -->
 <div class="card bg-primary-light p-5 text-center">
 <h3 class="h4 display-4 mb-4" style="color: #e37a25; text-transform: uppercase;">Заказать мембрану для газовой колонки Электролюкс 275 250</h3>

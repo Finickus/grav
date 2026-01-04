@@ -16,7 +16,7 @@ title: 'Ошибки газовых колонок Ariston'
             <div class="row align-items-center g-4">
                 <div class="col-md-4 text-center">
                     <figure class="figure mb-0">
-                        <img src="https://service04.ru/bl-content/img/2019/12/2018-07-11_225151-ade6591e.jpg" alt="Коды ошибок газовых колонок Ariston" class="img-fluid rounded" style="max-width: 250px;">
+                        <img src="2018-07-11_225151-ade6591e.jpg" alt="Коды ошибок газовых колонок Ariston" class="img-fluid rounded" style="max-width: 250px;">
                         <figcaption class="figure-caption mt-2 small text-muted">Коды ошибок газовых колонок Ariston</figcaption>
                     </figure>
                 </div>

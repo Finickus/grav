@@ -19,7 +19,7 @@ title: 'Ошибки напольных котлов MORA'
                 <i class="bi bi-droplet text-primary me-2"></i> Утечка воды по неустановленным причинам
             </h2>
             <div class="text-center mb-3">
-                <img src="https://service04.ru/bl-content/img/2019/12/1.jpg" alt="Утечка воды" class="img-fluid rounded shadow-sm" style="max-height: 250px;">
+                <img src="1.jpg" alt="Утечка воды" class="img-fluid rounded shadow-sm" style="max-height: 250px;">
             </div>
             <div class="row mt-4">
                 <div class="col-md-6">
@@ -54,7 +54,7 @@ title: 'Ошибки напольных котлов MORA'
                 <i class="bi bi-fire text-danger me-2"></i> Утечка газа
             </h2>
             <div class="text-center mb-3">
-                <img src="https://service04.ru/bl-content/img/2019/12/2.jpg" alt="Утечка газа" class="img-fluid rounded shadow-sm" style="max-height: 250px;">
+                <img src="2.jpg" alt="Утечка газа" class="img-fluid rounded shadow-sm" style="max-height: 250px;">
             </div>
             
             <div class="alert alert-danger d-flex align-items-center fw-bold">
@@ -88,7 +88,7 @@ title: 'Ошибки напольных котлов MORA'
                 <i class="bi bi-thermometer-low text-warning me-2"></i> Основная горелка горит слабо или гаснет
             </h2>
             <div class="text-center mb-3">
-                <img src="https://service04.ru/bl-content/img/2019/12/3.jpg" alt="Проблемы с горелкой" class="img-fluid rounded shadow-sm" style="max-height: 250px;">
+                <img src="3.jpg" alt="Проблемы с горелкой" class="img-fluid rounded shadow-sm" style="max-height: 250px;">
             </div>
             <div class="row mt-4">
                 <div class="col-md-6">
@@ -116,7 +116,7 @@ title: 'Ошибки напольных котлов MORA'
         </div>
         <div class="card-body">
             <div class="text-center mb-4">
-                <img src="https://service04.ru/bl-content/img/2019/12/8.jpg" alt="Техобслуживание" class="img-fluid rounded shadow-sm" style="max-height: 300px;">
+                <img src="8.jpg" alt="Техобслуживание" class="img-fluid rounded shadow-sm" style="max-height: 300px;">
             </div>
             <div class="row">
                 <div class="col-md-6">

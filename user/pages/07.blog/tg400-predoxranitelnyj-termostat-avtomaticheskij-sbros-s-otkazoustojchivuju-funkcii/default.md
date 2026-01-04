@@ -26,7 +26,7 @@ title: 'TG400'
 </div>
 <div class="card-body">
 <h4 class="card-h3">TG400 - Предохранительный термостат</h4>
-<p class="card-text lead"><img src="https://service04.ru/bl-content/img/2019/12/2018-03-14_235434-b0568773.png" width="300" height="244" alt=""></p>
+<p class="card-text lead"><img src="2018-03-14_235434-b0568773.png" width="300" height="244" alt=""></p>
 <p class="card-text lead">Автоматический сброс с отказоустойчивой функцией</p>
 <div class="alert alert-info">
 <h5 class="alert-heading"><i class="fas fa-shield-alt me-2"></i>Ключевые особенности:</h5>

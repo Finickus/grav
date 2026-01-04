@@ -8,7 +8,7 @@ title: 'Почему выбирают нас?'
 <div class="col-md-12 border bg-light py-5">
 <p class="lead text-justify">Добро пожаловать на нашу страницу, посвященную ремонту котлов Protherm! Мы являемся специалистами по ремонту и обслуживанию котлов этого популярного бренда. Наша команда профессиональных техников имеет обширный опыт в ремонте котлов Protherm.</p>
 <p class="lead text-justify">Мы предлагаем качественный ремонт, осуществляемый опытными специалистами, которые знают все особенности и технические характеристики котлов Protherm. Мы решаем любые проблемы с котлами, будь то поломки, утечки, проблемы с электричеством или любые другие неисправности.</p>
-<p class="lead text-justify"><a href="https://tlgg.ru/GazService04" target="_blank" rel="noopener" style="color: #007bff; background-color: #ffffff; font-size: 16px; text-align: left;"><img src="https://service04.ru/bl-content/uploads/image/1ICON/telega.svg" width="40" height="40" alt=""></a><a href="https://wa.me/79262211348?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5,%20%D0%A3%20%D0%BC%D0%B5%D0%BD%D1%8F%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D1%83" target="_blank" rel="noopener" style="color: #007bff; background-color: #ffffff; font-size: 16px; text-align: left;"><img src="https://service04.ru/bl-content/uploads/image/1ICON/whatsapp.svg" width="40" height="40" alt=""></a><a href="https://vk.com/service_04" target="_blank" rel="noopener" style="color: #007bff; background-color: #ffffff; font-size: 16px; text-align: left;"><img src="https://service04.ru/bl-content/uploads/image/1ICON/vk122.svg" width="40" height="40" alt=""></a></p>
+<p class="lead text-justify"><a href="https://tlgg.ru/GazService04" target="_blank" rel="noopener" style="color: #007bff; background-color: #ffffff; font-size: 16px; text-align: left;"><img src="telega.svg" width="40" height="40" alt=""></a><a href="https://wa.me/79262211348?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5,%20%D0%A3%20%D0%BC%D0%B5%D0%BD%D1%8F%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D1%83" target="_blank" rel="noopener" style="color: #007bff; background-color: #ffffff; font-size: 16px; text-align: left;"><img src="whatsapp.svg" width="40" height="40" alt=""></a><a href="https://vk.com/service_04" target="_blank" rel="noopener" style="color: #007bff; background-color: #ffffff; font-size: 16px; text-align: left;"><img src="vk122.svg" width="40" height="40" alt=""></a></p>
 <a class="btn btn-primary" href="https://service04.ru/master">Вызвать мастера</a>  </div>
 </div>
 <figure></figure>
@@ -24,12 +24,12 @@ title: 'Почему выбирают нас?'
 <p></p>
 </div>
 <div class="col-md-6">
-<p><img src="https://service04.ru/bl-content/uploads/pages/9db8e0232959ced2ea1f507ba71de984/Screenshot_178(2).jpg" alt=""></p>
+<p><img src="Screenshot_178(2).jpg" alt=""></p>
 </div>
 </div>
 <h3></h3>
 <div class="row shadow-sm">
-<div class="col-md-4"><img src="https://service04.ru/bl-content/uploads/image/logo/logo-prot.jpg" width="100%" height="" alt=""><img src="https://service04.ru/bl-content/uploads/pages/9db8e0232959ced2ea1f507ba71de984/Screenshot_176(2).jpg" alt="" width="100%"></div>
+<div class="col-md-4"><img src="logo-prot.jpg" width="100%" height="" alt=""><img src="Screenshot_176(2).jpg" alt="" width="100%"></div>
 <div class="col-md-8">
 
 <ul>
@@ -140,7 +140,7 @@ title: 'Почему выбирают нас?'
 <li>Обеспечить безопасность эксплуатации котла, предупредив риск перегрева, утечки газа, пожара или других аварийных ситуаций.</li>
 </ul>
 </div>
-<div class="col-md-4"><img src="https://service04.ru/bl-content/uploads/image/Screenshot_179%20(1).jpg" alt="Screenshot_179 (1)" width="100%"></div>
+<div class="col-md-4"><img src="Screenshot_179 (1).jpg" alt="Screenshot_179 (1)" width="100%"></div>
 </div>
 <p></p>
 <p>Сервисное обслуживание котлов рекомендуется проводить не реже одного раза в год, а также при появлении признаков неисправности или снижения эффективности работы котла. Для проведения сервисного обслуживания котлов необходимо обратиться к профессиональным мастерам, которые имеют опыт и квалификацию в этой области.</p>
@@ -156,10 +156,10 @@ title: 'Почему выбирают нас?'
 <h5 id="h_1226986624201693585914529"><strong>Наши мастера, которые проходят обучение и подтверждают свою квалификацию, обеспечат высокий уровень обслуживания отопительных котлов «Протерм».</strong></h5>
 <div class="row">
 <div class="col-md-6">
-<p><img src="https://service04.ru/bl-content/uploads/image/Protherm/0%20(2).jpg" width="414" height="300" alt="Сертификат протерм"></p>
+<p><img src="0 (2).jpg" width="414" height="300" alt="Сертификат протерм"></p>
 </div>
 <div class="col-md-6">
-<p><img src="https://service04.ru/bl-content/uploads/image/Protherm/Sertifikat-Proterm-001%20(1).jpg" width="413" height="300" alt="Сертификат Протерм"></p>
+<p><img src="Sertifikat-Proterm-001 (1).jpg" width="413" height="300" alt="Сертификат Протерм"></p>
 </div>
 </div>
 <p></p>
@@ -178,5 +178,5 @@ title: 'Почему выбирают нас?'
 </div>
 </div>
 <aside id="left">
-<div><nav><img src="https://service04.ru/bl-content/uploads/pages/9db8e0232959ced2ea1f507ba71de984/KotelProtherm(1).jpg" alt=""></nav></div>
+<div><nav><img src="KotelProtherm(1).jpg" alt=""></nav></div>
 </aside>

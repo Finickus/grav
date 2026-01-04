@@ -27,7 +27,7 @@ title: 'Ремонт котла Baxi'
                     </div>
                 </div>
                 <div class="col-lg-4 text-center">
-                    <img src="https://service04.ru/bl-content/uploads/pages/e76d808c4ea7c2b7ad6667e509a4cfee/baxikotel.jpg" alt="Котёл Baxi" class="img-fluid rounded shadow-sm">
+                    <img src="baxikotel.jpg" alt="Котёл Baxi" class="img-fluid rounded shadow-sm">
                 </div>
             </div>
         </div>
@@ -37,7 +37,7 @@ title: 'Ремонт котла Baxi'
         <div class="col-md-4">
             <div class="card h-100 border-0 shadow-sm hover-shadow transition overflow-hidden">
                 <a href="#modal-gallery-1" data-bs-toggle="modal" data-bs-target="#modal-gallery-1">
-                    <img src="https://service04.ru/bl-content/uploads/image/Screenshot_75%20(3).jpg" alt="Диагностика котла Baxi" class="card-img-top">
+                    <img src="Screenshot_75 (3).jpg" alt="Диагностика котла Baxi" class="card-img-top">
                 </a>
                 <div class="card-body p-3">
                     <p class="small fw-bold mb-0">Диагностика системы</p>
@@ -47,7 +47,7 @@ title: 'Ремонт котла Baxi'
         <div class="col-md-4">
             <div class="card h-100 border-0 shadow-sm hover-shadow transition overflow-hidden">
                 <a href="#modal-gallery-2" data-bs-toggle="modal" data-bs-target="#modal-gallery-2">
-                    <img src="https://service04.ru/bl-content/uploads/image/Screenshot_76%20(1)%20(1).jpg" alt="Сервисное обслуживание Baxi" class="card-img-top">
+                    <img src="Screenshot_76 (1) (1).jpg" alt="Сервисное обслуживание Baxi" class="card-img-top">
                 </a>
                 <div class="card-body p-3">
                     <p class="small fw-bold mb-0">Сервисное обслуживание</p>
@@ -57,7 +57,7 @@ title: 'Ремонт котла Baxi'
         <div class="col-md-4">
             <div class="card h-100 border-0 shadow-sm hover-shadow transition overflow-hidden">
                 <a href="#modal-gallery-3" data-bs-toggle="modal" data-bs-target="#modal-gallery-3">
-                    <img src="https://service04.ru/bl-content/uploads/image/Screenshot_35%20(1).jpg" alt="Ремонт платы Baxi" class="card-img-top">
+                    <img src="Screenshot_35 (1).jpg" alt="Ремонт платы Baxi" class="card-img-top">
                 </a>
                 <div class="card-body p-3">
                     <p class="small fw-bold mb-0">Ремонт электроники</p>
@@ -186,7 +186,7 @@ title: 'Ремонт котла Baxi'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content bg-transparent border-0">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/image/Screenshot_75%20(3).jpg" class="img-fluid rounded shadow" alt="Диагностика котла Baxi"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_75 (3).jpg" class="img-fluid rounded shadow" alt="Диагностика котла Baxi"></div>
             </div>
         </div>
     </div>
@@ -195,7 +195,7 @@ title: 'Ремонт котла Baxi'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content bg-transparent border-0">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/image/Screenshot_76%20(1)%20(1).jpg" class="img-fluid rounded shadow" alt="Сервисное обслуживание Baxi"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_76 (1) (1).jpg" class="img-fluid rounded shadow" alt="Сервисное обслуживание Baxi"></div>
             </div>
         </div>
     </div>
@@ -204,7 +204,7 @@ title: 'Ремонт котла Baxi'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content bg-transparent border-0">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/image/Screenshot_35%20(1).jpg" class="img-fluid rounded shadow" alt="Ремонт платы Baxi"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_35 (1).jpg" class="img-fluid rounded shadow" alt="Ремонт платы Baxi"></div>
             </div>
         </div>
     </div>

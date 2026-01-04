@@ -14,7 +14,7 @@ title: 'Ремонт электро котлов'
 
         <div class="row g-4 align-items-center mb-5">
             <div class="col-lg-4 text-center">
-                <img src="https://service04.ru/bl-content/uploads/image/remont1.jpg" alt="Ремонт котлов" class="img-fluid rounded border shadow-sm">
+                <img src="remont1.jpg" alt="Ремонт котлов" class="img-fluid rounded border shadow-sm">
             </div>
             <div class="col-lg-8">
                 <div class="card border-0 shadow-sm h-100">
@@ -115,7 +115,7 @@ title: 'Ремонт электро котлов'
                 <div class="row g-4 list-brands">
                     <div class="col-md-6">
                         <div class="d-flex align-items-center bg-white p-3 rounded border">
-                            <img src="https://service04.ru/bl-content/uploads/image/logo/logoprotherm.jpg" alt="Protherm" class="me-3" style="width: 100px;">
+                            <img src="logoprotherm.jpg" alt="Protherm" class="me-3" style="width: 100px;">
                             <div>
                                 <h6 class="fw-bold mb-1">Protherm (Словакия)</h6>
                                 <p class="small text-muted mb-0">Серии Скат (Skat). Все запчасти в наличии.</p>
@@ -124,7 +124,7 @@ title: 'Ремонт электро котлов'
                     </div>
                     <div class="col-md-6">
                         <div class="d-flex align-items-center bg-white p-3 rounded border">
-                            <img src="https://service04.ru/bl-content/uploads/image/logo/vaillant_mini.jpg" alt="Vaillant" class="me-3" style="width: 100px;">
+                            <img src="vaillant_mini.jpg" alt="Vaillant" class="me-3" style="width: 100px;">
                             <div>
                                 <h6 class="fw-bold mb-1">Vaillant (Германия)</h6>
                                 <p class="small text-muted mb-0">Мощные и технологичные электрокотлы eloBLOCK.</p>
@@ -133,7 +133,7 @@ title: 'Ремонт электро котлов'
                     </div>
                     <div class="col-md-6">
                         <div class="d-flex align-items-center bg-white p-3 rounded border">
-                            <img src="https://service04.ru/bl-content/img/2019/12/Baxi.png" alt="Baxi" class="me-3" style="width: 100px;">
+                            <img src="Baxi.png" alt="Baxi" class="me-3" style="width: 100px;">
                             <div>
                                 <h6 class="fw-bold mb-1">Baxi (Италия)</h6>
                                 <p class="small text-muted mb-0">Компактные котлы серий Ampera и других.</p>
@@ -142,7 +142,7 @@ title: 'Ремонт электро котлов'
                     </div>
                     <div class="col-md-6">
                         <div class="d-flex align-items-center bg-white p-3 rounded border">
-                            <img src="https://service04.ru/bl-content/uploads/image/logo/logomora.jpg" alt="Mora" class="me-3" style="width: 100px;">
+                            <img src="logomora.jpg" alt="Mora" class="me-3" style="width: 100px;">
                             <div>
                                 <h6 class="fw-bold mb-1">Mora Top (Чехия)</h6>
                                 <p class="small text-muted mb-0">Надёжные котлы серий Electra Comfort.</p>

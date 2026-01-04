@@ -18,7 +18,7 @@ title: 'F1 Protherm KLZ'
                     <p class="lead fs-6 mb-0">Код <strong>F1</strong> означает <strong>потерю пламени</strong>: при открытом газовом клапане плата не получает сигнал от ионизационного электрода, автоматика блокирует розжиг и закрывает газовый клапан. Ошибку также провоцируют элементы безопасности (аварийный термостат), низкое давление газа, неправильная фаза/ноль и проблемы с тягой.</p>
                 </div>
                 <div class="col-lg-4 text-center">
-                    <img src="https://service04.ru/bl-content/uploads/image/Protherm/Screenshot_179.jpg" class="img-fluid rounded shadow-sm" alt="Котёл Protherm" style="max-width: 250px;">
+                    <img src="Screenshot_179.jpg" class="img-fluid rounded shadow-sm" alt="Котёл Protherm" style="max-width: 250px;">
                 </div>
             </div>
         </div>

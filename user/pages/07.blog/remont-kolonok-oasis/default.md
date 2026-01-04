@@ -4,7 +4,7 @@ title: '1.'
 
 <div class="container-fluid mt-5 mb-5">
 <section class="section py-0">
-<figure class="image is-inline-block mb-4"><img src="https://service04.ru/bl-content/uploads/pages/eac1b6da773e3ff4fa98e2a035eff317/oasistop(1).jpg" alt="Ремонт газовых колонок Oasis" class="is-fullwidth"></figure>
+<figure class="image is-inline-block mb-4"><img src="oasistop(1).jpg" alt="Ремонт газовых колонок Oasis" class="is-fullwidth"></figure>
 <p class="fs-5 has-text-weight-bold">Если ваша газовая колонка Oasis требует ремонта, важно обратиться к профессионалам, специализирующимся на обслуживании и восстановлении газового оборудования.</p>
 <p>Наши специалисты имеют большой опыт работы с газовыми колонками Oasis и готовы предоставить вам высококачественные услуги по ремонту и обслуживанию. Мы используем только оригинальные запчасти и современное оборудование для диагностики и ремонта.</p>
 </section>
@@ -79,14 +79,14 @@ title: '1.'
 <p class="fs-6">Опишите дежурному мастеру неисправность, сообщите Ваш номер телефона и адрес. Мастер свяжется с Вами и договорится о времени приезда.</p>
 </div>
 <div class="col-6 text-center">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/uploads/image/oasis/1bd82a008fa68d3a0164338227095562089b3b40%20(1)%20min.jpg" alt="Наклейка с моделью Oasis" style="max-width: 367px;"></figure>
+<figure class="image is-inline-block"><img src="1bd82a008fa68d3a0164338227095562089b3b40 (1) min.jpg" alt="Наклейка с моделью Oasis" style="max-width: 367px;"></figure>
 </div>
 </div>
 </section>
 <section class="section pt-0 content">
 <p>Мы ценим доверие наших клиентов и всегда стремимся предоставить качественные услуги по ремонту газовых колонок Oasis. Наша цель - обеспечить оптимальную работу вашей газовой колонки, восстановить ее функциональность и обеспечить безопасность использования.</p>
 <p class="has-text-weight-bold fs-5">Обратитесь к нам сегодня, чтобы получить профессиональный и надежный ремонт вашей газовой колонки Oasis.</p>
-<figure class="image is-inline-block text-center my-5"><img src="https://service04.ru/bl-content/uploads/image/oasis/Screenshot_24%20min.jpg" alt="Сертификат сервисного центра" style="max-width: 754px;"></figure>
+<figure class="image is-inline-block text-center my-5"><img src="Screenshot_24 min.jpg" alt="Сертификат сервисного центра" style="max-width: 754px;"></figure>
 </section>
 <section class="section bg-light">
 <h3 class="h4 display-4 text-center" style="">Список городов Подмосковья (Московской области) где выполняется ремонт газовых колонок</h3>

@@ -6,7 +6,7 @@ title: 'Запчасти котла THERM 20 TCX.A 2015 г.'
 <div class="container-fluid">
 
 <h2 class="h5 mb-3" style="color: #e37a25;"><i class="fas fa-fire me-2"></i> Камера сгорания и газовая часть</h2>
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/2550_20TCX.A-spalovaci-cast.jpg" alt="Запчасти котла THERM 20 TCX.A 2015г"></figure>
+<figure class="image mb-4"><img src="2550_20TCX.A-spalovaci-cast.jpg" alt="Запчасти котла THERM 20 TCX.A 2015г"></figure>
 <div class="table-container mb-5">
 <table class="table is-bordered is-striped w-100">
 <thead>
@@ -126,7 +126,7 @@ title: 'Запчасти котла THERM 20 TCX.A 2015 г.'
 </table>
 </div>
 <h2 class="h5 mb-3" style="color: #e37a25;"><i class="fas fa-tint me-2"></i> Водяная часть и гидравлический блок</h2>
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/2550_20TCX.A-voda.jpg" alt="Водяная часть котла THERM 20 TCX.A"></figure>
+<figure class="image mb-4"><img src="2550_20TCX.A-voda.jpg" alt="Водяная часть котла THERM 20 TCX.A"></figure>
 <div class="table-container mb-5">
 <table class="table is-bordered is-striped w-100">
 <thead>
@@ -291,7 +291,7 @@ title: 'Запчасти котла THERM 20 TCX.A 2015 г.'
 </table>
 </div>
 <h2 class="h5 mb-3" style="color: #e37a25;"><i class="fas fa-sliders-h me-2"></i> Панель управления</h2>
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/2550_panel-20-pozice.jpg" alt="Панель управления THERM 20 TCX.A"></figure>
+<figure class="image mb-4"><img src="2550_panel-20-pozice.jpg" alt="Панель управления THERM 20 TCX.A"></figure>
 <div class="table-container mb-5">
 <table class="table is-bordered is-striped w-100">
 <thead>

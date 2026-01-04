@@ -14,7 +14,7 @@ title: 'Умное управление отоплением с системой
 <div class="col-lg-6">
 <div class="card shadow-sm mb-4">
 <div class="row no-gutters">
-<div class="col-md-5"><img src="https://service04.ru/bl-content/img/2019/12/zont5-668aa572.jpg" alt="Система ZONT" class="img-fluid rounded-start"></div>
+<div class="col-md-5"><img src="zont5-668aa572.jpg" alt="Система ZONT" class="img-fluid rounded-start"></div>
 <div class="col-md-7">
 <div class="card-body">
 <h3 class="card-h3">Что такое ZONT?</h3>
@@ -237,13 +237,13 @@ title: 'Умное управление отоплением с системой
 <h3 class="section-h3"><i class="bi bi-images"></i> Галерея системы ZONT</h3>
 <div class="row">
 <div class="col-md-4">
-<div class="gallery-item"><img src="https://service04.ru/bl-content/img/2019/12/zont5-89d8e6a3.png" alt="ZONT система" class="img-fluid rounded shadow"></div>
+<div class="gallery-item"><img src="zont5-89d8e6a3.png" alt="ZONT система" class="img-fluid rounded shadow"></div>
 </div>
 <div class="col-md-4">
-<div class="gallery-item"><img src="https://service04.ru/bl-content/img/2019/12/zont6-6a83f0f4.jpg" alt="ZONT интерфейс" class="img-fluid rounded shadow"></div>
+<div class="gallery-item"><img src="zont6-6a83f0f4.jpg" alt="ZONT интерфейс" class="img-fluid rounded shadow"></div>
 </div>
 <div class="col-md-4">
-<div class="gallery-item"><img src="https://service04.ru/bl-content/img/2019/12/zont7-6698616e.jpg" alt="ZONT монтаж" class="img-fluid rounded shadow"></div>
+<div class="gallery-item"><img src="zont7-6698616e.jpg" alt="ZONT монтаж" class="img-fluid rounded shadow"></div>
 </div>
 </div>
 </div>

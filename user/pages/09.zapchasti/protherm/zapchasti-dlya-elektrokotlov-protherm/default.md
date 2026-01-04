@@ -16,7 +16,7 @@ title: 'Запчасти для электрокотлов Protherm'
                     <div class="card-body p-4 p-md-5">
                         <div class="row align-items-center">
                             <div class="col-md-4 text-center mb-3 mb-md-0">
-                                <img src="https://service04.ru/bl-content/img/2019/12/skat-proterm-8f33da8d.png" 
+                                <img src="skat-proterm-8f33da8d.png" 
                                      alt="Электрокотел Protherm" class="img-fluid rounded" style="max-height: 180px;">
                             </div>
                             <div class="col-md-8">
@@ -70,7 +70,7 @@ title: 'Запчасти для электрокотлов Protherm'
                     <div class="col-sm-6 col-md-4">
                         <div class="card h-100 border-0 shadow-sm position-relative overflow-hidden text-center">
                             <span class="badge bg-primary position-absolute top-0 start-0 m-2">ТЭНы</span>
-                            <img src="https://service04.ru/bl-content/img/2019/12/Image004.jpg" class="card-img-top p-3" alt="ТЭН для Protherm">
+                            <img src="Image004.jpg" class="card-img-top p-3" alt="ТЭН для Protherm">
                             <div class="card-body small p-3">
                                 <h6 class="fw-bold mb-2">ТЭНы различной мощности</h6>
                                 <p class="text-muted mb-3">0020094646 (3 кВт)<br>0020094647 (6 кВт)</p>
@@ -81,7 +81,7 @@ title: 'Запчасти для электрокотлов Protherm'
                     <div class="col-sm-6 col-md-4">
                         <div class="card h-100 border-0 shadow-sm position-relative overflow-hidden text-center">
                             <span class="badge bg-info position-absolute top-0 start-0 m-2">Клапаны</span>
-                            <img src="https://service04.ru/bl-content/img/2019/12/Image022.jpg" class="card-img-top p-3" alt="Клапан">
+                            <img src="Image022.jpg" class="card-img-top p-3" alt="Клапан">
                             <div class="card-body small p-3">
                                 <h6 class="fw-bold mb-2">Клапан предохранительный</h6>
                                 <p class="text-muted mb-3">Артикул: 0020094650<br>Сброс давления</p>
@@ -92,7 +92,7 @@ title: 'Запчасти для электрокотлов Protherm'
                     <div class="col-sm-6 col-md-4">
                         <div class="card h-100 border-0 shadow-sm position-relative overflow-hidden text-center">
                             <span class="badge bg-warning text-dark position-absolute top-0 start-0 m-2">Датчики</span>
-                            <img src="https://service04.ru/bl-content/img/2019/12/Image031.jpg" class="card-img-top p-3" alt="Датчик">
+                            <img src="Image031.jpg" class="card-img-top p-3" alt="Датчик">
                             <div class="card-body small p-3">
                                 <h6 class="fw-bold mb-2">Наружный датчик 18 мм</h6>
                                 <p class="text-muted mb-3">0020035043<br>Погодозависимый</p>
@@ -118,13 +118,13 @@ title: 'Запчасти для электрокотлов Protherm'
                     </ul>
                     <div class="tab-content bg-white p-3 rounded shadow-sm text-center">
                         <div class="tab-pane fade show active" id="skat11">
-                            <img src="https://service04.ru/bl-content/img/2019/12/electro-kotel-protherm2-4f34b55f.jpg" class="img-fluid rounded" alt="Схема Скат 11">
+                            <img src="electro-kotel-protherm2-4f34b55f.jpg" class="img-fluid rounded" alt="Схема Скат 11">
                         </div>
                         <div class="tab-pane fade" id="skat13">
-                            <img src="https://service04.ru/bl-content/img/2019/12/electro-kotel-protherm3-1e2e1c4a.jpg" class="img-fluid rounded" alt="Схема Скат 13">
+                            <img src="electro-kotel-protherm3-1e2e1c4a.jpg" class="img-fluid rounded" alt="Схема Скат 13">
                         </div>
                         <div class="tab-pane fade" id="eloblock">
-                            <img src="https://service04.ru/bl-content/img/2019/12/electro-kotel-protherm1-32d1357e.jpg" class="img-fluid rounded" alt="Схема EloBlock">
+                            <img src="electro-kotel-protherm1-32d1357e.jpg" class="img-fluid rounded" alt="Схема EloBlock">
                         </div>
                     </div>
                 </div>

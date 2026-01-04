@@ -15,7 +15,7 @@ title: 'Запчасти для электрокотлов Dakon'
 <div class="card-body">
 <div class="row align-items-center">
 <div class="col-4 mb-3 text-center">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/dakon.jpg" alt="Электрокотлы Dakon" class="has-border-light"></figure>
+<figure class="image is-inline-block"><img src="dakon.jpg" alt="Электрокотлы Dakon" class="has-border-light"></figure>
 </div>
 <div class="col is-two-thirds content">
 <p class="fs-5">**Электрические котлы Dakon** относятся к комфортному и безопасному оборудованию, которое активно используется для отопления и нагрева воды.</p>
@@ -148,7 +148,7 @@ title: 'Запчасти для электрокотлов Dakon'
 <tbody>
 <tr>
 <td>
-<figure class="image is-48x48 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/Zapchasti_Dakon_Image03.jpg" alt="Выключатель VS 25 - 1103 A8 DAKON" class="has-border-light"></figure>
+<figure class="image is-48x48 is-inline-block"><img src="Zapchasti_Dakon_Image03.jpg" alt="Выключатель VS 25 - 1103 A8 DAKON" class="has-border-light"></figure>
 </td>
 <td>
 <div class="has-text-weight-bold">Артикул: 44001947</div>
@@ -157,21 +157,21 @@ title: 'Запчасти для электрокотлов Dakon'
 </tr>
 <tr>
 <td>
-<figure class="image is-48x48 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/Zapchasti_Dakon_Image18.jpg" alt="Главный выключатель Moeller LSC1-160/3" class="has-border-light"></figure>
+<figure class="image is-48x48 is-inline-block"><img src="Zapchasti_Dakon_Image18.jpg" alt="Главный выключатель Moeller LSC1-160/3" class="has-border-light"></figure>
 </td>
 <td>Артикул: 44001959<br><strong>Главный выключатель Moeller LSC1-160/3 DAKON, Чехия</strong></td>
 <td><a href="#" class="btn btn-primary btn-sm is-primary"> <i class="fas fa-shopping-cart me-1"></i> КУПИТЬ </a></td>
 </tr>
 <tr>
 <td>
-<figure class="image is-48x48 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/Zapchasti_Dakon_Image04.jpg" alt="Термостат блокировочный LY 36 (TG 400)" class="has-border-light"></figure>
+<figure class="image is-48x48 is-inline-block"><img src="Zapchasti_Dakon_Image04.jpg" alt="Термостат блокировочный LY 36 (TG 400)" class="has-border-light"></figure>
 </td>
 <td><strong>Термостат блокировочный LY 36 (TG 400)</strong></td>
 <td><a href="#" class="btn btn-primary btn-sm is-primary"> <i class="fas fa-shopping-cart me-1"></i> КУПИТЬ </a></td>
 </tr>
 <tr>
 <td>
-<figure class="image is-48x48 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/dakonPTE1.jpg" alt="Датчик давления воды для электрического котла Dakon PTE" class="has-border-light"></figure>
+<figure class="image is-48x48 is-inline-block"><img src="dakonPTE1.jpg" alt="Датчик давления воды для электрического котла Dakon PTE" class="has-border-light"></figure>
 </td>
 <td><a href="https://service04.ru/datchik-davlenija-dakon.html" class="has-text-weight-bold" h3="Датчик давления для электрического котла Dakon PTE"> <strong>Датчик давления воды для электрического котла Dakon PTE</strong> </a><br>арт. 87381013080</td>
 <td><a href="https://service04.ru/shop/zapchasti-dlja-kotlov/dakon4515763/datchik-davlenija-vody-dlja-elektricheskogo-kotla-dakon-pte-art-87381013080-251-08301-10a" class="btn btn-primary btn-sm is-primary" target="_blank" rel="noopener"> <i class="fas fa-shopping-cart me-1"></i> КУПИТЬ </a></td>
@@ -211,7 +211,7 @@ title: 'Запчасти для электрокотлов Dakon'
 <div class="card-body">
 <div class="row align-items-center">
 <div class="col-4 mb-3 text-center">
-<figure class="image is-inline-block" style="max-width: 150px;"><img src="https://service04.ru/bl-content/img/2019/12/logo-sit.png" alt="Автоматика SIT" class="has-border-light"></figure>
+<figure class="image is-inline-block" style="max-width: 150px;"><img src="logo-sit.png" alt="Автоматика SIT" class="has-border-light"></figure>
 </div>
 <div class="col is-two-thirds content fs-6">
 <p>Компания **SIT** производит оборудование для обеспечения безопасности и регулировки процесса горения газа, которое используется для широкого ряда газовых приборов.</p>

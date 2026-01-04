@@ -11,7 +11,7 @@ title: 'Термогенераторы SIT'
 </section>
 <!-- Основное изображение -->
 <div class="card mb-5 text-center">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/wpcdc19112_05_06.jpg" alt="Термогенераторы SIT" style="border: 1px solid #dbdbdb;"></figure>
+<figure class="image is-inline-block"><img src="wpcdc19112_05_06.jpg" alt="Термогенераторы SIT" style="border: 1px solid #dbdbdb;"></figure>
 </div>
 <!-- Описание -->
 <div class="card mb-5">
@@ -39,7 +39,7 @@ title: 'Термогенераторы SIT'
 <h5 class="h5 has-text-orange mb-3">Широкая совместимость</h5>
 <p>Эта термопара предназначена для газовых котлов многих фирм, в том числе фирм <strong>Electrolux, Mora, Protherm, Ferroli, Thermona</strong> и др.</p>
 <div class="text-center mt-4">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/wp50e08097_05_06.jpg" alt="Термопара" style="border: 1px solid #dbdbdb;"></figure>
+<figure class="image is-inline-block"><img src="wp50e08097_05_06.jpg" alt="Термопара" style="border: 1px solid #dbdbdb;"></figure>
 </div>
 </div>
 </div>

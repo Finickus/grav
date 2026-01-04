@@ -22,7 +22,7 @@ title: 'Ошибки  котла Protherm Медведь'
         </div>
         <div class="card-body">
             <div class="text-center mb-4">
-                <img src="https://service04.ru/bl-content/img/2019/12/2019-03-18_224547.jpg" alt="Ошибка F1 на котле Protherm Протерм Медведь" class="img-fluid rounded" style="max-width: 256px; max-height: 256px;">
+                <img src="2019-03-18_224547.jpg" alt="Ошибка F1 на котле Protherm Протерм Медведь" class="img-fluid rounded" style="max-width: 256px; max-height: 256px;">
             </div>
             
             <div class="table-responsive mb-4">
@@ -64,7 +64,7 @@ title: 'Ошибки  котла Protherm Медведь'
         </div>
         <div class="card-body">
             <div class="text-center mb-4">
-                <img src="https://service04.ru/bl-content/img/2019/12/2019-03-18_224806.jpg" alt="Ошибка F2 на котле Protherm Протерм Медведь" class="img-fluid rounded" style="max-width: 256px; max-height: 256px;">
+                <img src="2019-03-18_224806.jpg" alt="Ошибка F2 на котле Protherm Протерм Медведь" class="img-fluid rounded" style="max-width: 256px; max-height: 256px;">
             </div>
             
             <div class="table-responsive mb-4">
@@ -97,7 +97,7 @@ title: 'Ошибки  котла Protherm Медведь'
         </div>
         <div class="card-body">
             <div class="text-center mb-4">
-                <img src="https://service04.ru/bl-content/img/2019/12/2019-03-18_224820.jpg" alt="Ошибка F3 котла Protherm (Протерм)" class="img-fluid rounded" style="max-width: 256px; max-height: 256px;">
+                <img src="2019-03-18_224820.jpg" alt="Ошибка F3 котла Protherm (Протерм)" class="img-fluid rounded" style="max-width: 256px; max-height: 256px;">
             </div>
             
             <div class="table-responsive mb-4">
@@ -139,7 +139,7 @@ title: 'Ошибки  котла Protherm Медведь'
         </div>
         <div class="card-body">
             <div class="text-center mb-4">
-                <img src="https://service04.ru/bl-content/img/2019/12/2019-03-18_224916.jpg" alt="Ошибка F4 на котле Protherm Протерм Медведь" class="img-fluid rounded" style="max-width: 256px; max-height: 256px;">
+                <img src="2019-03-18_224916.jpg" alt="Ошибка F4 на котле Protherm Протерм Медведь" class="img-fluid rounded" style="max-width: 256px; max-height: 256px;">
             </div>
             
             <div class="table-responsive mb-4">
@@ -179,7 +179,7 @@ title: 'Ошибки  котла Protherm Медведь'
         </div>
         <div class="card-body">
             <div class="text-center mb-4">
-                <img src="https://service04.ru/bl-content/img/2019/12/2019-03-18_225006.jpg" alt="Ошибка F5 на котле Protherm Протерм Медведь" class="img-fluid rounded" style="max-width: 256px; max-height: 256px;">
+                <img src="2019-03-18_225006.jpg" alt="Ошибка F5 на котле Protherm Протерм Медведь" class="img-fluid rounded" style="max-width: 256px; max-height: 256px;">
             </div>
             
             <div class="table-responsive mb-4">

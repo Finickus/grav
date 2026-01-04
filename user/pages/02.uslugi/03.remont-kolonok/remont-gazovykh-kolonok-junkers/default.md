@@ -38,7 +38,7 @@ title: 'Ремонт газовых колонок Junkers'
         </div>
         <div class="col-md-6 text-center">
             <a href="#modal-img-1" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-1">
-                <img src="https://service04.ru/bl-content/uploads/pages/83b623ba7ab29168f34f7e092bef79d9/Screenshot_61(1).jpg" alt="Газовая колонка Junkers" class="img-fluid rounded shadow">
+                <img src="Screenshot_61(1).jpg" alt="Газовая колонка Junkers" class="img-fluid rounded shadow">
             </a>
         </div>
     </div>
@@ -46,7 +46,7 @@ title: 'Ремонт газовых колонок Junkers'
     <div class="small mb-5">
         <div class="text-center my-4">
             <a href="#modal-img-2" class="lightbox-trigger d-inline-block" data-bs-toggle="modal" data-bs-target="#modal-img-2">
-                <img src="https://service04.ru/bl-content/uploads/image/BOSCH/Screenshot_64%20(1).jpg" alt="Ремонтная зона" class="img-fluid rounded shadow-lg" style="max-width: 500px;">
+                <img src="Screenshot_64 (1).jpg" alt="Ремонтная зона" class="img-fluid rounded shadow-lg" style="max-width: 500px;">
             </a>
             
         </div>
@@ -71,7 +71,7 @@ title: 'Ремонт газовых колонок Junkers'
         </div>
         <div class="col-md-6 text-center">
             <a href="#modal-img-3" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-3">
-                <img src="https://service04.ru/bl-content/uploads/pages/83b623ba7ab29168f34f7e092bef79d9/Screenshot_62(2).jpg" alt="Этапы ремонта" class="img-fluid rounded shadow">
+                <img src="Screenshot_62(2).jpg" alt="Этапы ремонта" class="img-fluid rounded shadow">
             </a>
             
         </div>
@@ -213,7 +213,7 @@ title: 'Ремонт газовых колонок Junkers'
         
         <div class="text-center mb-4">
             <a href="#modal-img-4" class="lightbox-trigger d-inline-block" data-bs-toggle="modal" data-bs-target="#modal-img-4">
-                <img src="https://service04.ru/bl-content/uploads/image/BOSCH/junkers.jpg" alt="Газовая колонка Junkers" class="img-fluid rounded shadow-sm" style="max-width: 300px;">
+                <img src="junkers.jpg" alt="Газовая колонка Junkers" class="img-fluid rounded shadow-sm" style="max-width: 300px;">
             </a>
         </div>
         
@@ -224,7 +224,7 @@ title: 'Ремонт газовых колонок Junkers'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/83b623ba7ab29168f34f7e092bef79d9/Screenshot_61(1).jpg" class="img-fluid rounded" alt="Газовая колонка Junkers" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_61(1).jpg" class="img-fluid rounded" alt="Газовая колонка Junkers" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -233,7 +233,7 @@ title: 'Ремонт газовых колонок Junkers'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/image/BOSCH/Screenshot_64%20(1).jpg" class="img-fluid rounded" alt="Ремонтная зона" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_64 (1).jpg" class="img-fluid rounded" alt="Ремонтная зона" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -242,7 +242,7 @@ title: 'Ремонт газовых колонок Junkers'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/83b623ba7ab29168f34f7e092bef79d9/Screenshot_62(2).jpg" class="img-fluid rounded" alt="Этапы ремонта" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_62(2).jpg" class="img-fluid rounded" alt="Этапы ремонта" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -251,7 +251,7 @@ title: 'Ремонт газовых колонок Junkers'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/image/BOSCH/junkers.jpg" class="img-fluid rounded" alt="Газовая колонка Junkers" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="junkers.jpg" class="img-fluid rounded" alt="Газовая колонка Junkers" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

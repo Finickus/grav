@@ -18,7 +18,7 @@ title: 'Запчасти для электрокотлов Dakon'
         <div class="card-body p-4 p-md-5">
             <div class="row align-items-center g-4">
                 <div class="col-md-4 text-center">
-                    <img src="https://service04.ru/bl-content/img/2019/12/dakon.jpg" alt="Электрокотлы Dakon" class="img-fluid rounded border shadow-sm" style="max-height: 200px;">
+                    <img src="dakon.jpg" alt="Электрокотлы Dakon" class="img-fluid rounded border shadow-sm" style="max-height: 200px;">
                 </div>
                 <div class="col-md-8">
                     <p class="fs-5 fw-bold text-primary mb-3">Электрические котлы Dakon — это комфортное и надежное оборудование для систем отопления и ГВС.</p>
@@ -123,12 +123,12 @@ title: 'Запчасти для электрокотлов Dakon'
                 </thead>
                 <tbody>
                     <tr>
-                        <td><img src="https://service04.ru/bl-content/img/2019/12/Zapchasti_Dakon_Image03.jpg" class="img-thumbnail" style="max-height: 50px;"></td>
+                        <td><img src="Zapchasti_Dakon_Image03.jpg" class="img-thumbnail" style="max-height: 50px;"></td>
                         <td class="text-start"><strong>Выключатель VS 25 — 1103 A8 DAKON</strong><br><span class="text-muted">Арт: 44001947</span></td>
                         <td><a href="#" class="btn btn-sm btn-primary px-3 shadow-sm">КУПИТЬ</a></td>
                     </tr>
                     <tr>
-                        <td><img src="https://service04.ru/bl-content/img/2019/12/Zapchasti_Dakon_Image04.jpg" class="img-thumbnail" style="max-height: 50px;"></td>
+                        <td><img src="Zapchasti_Dakon_Image04.jpg" class="img-thumbnail" style="max-height: 50px;"></td>
                         <td class="text-start"><strong>Термостат блокировочный LY 36 (TG 400)</strong><br><span class="text-muted">Защита от перегрева</span></td>
                         <td><a href="#" class="btn btn-sm btn-primary px-3 shadow-sm">КУПИТЬ</a></td>
                     </tr>

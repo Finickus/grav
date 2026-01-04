@@ -28,7 +28,7 @@ title: 'Bez nazvaniya'
 <li>Мин. напряжение: <strong>2 мВ</strong> при 100 °C</li>
 <li>Максимальная температура: <strong>600 °C</strong></li>
 </ul>
-<figure class="image mt-3"><img src="https://service04.ru/bl-content/img/2019/12/9.png" alt="Универсальные термопары серии 200"></figure>
+<figure class="image mt-3"><img src="9.png" alt="Универсальные термопары серии 200"></figure>
 </div>
 </div>
 </div>

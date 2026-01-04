@@ -10,7 +10,7 @@ title: 'Почему выбирают нас?'
 </div>
 </div>
 <p></p>
-<p><img src="https://service04.ru/bl-content/uploads/pages/2418a6aa33e64ee49c93ee0226cde19a/term1(1).jpg" alt="" width="100%"></p>
+<p><img src="term1(1).jpg" alt="" width="100%"></p>
 <p></p>
 <p></p>
 <div class="row">
@@ -51,7 +51,7 @@ title: 'Почему выбирают нас?'
 </div>
 <div class="col-md-6"><hr>
 <p></p>
-<img src="https://service04.ru/bl-content/uploads/image/Screenshot_76%20(1).jpg" width="100%" height="" alt=""></div>
+<img src="Screenshot_76 (1).jpg" width="100%" height="" alt=""></div>
 <div class="col-md-6"></div>
 </div>
 <p></p>
@@ -81,11 +81,11 @@ title: 'Почему выбирают нас?'
 </li>
 </ul>
 </div>
-<div class="col-md-6"><img src="https://service04.ru/bl-content/uploads/image/Screenshot_75%20(2).jpg" width="100%" height="" alt=""></div>
+<div class="col-md-6"><img src="Screenshot_75 (2).jpg" width="100%" height="" alt=""></div>
 </div>
 </figure>
 <p></p>
-<p><img src="https://service04.ru/bl-content/uploads/pages/2418a6aa33e64ee49c93ee0226cde19a/termona1(1).jpeg" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><img src="termona1(1).jpeg" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
 </div>
 <h4>ОСНОВНЫЕ НЕПОЛАДКИ КОТЛА THERMONA</h4>
 <div>
@@ -158,7 +158,7 @@ title: 'Почему выбирают нас?'
 <blockquote>
 <p dir="ltr"><span style="color: #e67e23;">Важно помнить, что газовые котлы являются сложными техническими устройствами, и ремонт должен проводиться только квалифицированными специалистами. Не стоит пытаться самостоятельно ремонтировать котел, чтобы избежать возможных повреждений или нарушения безопасности.</span></p>
 </blockquote>
-<p><img src="https://service04.ru/bl-content/uploads/pages/2418a6aa33e64ee49c93ee0226cde19a/term(2).jpg" alt=""></p>
+<p><img src="term(2).jpg" alt=""></p>
 </div>
 <div class="row a">
 <div class="col-md-12 border bg-light py-5">

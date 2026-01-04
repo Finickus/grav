@@ -13,7 +13,7 @@ title: 'Ремонт котлов Аристон'
 <div class="card mb-5">
 <div class="row align-items-center">
 <div class="col-4 text-center mb-4">
-<figure class="image is-192x192 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/ariston-1-f0e31f1a.png" alt="Ремонт котлов Аристон"></figure>
+<figure class="image is-192x192 mx-auto"><img src="ariston-1-f0e31f1a.png" alt="Ремонт котлов Аристон"></figure>
 </div>
 <div class="col-8">
 <p>Котельная техника от итальянской компании «Ariston» является самым надежным, простым в работе и долговечным оборудованием, которое популярно среди владельцев частных домов, коттеджей и квартир.</p>
@@ -27,7 +27,7 @@ title: 'Ремонт котлов Аристон'
 <h2 class="h4 display-4 mb-0"><i class="fas fa-exclamation-triangle me-2"></i>Причины отказа котельного оборудования</h2>
 </div>
 <div class="text-center mb-5">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/remont-gazovyx-kotlov-ariston.png" alt="Ремонт котлов Аристон" style="border: 1px solid #dbdbdb;"></figure>
+<figure class="image is-inline-block"><img src="remont-gazovyx-kotlov-ariston.png" alt="Ремонт котлов Аристон" style="border: 1px solid #dbdbdb;"></figure>
 </div>
 <p>Компактные и эстетически привлекательные котлы – это автоматизированное оборудование, которое при возникновении неисправностей выдает ошибку и отказывается работать до устранения поломки/сбоя. Чаще всего техника отказывается работать по нескольким причинам:</p>
 <div class="row">
@@ -75,7 +75,7 @@ title: 'Ремонт котлов Аристон'
 <h3 class="h4 display-4 mb-0 has-text-uppercase"><i class="fas fa-tools me-2"></i>От чистки до полной замены деталей – все виды ремонта вашего котла</h3>
 </div>
 <div class="text-center mb-5">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/remont-gazovyx-kotlov-ariston3.jpg" alt="Ремонт котлов Аристон" style="border: 1px solid #dbdbdb;"></figure>
+<figure class="image is-inline-block"><img src="remont-gazovyx-kotlov-ariston3.jpg" alt="Ремонт котлов Аристон" style="border: 1px solid #dbdbdb;"></figure>
 </div>
 <p>Котлы от компании «<span lang="en-US">Ariston</span>» – это полностью или частично автоматизированные устройства, которые имеют сложную комплектацию. Поэтому при необходимости ремонта производитель рекомендует обращаться к опытным специалистам с допусками к обслуживанию газового оборудования.</p>
 <p>Если у вас вышел из строя <strong>котел</strong> <span lang="en-US"><strong>Ariston</strong></span><strong>, ремонт</strong> вашей техники будет выполнен быстро, независимо от сложности поломки/неполадки. Мастера нашей компании осуществят:</p>
@@ -130,7 +130,7 @@ title: 'Ремонт котлов Аристон'
 <p class="mb-0">Оформите заявку на выполнение ремонта или обслуживания! Мастера нашей компании осуществят все работы в день оформления заказа или в то время, которое удобно вам.</p>
 </div>
 <div class="text-center mt-5">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/remont-gazovyx-kotlov-ariston1.png" alt="Ремонт котлов" style="border: 1px solid #dbdbdb;"></figure>
+<figure class="image is-inline-block"><img src="remont-gazovyx-kotlov-ariston1.png" alt="Ремонт котлов" style="border: 1px solid #dbdbdb;"></figure>
 </div>
 </div>
 <!-- Заказ -->

@@ -5,14 +5,14 @@ title: 'Мембрана водяного блока НЕВА NEVA-4510 4511 451
 
 <div class="ce_text first block" style='overflow: hidden; margin-left: 10px; margin-right: 10px; color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>
 
-<figure class="image_container float_left" style="margin: 0px 20px 0px 0px; padding: 0px; float: left;"><a class="ccardElement" data-lightcard="54ff17" href="https://boilererror.ru/wp-content/uploads/2019/12/%D0%B2%D0%BE%D0%B4%D1%8F%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-NEVA-4510.jpg" style="color: rgb(96, 88, 77);" h3="Мембрана водяного блока НЕВА NEVA-4510 4511 4513"><img src="https://service04.ru/bl-content/img/2019/12/водяного-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-NEVA-4510-a95cc2ac.jpg" alt="Мембрана водяного блока НЕВА NEVA-4510 4511 4513"></a></figure>
+<figure class="image_container float_left" style="margin: 0px 20px 0px 0px; padding: 0px; float: left;"><a class="ccardElement" data-lightcard="54ff17" href="https://boilererror.ru/wp-content/uploads/2019/12/%D0%B2%D0%BE%D0%B4%D1%8F%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B1%D0%BB%D0%BE%D0%BA%D0%B0-NEVA-4510.jpg" style="color: rgb(96, 88, 77);" h3="Мембрана водяного блока НЕВА NEVA-4510 4511 4513"><img src="водяного-блока-NEVA-4510-a95cc2ac.jpg" alt="Мембрана водяного блока НЕВА NEVA-4510 4511 4513"></a></figure>
 <p>Признаки при которых требуется замена мембрана для газовой колонки.</p>
 <p> Плохо греет воду или вообще не нагревает ее.<br>
  При открытии воды не загорается основная горелка.<br>
  Основная горелка загорается С задержкой более 10 секунд.<br>
  Пламя станок горелки работает с рывками</p>
 <p>Мембрана для колонки NEVA-4510 / 4511 / 4513 Она же Мембрана регулятора давления воды NEVA-4510 / 4511 / 4513.</p>
-<p><a href="https://service04.ru/shop/zapchasti-dlya-vodonagrevatelej/membrany-dlja-gazovyx-kolonok/membrana-vodjanogo-bloka-neva-4510-4511-4513" style="color: rgb(96, 88, 77);" target="_blank"><img src="https://service04.ru/bl-content/img/2019/12/kupit.jpg" alt=""></a></p>
+<p><a href="https://service04.ru/shop/zapchasti-dlya-vodonagrevatelej/membrany-dlja-gazovyx-kolonok/membrana-vodjanogo-bloka-neva-4510-4511-4513" style="color: rgb(96, 88, 77);" target="_blank"><img src="kupit.jpg" alt=""></a></p>
 <p>Данная мембрана изготовлена из резины но также есть вариант Который изготовлен из силикона<br>
 Варианты газовых колонок<br>
 Диаметр — 73 мм Материал — Резина Артикул — 3227-02.278<br>
@@ -24,7 +24,7 @@ title: 'Мембрана водяного блока НЕВА NEVA-4510 4511 451
 <p>Узнать цену заказать, а также узнать совместимость данной запчасти к вашей модели газовой колонки Вы можете по телефону 89262211348</p>
 <p>
 Колонка NEVA-4510 / 4511 / 4513 Данная колонка уже давно снята с производства Но она до сих пор используется в Москве и в России так как снискала, большую популярность на свою простоту эксплуатации.Простота конструкции надежность и большое количество запасных частей приводит тому что данные колонка ещё долго будет находится в эксплуатации.<br>
-<img src="https://service04.ru/bl-content/img/2019/12/img-2017-02-13-12-43-44_service04.png" alt="Мембрана водяного блока НЕВА NEVA-4510 4511 4513"><br>
+<img src="img-2017-02-13-12-43-44_service04.png" alt="Мембрана водяного блока НЕВА NEVA-4510 4511 4513"><br>
 Заявку на установку запчасти и Ремонт газовой колонки вы можете оставить по номеру: 89262211348 или заполнив форму которая находится Внизу страницы.</p>
 <p>
 Вы можете купить мембрану для колонки NEVA-4510 / 4511 / 4513 оплатить товар следующими способами:</p>

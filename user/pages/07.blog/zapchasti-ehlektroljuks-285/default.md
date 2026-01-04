@@ -23,11 +23,11 @@ title: 'Запчасти для газовой колонки Electrolux 285'
 <p><strong>Модель колонки указана на заводской табличке:</strong> как правило, она расположена в нижней части аппарата, под корпусом.</p>
 </div>
 <div class="col-12 is-4-desktop text-center">
-<figure class="image is-inline-block mb-3"><a href="https://service04.ru/bl-content/img/2019/12/electrolux285-1-a5c86b33.jpg" target="_blank" rel="noopener"> <img src="https://service04.ru/bl-content/img/2019/12/electrolux285-1-a5c86b33.jpg" alt="Запчасти Electrolux 285" class="rounded"> </a></figure>
+<figure class="image is-inline-block mb-3"><a href="electrolux285-1-a5c86b33.jpg" target="_blank" rel="noopener"> <img src="electrolux285-1-a5c86b33.jpg" alt="Запчасти Electrolux 285" class="rounded"> </a></figure>
 </div>
 </div>
 <div class="text-center mt-4">
-<figure class="image is-inline-block mb-3"><a href="https://service04.ru/bl-content/img/2019/12/electrolux285-3.jpg" target="_blank" rel="noopener"> <img src="https://service04.ru/bl-content/img/2019/12/electrolux285-3.jpg" alt="Заводская табличка Electrolux 285" class="rounded"> </a></figure>
+<figure class="image is-inline-block mb-3"><a href="electrolux285-3.jpg" target="_blank" rel="noopener"> <img src="electrolux285-3.jpg" alt="Заводская табличка Electrolux 285" class="rounded"> </a></figure>
 <p class="mt-2">Вы можете подъехать к нам на склад и приобрести запчасти Electrolux 285 (оплата наличными или картой), либо заказать курьерскую доставку по Москве и области.</p>
 <p class="notification is-danger mt-3 mb-0"><strong>Доставка по всей России осуществляется через транспортные компании.</strong></p>
 </div>
@@ -39,7 +39,7 @@ title: 'Запчасти для газовой колонки Electrolux 285'
 </header>
 <div class="card-body">
 <div class="text-center mb-4">
-<figure class="image is-inline-block"><a href="https://service04.ru/bl-content/img/2019/12/shema2-03cc1877.jpg" target="_blank" rel="noopener"> <img src="https://service04.ru/bl-content/img/2019/12/shema2-03cc1877.jpg" alt="Схема газовой колонки Electrolux 285" class="rounded"> </a></figure>
+<figure class="image is-inline-block"><a href="shema2-03cc1877.jpg" target="_blank" rel="noopener"> <img src="shema2-03cc1877.jpg" alt="Схема газовой колонки Electrolux 285" class="rounded"> </a></figure>
 </div>
 <div class="table-container">
 <table class="table is-bordered is-striped w-100 is-vcentered">
@@ -54,7 +54,7 @@ title: 'Запчасти для газовой колонки Electrolux 285'
 <tr>
 <td class="text-center"><strong>22</strong></td>
 <td class="text-center">
-<figure class="image is-96x96 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20160912_115333_wm.jpg" alt="Теплообменник"></figure>
+<figure class="image is-96x96 is-inline-block"><img src="20160912_115333_wm.jpg" alt="Теплообменник"></figure>
 </td>
 <td><a href="#" class="has-text-link"> Теплообменник Electrolux 285 (медный, Тула) </a>
 <div class="mt-2"><span class="tag is-success is-medium">Цена: 4 490 руб.</span> <a href="#" class="btn btn-primary btn-sm ms-2">КУПИТЬ</a></div>
@@ -68,14 +68,14 @@ title: 'Запчасти для газовой колонки Electrolux 285'
 <tr>
 <td class="text-center"><strong>19</strong></td>
 <td class="text-center">
-<figure class="image is-96x96 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20160905_151350_wm.jpg" alt="Электроды"></figure>
+<figure class="image is-96x96 is-inline-block"><img src="20160905_151350_wm.jpg" alt="Электроды"></figure>
 </td>
 <td>Электроды зажигания и контроля пламени (розжиг и ионизационный контроль наличия пламени).</td>
 </tr>
 <tr>
 <td class="text-center"><strong>15</strong></td>
 <td class="text-center">
-<figure class="image is-96x96 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20160912_115657_wm.jpg" alt="Газовая арматура"></figure>
+<figure class="image is-96x96 is-inline-block"><img src="20160912_115657_wm.jpg" alt="Газовая арматура"></figure>
 </td>
 <td>Вентиль подачи газа (газовая арматура) с двумя предохранительными клапанами и ручным регулятором мощности (50–100 %).
 <div class="mt-2"><a href="#" class="btn btn-primary btn-sm">КУПИТЬ</a></div>
@@ -84,35 +84,35 @@ title: 'Запчасти для газовой колонки Electrolux 285'
 <tr>
 <td class="text-center"><strong>10</strong></td>
 <td class="text-center">
-<figure class="image is-96x96 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20160912_115644_wm.jpg" alt="Водяной блок"></figure>
+<figure class="image is-96x96 is-inline-block"><img src="20160912_115644_wm.jpg" alt="Водяной блок"></figure>
 </td>
 <td>Вентиль подачи воды (водяной блок).</td>
 </tr>
 <tr>
 <td class="text-center"><strong>21</strong></td>
 <td class="text-center">
-<figure class="image is-96x96 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20160912_115631_wm.jpg" alt="Блок управления"></figure>
+<figure class="image is-96x96 is-inline-block"><img src="20160912_115631_wm.jpg" alt="Блок управления"></figure>
 </td>
 <td>Электронная схема (блок розжига) для автоматического поджига и контроля наличия пламени.</td>
 </tr>
 <tr>
 <td class="text-center"><strong>24</strong></td>
 <td class="text-center">
-<figure class="image is-96x96 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20160912_115759_wm.jpg" alt="Датчик тяги"></figure>
+<figure class="image is-96x96 is-inline-block"><img src="20160912_115759_wm.jpg" alt="Датчик тяги"></figure>
 </td>
 <td>Датчик тяги (термостат контроля температуры продуктов сгорания).</td>
 </tr>
 <tr>
 <td class="text-center"><strong>25</strong></td>
 <td class="text-center">
-<figure class="image is-96x96 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20160905_151520_wm.jpg" alt="Микропереключатель"></figure>
+<figure class="image is-96x96 is-inline-block"><img src="20160905_151520_wm.jpg" alt="Микропереключатель"></figure>
 </td>
 <td>Микропереключатель водяного узла.</td>
 </tr>
 <tr>
 <td class="text-center"><strong>7</strong></td>
 <td class="text-center">
-<figure class="image is-96x96 is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/20160912_115747_wm.jpg" alt="Мембрана"></figure>
+<figure class="image is-96x96 is-inline-block"><img src="20160912_115747_wm.jpg" alt="Мембрана"></figure>
 </td>
 <td>Мембрана Electrolux 285.</td>
 </tr>

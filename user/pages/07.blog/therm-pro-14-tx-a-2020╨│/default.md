@@ -40,7 +40,7 @@ title: 'Котел THERM PRO 14 TX.A (2020)'
 <p class="card-h3 text-white fs-5"><span class="icon me-2"><i class="fas fa-gas-pump"></i></span>Раздел Газ</p>
 </header>
 <div class="card-body">
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/uploads/image/Thermona/katalog/3756_14%20TX%20spalovac%C3%AD%20%C4%8D%C3%A1st.jpg" alt="Схема газовой части котла THERM PRO 14 TX.A"></figure>
+<figure class="image mb-4"><img src="3756_14 TX spalovací část.jpg" alt="Схема газовой части котла THERM PRO 14 TX.A"></figure>
 <div class="table-container">
 <table class="table is-bordered is-striped w-100">
 <thead class="bg-dark text-white">
@@ -155,7 +155,7 @@ title: 'Котел THERM PRO 14 TX.A (2020)'
 <p class="card-h3 text-white fs-5"><span class="icon me-2"><i class="fas fa-tint"></i></span>Раздел Вода</p>
 </header>
 <div class="card-body">
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/uploads/image/Thermona/katalog/3756_Vodn%C3%AD%20%C4%8D%C3%A1st%2014X-A%20-%20do%20ND.jpg" alt="Схема водяной части котла THERM PRO 14 TX.A"></figure>
+<figure class="image mb-4"><img src="3756_Vodní část 14X-A - do ND.jpg" alt="Схема водяной части котла THERM PRO 14 TX.A"></figure>
 <div class="table-container">
 <table class="table is-bordered is-striped w-100">
 <thead class="bg-dark text-white">
@@ -300,7 +300,7 @@ title: 'Котел THERM PRO 14 TX.A (2020)'
 <p class="card-h3 text-dark fs-5"><span class="icon me-2"><i class="fas fa-microchip"></i></span>Раздел Электропанель</p>
 </header>
 <div class="card-body">
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/uploads/image/Thermona/katalog/3756_Panel%2014%20X-%20A%20small.jpg" alt="Схема электропанели THERM PRO 14 TX.A"></figure>
+<figure class="image mb-4"><img src="3756_Panel 14 X- A small.jpg" alt="Схема электропанели THERM PRO 14 TX.A"></figure>
 <div class="table-container">
 <table class="table is-bordered is-striped w-100">
 <thead class="bg-dark text-white">

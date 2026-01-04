@@ -7,7 +7,7 @@ title: 'ГАЗОВЫЙ КЛАПАН SIT КОД 0.820.010'
 
 <div class="row align-items-center is-multiline content">
 <div class="col-4 text-center">
-<figure class="image is-inline-block" style="max-width: 250px;"><img src="https://service04.ru/bl-content/img/2019/12/GAZOVYJ-KLAPAN-SIT-KOD-0.820.010-989edc38.png" alt="Газовый клапан SIT 820 NOVA" class="shadow"></figure>
+<figure class="image is-inline-block" style="max-width: 250px;"><img src="GAZOVYJ-KLAPAN-SIT-KOD-0.820.010-989edc38.png" alt="Газовый клапан SIT 820 NOVA" class="shadow"></figure>
 </div>
 <div class="col is-two-thirds fs-6">
 <p>Этот газовый клапан **без модуляции мощности** используется в **котлах**, конвекторах и каминах.</p>
@@ -63,6 +63,6 @@ title: 'ГАЗОВЫЙ КЛАПАН SIT КОД 0.820.010'
 </section>
 <section class="section pt-0 text-center">
 <h3 class="h4 display-4 text-warning"><span class="icon me-2"><i class="fas fa-sliders-h"></i></span>НАСТРОЙКА ГАЗОВОГО КЛАПАНА SIT 820.10</h3>
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/17.png" alt="Настройка газового клапана sit 820.10" class="has-border-light shadow"></figure>
+<figure class="image is-inline-block"><img src="17.png" alt="Настройка газового клапана sit 820.10" class="has-border-light shadow"></figure>
 </section>
 </div>

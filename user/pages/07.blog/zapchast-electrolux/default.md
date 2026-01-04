@@ -10,15 +10,15 @@ title: 'Запчасти для газовой колонки Electrolux'
 </section>
 <div class="row g-3 is-centered mb-5">
 <div class="col-4 text-center">
-<figure class="image is-inline-block mb-3"><img src="https://service04.ru/bl-content/img/2019/12/265-19fd6030.png" alt="Electrolux GWH 265"></figure>
+<figure class="image is-inline-block mb-3"><img src="265-19fd6030.png" alt="Electrolux GWH 265"></figure>
 <p class="has-text-weight-bold">Electrolux GWH 265</p>
 </div>
 <div class="col-4 text-center">
-<figure class="image is-inline-block mb-3"><img src="https://service04.ru/bl-content/img/2019/12/275-f782f417.png" alt="Electrolux GWH 275"></figure>
+<figure class="image is-inline-block mb-3"><img src="275-f782f417.png" alt="Electrolux GWH 275"></figure>
 <p class="has-text-weight-bold">Electrolux GWH 275</p>
 </div>
 <div class="col-4 text-center">
-<figure class="image is-inline-block mb-3"><img src="https://service04.ru/bl-content/img/2019/12/285-ad805529.png" alt="Electrolux GWH 285"></figure>
+<figure class="image is-inline-block mb-3"><img src="285-ad805529.png" alt="Electrolux GWH 285"></figure>
 <p class="has-text-weight-bold">Electrolux GWH 285</p>
 </div>
 </div>
@@ -59,7 +59,7 @@ title: 'Запчасти для газовой колонки Electrolux'
 <div class="content p-4">
 <div class="row g-3 mb-5 is-vcentered">
 <div class="col-4 text-center">
-<figure class="image is-192x192 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/blok.jpg" alt="Электронный блок розжига GWH 285"></figure>
+<figure class="image is-192x192 mx-auto"><img src="blok.jpg" alt="Электронный блок розжига GWH 285"></figure>
 </div>
 <div class="col-8">
 <h5 class="h5 text-primary">Электронный блок розжига для GWH 285 ERN NanoPro</h5>
@@ -68,7 +68,7 @@ title: 'Запчасти для газовой колонки Electrolux'
 </div>
 <div class="row g-3 mb-5 is-vcentered">
 <div class="col-4 text-center">
-<figure class="image is-192x192 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/blok2.jpg" alt="Электронный блок розжига GWH 275 250"></figure>
+<figure class="image is-192x192 mx-auto"><img src="blok2.jpg" alt="Электронный блок розжига GWH 275 250"></figure>
 </div>
 <div class="col-8">
 <h5 class="h5 text-primary">Электронный блок розжига для GWH 275/250, AEG 11 ERN</h5>
@@ -76,7 +76,7 @@ title: 'Запчасти для газовой колонки Electrolux'
 </div>
 <div class="row g-3 mb-5 is-vcentered">
 <div class="col-4 text-center">
-<figure class="image is-192x192 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/yzel.jpg" alt="Водяная арматура"></figure>
+<figure class="image is-192x192 mx-auto"><img src="yzel.jpg" alt="Водяная арматура"></figure>
 </div>
 <div class="col-8">
 <h5 class="h5 text-primary">Водяная арматура в сборе</h5>
@@ -85,7 +85,7 @@ title: 'Запчасти для газовой колонки Electrolux'
 </div>
 <div class="row g-3 mb-5 is-vcentered">
 <div class="col-4 text-center">
-<figure class="image is-192x192 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/mikrik.jpg" alt="Микропереключатель"></figure>
+<figure class="image is-192x192 mx-auto"><img src="mikrik.jpg" alt="Микропереключатель"></figure>
 </div>
 <div class="col-8">
 <h5 class="h5 text-primary">Микропереключатель для GWH 275 SERN</h5>
@@ -93,7 +93,7 @@ title: 'Запчасти для газовой колонки Electrolux'
 </div>
 <div class="row g-3 mb-5 is-vcentered">
 <div class="col-4 text-center">
-<figure class="image is-192x192 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/termopara.jpg" alt="Термопара"></figure>
+<figure class="image is-192x192 mx-auto"><img src="termopara.jpg" alt="Термопара"></figure>
 </div>
 <div class="col-8">
 <h5 class="h5 text-primary">Термопара для GWH 275 RN</h5>
@@ -101,7 +101,7 @@ title: 'Запчасти для газовой колонки Electrolux'
 </div>
 <div class="row g-3 mb-5 is-vcentered">
 <div class="col-4 text-center">
-<figure class="image is-192x192 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/membrana.jpg" alt="Мембрана GWH 285"></figure>
+<figure class="image is-192x192 mx-auto"><img src="membrana.jpg" alt="Мембрана GWH 285"></figure>
 </div>
 <div class="col-8">
 <h5 class="h5 text-primary">Мембрана для GWH 285 ERN NanoPro</h5>
@@ -109,7 +109,7 @@ title: 'Запчасти для газовой колонки Electrolux'
 </div>
 <div class="row g-3 mb-5 is-vcentered">
 <div class="col-4 text-center">
-<figure class="image is-192x192 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/membrana2.jpg" alt="Мембрана GWH 350"></figure>
+<figure class="image is-192x192 mx-auto"><img src="membrana2.jpg" alt="Мембрана GWH 350"></figure>
 </div>
 <div class="col-8">
 <h5 class="h5 text-primary">Мембрана для GWH 350</h5>
@@ -117,7 +117,7 @@ title: 'Запчасти для газовой колонки Electrolux'
 </div>
 <div class="row g-3 mb-5 is-vcentered">
 <div class="col-4 text-center">
-<figure class="image is-192x192 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/membrana3.jpg" alt="Мембрана GWH 275/250"></figure>
+<figure class="image is-192x192 mx-auto"><img src="membrana3.jpg" alt="Мембрана GWH 275/250"></figure>
 </div>
 <div class="col-8">
 <h5 class="h5 text-primary"><a href="https://service04.ru/membrana-vodjanogo-bloka-electrolux-gwh-275.html" class="text-primary">Мембрана для GWH 275/250</a></h5>
@@ -125,7 +125,7 @@ title: 'Запчасти для газовой колонки Electrolux'
 </div>
 <div class="row g-3 mb-5 is-vcentered">
 <div class="col-4 text-center">
-<figure class="image is-192x192 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/teploobmen.jpg" alt="Теплообменник"></figure>
+<figure class="image is-192x192 mx-auto"><img src="teploobmen.jpg" alt="Теплообменник"></figure>
 </div>
 <div class="col-8">
 <h5 class="h5 text-primary"><a href="https://service04.ru/electroluxgwh275rn.html" class="text-primary">Теплообменники GWH 275/250</a></h5>

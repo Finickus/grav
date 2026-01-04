@@ -39,7 +39,7 @@ title: 'Zanussi'
 <li>Консультация по эксплуатации и уходу за газовой колонкой</li>
 </ul>
 </div>
-<div class="col-md-4"><img src="https://service04.ru/bl-content/uploads/image/Zanussi/Screenshot_245.jpg" class="img-fluid" alt="Газовая колонка Зануси" width="100%"></div>
+<div class="col-md-4"><img src="Screenshot_245.jpg" class="img-fluid" alt="Газовая колонка Зануси" width="100%"></div>
 </div>
 <p style="padding: 0px; margin: 12px 0px 0px; user-select: text; word-break: break-word; line-height: var(--cib-type-body2-line-height); font-variation-settings: var(--cib-type-body2-font-variation-settings); color: #111111;  background-color: rgba(255, 255, 255, 0.7);">Наши мастера работают круглосуточно и без выходных. Вы можете вызвать нашего мастера на дом или привезти свою газовую колонку в наш сервисный центр. Мы гарантируем вам высокое качество ремонта, индивидуальный подход и полную конфиденциальность. С нами ваша газовая колонка Zanussi будет служить вам долго и надежно.</p>
 <p style="padding: 0px; margin: 12px 0px 0px; user-select: text; word-break: break-word; line-height: var(--cib-type-body2-line-height); font-variation-settings: var(--cib-type-body2-font-variation-settings); color: #111111;  background-color: rgba(255, 255, 255, 0.7);">Для заказа ремонта газовой колонки Zanussi вы можете связаться с нами по телефону +7(926)221-13-48, электронной почте или заполнить <a href="https://service04.ru/master">онлайн-форму</a> на нашем сайте. Мы ответим на все ваши вопросы и подберем удобное для вас время ремонта. Не откладывайте ремонт газовой колонки Zanussi, если вы заметили какие-либо признаки неисправности, такие как:</p>
@@ -82,7 +82,7 @@ title: 'Zanussi'
 <p>Модель вашей газовые колонки вы можете узнать в документах который выдавались вам при покупке, если документы на ваш газовый водонагреватель не сохранились. Модель можно узнать заглянув под газовую колонку там вы обнаружите наклейку с наименованием модели вашей колонки.</p>
 <p>Еще опишите дежурному мастеру неисправность газовой колонки сообщите Ваш номер телефона, по которому мастер свяжется с Вами и адрес. В 10-30 минут с Вами свяжется наш мастер, работающий по Вашему району и договорится о времени приезда и ремонта Вашей газовой колонки.</p>
 </div>
-<div class="col-md-6"><img src="https://service04.ru/bl-content/uploads/image/Zanussi/Screenshot_250.jpg" class="img-fluid" width="100%"></div>
+<div class="col-md-6"><img src="Screenshot_250.jpg" class="img-fluid" width="100%"></div>
 </div>
 <p></p>
 <div class="card-body p-0">
@@ -97,4 +97,4 @@ title: 'Zanussi'
 </div>
 </div>
 </div>
-<p><img src="https://service04.ru/bl-content/uploads/pages/f97dfd13803f8632390eca8054d76090/zanussi1(1).jpg" alt="Ремонт газовых колонок Zanussi в нашем сервисном центре" width="895" height="179"></p>
+<p><img src="zanussi1(1).jpg" alt="Ремонт газовых колонок Zanussi в нашем сервисном центре" width="895" height="179"></p>

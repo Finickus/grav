@@ -12,7 +12,7 @@ title: 'Ремонт Kospel – это наша специализация!'
 <p><a class="btn btn-primary rounded-pill mt-3 px-4 py-2" style="letter-spacing: 0.8px;" role="btn btn-primary" href="http://example.com">Вызвать мастера</a></p>
 </div>
 </div>
-<div class="col-12 col-lg-6"><img src="https://service04.ru/bl-content/uploads/pages/40615d128665197fe4f308f3a5444df9/EKCO_R2_przedstawienie.jpg" alt="" width="413" height="211"></div>
+<div class="col-12 col-lg-6"><img src="EKCO_R2_przedstawienie.jpg" alt="" width="413" height="211"></div>
 </div>
 </div>
 </div>
@@ -20,17 +20,17 @@ title: 'Ремонт Kospel – это наша специализация!'
 <div class="container">
 <div class="row">
 <div class="col-12 col-lg-4 py-3" style="width: 284.462px; flex-basis: 33.3333%; max-width: 33.3333%;">
-<h4><span style="font-weight: bolder;"><img class="img-fluid" src="https://service04.ru/bl-content/uploads/image/1ICON/basic_bolt.svg" style="width: 40px; height: 40px;"></span></h4>
+<h4><span style="font-weight: bolder;"><img class="img-fluid" src="basic_bolt.svg" style="width: 40px; height: 40px;"></span></h4>
 <h4><span style="font-weight: bolder;">Любые ошибки</span></h4>
 <p>Поломки  могут быть связаны с неисправностью насоса, термостата, ТЭНа, реле или других компонентов. В случае обнаружения проблемы, мы проводим диагностику и быстро устраняем неисправность.</p>
 </div>
 <div class="col-12 col-lg-4 py-3" style="width: 284.462px; flex-basis: 33.3333%; max-width: 33.3333%;">
-<h4><span style="font-weight: bolder;"><img class="img-fluid" src="https://service04.ru/bl-content/uploads/image/1ICON/basic_elaboration_document_check.svg" style="width: 40px; height: 40px;"></span></h4>
+<h4><span style="font-weight: bolder;"><img class="img-fluid" src="basic_elaboration_document_check.svg" style="width: 40px; height: 40px;"></span></h4>
 <h4><span style="font-weight: bolder;">Гарантия на работы</span></h4>
 <p>Мы гарантируем качество наших работ и предоставляем гарантию на все виды услуг.</p>
 </div>
 <div class="col-12 col-lg-4 py-3" style="width: 284.462px; flex-basis: 33.3333%; max-width: 33.3333%;">
-<h4><span style="font-weight: bolder;"><img class="img-fluid" src="https://service04.ru/bl-content/uploads/image/1ICON/basic_geolocalize-05.svg" style="width: 40px; height: 40px;"></span></h4>
+<h4><span style="font-weight: bolder;"><img class="img-fluid" src="basic_geolocalize-05.svg" style="width: 40px; height: 40px;"></span></h4>
 <h4><span style="font-weight: bolder;">Зона выезда</span></h4>
 <p>Мы работаем по Москве и Московской области. Чтобы вызвать мастера, позвоните нам по указанному номеру телефона или заполните заявку на сайте.</p>
 </div>
@@ -78,7 +78,7 @@ title: 'Ремонт Kospel – это наша специализация!'
 <div class="col-12" style="background-color: #f4f4f4ff; width: 853.403px;">
 <h3 class="mb-5 text-center">Основные поломки и неисправности электрических котлов Kospel</h3>
 Если у вас возникли проблемы с электрическим котлом Kospel, вам, вероятно, требуется квалифицированный ремонт. В этом SEO тексте мы расскажем о наиболее частых поломках и неисправностях, с которыми можно столкнуться при эксплуатации электрических котлов Kospel:</div>
-<div class="col-12" style="width: 853.403px;"><img src="https://service04.ru/bl-content/uploads/image/1ICON/arrows_hamburger%202.svg" width="64" height="64" alt="" style="display: block; margin-left: auto; margin-right: auto;"></div>
+<div class="col-12" style="width: 853.403px;"><img src="arrows_hamburger 2.svg" width="64" height="64" alt="" style="display: block; margin-left: auto; margin-right: auto;"></div>
 </div>
 <div class="row">
 <div class="col-12 col-sm-6 col-lg-3" style="width: 213.351px;">

@@ -13,7 +13,7 @@ title: 'Запчасти для котлов Demrad'
 <div class="card mb-5">
 <div class="row align-items-center">
 <div class="col-4 text-center mb-4">
-<figure class="image is-256x256 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/Demrad2-94f10dd8.png" alt="Котлы Demrad" style="border: 1px solid #dbdbdb;"></figure>
+<figure class="image is-256x256 mx-auto"><img src="Demrad2-94f10dd8.png" alt="Котлы Demrad" style="border: 1px solid #dbdbdb;"></figure>
 </div>
 <div class="col-8">
 <p>Котлы Demrad от турецкого холдинга Turk Demir Dokum Fabrikalari A.S. занимают значительную нишу в мировом сегменте техники для отопления и нагрева воды. Котельное оборудование отличается стабильностью работы, простотой монтажа, доступностью обслуживания с использованием оригинальных запчастей.</p>
@@ -26,7 +26,7 @@ title: 'Запчасти для котлов Demrad'
 <h2 class="h4 display-4 mb-0 has-text-orange"><i class="fas fa-list me-2"></i>Любые запчасти для всех типов котлов Demrad</h2>
 </div>
 <div class="text-center mb-5">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/demrad2.jpg" alt="Котлы Demrad" style="border: 1px solid #dbdbdb;"></figure>
+<figure class="image is-inline-block"><img src="demrad2.jpg" alt="Котлы Demrad" style="border: 1px solid #dbdbdb;"></figure>
 </div>
 <p>Наша компания предлагает широкий ассортимент запасных частей и комплектующих для котлов Demrad. В каталоге представлены оригинальные запчасти/детали для ремонта и обслуживания газовых, твердотопливных котлов с разным типом инсталляции (напольные, настенные) от ведущего турецкого производителя:</p>
 <div class="row">

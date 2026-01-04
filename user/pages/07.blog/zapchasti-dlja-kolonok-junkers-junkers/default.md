@@ -15,7 +15,7 @@ title: 'Запчасти для газовых колонок Junkers'
 <!-- Введение / Изображение -->
 <div class="card mb-5">
 <div class="card-body text-center">
-<figure class="image is-inline-block mb-3"><img src="https://service04.ru/bl-content/img/2019/12/junkers.jpg" alt="Запчасти для газовых колонок Junkers" class="border"></figure>
+<figure class="image is-inline-block mb-3"><img src="junkers.jpg" alt="Запчасти для газовых колонок Junkers" class="border"></figure>
 <p>Найдите и купите все необходимые комплектующие для вашей колонки Junkers</p>
 </div>
 </div>
@@ -66,7 +66,7 @@ title: 'Запчасти для газовых колонок Junkers'
 <div class="card p-2 h-100">
 <div class="row is-gapless is-vcentered">
 <div class="col-4">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/000.jpg" alt="Пьезо кнопка" class="border"></figure>
+<figure class="image"><img src="000.jpg" alt="Пьезо кнопка" class="border"></figure>
 </div>
 <div class="col">
 <h6 class="h6 mb-1">Пьезо кнопка</h6>
@@ -79,7 +79,7 @@ title: 'Запчасти для газовых колонок Junkers'
 <div class="card p-2 h-100">
 <div class="row is-gapless is-vcentered">
 <div class="col-4">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/junkers2.png" alt="Запчасти для газовых колонок Junkers" class="border"></figure>
+<figure class="image"><img src="junkers2.png" alt="Запчасти для газовых колонок Junkers" class="border"></figure>
 </div>
 <div class="col">
 <h6 class="h6 mb-1">Теплообменник</h6>
@@ -92,7 +92,7 @@ title: 'Запчасти для газовых колонок Junkers'
 <div class="card p-2 h-100">
 <div class="row is-gapless is-vcentered">
 <div class="col-4">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/junkers3.png" alt="Запчасти для газовых колонок Junkers" class="border"></figure>
+<figure class="image"><img src="junkers3.png" alt="Запчасти для газовых колонок Junkers" class="border"></figure>
 </div>
 <div class="col">
 <h6 class="h6 mb-1">Газовая арматура</h6>
@@ -105,7 +105,7 @@ title: 'Запчасти для газовых колонок Junkers'
 <div class="card p-2 h-100">
 <div class="row is-gapless is-vcentered">
 <div class="col-4">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/junkers4.png" alt="Запчасти для газовых колонок Junkers" class="border"></figure>
+<figure class="image"><img src="junkers4.png" alt="Запчасти для газовых колонок Junkers" class="border"></figure>
 </div>
 <div class="col">
 <h6 class="h6 mb-1">Электроды розжига</h6>

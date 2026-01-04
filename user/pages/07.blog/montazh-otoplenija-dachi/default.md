@@ -10,7 +10,7 @@ title: 'Монтаж отопления дачи сертифицированн�
 </div>
 <!-- Основное изображение -->
 <div class="text-center mb-5">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/image.jpg" alt="Профессиональный монтаж отопления на даче" style="max-width: 100%;">
+<figure class="image"><img src="image.jpg" alt="Профессиональный монтаж отопления на даче" style="max-width: 100%;">
 <div class="bg-primary text-white p-4" style="position: absolute; bottom: 0; left: 0; right: 0;">
 <h3 class="h5 mb-0"><i class="fas fa-thermometer-half me-2"></i> Тепло в вашем доме 365 дней в году!</h3>
 </div>

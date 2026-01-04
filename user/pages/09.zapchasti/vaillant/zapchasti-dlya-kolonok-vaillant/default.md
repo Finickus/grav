@@ -13,7 +13,7 @@ title: 'Запчасти для колонок Vaillant'
         <div class="card-body p-4 p-md-5">
             <div class="row align-items-center">
                 <div class="col-md-4 text-center mb-4 mb-md-0">
-                    <img src="https://service04.ru/bl-content/img/2019/12/vaillant.png" alt="Запчасти для колонок Vaillant" class="img-fluid rounded border shadow-sm">
+                    <img src="vaillant.png" alt="Запчасти для колонок Vaillant" class="img-fluid rounded border shadow-sm">
                 </div>
                 <div class="col-md-8">
                     <p class="fs-5 text-muted">Использование оригинальных <strong>запчастей для колонок Vaillant</strong> — критически важный фактор при ремонте водогрейного оборудования. Качественные детали продлевают срок службы техники, повышают КПД и экономят средства на долгосрочном обслуживании.</p>
@@ -100,10 +100,10 @@ title: 'Запчасти для колонок Vaillant'
                 <div class="card-body p-4">
                     <div class="row g-2">
                         <div class="col-6">
-                            <img src="https://service04.ru/bl-content/img/2019/12/zapchasti_vaillant1-e8edb0a5.jpg" alt="Схема 1" class="img-fluid rounded border shadow-sm">
+                            <img src="zapchasti_vaillant1-e8edb0a5.jpg" alt="Схема 1" class="img-fluid rounded border shadow-sm">
                         </div>
                         <div class="col-6">
-                            <img src="https://service04.ru/bl-content/img/2019/12/zapchasti_vaillant-4db9935d.jpg" alt="Схема 2" class="img-fluid rounded border shadow-sm">
+                            <img src="zapchasti_vaillant-4db9935d.jpg" alt="Схема 2" class="img-fluid rounded border shadow-sm">
                         </div>
                     </div>
                     <p class="mt-3 small text-muted text-center"><i class="fas fa-search-plus me-1"></i> Подробные схемы для точного подбора комплектующих.</p>

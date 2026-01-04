@@ -17,7 +17,7 @@ title: 'Запчасти для котла Mora Electra'
 <div class="card-body">
 <div class="row align-items-center">
 <div class="col-4 text-center">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/2018-03-06_003020.jpg" alt="Запчасти для электрокотлов Mora" class="has-border-light"></figure>
+<figure class="image is-inline-block"><img src="2018-03-06_003020.jpg" alt="Запчасти для электрокотлов Mora" class="has-border-light"></figure>
 </div>
 <div class="col is-two-thirds content">
 <p class="fs-5">Электрокотлы **Mora Electra** отличаются высокой надежностью благодаря простой, но эффективной конструкции. Основными узлами, требующими внимания при ремонте и обслуживании, являются:</p>
@@ -37,7 +37,7 @@ title: 'Запчасти для котла Mora Electra'
 <div class="card-body">
 <div class="row g-3">
 <div class="col-lg-6">
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/2018-03-06_003932.jpg" alt="Схема расположения ТЭНов и датчиков"></figure>
+<figure class="image mb-4"><img src="2018-03-06_003932.jpg" alt="Схема расположения ТЭНов и датчиков"></figure>
 </div>
 <div class="col-lg-6">
 <div class="table-container">

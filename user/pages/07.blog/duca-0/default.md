@@ -34,7 +34,7 @@ title: 'DUCA'
 <p class="card-h3 text-white"><i class="fas fa-bolt me-2"></i>АСИНХРОННЫЕ НАСОСЫ DUCA</p>
 </header>
 <div class="card-body text-center">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_258%20%20  (1).jpg" alt="насосы DUCA" class="border"></figure>
+<figure class="image is-inline-block"><img src="Screenshot_258    (1).jpg" alt="насосы DUCA" class="border"></figure>
 </div>
 </div>
 <!-- Серия XPS -->
@@ -64,8 +64,8 @@ title: 'DUCA'
 </ul>
 </div>
 <div class="col-4">
-<figure class="image mb-3"><img src="https://service04.ru/bl-content/uploads/pages/ac4876ecc4b60c88a383da19921078a4/Screenshot_260%20%20  (1).jpg" alt="насосы DUCA" class="border"></figure>
-<figure class="image"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_259%20%20  (1).jpg" alt="насосы DUCA" class="border"></figure>
+<figure class="image mb-3"><img src="Screenshot_260    (1).jpg" alt="насосы DUCA" class="border"></figure>
+<figure class="image"><img src="Screenshot_259    (1).jpg" alt="насосы DUCA" class="border"></figure>
 </div>
 </div>
 </div>
@@ -77,7 +77,7 @@ title: 'DUCA'
 <div class="card-body">
 <div class="row">
 <div class="col is-two-thirds">
-<figure class="image mb-3"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_261.jpg" alt="насосы DUCA grundfos" class="border"></figure>
+<figure class="image mb-3"><img src="Screenshot_261.jpg" alt="насосы DUCA grundfos" class="border"></figure>
 <h5 class="h6 text-primary">СОВМЕСТИМОСТЬ МОДЕЛЕЙ:</h5>
 <ul>
 <li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i><strong>GRUNDFOS UPS 15-50</strong></li>
@@ -91,7 +91,7 @@ title: 'DUCA'
 </div>
 </div>
 <div class="col-4">
-<figure class="image"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_262.jpg" alt="насосы DUCA" class="border"></figure>
+<figure class="image"><img src="Screenshot_262.jpg" alt="насосы DUCA" class="border"></figure>
 </div>
 </div>
 </div>
@@ -103,7 +103,7 @@ title: 'DUCA'
 <div class="card-body">
 <div class="row">
 <div class="col is-two-thirds">
-<figure class="image mb-3"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_263.jpg" alt="насосы DUCA wilo" class="border"></figure>
+<figure class="image mb-3"><img src="Screenshot_263.jpg" alt="насосы DUCA wilo" class="border"></figure>
 <h6 class="h6 text-primary">Модели:</h6>
 <ul>
 <li class="mb-1"><i class="fas fa-circle text-info me-2"></i> BPS-W 15-5</li>
@@ -139,18 +139,18 @@ title: 'DUCA'
 </ul>
 </div>
 <div class="col-4">
-<figure class="image"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_264.jpg" alt="насосы DUCA вило" class="border"></figure>
+<figure class="image"><img src="Screenshot_264.jpg" alt="насосы DUCA вило" class="border"></figure>
 </div>
 </div>
 <div class="text-center mt-4">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_273%20%20  (2).jpg" alt="насосы DUCA рабочее колесо" class="border"></figure>
+<figure class="image is-inline-block"><img src="Screenshot_273    (2).jpg" alt="насосы DUCA рабочее колесо" class="border"></figure>
 </div>
 </div>
 </div>
 <!-- Совместимость с Bosch/Buderus -->
 <div class="card mb-5">
 <div class="card-body text-center">
-<figure class="image is-inline-block mb-3"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_265%20%20  (1).jpg" alt="насосы DUCA для bosch buderus" class="border"></figure>
+<figure class="image is-inline-block mb-3"><img src="Screenshot_265    (1).jpg" alt="насосы DUCA для bosch buderus" class="border"></figure>
 <div class="notification is-warning">
 <p class="mb-2"><strong><span style="color: #e67e23;"><i class="fas fa-sync me-2"></i>ОБРАТНОЕ ВРАЩЕНИЕ</span></strong></p>
 <p class="mb-2"><strong><span style="color: #e67e23;"><i class="fas fa-exchange-alt me-2"></i>СПЕЦИАЛЬНО ПРЕДНАЗНАЧЕН ДЛЯ WILO</span></strong></p>
@@ -166,7 +166,7 @@ title: 'DUCA'
 <div class="card-body">
 <div class="row">
 <div class="col is-two-thirds">
-<figure class="image mb-3"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_266.jpg" alt="насосы DUCA вило Wilo" class="border"></figure>
+<figure class="image mb-3"><img src="Screenshot_266.jpg" alt="насосы DUCA вило Wilo" class="border"></figure>
 <h6 class="h6 text-primary">СОВМЕСТИМОСТЬ МОДЕЛЕЙ:</h6>
 <ul class="mb-0">
 <li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i><strong>WILO RS 15/4</strong></li>
@@ -175,7 +175,7 @@ title: 'DUCA'
 </ul>
 </div>
 <div class="col-4">
-<figure class="image"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_267.jpg" alt="насосы DUCA" class="border"></figure>
+<figure class="image"><img src="Screenshot_267.jpg" alt="насосы DUCA" class="border"></figure>
 </div>
 </div>
 </div>
@@ -188,23 +188,23 @@ title: 'DUCA'
 <h6 class="h6 text-primary"><i class="fas fa-bolt me-2"></i>Ротор DUCA - Grundfos</h6>
 <div class="row mb-4">
 <div class="col-6 mb-3">
-<figure class="image"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_269.jpg" alt="насосы DUCA ротор" class="border"></figure>
+<figure class="image"><img src="Screenshot_269.jpg" alt="насосы DUCA ротор" class="border"></figure>
 </div>
 <div class="col-6 mb-3">
-<figure class="image"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_268.jpg" alt="насосы DUCA ротор grundfos" class="border"></figure>
+<figure class="image"><img src="Screenshot_268.jpg" alt="насосы DUCA ротор grundfos" class="border"></figure>
 </div>
 </div>
 <h6 class="h6 text-warning"><i class="fas fa-wind me-2"></i>Ротор DUCA - WILO</h6>
 <div class="row">
 <div class="col-6 mb-3">
-<figure class="image"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_271.jpg" alt="насосы DUCA ротор wilo" class="border"></figure>
+<figure class="image"><img src="Screenshot_271.jpg" alt="насосы DUCA ротор wilo" class="border"></figure>
 </div>
 <div class="col-6 mb-3">
-<figure class="image"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_270.jpg" alt="насосы DUCA ротор wilo" class="border"></figure>
+<figure class="image"><img src="Screenshot_270.jpg" alt="насосы DUCA ротор wilo" class="border"></figure>
 </div>
 </div>
 <div class="text-center mt-3">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_274%20%20  (1).jpg" alt="насосы DUCA ротор" class="border"></figure>
+<figure class="image is-inline-block"><img src="Screenshot_274    (1).jpg" alt="насосы DUCA ротор" class="border"></figure>
 </div>
 </div>
 </div>
@@ -227,7 +227,7 @@ title: 'DUCA'
 <div class="col-4 mb-2"><a href="https://service04.ru/contact-us/feedback" class="btn btn-warning btn-lg w-100 text-dark"> <i class="fas fa-envelope me-2"></i>Написать нам </a></div>
 </div>
 <div class="text-center mt-3">
-<figure class="image is-inline-block mt-3"><img src="https://service04.ru/bl-content/uploads/pages/ac4876ecc4b60c88a383da19921078a4/zapchasti_mora%20%20  (2)(1).jpg" alt="насосы DUCA ротор" class="border"></figure>
+<figure class="image is-inline-block mt-3"><img src="zapchasti_mora    (2)(1).jpg" alt="насосы DUCA ротор" class="border"></figure>
 </div>
 </div>
 </div>

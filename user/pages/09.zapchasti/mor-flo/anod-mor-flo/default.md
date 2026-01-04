@@ -15,8 +15,8 @@ title: 'Анод Mor Flo'
     </div>
     
     <div class="text-center mb-5">
-        <a href="https://service04.ru/bl-content/uploads/pages/f254d8bcceca60182eaa1ed35ff64cd0/morflo_499.jpg" class="lightbox-trigger d-inline-block" data-bs-toggle="modal" data-bs-target="#modal-anode-img">
-            <img src="https://service04.ru/bl-content/uploads/pages/f254d8bcceca60182eaa1ed35ff64cd0/morflo_499.jpg" alt="Магниевый анод" class="img-fluid rounded shadow-lg border border-info" style="max-height: 400px;">
+        <a href="morflo_499.jpg" class="lightbox-trigger d-inline-block" data-bs-toggle="modal" data-bs-target="#modal-anode-img">
+            <img src="morflo_499.jpg" alt="Магниевый анод" class="img-fluid rounded shadow-lg border border-info" style="max-height: 400px;">
         </a>
     </div>
 
@@ -94,7 +94,7 @@ title: 'Анод Mor Flo'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/f254d8bcceca60182eaa1ed35ff64cd0/morflo_499.jpg" class="img-fluid rounded" alt="Магниевый анод Mor-Flo" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="morflo_499.jpg" class="img-fluid rounded" alt="Магниевый анод Mor-Flo" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

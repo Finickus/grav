@@ -4,7 +4,7 @@ title: 'Профессиональный ремонт котлов Vaillant'
 
 <!-- Шапка с изображением -->
 <section class="hero btn-sm">
-<div class="hero-image"><img src="https://service04.ru/bl-content/uploads/pages/efe440ca22159c8a5f443d0e6d249402/Vailant1.jpg" alt="Котел Vaillant" class="image w-100"></div>
+<div class="hero-image"><img src="Vailant1.jpg" alt="Котел Vaillant" class="image w-100"></div>
 </section>
 <section class="section">
 <div class="container"><!-- Навигация -->
@@ -53,7 +53,7 @@ title: 'Профессиональный ремонт котлов Vaillant'
 <h2 class="h3 display-3 mb-4"><i class="bi bi-list-check"></i> Этапы работ при ремонте котлов Vaillant</h2>
 <div class="row mb-4">
 <div class="col-6">
-<figure class="image is-4by3 animate-scale-up"><img src="https://service04.ru/bl-content/uploads/pages/efe440ca22159c8a5f443d0e6d249402/Screenshot_71(1).jpg" class="rounded shadow"></figure>
+<figure class="image is-4by3 animate-scale-up"><img src="Screenshot_71(1).jpg" class="rounded shadow"></figure>
 </div>
 <div class="col-6 d-flex align-items-center">
 <p class="h5 lead">Профессиональный ремонт котлов Vaillant в Москве и Московской области по четкому плану действий для обеспечения надежности работы оборудования.</p>

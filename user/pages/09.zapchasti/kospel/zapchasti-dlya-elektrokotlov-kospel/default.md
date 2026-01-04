@@ -12,7 +12,7 @@ title: 'Запчасти для электрокотлов Kospel'
         <div class="card-body p-4 p-md-5">
             <div class="row align-items-center">
                 <div class="col-lg-6 text-center mb-4 mb-lg-0">
-                    <img src="https://service04.ru/bl-content/img/2019/12/EKCO_service04.ru_.jpg" alt="Kospel EKCO" class="img-fluid rounded shadow-sm">
+                    <img src="EKCO_service04.ru_.jpg" alt="Kospel EKCO" class="img-fluid rounded shadow-sm">
                 </div>
                 <div class="col-lg-6">
                     <h3 class="h4 fw-bold text-primary mb-3">Оригинальные детали от польского производителя</h3>
@@ -65,8 +65,8 @@ title: 'Запчасти для электрокотлов Kospel'
 
         <h5 class="fw-bold text-primary mb-4 border-bottom pb-2"><i class="fas fa-fire me-2 text-danger"></i>Узлы мощности</h5>
         <div class="row g-4 text-center mb-4">
-            <div class="col-md-6"><img src="https://service04.ru/bl-content/img/2019/12/kospel-4-1.png" alt="ZM46" class="img-fluid border p-2 rounded" style="max-height: 200px;"></div>
-            <div class="col-md-6"><img src="https://service04.ru/bl-content/img/2019/12/kospel-2.png" alt="Kospel Unit" class="img-fluid border p-2 rounded" style="max-height: 200px;"></div>
+            <div class="col-md-6"><img src="kospel-4-1.png" alt="ZM46" class="img-fluid border p-2 rounded" style="max-height: 200px;"></div>
+            <div class="col-md-6"><img src="kospel-2.png" alt="Kospel Unit" class="img-fluid border p-2 rounded" style="max-height: 200px;"></div>
         </div>
         <div class="table-responsive mb-5">
             <table class="table table-striped table-hover table-bordered small align-middle">
@@ -83,8 +83,8 @@ title: 'Запчасти для электрокотлов Kospel'
 
         <h5 class="fw-bold text-primary mb-4 border-bottom pb-2"><i class="fas fa-microchip me-2 text-info"></i>Панели и платы управления</h5>
         <div class="row g-4 text-center mb-4">
-            <div class="col-md-6"><img src="https://service04.ru/bl-content/img/2019/12/kospel-3.png" alt="Панель" class="img-fluid border p-2 rounded" style="max-height: 200px;"></div>
-            <div class="col-md-6"><img src="https://service04.ru/bl-content/img/2019/12/kospel-4.png" alt="Плата" class="img-fluid border p-2 rounded" style="max-height: 200px;"></div>
+            <div class="col-md-6"><img src="kospel-3.png" alt="Панель" class="img-fluid border p-2 rounded" style="max-height: 200px;"></div>
+            <div class="col-md-6"><img src="kospel-4.png" alt="Плата" class="img-fluid border p-2 rounded" style="max-height: 200px;"></div>
         </div>
         <div class="table-responsive mb-5">
             <table class="table table-striped table-hover table-bordered small align-middle">
@@ -100,7 +100,7 @@ title: 'Запчасти для электрокотлов Kospel'
 
         <h5 class="fw-bold text-primary mb-4 border-bottom pb-2"><i class="fas fa-fire-alt me-2 text-danger"></i>Нагревательные элементы (ТЭНы)</h5>
         <div class="text-center mb-4">
-            <img src="https://service04.ru/bl-content/img/2019/12/kospel-6.png" class="img-fluid border p-3 rounded" style="max-height: 250px;">
+            <img src="kospel-6.png" class="img-fluid border p-3 rounded" style="max-height: 250px;">
         </div>
         <div class="table-responsive mb-5">
             <table class="table table-striped table-hover table-bordered small align-middle text-center">
@@ -117,8 +117,8 @@ title: 'Запчасти для электрокотлов Kospel'
 
         <h5 class="fw-bold text-primary mb-4 border-bottom pb-2"><i class="fas fa-tint me-2 text-info"></i>Насосы и ограничители</h5>
         <div class="row g-4 text-center mb-4">
-            <div class="col-md-6"><img src="https://service04.ru/bl-content/img/2019/12/kospel-7.png" class="img-fluid border p-2 rounded" style="max-height: 180px;"></div>
-            <div class="col-md-6"><img src="https://service04.ru/bl-content/img/2019/12/kospel-8.png" class="img-fluid border p-2 rounded" style="max-height: 180px;"></div>
+            <div class="col-md-6"><img src="kospel-7.png" class="img-fluid border p-2 rounded" style="max-height: 180px;"></div>
+            <div class="col-md-6"><img src="kospel-8.png" class="img-fluid border p-2 rounded" style="max-height: 180px;"></div>
         </div>
         <div class="table-responsive">
             <table class="table table-striped table-hover table-bordered small align-middle">

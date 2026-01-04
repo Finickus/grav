@@ -39,7 +39,7 @@ title: 'Ремонт газовых колонок Zanussi'
         </div>
         <div class="col-md-4 text-center">
             <a href="#modal-img-1" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-1">
-                <img src="https://service04.ru/bl-content/uploads/image/Zanussi/Screenshot_245.jpg" alt="Газовая колонка Зануси" class="img-fluid rounded shadow-lg">
+                <img src="Screenshot_245.jpg" alt="Газовая колонка Зануси" class="img-fluid rounded shadow-lg">
             </a>
         </div>
     </div>
@@ -83,7 +83,7 @@ title: 'Ремонт газовых колонок Zanussi'
         </div>
         <div class="col-md-6 text-center">
             <a href="#modal-img-2" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-2">
-                <img src="https://service04.ru/bl-content/uploads/image/Zanussi/Screenshot_250.jpg" alt="Наклейка с моделью Zanussi" class="img-fluid rounded shadow-lg">
+                <img src="Screenshot_250.jpg" alt="Наклейка с моделью Zanussi" class="img-fluid rounded shadow-lg">
             </a>
         </div>
     </div>
@@ -99,14 +99,14 @@ title: 'Ремонт газовых колонок Zanussi'
     </div>
 
     <div class="text-center">
-        <img src="https://service04.ru/bl-content/uploads/pages/f97dfd13803f8632390eca8054d76090/zanussi1(1).jpg" alt="Ремонт газовых колонок Zanussi в нашем сервисном центре" class="img-fluid rounded shadow-lg">
+        <img src="zanussi1(1).jpg" alt="Ремонт газовых колонок Zanussi в нашем сервисном центре" class="img-fluid rounded shadow-lg">
     </div>
 
     <div class="modal fade" id="modal-img-1" tabindex="-1" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/image/Zanussi/Screenshot_245.jpg" class="img-fluid rounded" alt="Газовая колонка Зануси" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_245.jpg" class="img-fluid rounded" alt="Газовая колонка Зануси" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -115,7 +115,7 @@ title: 'Ремонт газовых колонок Zanussi'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/image/Zanussi/Screenshot_250.jpg" class="img-fluid rounded" alt="Наклейка с моделью Zanussi" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_250.jpg" class="img-fluid rounded" alt="Наклейка с моделью Zanussi" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

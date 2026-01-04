@@ -11,7 +11,7 @@ title: 'Магниевый анод Mor-Flo'
 </div>
 </div>
 <!-- Изображение -->
-<div class="text-center mb-4"><a href="https://service04.ru/bl-content/uploads/pages/f254d8bcceca60182eaa1ed35ff64cd0/morflo_499.jpg" data-toggle="lightcard" data-gallery="anode" data-h3="Магниевый анод Mor-Flo"> <img src="https://service04.ru/bl-content/uploads/pages/f254d8bcceca60182eaa1ed35ff64cd0/morflo_499.jpg" alt="Магниевый анод" class="img-fluid rounded shadow-sm"> </a></div>
+<div class="text-center mb-4"><a href="morflo_499.jpg" data-toggle="lightcard" data-gallery="anode" data-h3="Магниевый анод Mor-Flo"> <img src="morflo_499.jpg" alt="Магниевый анод" class="img-fluid rounded shadow-sm"> </a></div>
 <!-- Описание и совместимость -->
 <div class="card mb-4 border-info">
 <div class="card-body">

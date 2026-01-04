@@ -6,7 +6,7 @@ title: 'Ремонт электрических котлов Vaillant'
     
       <div class="text-center mb-4">
         <a href="#modal-main-vaillant" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-main-vaillant">
-            <img src="https://service04.ru/bl-content/uploads/pages/b1e4e0a5a21e48c55527380aee2efbef/KotelVaillant(1).jpg" alt="Ремонт электрических котлов Vaillant" class="img-fluid rounded shadow-sm">
+            <img src="KotelVaillant(1).jpg" alt="Ремонт электрических котлов Vaillant" class="img-fluid rounded shadow-sm">
         </a>
     </div>
 
@@ -30,25 +30,25 @@ title: 'Ремонт электрических котлов Vaillant'
         <div class="row g-3 text-center my-4">
             <div class="col-lg-3 col-sm-6">
                 <div class="bg-light p-3 h-100 rounded shadow-sm">
-                    <img class="img-fluid my-3" src="https://service04.ru/bl-content/uploads/image/1ICON/arrows_exclamation.svg" alt="Диагностика" style="width: 64px; height: 64px; display: block; margin: auto;">
+                    <img class="img-fluid my-3" src="arrows_exclamation.svg" alt="Диагностика" style="width: 64px; height: 64px; display: block; margin: auto;">
                     <h5 class="fw-bold">Диагностика неисправностей</h5>
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6">
                 <div class="p-3 h-100 rounded shadow-sm">
-                    <img class="img-fluid my-3" src="https://service04.ru/bl-content/uploads/image/1ICON/basic_settings.svg" alt="Ремонт" style="width: 64px; height: 64px; display: block; margin: auto;">
+                    <img class="img-fluid my-3" src="basic_settings.svg" alt="Ремонт" style="width: 64px; height: 64px; display: block; margin: auto;">
                     <h5 class="fw-bold">Ремонт котлов и техническое обслуживание котлов</h5>
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6">
                 <div class="bg-light p-3 h-100 rounded shadow-sm">
-                    <img class="img-fluid my-3" src="https://service04.ru/bl-content/uploads/image/1ICON/arrows_rotate.svg" alt="Замена запчастей" style="width: 64px; height: 64px; display: block; margin: auto;">
+                    <img class="img-fluid my-3" src="arrows_rotate.svg" alt="Замена запчастей" style="width: 64px; height: 64px; display: block; margin: auto;">
                     <h5 class="fw-bold">Замена запчастей</h5>
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6">
                 <div class="p-3 h-100 rounded shadow-sm">
-                    <img class="img-fluid my-3" src="https://service04.ru/bl-content/uploads/image/1ICON/basic_gear.svg" alt="Установка и настройка" style="width: 64px; height: 64px; display: block; margin: auto;">
+                    <img class="img-fluid my-3" src="basic_gear.svg" alt="Установка и настройка" style="width: 64px; height: 64px; display: block; margin: auto;">
                     <h5 class="fw-bold">Установка и настройка оборудования</h5>
                 </div>
             </div>
@@ -59,17 +59,17 @@ title: 'Ремонт электрических котлов Vaillant'
     <div class="row g-3 text-center mb-5">
         <div class="col-md-4">
             <a href="#modal-gallery-1" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-gallery-1">
-                <img src="https://service04.ru/bl-content/uploads/pages/b1e4e0a5a21e48c55527380aee2efbef/Screenshot_109.jpg" alt="Галерея 1" class="img-fluid rounded shadow-sm">
+                <img src="Screenshot_109.jpg" alt="Галерея 1" class="img-fluid rounded shadow-sm">
             </a>
         </div>
         <div class="col-md-4">
             <a href="#modal-gallery-2" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-gallery-2">
-                <img src="https://service04.ru/bl-content/uploads/pages/b1e4e0a5a21e48c55527380aee2efbef/Screenshot_111.jpg" alt="Галерея 2" class="img-fluid rounded shadow-sm">
+                <img src="Screenshot_111.jpg" alt="Галерея 2" class="img-fluid rounded shadow-sm">
             </a>
         </div>
         <div class="col-md-4">
             <a href="#modal-gallery-3" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-gallery-3">
-                <img src="https://service04.ru/bl-content/uploads/pages/b1e4e0a5a21e48c55527380aee2efbef/Screenshot_105.jpg" alt="Галерея 3" class="img-fluid rounded shadow-sm">
+                <img src="Screenshot_105.jpg" alt="Галерея 3" class="img-fluid rounded shadow-sm">
             </a>
         </div>
     </div>
@@ -125,7 +125,7 @@ title: 'Ремонт электрических котлов Vaillant'
         </div>
         <div class="col-md-4 text-center">
             <a href="#modal-errors-vaillant" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-errors-vaillant">
-                <img src="https://service04.ru/bl-content/uploads/pages/b1e4e0a5a21e48c55527380aee2efbef/Screenshot_114.jpg" alt="Коды ошибок Vaillant" class="img-fluid rounded shadow-sm">
+                <img src="Screenshot_114.jpg" alt="Коды ошибок Vaillant" class="img-fluid rounded shadow-sm">
             </a>
         </div>
     </div>
@@ -133,7 +133,7 @@ title: 'Ремонт электрических котлов Vaillant'
     <div class="row shadow-sm p-4 mb-5 bg-white rounded border">
         <div class="col-md-4 text-center mb-3 mb-md-0">
             <a href="#modal-service-vaillant" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-service-vaillant">
-                <img src="https://service04.ru/bl-content/uploads/pages/b1e4e0a5a21e48c55527380aee2efbef/Screenshot_110.jpg" alt="Сервисное обслуживание" class="img-fluid rounded shadow-sm">
+                <img src="Screenshot_110.jpg" alt="Сервисное обслуживание" class="img-fluid rounded shadow-sm">
             </a>
         </div>
         <div class="col-md-8 small">
@@ -166,7 +166,7 @@ title: 'Ремонт электрических котлов Vaillant'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/b1e4e0a5a21e48c55527380aee2efbef/KotelVaillant(1).jpg" class="img-fluid rounded" alt="Ремонт электрических котлов Vaillant" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="KotelVaillant(1).jpg" class="img-fluid rounded" alt="Ремонт электрических котлов Vaillant" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -175,7 +175,7 @@ title: 'Ремонт электрических котлов Vaillant'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/b1e4e0a5a21e48c55527380aee2efbef/Screenshot_109.jpg" class="img-fluid rounded" alt="Галерея 1" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_109.jpg" class="img-fluid rounded" alt="Галерея 1" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -184,7 +184,7 @@ title: 'Ремонт электрических котлов Vaillant'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/b1e4e0a5a21e48c55527380aee2efbef/Screenshot_111.jpg" class="img-fluid rounded" alt="Галерея 2" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_111.jpg" class="img-fluid rounded" alt="Галерея 2" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -193,7 +193,7 @@ title: 'Ремонт электрических котлов Vaillant'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/b1e4e0a5a21e48c55527380aee2efbef/Screenshot_105.jpg" class="img-fluid rounded" alt="Галерея 3" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_105.jpg" class="img-fluid rounded" alt="Галерея 3" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -202,7 +202,7 @@ title: 'Ремонт электрических котлов Vaillant'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/b1e4e0a5a21e48c55527380aee2efbef/Screenshot_114.jpg" class="img-fluid rounded" alt="Коды ошибок Vaillant" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_114.jpg" class="img-fluid rounded" alt="Коды ошибок Vaillant" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -211,7 +211,7 @@ title: 'Ремонт электрических котлов Vaillant'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/b1e4e0a5a21e48c55527380aee2efbef/Screenshot_110.jpg" class="img-fluid rounded" alt="Сервисное обслуживание" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_110.jpg" class="img-fluid rounded" alt="Сервисное обслуживание" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

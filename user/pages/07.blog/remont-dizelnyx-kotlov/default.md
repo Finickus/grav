@@ -12,7 +12,7 @@ title: 'Сертифицированный ремонт и обслуживан�
 <div class="card mb-5">
 <div class="row align-items-center">
 <div class="col-4 text-center mb-4">
-<figure class="image is-256x256 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/remont-dizelnogo-kotla_Image04-75070f16.jpg" alt="Сертифицированный ремонт и обслуживание дизельных котлов" style="border: 1px solid #dbdbdb;"></figure>
+<figure class="image is-256x256 mx-auto"><img src="remont-dizelnogo-kotla_Image04-75070f16.jpg" alt="Сертифицированный ремонт и обслуживание дизельных котлов" style="border: 1px solid #dbdbdb;"></figure>
 </div>
 <div class="col-8">
 <p>Для отопления частных домов, коттеджей, коммерческих и промышленных помещений все чаще устанавливается котельное оборудование на жидком топливе. <strong>Дизельная котельная</strong> стала экономичной и безопасной альтернативой традиционному газовому оборудованию (в качестве основного или резервного источника отопления).</p>
@@ -45,7 +45,7 @@ title: 'Сертифицированный ремонт и обслуживан�
 </div>
 </div>
 <div class="col-4 text-center">
-<figure class="image is-256x256 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/remont-dizelnogo-kotla_Image01-e2803402.jpg" alt="ремонт и обслуживание дизельных котлов" style="border: 1px solid #dbdbdb;"></figure>
+<figure class="image is-256x256 mx-auto"><img src="remont-dizelnogo-kotla_Image01-e2803402.jpg" alt="ремонт и обслуживание дизельных котлов" style="border: 1px solid #dbdbdb;"></figure>
 </div>
 </div>
 </div>
@@ -53,13 +53,13 @@ title: 'Сертифицированный ремонт и обслуживан�
 <div class="card mb-5">
 <div class="row g-3 is-centered">
 <div class="col-4 text-center mb-3">
-<figure class="image is-192x192 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/remont-dizelnogo-kotla_Image03-619c8384.jpg" alt="remont-dizelnogo-kotla_Image03.jpg" style="border: 1px solid #dbdbdb;"></figure>
+<figure class="image is-192x192 mx-auto"><img src="remont-dizelnogo-kotla_Image03-619c8384.jpg" alt="remont-dizelnogo-kotla_Image03.jpg" style="border: 1px solid #dbdbdb;"></figure>
 </div>
 <div class="col-4 text-center mb-3">
-<figure class="image is-192x192 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/remont-dizelnogo-kotla_Image05-8d622fcb.jpg" alt="remont-dizelnogo-kotla_Image05.jpg" style="border: 1px solid #dbdbdb;"></figure>
+<figure class="image is-192x192 mx-auto"><img src="remont-dizelnogo-kotla_Image05-8d622fcb.jpg" alt="remont-dizelnogo-kotla_Image05.jpg" style="border: 1px solid #dbdbdb;"></figure>
 </div>
 <div class="col-4 text-center mb-3">
-<figure class="image is-192x192 mx-auto"><img src="https://service04.ru/bl-content/img/2019/12/remont-dizelnogo-kotla_Image06-5e172b21.jpg" alt="remont-dizelnogo-kotla_Image06.jpg" style="border: 1px solid #dbdbdb;"></figure>
+<figure class="image is-192x192 mx-auto"><img src="remont-dizelnogo-kotla_Image06-5e172b21.jpg" alt="remont-dizelnogo-kotla_Image06.jpg" style="border: 1px solid #dbdbdb;"></figure>
 </div>
 </div>
 </div>
@@ -89,7 +89,7 @@ title: 'Сертифицированный ремонт и обслуживан�
 <p class="mb-0">Все работы по обслуживанию вашей котельной техники будут выполнены в удобное для вас время.</p>
 </div>
 <div class="text-center mt-4">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/remont-dizelnogo-kotla_Image02.png" alt="Схема ремонта дизельного котла" style="border: 1px solid #dbdbdb;"></figure>
+<figure class="image is-inline-block"><img src="remont-dizelnogo-kotla_Image02.png" alt="Схема ремонта дизельного котла" style="border: 1px solid #dbdbdb;"></figure>
 </div>
 </div>
 <!-- Контакты -->

@@ -26,7 +26,7 @@ title: 'Коды ошибок котла Mora'
                 </div>
                 <div class="col-md-4 text-center">
                     <figure class="figure mb-0">
-                        <img src="https://service04.ru/bl-content/uploads/image/Mora/Screenshot_136%20%20(1).jpg" alt="Котел Mora Sirius" class="img-fluid rounded" style="max-height: 200px;">
+                        <img src="Screenshot_136  (1).jpg" alt="Котел Mora Sirius" class="img-fluid rounded" style="max-height: 200px;">
                     </figure>
                 </div>
             </div>
@@ -123,7 +123,7 @@ title: 'Коды ошибок котла Mora'
                 </div>
                 <div class="col-md-4 text-center">
                     <figure class="figure mb-0">
-                        <img src="https://service04.ru/bl-content/uploads/image/Mora/Screenshot_140%20%20(1).jpg" alt="Котел Mora 5106-5117" class="img-fluid rounded shadow-sm" style="max-height: 150px;">
+                        <img src="Screenshot_140  (1).jpg" alt="Котел Mora 5106-5117" class="img-fluid rounded shadow-sm" style="max-height: 150px;">
                     </figure>
                 </div>
             </div>

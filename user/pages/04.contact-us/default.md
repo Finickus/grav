@@ -29,19 +29,19 @@ process:
     <div class="row g-3 justify-content-center mb-5">
         <div class="col-md-4">
             <a href="https://tlgg.ru/GazService04" target="_blank" rel="noopener" class="btn btn-outline-info btn-lg w-100 btn-social">
-                <img src="https://service04.ru/bl-content/uploads/image/1ICON/telega.svg" width="24" height="24" alt="Telegram">
+                <img src="telega.svg" width="24" height="24" alt="Telegram">
                 <span>Telegram</span>
             </a>
         </div>
         <div class="col-md-4">
             <a href="https://wa.me/79262211348?text=Здравствуйте,%20у%20меня%20вопрос%20по%20поводу" target="_blank" rel="noopener" class="btn btn-outline-success btn-lg w-100 btn-social">
-                <img src="https://service04.ru/bl-content/uploads/image/1ICON/whatsapp.svg" width="24" height="24" alt="WhatsApp">
+                <img src="whatsapp.svg" width="24" height="24" alt="WhatsApp">
                 <span>WhatsApp</span>
             </a>
         </div>
         <div class="col-md-4">
             <a href="https://vk.com/service_04" target="_blank" rel="noopener" class="btn btn-outline-primary btn-lg w-100 btn-social">
-                <img src="https://service04.ru/bl-content/uploads/image/1ICON/vk122.svg" width="24" height="24" alt="VK">
+                <img src="vk122.svg" width="24" height="24" alt="VK">
                 <span>VKontakte</span>
             </a>
         </div>
@@ -119,19 +119,19 @@ process:
             <tbody>
                 <tr>
                     <td class="text-center">
-                        <img src="https://service04.ru/bl-content/uploads/pages/7aa3342afc494dfd8a8274c118adbe3b/thumbnails/2020-01-17_210058-min.png" alt="Офис" width="100" height="100" style="object-fit: cover;">
+                        <img src="2020-01-17_210058-min.png" alt="Офис" width="100" height="100" style="object-fit: cover;">
                     </td>
                     <td><strong>ОФИС г. Москва, Щелковское шоссе, д. 100</strong></td>
                 </tr>
                 <tr>
                     <td class="text-center">
-                        <img src="https://service04.ru/bl-content/uploads/pages/7aa3342afc494dfd8a8274c118adbe3b/thumbnails/2020-01-17_212607-min.png" alt="Склад" width="100" height="100" style="object-fit: cover;">
+                        <img src="2020-01-17_212607-min.png" alt="Склад" width="100" height="100" style="object-fit: cover;">
                     </td>
                     <td><strong>СКЛАД г. Москва, 16-я Парковая, д. 36, стр. А<br><span class="text-muted">(для навигатора: д. 36, стр. 4)</span></strong></td>
                 </tr>
                 <tr>
                     <td class="text-center">
-                        <img src="https://service04.ru/bl-content/uploads/image/flot.jpg" alt="Дополнительный склад" width="100" height="100" style="object-fit: cover;">
+                        <img src="flot.jpg" alt="Дополнительный склад" width="100" height="100" style="object-fit: cover;">
                     </td>
                     <td><strong>ДОПОЛНИТЕЛЬНЫЙ СКЛАД г. Москва, ул. Флотская, 7, корп. 3</strong></td>
                 </tr>

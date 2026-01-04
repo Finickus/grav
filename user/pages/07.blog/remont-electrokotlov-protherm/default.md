@@ -11,32 +11,32 @@ title: 'Наши услуги включают:'
 <div>
 <div class="row">
 <div class="col-md-12 shadow-sm ">
-<p><img src="https://service04.ru/bl-content/uploads/image/Protherm/Screenshot_103.jpg" alt=""></p>
+<p><img src="Screenshot_103.jpg" alt=""></p>
 <p>Наша компания специализируемся на ремонте электрических котлов Protherm Skat и Ray и предлагаем полный спектр услуг, связанных с обслуживанием и восстановлением работоспособности ваших котлов. Наша команда опытных специалистов готова помочь вам с любыми проблемами, связанными с вашим электрическим котлом Protherm.</p>
 
 <div class="row">
-<div class="col-md-4"><img src="https://service04.ru/bl-content/uploads/image/Screenshot_187%20(2).jpg" width="100%" height="" alt=""></div>
+<div class="col-md-4"><img src="Screenshot_187 (2).jpg" width="100%" height="" alt=""></div>
 <div class="col-md-8">
 <p><span style="font-weight: bolder;">Диагностика котла:</span> Мы проводим тщательную диагностику вашего электрического котла Protherm, чтобы выявить любые проблемы или неисправности. Наши специалисты используют современное оборудование и методы, чтобы точно определить причину возникшей проблемы.</p>
 </div>
 </div>
 <p></p>
 <div class="row">
-<div class="col-md-4"><img src="https://service04.ru/bl-content/uploads/image/Screenshot_188%20(2).jpg" width="100%" alt=""></div>
+<div class="col-md-4"><img src="Screenshot_188 (2).jpg" width="100%" alt=""></div>
 <div class="col-md-8">
 <p><span style="font-weight: bolder;">Ремонт котлов:</span> Мы предлагаем профессиональный ремонт электрических котлов Protherm. Независимо от того, простая ли это замена деталей или сложный ремонт электрической системы, наши опытные техники обладают необходимыми знаниями и навыками для быстрого и качественного устранения неисправностей.</p>
 </div>
 </div>
 <p></p>
 <div class="row">
-<div class="col-md-4"><img src="https://service04.ru/bl-content/uploads/image/Screenshot_189%20(1).jpg" width="100%" alt=""></div>
+<div class="col-md-4"><img src="Screenshot_189 (1).jpg" width="100%" alt=""></div>
 <div class="col-md-8">
 <p><span style="font-weight: bolder;">Замена деталей:</span> Если ваш электрический котел Protherm требует замены каких-либо деталей, мы предлагаем широкий выбор оригинальных запчастей Protherm. Мы работаем только с надежными поставщиками и гарантируем качество заменяемых деталей.</p>
 </div>
 </div>
 <p></p>
 <div class="row">
-<div class="col-md-4"><img src="https://service04.ru/bl-content/uploads/image/Screenshot_190%20(1).jpg" width="100%" height="" alt=""></div>
+<div class="col-md-4"><img src="Screenshot_190 (1).jpg" width="100%" height="" alt=""></div>
 <div class="col-md-8">
 <p><span style="font-weight: bolder;">Обслуживание котлов:</span> Регулярное обслуживание вашего электрического котла Protherm является важным аспектом его эффективной и безопасной работы. Мы предлагаем услуги по техническому обслуживанию, которые включают очистку, проверку и настройку котла, а также проверку на утечки и обеспечение безопасности.</p>
 </div>
@@ -93,18 +93,18 @@ title: 'Наши услуги включают:'
 </ul>
 <p style="padding: 0px; margin: 12px 0px 0px; user-select: text; word-break: break-word; line-height: var(--cib-type-body2-line-height); font-variation-settings: var(--cib-type-body2-font-variation-settings); color: #111111;  background-color: rgba(255, 255, 255, 0.7);">Не откладывайте сервисное обслуживание вашего котла. Закажите его прямо сейчас и получите специальную скидку! Для этого свяжитесь с нами по телефону или <a href="https://service04.ru/master" target="_blank" rel="noopener">заполните форму на нашем сайте</a>. </p>
 </div>
-<div class="col-md-4"><img src="https://service04.ru/bl-content/uploads/image/Protherm/logoprotherm.jpg" width="100%" height="" alt=""><img src="https://service04.ru/bl-content/uploads/image/Protherm/Screenshot_102.jpg" width="100%" height="" alt=""></div>
+<div class="col-md-4"><img src="logoprotherm.jpg" width="100%" height="" alt=""><img src="Screenshot_102.jpg" width="100%" height="" alt=""></div>
 </div>
 <p></p>
 <div class="alert alert-warning" role="alert">Сервисное обслуживание котлов рекомендуется проводить<strong> не реже одного раза в год</strong>, а также при появлении признаков неисправности или снижения эффективности работы котла. Для проведения сервисного обслуживания котлов необходимо обратиться к профессиональным мастерам, которые имеют опыт и квалификацию в этой области.</div>
 <p style="padding: 0px; margin: 12px 0px 0px; user-select: text; word-break: break-word; line-height: var(--cib-type-body2-line-height); font-variation-settings: var(--cib-type-body2-font-variation-settings); color: #111111;  background-color: rgba(255, 255, 255, 0.7);"></p>
 <div class="row">
 <div class="col-md-6">
-<p><img src="https://service04.ru/bl-content/uploads/image/Protherm/Screenshot_99%20(1)%20(2).jpg" width="450" height="350" alt="PROTHERM RAY"></p>
+<p><img src="Screenshot_99 (1) (2).jpg" width="450" height="350" alt="PROTHERM RAY"></p>
 <p>PROTHERM RAY</p>
 </div>
 <div class="col-md-6">
-<p><img src="https://service04.ru/bl-content/uploads/image/Protherm/Screenshot_147%20(1)%20(1)%20(1).jpg" width="450" height="350" alt="PROTHERM SKAT"></p>
+<p><img src="Screenshot_147 (1) (1) (1).jpg" width="450" height="350" alt="PROTHERM SKAT"></p>
 <p>PROTHERM SKAT версия 13</p>
 </div>
 </div>
@@ -121,5 +121,5 @@ title: 'Наши услуги включают:'
 </div>
 </div>
 </div>
-<p><img src="https://service04.ru/bl-content/uploads/pages/db765b242d7f413b9d63da4284ed1191/kotelprothermskat(2).jpg" alt=""></p>
+<p><img src="kotelprothermskat(2).jpg" alt=""></p>
 </div>

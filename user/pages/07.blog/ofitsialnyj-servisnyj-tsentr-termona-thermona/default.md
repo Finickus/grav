@@ -5,12 +5,12 @@ title: 'Ремонт и обслуживание котлов Thermona'
 <div class="content-card">
 <div class="container-fluid mt-5 mb-5">
 <div class="card text-center mb-5">
-<figure class="image is-inline-block mb-4" style="max-width: 200px;"><img src="https://service04.ru/bl-content/img/2019/12/termona-min.png" alt="Штаб-квартира Термона"></figure>
+<figure class="image is-inline-block mb-4" style="max-width: 200px;"><img src="termona-min.png" alt="Штаб-квартира Термона"></figure>
 
 <p class="mb-0">«Сервис 04» осуществляет гарантийный и постгарантийный ремонт котлов фирмы **Термона** по Москве и Московской области. Возможен выезд инженера до **300 км** от Москвы.</p>
 </div>
 <div class="text-center mb-5">
-<figure class="image is-inline-block" style="max-width: 100%;"><img src="https://service04.ru/bl-content/img/2019/12/400_термона-min-min.png" alt="Котёл Thermona" class="shadow"></figure>
+<figure class="image is-inline-block" style="max-width: 100%;"><img src="400_термона-min-min.png" alt="Котёл Thermona" class="shadow"></figure>
 </div>
 <div class="mb-6 content"><details open="" class="card mb-3">
 <summary class="h5 mb-0 text-primary"><span class="icon me-2"><i class="fas fa-tools"></i></span> Услуги сервиса</summary>

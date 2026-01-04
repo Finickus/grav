@@ -9,7 +9,7 @@ title: 'Блок защиты Radel'
 <div class="container text-center">
 
 <p class="h5 lead">100% защита вашего котла от скачков напряжения</p>
-<figure class="image is-inline-block mt-3"><img src="https://service04.ru/bl-content/img/2019/12/logo-rodel.png" alt="Логотип Radel" style="max-height: 80px;"></figure>
+<figure class="image is-inline-block mt-3"><img src="logo-rodel.png" alt="Логотип Radel" style="max-height: 80px;"></figure>
 </div>
 </div>
 </section>
@@ -32,8 +32,8 @@ title: 'Блок защиты Radel'
 </ul>
 </div>
 <div class="col-12 is-6-desktop text-center">
-<figure class="image mb-3"><img src="https://service04.ru/bl-content/img/2019/12/rodel800.jpg" alt="Блок защиты Radel-800" class="border"></figure>
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/radel-8.jpg" alt="Блок защиты модель Radel" class="border"></figure>
+<figure class="image mb-3"><img src="rodel800.jpg" alt="Блок защиты Radel-800" class="border"></figure>
+<figure class="image"><img src="radel-8.jpg" alt="Блок защиты модель Radel" class="border"></figure>
 </div>
 </div>
 </div>

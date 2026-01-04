@@ -42,16 +42,16 @@ title: 'Чугунный корпус для напольных котлов The
 <div class="col-12 is-6-desktop">
 <div class="row g-3">
 <div class="col-6">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/20151209_155630.jpg" class="border" alt="чугунный теплообменник термона"></figure>
+<figure class="image"><img src="20151209_155630.jpg" class="border" alt="чугунный теплообменник термона"></figure>
 </div>
 <div class="col-6">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/20151209_155622.jpg" class="border" alt="Чугунный теплообменник для котла Thermona."></figure>
+<figure class="image"><img src="20151209_155622.jpg" class="border" alt="Чугунный теплообменник для котла Thermona."></figure>
 </div>
 <div class="col-6">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/20151209_155638.jpg" class="border" alt="Чугунный корпус для напольных котлов Thermona THERM 18 P/B"></figure>
+<figure class="image"><img src="20151209_155638.jpg" class="border" alt="Чугунный корпус для напольных котлов Thermona THERM 18 P/B"></figure>
 </div>
 <div class="col-6">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/20151209_155752.jpg" class="border" alt="Чугунный корпус для напольных котлов Thermona THERM 35 P/B"></figure>
+<figure class="image"><img src="20151209_155752.jpg" class="border" alt="Чугунный корпус для напольных котлов Thermona THERM 35 P/B"></figure>
 </div>
 </div>
 </div>

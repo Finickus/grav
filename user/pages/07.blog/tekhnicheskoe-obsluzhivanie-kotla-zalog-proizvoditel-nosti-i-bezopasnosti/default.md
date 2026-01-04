@@ -19,7 +19,7 @@ title: 'Техническое обслуживание котла'
 <p class="h5 lead">Узнайте, как правильно обслуживать котел для обеспечения надежной и экономичной работы.</p>
 </div>
 <div class="col text-center">
-<figure class="image"><img src="https://service04.ru/bl-content/img/2022/07/2022-07-11151712.png" alt="Техническое обслуживание котла" class="border"></figure>
+<figure class="image"><img src="2022-07-11151712.png" alt="Техническое обслуживание котла" class="border"></figure>
 </div>
 </div>
 </div>

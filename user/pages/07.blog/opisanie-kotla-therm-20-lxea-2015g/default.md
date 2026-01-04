@@ -7,7 +7,7 @@ title: 'Описание котла THERM 20 LXE.A 2015г.'
 
 <!-- Секция 1: Газовая часть -->
 <div class="card mb-5">
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/1.jpg" alt="Газовая часть котла THERM 20 LXE.A" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image mb-4"><img src="1.jpg" alt="Газовая часть котла THERM 20 LXE.A" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 <h2 class="h4 display-4 mb-3">Газовая часть и камера сгорания</h2>
 <div class="table-container">
 <table class="table is-striped w-100">
@@ -100,7 +100,7 @@ title: 'Описание котла THERM 20 LXE.A 2015г.'
 </div>
 <!-- Секция 2: Водяной контур -->
 <div class="card mb-5">
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/2.jpg" alt="Водяной контур котла THERM 20 LXE.A" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image mb-4"><img src="2.jpg" alt="Водяной контур котла THERM 20 LXE.A" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 <h2 class="h4 display-4 mb-3">Водяной контур и корпусные детали</h2>
 <div class="table-container">
 <table class="table is-striped w-100">
@@ -273,7 +273,7 @@ title: 'Описание котла THERM 20 LXE.A 2015г.'
 </div>
 <!-- Секция 3: Панель управления -->
 <div class="card">
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/3.jpg" alt="Панель управления котла THERM 20 LXE.A" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image mb-4"><img src="3.jpg" alt="Панель управления котла THERM 20 LXE.A" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 <h2 class="h4 display-4 mb-3">Панель управления</h2>
 <div class="table-container">
 <table class="table is-striped w-100">

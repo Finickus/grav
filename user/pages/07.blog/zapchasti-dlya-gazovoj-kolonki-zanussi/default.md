@@ -11,7 +11,7 @@ title: 'Запасные части для газовой колонки Zanussi
 </section>
 <!-- Основное изображение (без скругления) -->
 <div class="text-center mb-5">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2020/01/FastStoneEditor13-min.jpg" alt="Газовая колонка Zanussi"></figure>
+<figure class="image is-inline-block"><img src="FastStoneEditor13-min.jpg" alt="Газовая колонка Zanussi"></figure>
 </div>
 <!-- Описание -->
 <div class="card mb-5">
@@ -45,7 +45,7 @@ title: 'Запасные части для газовой колонки Zanussi
 <tr>
 <td>Heat exchanger</td>
 <td class="text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2020/01/2020-01-30150019-min.jpg" alt="Heat exchanger"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2020-01-30150019-min.jpg" alt="Heat exchanger"></figure>
 </td>
 <td>501151005600</td>
 <td>Теплообменник Zanussi GWH 10 Fonte (501151005600)</td>
@@ -53,7 +53,7 @@ title: 'Запасные части для газовой колонки Zanussi
 <tr>
 <td>Burner</td>
 <td class="text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2020/01/2020-01-30150143.jpg" alt="Burner"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2020-01-30150143.jpg" alt="Burner"></figure>
 </td>
 <td>501141008000</td>
 <td>Горелка Zanussi GWH 10 Fonte (501141008000)</td>
@@ -61,7 +61,7 @@ title: 'Запасные части для газовой колонки Zanussi
 <tr>
 <td>Gas water valve</td>
 <td class="text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2020/01/2020-01-30150235-min.jpg" alt="Gas water valve"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2020-01-30150235-min.jpg" alt="Gas water valve"></figure>
 </td>
 <td>metal: 501132009000</td>
 <td>Газовый и водяной узел Zanussi GWH 10 Fonte (501132009000)</td>
@@ -69,7 +69,7 @@ title: 'Запасные части для газовой колонки Zanussi
 <tr>
 <td>Gas water valve</td>
 <td class="text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2020/01/5e32c62794835.jpg" alt="Gas water valve"></figure>
+<figure class="image is-80x80 mx-auto"><img src="5e32c62794835.jpg" alt="Gas water valve"></figure>
 </td>
 <td>glass: 501132006200</td>
 <td>Газовый и водяной узел Zanussi GWH 10 Fonte Glass (стеклянные панели) (501132006200)</td>
@@ -77,7 +77,7 @@ title: 'Запасные части для газовой колонки Zanussi
 <tr>
 <td>Pulse generator</td>
 <td class="text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2020/01/2020-01-30150414-min.jpg" alt="Pulse generator"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2020-01-30150414-min.jpg" alt="Pulse generator"></figure>
 </td>
 <td>501212002100</td>
 <td>Блок электроники Zanussi GWH 10 Fonte (501212002100)</td>
@@ -85,7 +85,7 @@ title: 'Запасные части для газовой колонки Zanussi
 <tr>
 <td>Battery card</td>
 <td class="text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2020/01/2020-01-30150508-min.jpg" alt="Battery card"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2020-01-30150508-min.jpg" alt="Battery card"></figure>
 </td>
 <td>501312000103</td>
 <td>Бокс для батареек Zanussi GWH 10 Fonte (501312000103)</td>
@@ -93,7 +93,7 @@ title: 'Запасные части для газовой колонки Zanussi
 <tr>
 <td>LED temperature display</td>
 <td class="text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2020/01/2020-01-30150601.jpg" alt="LED temperature display"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2020-01-30150601.jpg" alt="LED temperature display"></figure>
 </td>
 <td>501221000700</td>
 <td>Дисплей (без датчика температуры) Zanussi GWH 10 Fonte (501221000700)</td>
@@ -101,7 +101,7 @@ title: 'Запасные части для газовой колонки Zanussi
 <tr>
 <td>Temperature sensor</td>
 <td class="text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2020/01/2020-01-30150708-min.jpg" alt="Temperature sensor"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2020-01-30150708-min.jpg" alt="Temperature sensor"></figure>
 </td>
 <td>501221000700-1</td>
 <td>Датчик температуры горячей воды (для дисплея) Zanussi GWH 10 Fonte (501221000700-1)</td>
@@ -109,7 +109,7 @@ title: 'Запасные части для газовой колонки Zanussi
 <tr>
 <td>Knob</td>
 <td class="text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2020/01/2020-01-30150814-min.jpg" alt="Knob"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2020-01-30150814-min.jpg" alt="Knob"></figure>
 </td>
 <td>501351000119</td>
 <td>Ручка регулировки для Zanussi GWH 10 Fonte (501351000119)</td>
@@ -117,7 +117,7 @@ title: 'Запасные части для газовой колонки Zanussi
 <tr>
 <td>Thermocouple 77 degree-for Heat exchanger</td>
 <td class="text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2020/01/2020-01-30150905-min.jpg" alt="Thermocouple 77 degree"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2020-01-30150905-min.jpg" alt="Thermocouple 77 degree"></figure>
 </td>
 <td>501230000103</td>
 <td>Термостат защитный 77 С (теплообменника) Zanussi GWH 10 Fonte (501230000103)</td>
@@ -125,7 +125,7 @@ title: 'Запасные части для газовой колонки Zanussi
 <tr>
 <td>Thermocouple 85 degree-for Chimney</td>
 <td class="text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2020/01/2020-01-30151002-min.jpg" alt="Thermocouple 85 degree"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2020-01-30151002-min.jpg" alt="Thermocouple 85 degree"></figure>
 </td>
 <td>501230000113</td>
 <td>Термостат защитный 85 С (отводящих газов) Zanussi GWH 10 Fonte (501230000113)</td>
@@ -133,7 +133,7 @@ title: 'Запасные части для газовой колонки Zanussi
 <tr>
 <td>Gas manifold</td>
 <td class="text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2020/01/2020-01-30151047-min.jpg" alt="Gas manifold"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2020-01-30151047-min.jpg" alt="Gas manifold"></figure>
 </td>
 <td>501141008000-1</td>
 <td>Коллектор горелки в сборе с форсунками Zanussi GWH 10 Fonte (501141008000-1)</td>
@@ -141,7 +141,7 @@ title: 'Запасные части для газовой колонки Zanussi
 <tr>
 <td>Ignition pin</td>
 <td class="text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2020/01/2020-01-30151134-min.jpg" alt="Ignition pin"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2020-01-30151134-min.jpg" alt="Ignition pin"></figure>
 </td>
 <td>501176000101</td>
 <td>Электрод розжига Zanussi GWH 10 Fonte (501176000101)</td>
@@ -149,7 +149,7 @@ title: 'Запасные части для газовой колонки Zanussi
 <tr>
 <td>Feedback pin</td>
 <td class="text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2020/01/2020-01-30151235-min.jpg" alt="Feedback pin"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2020-01-30151235-min.jpg" alt="Feedback pin"></figure>
 </td>
 <td>501177000101</td>
 <td>Электрод ионизации Zanussi GWH 10 Fonte (501177000101)</td>
@@ -157,7 +157,7 @@ title: 'Запасные части для газовой колонки Zanussi
 <tr>
 <td>Membrane of Gas-water valve</td>
 <td class="text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2020/01/2020-01-30151323-min.jpg" alt="Membrane of Gas-water valve"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2020-01-30151323-min.jpg" alt="Membrane of Gas-water valve"></figure>
 </td>
 <td>501132006200-1</td>
 <td>Мембрана водяного узла Zanussi GWH 10 Fonte (501132006200-1)</td>
@@ -165,7 +165,7 @@ title: 'Запасные части для газовой колонки Zanussi
 <tr>
 <td>Micro switch</td>
 <td class="text-center">
-<figure class="image is-80x80 mx-auto"><img src="https://service04.ru/bl-content/img/2020/01/2020-01-30151406-min.jpg" alt="Micro switch"></figure>
+<figure class="image is-80x80 mx-auto"><img src="2020-01-30151406-min.jpg" alt="Micro switch"></figure>
 </td>
 <td>501132006200-2</td>
 <td>Микропереключатель Zanussi GWH 10 Fonte (501132006200-2)</td>

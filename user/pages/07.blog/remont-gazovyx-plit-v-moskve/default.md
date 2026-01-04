@@ -8,7 +8,7 @@ title: 'Ремонт газовых плит в Москве – гаранти�
 
 <p class="h5 lead">Газовая плита - незаменимый помощник на каждой кухне. Поломка создает не только бытовые неудобства, но и опасность утечки газа. Наши мастера выполнят профессиональный ремонт с гарантией безопасности.</p>
 </div>
-<div class="col-4 text-center"><img src="https://service04.ru/bl-content/img/2019/12/remont-gazovyx-plit2.jpg" alt="Профессиональный ремонт газовых плит" class="is-fullwidth shadow"></div>
+<div class="col-4 text-center"><img src="remont-gazovyx-plit2.jpg" alt="Профессиональный ремонт газовых плит" class="is-fullwidth shadow"></div>
 </div>
 <div class="row mb-5">
 <div class="col is-full">
@@ -42,7 +42,7 @@ title: 'Ремонт газовых плит в Москве – гаранти�
 </div>
 </div>
 </div>
-<div class="text-center mt-5"><img src="https://service04.ru/bl-content/img/2019/12/remont-gazovyx-plit.jpg" alt="Ремонт газовых плит на дому" class="is-fullwidth"></div>
+<div class="text-center mt-5"><img src="remont-gazovyx-plit.jpg" alt="Ремонт газовых плит на дому" class="is-fullwidth"></div>
 </div>
 </div>
 <div class="row mb-5">
@@ -103,7 +103,7 @@ title: 'Ремонт газовых плит в Москве – гаранти�
 </div>
 </div>
 </div>
-<div class="text-center mt-5"><img src="https://service04.ru/bl-content/img/2019/12/remont-gazovyx-plit1.jpg" alt="Ремонт плит всех производителей" class="is-fullwidth"></div>
+<div class="text-center mt-5"><img src="remont-gazovyx-plit1.jpg" alt="Ремонт плит всех производителей" class="is-fullwidth"></div>
 </div>
 </div>
 </div>

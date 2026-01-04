@@ -5,7 +5,7 @@ title: 'TG400 Предохранительный термостат'
 <div class="container my-4"><!-- Карточка с фото и описанием -->
 <div class="card mb-4 shadow-sm">
 <div class="row no-gutters">
-<div class="col-md-4"><a href="https://boilererror.ru/wp-content/uploads/2019/12/2018-03-14_235326.png" data-lightcard="tg400" data-h3="TG400 Предохранительный термостат"> <img src="https://service04.ru/bl-content/img/2019/12/2018-03-14_235326-98a141e4.png" class="card-img" alt="TG400 Предохранительный термостат"> </a></div>
+<div class="col-md-4"><a href="https://boilererror.ru/wp-content/uploads/2019/12/2018-03-14_235326.png" data-lightcard="tg400" data-h3="TG400 Предохранительный термостат"> <img src="2018-03-14_235326-98a141e4.png" class="card-img" alt="TG400 Предохранительный термостат"> </a></div>
 <div class="col-md-8">
 <div class="card-body">
 

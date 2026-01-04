@@ -15,7 +15,7 @@ title: 'Источник бесперебойного питания для ко
 <div class="card-body">
 <div class="row align-items-center">
 <div class="col-6 text-center">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/teplocom300_big.jpg" alt="Газовая колонка в квартире на кухне"></figure>
+<figure class="image is-inline-block"><img src="teplocom300_big.jpg" alt="Газовая колонка в квартире на кухне"></figure>
 <p class="text-center"><small>Газовая колонка в квартире на кухне</small></p>
 </div>
 <div class="col-6">
@@ -27,7 +27,7 @@ title: 'Источник бесперебойного питания для ко
 </div>
 <div class="card mb-5">
 <div class="card-body text-center">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/aqj6Sb1H.jpg" alt="Котельная с источником бесперебойного питания"></figure>
+<figure class="image is-inline-block"><img src="aqj6Sb1H.jpg" alt="Котельная с источником бесперебойного питания"></figure>
 <p class="text-center"><small>Котельная с источником бесперебойного питания</small></p>
 </div>
 </div>
@@ -141,8 +141,8 @@ title: 'Источник бесперебойного питания для ко
 <div class="row align-items-center">
 <div class="col-6 content">
 <h5 class="h5" style="color: #e37a25;">источников бесперебойного питания (ИБП) 200 В</h5>
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/20140902_174428.jpg" alt="источников бесперебойного питания (ИБП) 220 В"></figure>
-<figure class="image"><img src="https://service04.ru/bl-content/img/2019/12/20140902_174439.jpg" alt="ИБП"></figure>
+<figure class="image mb-4"><img src="20140902_174428.jpg" alt="источников бесперебойного питания (ИБП) 220 В"></figure>
+<figure class="image"><img src="20140902_174439.jpg" alt="ИБП"></figure>
 </div>
 <div class="col-6">
 <h5 class="h5">ОПТИМАЛЬНОЕ решение по бесперебойному питанию многоконтурных систем отопления</h5>
@@ -158,15 +158,15 @@ title: 'Источник бесперебойного питания для ко
 <h3 class="h3 display-3" style="color: #e37a25;"><span class="icon me-2"><i class="fas fa-card"></i></span>ВСЕ ЭТО В ОДНОЙ КОРОБКЕ!</h3>
 <div class="row justify-content-center mt-4">
 <div class="col is-one-quarter">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/stabilizator.png" alt="Стабилизатор"></figure>
+<figure class="image is-inline-block"><img src="stabilizator.png" alt="Стабилизатор"></figure>
 <p class="text-center"><small>Стабилизатор</small></p>
 </div>
 <div class="col is-one-quarter">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/ibp.png" alt="ИБП"></figure>
+<figure class="image is-inline-block"><img src="ibp.png" alt="ИБП"></figure>
 <p class="text-center"><small>ИБП</small></p>
 </div>
 <div class="col is-one-quarter">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/safe.png" alt="Безопасность"></figure>
+<figure class="image is-inline-block"><img src="safe.png" alt="Безопасность"></figure>
 <p class="text-center"><small>Безопасность</small></p>
 </div>
 </div>

@@ -6,7 +6,7 @@ title: 'Ремонт котла Protherm'
     
     <div class="text-center mb-5">
         <a href="#modal-main-brand" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-main-brand">
-            <img src="https://service04.ru/bl-content/uploads/pages/9db8e0232959ced2ea1f507ba71de984/KotelProtherm(1).jpg" alt="Ремонт котлов Protherm" class="img-fluid rounded shadow-lg">
+            <img src="KotelProtherm(1).jpg" alt="Ремонт котлов Protherm" class="img-fluid rounded shadow-lg">
         </a>
     </div>
 
@@ -19,13 +19,13 @@ title: 'Ремонт котла Protherm'
             
             <div class="text-center mb-4">
                 <a href="https://tlgg.ru/GazService04" target="_blank" rel="noopener" class="d-inline-block mx-2">
-                    <img src="https://service04.ru/bl-content/uploads/image/1ICON/telega.svg" width="40" height="40" alt="Telegram">
+                    <img src="telega.svg" width="40" height="40" alt="Telegram">
                 </a>
                 <a href="https://wa.me/79262211348?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5,%20%D0%A3%20%D0%BC%D0%B5%D0%BD%D1%8F%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D1%83" target="_blank" rel="noopener" class="d-inline-block mx-2">
-                    <img src="https://service04.ru/bl-content/uploads/image/1ICON/whatsapp.svg" width="40" height="40" alt="WhatsApp">
+                    <img src="whatsapp.svg" width="40" height="40" alt="WhatsApp">
                 </a>
                 <a href="https://vk.com/service_04" target="_blank" rel="noopener" class="d-inline-block mx-2">
-                    <img src="https://service04.ru/bl-content/uploads/image/1ICON/vk122.svg" width="40" height="40" alt="ВКонтакте">
+                    <img src="vk122.svg" width="40" height="40" alt="ВКонтакте">
                 </a>
             </div>
             
@@ -52,7 +52,7 @@ title: 'Ремонт котла Protherm'
         </div>
         <div class="col-md-6 text-center">
             <a href="#modal-img-2" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-2">
-                <img src="https://service04.ru/bl-content/uploads/pages/9db8e0232959ced2ea1f507ba71de984/Screenshot_178(2).jpg" alt="Котлы Protherm" class="img-fluid rounded shadow">
+                <img src="Screenshot_178(2).jpg" alt="Котлы Protherm" class="img-fluid rounded shadow">
             </a>
         </div>
     </div>
@@ -60,10 +60,10 @@ title: 'Ремонт котла Protherm'
     <div class="row shadow p-4 mb-5 rounded border">
         <div class="col-md-4 text-center mb-4 mb-md-0">
             <a href="#modal-logo-prot" class="lightbox-trigger d-inline-block mb-3" data-bs-toggle="modal" data-bs-target="#modal-logo-prot">
-                <img src="https://service04.ru/bl-content/uploads/image/logo/logo-prot.jpg" alt="Логотип Protherm" class="img-fluid rounded shadow-sm" style="max-height: 100px;">
+                <img src="logo-prot.jpg" alt="Логотип Protherm" class="img-fluid rounded shadow-sm" style="max-height: 100px;">
             </a>
             <a href="#modal-img-4" class="lightbox-trigger d-inline-block" data-bs-toggle="modal" data-bs-target="#modal-img-4">
-                <img src="https://service04.ru/bl-content/uploads/pages/9db8e0232959ced2ea1f507ba71de984/Screenshot_176(2).jpg" alt="Котлы Protherm" class="img-fluid rounded shadow-sm">
+                <img src="Screenshot_176(2).jpg" alt="Котлы Protherm" class="img-fluid rounded shadow-sm">
             </a>
         </div>
         <div class="col-md-8 small">
@@ -183,7 +183,7 @@ title: 'Ремонт котла Protherm'
         </div>
         <div class="col-md-4 text-center">
             <a href="#modal-service-prot" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-service-prot">
-                <img src="https://service04.ru/bl-content/uploads/image/Screenshot_179%20(1).jpg" alt="Сервисное обслуживание Protherm" class="img-fluid rounded shadow-sm">
+                <img src="Screenshot_179 (1).jpg" alt="Сервисное обслуживание Protherm" class="img-fluid rounded shadow-sm">
             </a>
         </div>
     </div>
@@ -203,12 +203,12 @@ title: 'Ремонт котла Protherm'
     <div class="row g-4 mb-5 text-center">
         <div class="col-md-6">
             <a href="#modal-cert-1" class="lightbox-trigger d-inline-block" data-bs-toggle="modal" data-bs-target="#modal-cert-1">
-                <img src="https://service04.ru/bl-content/uploads/image/Protherm/0%20(2).jpg" alt="Сертификат протерм 1" class="img-fluid rounded shadow-lg" style="max-height: 300px;">
+                <img src="0 (2).jpg" alt="Сертификат протерм 1" class="img-fluid rounded shadow-lg" style="max-height: 300px;">
             </a>
         </div>
         <div class="col-md-6">
             <a href="#modal-cert-2" class="lightbox-trigger d-inline-block" data-bs-toggle="modal" data-bs-target="#modal-cert-2">
-                <img src="https://service04.ru/bl-content/uploads/image/Protherm/Sertifikat-Proterm-001%20(1).jpg" alt="Сертификат Протерм 2" class="img-fluid rounded shadow-lg" style="max-height: 300px;">
+                <img src="Sertifikat-Proterm-001 (1).jpg" alt="Сертификат Протерм 2" class="img-fluid rounded shadow-lg" style="max-height: 300px;">
             </a>
         </div>
     </div>
@@ -228,7 +228,7 @@ title: 'Ремонт котла Protherm'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/9db8e0232959ced2ea1f507ba71de984/KotelProtherm(1).jpg" class="img-fluid rounded" alt="Ремонт котлов Protherm" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="KotelProtherm(1).jpg" class="img-fluid rounded" alt="Ремонт котлов Protherm" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -237,7 +237,7 @@ title: 'Ремонт котла Protherm'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/9db8e0232959ced2ea1f507ba71de984/Screenshot_178(2).jpg" class="img-fluid rounded" alt="Котлы Protherm" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_178(2).jpg" class="img-fluid rounded" alt="Котлы Protherm" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -246,7 +246,7 @@ title: 'Ремонт котла Protherm'
         <div class="modal-dialog modal-dialog-centered modal-sm">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/image/logo/logo-prot.jpg" class="img-fluid rounded" alt="Логотип Protherm" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="logo-prot.jpg" class="img-fluid rounded" alt="Логотип Protherm" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -255,7 +255,7 @@ title: 'Ремонт котла Protherm'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/9db8e0232959ced2ea1f507ba71de984/Screenshot_176(2).jpg" class="img-fluid rounded" alt="Котлы Protherm" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_176(2).jpg" class="img-fluid rounded" alt="Котлы Protherm" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -264,7 +264,7 @@ title: 'Ремонт котла Protherm'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/image/Screenshot_179%20(1).jpg" class="img-fluid rounded" alt="Сервисное обслуживание Protherm" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_179 (1).jpg" class="img-fluid rounded" alt="Сервисное обслуживание Protherm" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -273,7 +273,7 @@ title: 'Ремонт котла Protherm'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/image/Protherm/0%20(2).jpg" class="img-fluid rounded" alt="Сертификат протерм 1" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="0 (2).jpg" class="img-fluid rounded" alt="Сертификат протерм 1" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -282,7 +282,7 @@ title: 'Ремонт котла Protherm'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/image/Protherm/Sertifikat-Proterm-001%20(1).jpg" class="img-fluid rounded" alt="Сертификат Протерм 2" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="Sertifikat-Proterm-001 (1).jpg" class="img-fluid rounded" alt="Сертификат Протерм 2" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

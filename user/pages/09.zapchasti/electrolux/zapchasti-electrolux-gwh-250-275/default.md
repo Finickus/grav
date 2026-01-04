@@ -14,7 +14,7 @@ title: 'Запчасти Electrolux GWH 250-275'
         </div>
         <div class="col-12 col-lg-6 text-center">
             <a href="#modal-main-img" class="lightbox-trigger d-inline-block" data-bs-toggle="modal" data-bs-target="#modal-main-img">
-                <img src="https://service04.ru/bl-content/uploads/pages/40d4c0b24f76d562cbf2598e5243d759/Screenshot_56(1).jpg" alt="Газовая колонка Electrolux GWH 275" class="img-fluid rounded shadow-lg border border-white">
+                <img src="Screenshot_56(1).jpg" alt="Газовая колонка Electrolux GWH 275" class="img-fluid rounded shadow-lg border border-white">
             </a>
         </div>
     </div>
@@ -27,7 +27,7 @@ title: 'Запчасти Electrolux GWH 250-275'
 
     <div class="text-center mb-5">
         <a href="#modal-img-logo" class="lightbox-trigger d-inline-block" data-bs-toggle="modal" data-bs-target="#modal-img-logo">
-            <img src="https://service04.ru/bl-content/uploads/image/Electrolux/ellectro.jpg" alt="Запчасти Electrolux GWH 250-275" class="img-fluid rounded shadow-lg">
+            <img src="ellectro.jpg" alt="Запчасти Electrolux GWH 250-275" class="img-fluid rounded shadow-lg">
         </a>
     </div>
 
@@ -37,7 +37,7 @@ title: 'Запчасти Electrolux GWH 250-275'
         
         <div class="col-md-4">
             <div class="card h-100 p-3 shadow-sm border-success">
-                <img src="https://service04.ru/bl-content/uploads/image/1ICON/arrows_circle_check.svg" width="40" height="40" alt="Гарантированное качество" class="mx-auto mb-2">
+                <img src="arrows_circle_check.svg" width="40" height="40" alt="Гарантированное качество" class="mx-auto mb-2">
                 <h4 class="h5 fw-bold text-accent-green">Гарантированное качество:</h4>
                 <p class="small mb-0">Оригинальные запчасти, специально разработанные для модели GWH 250-275, обеспечивают надежность и долговечность. Каждая запчасть соответствует высоким стандартам качества Electrolux.</p>
             </div>
@@ -45,7 +45,7 @@ title: 'Запчасти Electrolux GWH 250-275'
         
         <div class="col-md-4">
             <div class="card h-100 p-3 shadow-sm border-success">
-                <img src="https://service04.ru/bl-content/uploads/image/1ICON/arrows_shrink_diagonal1.svg" width="40" height="40" alt="Идеальная совместимость" class="mx-auto mb-2">
+                <img src="arrows_shrink_diagonal1.svg" width="40" height="40" alt="Идеальная совместимость" class="mx-auto mb-2">
                 <h4 class="h5 fw-bold text-accent-green">Идеальная совместимость:</h4>
                 <p class="small mb-0">Оригинальные запчасти точно соответствуют техническим требованиям Electrolux GWH 275. Это гарантирует идеальную совместимость и эффективную работу системы.</p>
             </div>
@@ -53,7 +53,7 @@ title: 'Запчасти Electrolux GWH 250-275'
         
         <div class="col-md-4">
             <div class="card h-100 p-3 shadow-sm border-success">
-                <img src="https://service04.ru/bl-content/uploads/image/1ICON/basic_settings.svg" width="40" height="40" alt="Простота установки" class="mx-auto mb-2">
+                <img src="basic_settings.svg" width="40" height="40" alt="Простота установки" class="mx-auto mb-2">
                 <h4 class="h5 fw-bold text-accent-green">Простота установки:</h4>
                 <p class="small mb-0">Запчасти разработаны с учетом простоты установки и замены. Вы сможете легко установить новую запчасть без необходимости обращаться к специалистам.</p>
             </div>
@@ -61,7 +61,7 @@ title: 'Запчасти Electrolux GWH 250-275'
         
         <div class="col-md-6">
             <div class="card h-100 p-3 shadow-sm border-success">
-                <img src="https://service04.ru/bl-content/uploads/image/1ICON/basic_clockwise.svg" width="40" height="40" alt="Долговечность и надежность" class="mx-auto mb-2">
+                <img src="basic_clockwise.svg" width="40" height="40" alt="Долговечность и надежность" class="mx-auto mb-2">
                 <h4 class="h5 fw-bold text-accent-green">Долговечность и надежность:</h4>
                 <p class="small mb-0">Оригинальные запчасти обладают высокой надежностью и долговечностью. Они способны выдерживать интенсивное использование и обеспечивать длительный срок службы вашей газовой колонки.</p>
             </div>
@@ -69,7 +69,7 @@ title: 'Запчасти Electrolux GWH 250-275'
         
         <div class="col-md-6">
             <div class="card h-100 p-3 shadow-sm border-success">
-                <img src="https://service04.ru/bl-content/uploads/image/1ICON/basic_notebook_pencil.svg" width="40" height="40" alt="Гарантия производителя" class="mx-auto mb-2">
+                <img src="basic_notebook_pencil.svg" width="40" height="40" alt="Гарантия производителя" class="mx-auto mb-2">
                 <h4 class="h5 fw-bold text-accent-green">Гарантия производителя:</h4>
                 <p class="small mb-0">При покупке оригинальных запчастей Electrolux GWH 275 вы получаете гарантию от производителя. Это дает вам дополнительное спокойствие и уверенность в качестве приобретенных компонентов.</p>
             </div>
@@ -85,7 +85,7 @@ title: 'Запчасти Electrolux GWH 250-275'
     <div class="row g-4 mb-4">
         <div class="col-12 col-md-7 py-3">
             <a href="#modal-scheme-1" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-scheme-1">
-                <img src="https://service04.ru/bl-content/uploads/pages/40d4c0b24f76d562cbf2598e5243d759/2018-04-04_003200_electrolux.jpg" alt="Схема запчастей 1 (Теплообменник)" class="img-fluid rounded shadow-sm">
+                <img src="2018-04-04_003200_electrolux.jpg" alt="Схема запчастей 1 (Теплообменник)" class="img-fluid rounded shadow-sm">
             </a>
         </div>
         <div class="col-12 col-md-5 py-3 small">
@@ -112,7 +112,7 @@ title: 'Запчасти Electrolux GWH 250-275'
     <div class="row g-4 mb-4">
         <div class="col-12 col-md-7 py-3">
             <a href="#modal-scheme-2" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-scheme-2">
-                <img src="https://service04.ru/bl-content/uploads/pages/40d4c0b24f76d562cbf2598e5243d759/2018-04-04_003003_electrolux.jpg" alt="Схема запчастей 2 (Гидравлика)" class="img-fluid rounded shadow-sm">
+                <img src="2018-04-04_003003_electrolux.jpg" alt="Схема запчастей 2 (Гидравлика)" class="img-fluid rounded shadow-sm">
             </a>
         </div>
         <div class="col-12 col-md-5 py-3 small">
@@ -137,7 +137,7 @@ title: 'Запчасти Electrolux GWH 250-275'
     <div class="row g-4 mb-4">
         <div class="col-12 col-md-7 py-3">
             <a href="#modal-scheme-3" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-scheme-3">
-                <img src="https://service04.ru/bl-content/uploads/pages/40d4c0b24f76d562cbf2598e5243d759/2018-04-04_003038_electrolux.jpg" alt="Схема запчастей 3 (Газовый блок)" class="img-fluid rounded shadow-sm">
+                <img src="2018-04-04_003038_electrolux.jpg" alt="Схема запчастей 3 (Газовый блок)" class="img-fluid rounded shadow-sm">
             </a>
         </div>
         <div class="col-12 col-md-5 py-3 small">
@@ -166,7 +166,7 @@ title: 'Запчасти Electrolux GWH 250-275'
     <div class="row g-4 mb-5">
         <div class="col-12 col-md-7 py-3">
             <a href="#modal-scheme-4" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-scheme-4">
-                <img src="https://service04.ru/bl-content/uploads/pages/40d4c0b24f76d562cbf2598e5243d759/2018-04-04_003120_electrolux.jpg" alt="Схема запчастей 4 (Пилотная группа)" class="img-fluid rounded shadow-sm">
+                <img src="2018-04-04_003120_electrolux.jpg" alt="Схема запчастей 4 (Пилотная группа)" class="img-fluid rounded shadow-sm">
             </a>
         </div>
         <div class="col-12 col-md-5 py-3 small">
@@ -198,7 +198,7 @@ title: 'Запчасти Electrolux GWH 250-275'
         </div>
         <div class="col-md-6 text-center">
             <a href="#modal-img-sticker" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-sticker">
-                <img src="https://service04.ru/bl-content/uploads/image/Electrolux/e7ee92331cfd6cbaf8550bf697f9f002f0cc8c85%20(1).jpg" alt="Наклейка с моделью колонки" class="img-fluid rounded shadow-lg">
+                <img src="e7ee92331cfd6cbaf8550bf697f9f002f0cc8c85 (1).jpg" alt="Наклейка с моделью колонки" class="img-fluid rounded shadow-lg">
             </a>
         </div>
     </div>
@@ -208,7 +208,7 @@ title: 'Запчасти Electrolux GWH 250-275'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/40d4c0b24f76d562cbf2598e5243d759/Screenshot_56(1).jpg" class="img-fluid rounded" alt="Газовая колонка Electrolux GWH 275" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_56(1).jpg" class="img-fluid rounded" alt="Газовая колонка Electrolux GWH 275" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -217,7 +217,7 @@ title: 'Запчасти Electrolux GWH 250-275'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/image/Electrolux/ellectro.jpg" class="img-fluid rounded" alt="Запчасти Electrolux GWH 250-275" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="ellectro.jpg" class="img-fluid rounded" alt="Запчасти Electrolux GWH 250-275" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -226,7 +226,7 @@ title: 'Запчасти Electrolux GWH 250-275'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/40d4c0b24f76d562cbf2598e5243d759/2018-04-04_003200_electrolux.jpg" class="img-fluid rounded" alt="Схема запчастей 1 (Теплообменник)" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="2018-04-04_003200_electrolux.jpg" class="img-fluid rounded" alt="Схема запчастей 1 (Теплообменник)" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -235,7 +235,7 @@ title: 'Запчасти Electrolux GWH 250-275'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/40d4c0b24f76d562cbf2598e5243d759/2018-04-04_003003_electrolux.jpg" class="img-fluid rounded" alt="Схема запчастей 2 (Гидравлика)" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="2018-04-04_003003_electrolux.jpg" class="img-fluid rounded" alt="Схема запчастей 2 (Гидравлика)" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -244,7 +244,7 @@ title: 'Запчасти Electrolux GWH 250-275'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/40d4c0b24f76d562cbf2598e5243d759/2018-04-04_003038_electrolux.jpg" class="img-fluid rounded" alt="Схема запчастей 3 (Газовый блок)" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="2018-04-04_003038_electrolux.jpg" class="img-fluid rounded" alt="Схема запчастей 3 (Газовый блок)" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -253,7 +253,7 @@ title: 'Запчасти Electrolux GWH 250-275'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/40d4c0b24f76d562cbf2598e5243d759/2018-04-04_003120_electrolux.jpg" class="img-fluid rounded" alt="Схема запчастей 4 (Пилотная группа)" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="2018-04-04_003120_electrolux.jpg" class="img-fluid rounded" alt="Схема запчастей 4 (Пилотная группа)" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -262,7 +262,7 @@ title: 'Запчасти Electrolux GWH 250-275'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/image/Electrolux/e7ee92331cfd6cbaf8550bf697f9f002f0cc8c85%20(1).jpg" class="img-fluid rounded" alt="Наклейка с моделью колонки" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="e7ee92331cfd6cbaf8550bf697f9f002f0cc8c85 (1).jpg" class="img-fluid rounded" alt="Наклейка с моделью колонки" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

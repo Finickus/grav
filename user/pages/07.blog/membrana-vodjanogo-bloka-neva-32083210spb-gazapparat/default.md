@@ -8,7 +8,7 @@ title: 'Мембрана для газовой колонки Нева 3208'
 
 <div class="row align-items-center">
 <div class="col is-one-quarter text-center">
-<figure class="image is-inline-block"><a href="https://boilererror.ru/wp-content/uploads/2019/12/2018-04-02_225837membrany.jpg" target="_blank" h3="Мембрана для газовой колонки Нева 3208" rel="noopener"> <img src="https://service04.ru/bl-content/img/2019/12/2018-04-02_225837membrany-aa0d6959.jpg" alt="Мембрана для газовой колонки Нева 3208"> </a></figure>
+<figure class="image is-inline-block"><a href="https://boilererror.ru/wp-content/uploads/2019/12/2018-04-02_225837membrany.jpg" target="_blank" h3="Мембрана для газовой колонки Нева 3208" rel="noopener"> <img src="2018-04-02_225837membrany-aa0d6959.jpg" alt="Мембрана для газовой колонки Нева 3208"> </a></figure>
 </div>
 <div class="col is-three-quarters content">
 <p>Колонка **Нева 3208** снята с производства, но до сих пор активно используется во многих городах России. Основным отличием от других газовых колонок является простота конструкции и надежность. Если вдруг что-то ломается, всегда можно найти запчасти, в том числе и мембрану.</p>
@@ -23,7 +23,7 @@ title: 'Мембрана для газовой колонки Нева 3208'
 </div>
 </div>
 <div class="text-center mb-5">
-<figure class="image is-inline-block" style="max-width: 400px;"><img src="https://service04.ru/bl-content/img/2019/12/2018-04-02_225750membrany3208.jpg" alt="Мембрана для газовой колонки Нева 3208 "></figure>
+<figure class="image is-inline-block" style="max-width: 400px;"><img src="2018-04-02_225750membrany3208.jpg" alt="Мембрана для газовой колонки Нева 3208 "></figure>
 </div>
 <div class="card content bg-light">
 <h3 class="h4 display-4 text-warning">ЗАКАЗАТЬ МЕМБРАНУ ИЛИ ВЫЗВАТЬ МАСТЕРА</h3>

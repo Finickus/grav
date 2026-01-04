@@ -4,7 +4,7 @@ title: 'Названия компонентов по спецификации'
 
 <section class="section" style="background-color: #fbfaf9;">
 <div class="container"><!-- Схема газовой части -->
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/2572_14-LN-2.png" alt=""></figure>
+<figure class="image mb-4"><img src="2572_14-LN-2.png" alt=""></figure>
 <!-- Таблица: газовая часть -->
 <div class="table-container mb-5">
 <table class="table is-bordered is-striped w-100">
@@ -78,7 +78,7 @@ title: 'Названия компонентов по спецификации'
 </table>
 </div>
 <!-- Схема водяной части -->
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/2572_14-LN-.png" alt=""></figure>
+<figure class="image mb-4"><img src="2572_14-LN-.png" alt=""></figure>
 
 <!-- Таблица: вода / корпус -->
 <div class="table-container mb-5">
@@ -188,7 +188,7 @@ title: 'Названия компонентов по спецификации'
 </table>
 </div>
 <!-- Схема панели -->
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/2572_14-LN-3.png" alt=""></figure>
+<figure class="image mb-4"><img src="2572_14-LN-3.png" alt=""></figure>
 
 <!-- Таблица: панель управления -->
 <div class="table-container mb-5">
@@ -233,7 +233,7 @@ title: 'Названия компонентов по спецификации'
 </table>
 </div>
 <!-- Ещё одна схема -->
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/2572_14-LN-4.png" alt=""></figure>
+<figure class="image mb-4"><img src="2572_14-LN-4.png" alt=""></figure>
 
 <!-- Таблица: гидравлическая часть / клапаны -->
 <div class="table-container">

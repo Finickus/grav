@@ -19,7 +19,7 @@ title: 'Профессиональный ремонт котлов в Москв
 <p>Мы работаем с любыми брендами, включая **Baxi, Vaillant, Protherm, Ariston, Buderus, Navien, Bosch** и другие.</p>
 </div>
 <div class="col-lg-4 text-center">
-<figure class="image is-inline-block" style="max-width: 250px;"><img src="https://service04.ru/bl-content/uploads/image/1vse/beda1.jpg" alt="Ремонт котлов" class="rounded" style="border: 1px solid #ddd;"></figure>
+<figure class="image is-inline-block" style="max-width: 250px;"><img src="beda1.jpg" alt="Ремонт котлов" class="rounded" style="border: 1px solid #ddd;"></figure>
 </div>
 </div>
 <h3 class="h6" style="color: #e37a25; margin-top: 2rem;"><span class="icon me-2"><i class="fas fa-thumbs-up"></i></span> Почему выбирают нас?</h3>
@@ -104,7 +104,7 @@ title: 'Профессиональный ремонт котлов в Москв
 </details></div>
 <div class="card mb-5 shadow">
 <h3 class="h5 mb-3" style="color: #28a745;"><span class="icon me-2"><i class="fas fa-cogs"></i></span> Как проходит ремонт котла?</h3>
-<figure class="image text-center mb-4" style="max-width: 500px; margin: 0 auto;"><img src="https://service04.ru/bl-content/uploads/image/1vse/remont11.jpg" alt="Этапы ремонта" class="is-centered"></figure>
+<figure class="image text-center mb-4" style="max-width: 500px; margin: 0 auto;"><img src="remont11.jpg" alt="Этапы ремонта" class="is-centered"></figure>
 <div class="row g-3 text-center">
 <div class="col is-one-quarter process-step"><span class="icon btn-lg" style="color: #007bff;"><i class="fas fa-search fa-2x"></i></span>
 <h4 class="h6 mt-2">1. Диагностика</h4>

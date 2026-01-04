@@ -23,7 +23,7 @@ title: 'Стабилизаторы напряжения «Бастион»'
 <h3 class="mb-0"><i class="fas fa-list me-2"></i>Виды стабилизаторов для котлов отопления</h3>
 </div>
 <div class="card-body">
-<div class="text-center mb-4"><img src="https://service04.ru/bl-content/img/2019/12/stabilizatory-bastion2.png" alt="Виды стабилизаторов для котлов отопления" class="img-fluid rounded border"></div>
+<div class="text-center mb-4"><img src="stabilizatory-bastion2.png" alt="Виды стабилизаторов для котлов отопления" class="img-fluid rounded border"></div>
 <p>Стабилизатор напряжения – устройство, предназначенное для качественного и бесперебойного электропитания котельного оборудования, арматуры, насосов, вентиляторов, которые используются в системе отопления.</p>
 <p>На рынке котельного оборудования актуальны несколько типов стабилизаторов, которые отличаются по принципу работы:</p>
 <div class="row">
@@ -67,9 +67,9 @@ title: 'Стабилизаторы напряжения «Бастион»'
 <div class="card mb-4">
 <div class="card-body text-center">
 <div class="row">
-<div class="col-md-4 mb-3"><img src="https://service04.ru/bl-content/img/2019/12/stabilizatory-bastion5.png" alt="Стабилизаторы напряжения Бастион" class="img-fluid rounded border"></div>
-<div class="col-md-4 mb-3"><img src="https://service04.ru/bl-content/img/2019/12/stabilizatory-bastion4.png" alt="Стабилизаторы напряжения для котлов" class="img-fluid rounded border"></div>
-<div class="col-md-4 mb-3"><img src="https://service04.ru/bl-content/img/2019/12/stabilizatory-bastion.png" alt="Бастион стабилизатор" class="img-fluid rounded border"></div>
+<div class="col-md-4 mb-3"><img src="stabilizatory-bastion5.png" alt="Стабилизаторы напряжения Бастион" class="img-fluid rounded border"></div>
+<div class="col-md-4 mb-3"><img src="stabilizatory-bastion4.png" alt="Стабилизаторы напряжения для котлов" class="img-fluid rounded border"></div>
+<div class="col-md-4 mb-3"><img src="stabilizatory-bastion.png" alt="Бастион стабилизатор" class="img-fluid rounded border"></div>
 </div>
 <div class="alert alert-warning mt-3">
 <h5 class="alert-heading"><i class="fas fa-exclamation-triangle me-2"></i>Важно!</h5>

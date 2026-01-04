@@ -8,7 +8,7 @@ title: 'Запчасти для котла THERM 20 LXZ.A 2015 г.'
 <p style="color: #60584d;">THERM 20 LXZ.A 2015 г.</p>
 <!-- Газовая часть / камера сгорания -->
 <div class="card mb-5">
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/THERM-20-LXZ.A-2015-1.jpeg" alt="Газовый тракт THERM 20 LXZ.A"></figure>
+<figure class="image mb-4"><img src="THERM-20-LXZ.A-2015-1.jpeg" alt="Газовый тракт THERM 20 LXZ.A"></figure>
 <div class="table-container">
 <table class="table is-bordered is-striped w-100">
 <thead>
@@ -90,7 +90,7 @@ title: 'Запчасти для котла THERM 20 LXZ.A 2015 г.'
 </div>
 <!-- Гидравлическая часть / корпус котла -->
 <div class="card mb-5">
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/THERM-20-LXZ.A-2015-2.jpeg" alt="Гидравлическая часть THERM 20 LXZ.A"></figure>
+<figure class="image mb-4"><img src="THERM-20-LXZ.A-2015-2.jpeg" alt="Гидравлическая часть THERM 20 LXZ.A"></figure>
 <div class="table-container">
 <table class="table is-bordered is-striped w-100">
 <thead>
@@ -247,7 +247,7 @@ title: 'Запчасти для котла THERM 20 LXZ.A 2015 г.'
 </div>
 <!-- Панель управления -->
 <div class="card">
-<figure class="image mb-4"><img src="https://service04.ru/bl-content/img/2019/12/THERM-20-LXZ.A-2015-3.jpeg" alt="Панель управления THERM 20 LXZ.A"></figure>
+<figure class="image mb-4"><img src="THERM-20-LXZ.A-2015-3.jpeg" alt="Панель управления THERM 20 LXZ.A"></figure>
 <div class="table-container">
 <table class="table is-bordered is-striped w-100">
 <thead>

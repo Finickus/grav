@@ -34,7 +34,7 @@ title: 'Ремонт газовых колонок Ariston'
             </p>
         </div>
         <div class="col-md-6 text-center">
-            <img src="https://service04.ru/bl-content/uploads/pages/e0996261320d44394cfff787da2c9d5e/hqdefault(1)(1).jpg" alt="Ремонт газовых колонок Ariston" class="img-fluid rounded shadow-sm">
+            <img src="hqdefault(1)(1).jpg" alt="Ремонт газовых колонок Ariston" class="img-fluid rounded shadow-sm">
         </div>
     </div>
     <hr class="my-5">
@@ -94,7 +94,7 @@ title: 'Ремонт газовых колонок Ariston'
             </p>
         </div>
         <div class="col-md-6 text-center">
-            <img src="https://service04.ru/bl-content/uploads/image/Screenshot_46%20(1).jpg" width="400" height="272" alt="Мастер по ремонту" class="img-fluid rounded shadow-sm">
+            <img src="Screenshot_46 (1).jpg" width="400" height="272" alt="Мастер по ремонту" class="img-fluid rounded shadow-sm">
         </div>
     </div>
 
@@ -134,7 +134,7 @@ title: 'Ремонт газовых колонок Ariston'
     </ul>
 
     <div class="text-center mt-4">
-        <img src="https://service04.ru/bl-content/uploads/pages/e0996261320d44394cfff787da2c9d5e/Kotelariston(1).jpg" alt="Ремонт газовых колонок Ariston" class="img-fluid rounded shadow-sm">
+        <img src="Kotelariston(1).jpg" alt="Ремонт газовых колонок Ariston" class="img-fluid rounded shadow-sm">
     </div>
 
 </div>

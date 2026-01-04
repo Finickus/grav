@@ -19,7 +19,7 @@ title: 'Настенные газовые котлы Protherm'
 <p class="fs-6">Произведенные европейской компанией, эти котлы предназначены для отопления и обеспечения горячим водоснабжением жилых помещений. Они считаются одними из лучших отопительных агрегатов по соотношению «цена-качество».</p>
 </div>
 <div class="col-4 mb-3 text-center">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/protherm-logo.png" alt="Логотип Protherm" class="has-border-light"></figure>
+<figure class="image is-inline-block"><img src="protherm-logo.png" alt="Логотип Protherm" class="has-border-light"></figure>
 </div>
 </div>
 </div>

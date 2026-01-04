@@ -4,7 +4,7 @@ title: 'Запчасти котла THERM 20 TCXE.A 2015г'
 
 
 
-<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2550_20TCX.A-spalovaci-cast.jpg" alt="Запчасти котла THERM 20 TCXE.A 2015г"></p>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="2550_20TCX.A-spalovaci-cast.jpg" alt="Запчасти котла THERM 20 TCXE.A 2015г"></p>
 <p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>Названия компонентов по спецификации<br>
 [01]     — 41366     Газовый редуктор SIT 845 SIGMA<br>
 [02]     — 41662     Трубка газовая<br>
@@ -32,7 +32,7 @@ title: 'Запчасти котла THERM 20 TCXE.A 2015г'
 [91]     — 20545     Проходной изолятор для трубки I 326, диам.14×38<br>
 [92]     — 22133     Проходной изолятор для трубки ST 503</p>
 <p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'> </p>
-<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2550_20TCX.A-voda.jpg" alt=""></p>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="2550_20TCX.A-voda.jpg" alt=""></p>
 <p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>Названия компонентов по спецификации<br>
 [06]     — 20071     Теплообменник CGPRB17-501<br>
 [15]     — 22159     Комбинированная арматура GRF-300001EF71<br>
@@ -67,7 +67,7 @@ title: 'Запчасти котла THERM 20 TCXE.A 2015г'
 [63]     — 42319     Боковая часть левая<br>
 [64]     — 42320     Боковая часть правая<br>
 [65]     — 42321     Передняя крышка</p>
-<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="https://service04.ru/bl-content/img/2019/12/2550_panel-20-pozice.jpg" alt=""></p>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="2550_panel-20-pozice.jpg" alt=""></p>
 <p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>Названия компонентов по спецификации<br>
 [65]     — 42266.1     Лицевая часть панели управления<br>
 [66]     — 42270.1     Задняя крышка панели управления<br>

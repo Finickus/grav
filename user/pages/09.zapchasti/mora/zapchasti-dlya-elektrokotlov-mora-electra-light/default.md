@@ -15,12 +15,12 @@ title: 'Запчасти для Электрокотлов Mora Electra Light'
             <div class="row g-3 justify-content-center">
                 <div class="col-md-6 col-lg-5">
                     <a href="#modal-img-1" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-1">
-                        <img src="https://service04.ru/bl-content/img/2019/12/2018-03-06_000516.jpg" alt="Electra Light" class="img-fluid rounded border shadow-sm">
+                        <img src="2018-03-06_000516.jpg" alt="Electra Light" class="img-fluid rounded border shadow-sm">
                     </a>
                 </div>
                 <div class="col-md-6 col-lg-5">
                     <a href="#modal-img-2" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-2">
-                        <img src="https://service04.ru/bl-content/img/2019/12/2018-03-06_000609.jpg" alt="Запчасти для Mora Electra Light" class="img-fluid rounded border shadow-sm">
+                        <img src="2018-03-06_000609.jpg" alt="Запчасти для Mora Electra Light" class="img-fluid rounded border shadow-sm">
                     </a>
                 </div>
             </div>
@@ -147,7 +147,7 @@ title: 'Запчасти для Электрокотлов Mora Electra Light'
                     <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body p-0 text-center">
-                    <img src="https://service04.ru/bl-content/img/2019/12/2018-03-06_000516.jpg" class="img-fluid rounded" alt="Electra Light" style="max-height: 90vh;">
+                    <img src="2018-03-06_000516.jpg" class="img-fluid rounded" alt="Electra Light" style="max-height: 90vh;">
                 </div>
             </div>
         </div>
@@ -160,7 +160,7 @@ title: 'Запчасти для Электрокотлов Mora Electra Light'
                     <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body p-0 text-center">
-                    <img src="https://service04.ru/bl-content/img/2019/12/2018-03-06_000609.jpg" class="img-fluid rounded" alt="Запчасти для Mora Electra Light" style="max-height: 90vh;">
+                    <img src="2018-03-06_000609.jpg" class="img-fluid rounded" alt="Запчасти для Mora Electra Light" style="max-height: 90vh;">
                 </div>
             </div>
         </div>

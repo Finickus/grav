@@ -12,7 +12,7 @@ title: 'Пусконаладочные работы'
 </section>
 <!-- Основное изображение -->
 <div class="card text-center mb-5">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/pusk.png" alt="Пусконаладочные работы" style="border: 1px solid #dbdbdb;"></figure>
+<figure class="image is-inline-block"><img src="pusk.png" alt="Пусконаладочные работы" style="border: 1px solid #dbdbdb;"></figure>
 </div>
 <!-- Важность профессиональной пусконаладки -->
 <div class="card mb-5"><header class="bg-info p-4 mb-4">

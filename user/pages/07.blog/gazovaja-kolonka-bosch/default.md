@@ -47,14 +47,14 @@ title: 'Газовые колонки Bosch'
 </div>
 </div>
 <div class="text-center mt-4">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/boschwr.jpg" alt="Газовые колонки Bosch WR" class="has-border-light" style="max-height: 150px;"></figure>
+<figure class="image is-inline-block"><img src="boschwr.jpg" alt="Газовые колонки Bosch WR" class="has-border-light" style="max-height: 150px;"></figure>
 </div>
 </div>
 <div class="card p-4 mb-4 bg-light">
 <h4 class="h5" style="color: #e37a25;"><span class="icon me-2"><i class="fas fa-list"></i></span>Серия W</h4>
 <p class="fs-6">**Компактная и производительная газовая колонка Bosch W 10** с мощностью 17,4 кВт – это оптимальный вариант для квартир. Модель **Bosch W 10 kb** с производительностью 10 л/мин. обеспечивает бесперебойную подачу воды к нескольким точкам водозабора.</p>
 <div class="text-center mt-4">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/boschwkb.jpg" alt="Газовая колонка Bosch W 10 kb" class="has-border-light" style="max-height: 150px;"></figure>
+<figure class="image is-inline-block"><img src="boschwkb.jpg" alt="Газовая колонка Bosch W 10 kb" class="has-border-light" style="max-height: 150px;"></figure>
 </div>
 </div>
 <div class="card p-4 bg-light">
@@ -64,7 +64,7 @@ title: 'Газовые колонки Bosch'
 </ul>
 <p class="fs-6">Модель **Bosch Therm 4000 WR** завоевала популярность благодаря продуманности дизайна, технического оснащения, простоте монтажа и адаптации к работе в любых условиях.</p>
 <div class="text-center mt-4">
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/img/2019/12/BoschTherm4000.jpg" alt="Газовая колонка Bosch Therm 4000" class="has-border-light" style="max-height: 150px;"></figure>
+<figure class="image is-inline-block"><img src="BoschTherm4000.jpg" alt="Газовая колонка Bosch Therm 4000" class="has-border-light" style="max-height: 150px;"></figure>
 </div>
 </div>
 </div>
@@ -92,7 +92,7 @@ title: 'Газовые колонки Bosch'
 <h5 class="h6"><span class="icon me-2"><i class="fas fa-thumbs-up"></i></span>Преимущества сотрудничества</h5>
 <p class="mb-0 fs-6">Оптимальная стоимость колонок, профессиональное консультирование на этапах выбора, сертифицированный монтаж и обслуживание – мы предлагаем комплексное обслуживание каждому покупателю.</p>
 </div>
-<div class="text-center mt-4"><img src="https://service04.ru/bl-content/uploads/pages/520a4dbd2c84885d0fb3dc203979fefa/montagbosch.jpg" alt="" width="550" height="550" style="display: block; margin-left: auto; margin-right: auto;"></div>
+<div class="text-center mt-4"><img src="montagbosch.jpg" alt="" width="550" height="550" style="display: block; margin-left: auto; margin-right: auto;"></div>
 </div>
 </div>
 <div class="card bg-primary text-white shadow p-5">

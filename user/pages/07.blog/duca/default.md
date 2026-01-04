@@ -31,7 +31,7 @@ title: 'DUCA'
 <div class="card-header bg-info text-white">
 <h2 class="mb-0"><i class="fas fa-bolt me-2"></i>АСИНХРОННЫЕ НАСОСЫ DUCA</h2>
 </div>
-<div class="card-body text-center"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_258%20%20(1).jpg" alt="насосы DUCA" class="img-fluid rounded border"></div>
+<div class="card-body text-center"><img src="Screenshot_258  (1).jpg" alt="насосы DUCA" class="img-fluid rounded border"></div>
 </div>
 <!-- Серия XPS -->
 <div class="card mb-4">
@@ -60,7 +60,7 @@ title: 'DUCA'
 <li class="mb-1"><i class="fas fa-shower text-info me-2"></i> <strong>Циркуляция горячей воды для бытовых нужд</strong></li>
 </ul>
 </div>
-<div class="col-md-4"><img src="https://service04.ru/bl-content/uploads/pages/ac4876ecc4b60c88a383da19921078a4/Screenshot_260%20%20(1).jpg" alt="насосы DUCA" class="img-fluid rounded border mb-3"> <img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_259%20%20(1).jpg" alt="насосы DUCA" class="img-fluid rounded border"></div>
+<div class="col-md-4"><img src="Screenshot_260  (1).jpg" alt="насосы DUCA" class="img-fluid rounded border mb-3"> <img src="Screenshot_259  (1).jpg" alt="насосы DUCA" class="img-fluid rounded border"></div>
 </div>
 </div>
 </div>
@@ -71,7 +71,7 @@ title: 'DUCA'
 </div>
 <div class="card-body">
 <div class="row">
-<div class="col-md-8"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_261.jpg" alt="насосы DUCA grundfos" class="img-fluid rounded border mb-3">
+<div class="col-md-8"><img src="Screenshot_261.jpg" alt="насосы DUCA grundfos" class="img-fluid rounded border mb-3">
 <h5 class="text-primary">СОВМЕСТИМОСТЬ МОДЕЛЕЙ:</h5>
 <ul>
 <li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> <strong>GRUNDFOS UPS 15-50</strong></li>
@@ -84,7 +84,7 @@ title: 'DUCA'
 <p class="mb-0"><strong>Надписи на насосах Grundfos CIL3, CACAO, CIA02, CIA02AC, CESA1 и т.д. — это названия пластиковых корпусов насосов или обозначение особенностей. Насосы DUCA адаптивны ко всем этим различным корпусам насосов.</strong></p>
 </div>
 </div>
-<div class="col-md-4"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_262.jpg" alt="насосы DUCA" class="img-fluid rounded border"></div>
+<div class="col-md-4"><img src="Screenshot_262.jpg" alt="насосы DUCA" class="img-fluid rounded border"></div>
 </div>
 </div>
 </div>
@@ -95,7 +95,7 @@ title: 'DUCA'
 </div>
 <div class="card-body">
 <div class="row">
-<div class="col-md-8"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_263.jpg" alt="насосы DUCA wilo" class="img-fluid rounded border mb-3">
+<div class="col-md-8"><img src="Screenshot_263.jpg" alt="насосы DUCA wilo" class="img-fluid rounded border mb-3">
 <h6 class="text-primary">Модели:</h6>
 <ul>
 <li class="mb-1"><i class="fas fa-circle text-info me-2"></i> BPS-W 15-5</li>
@@ -130,14 +130,14 @@ title: 'DUCA'
 <li class="mb-1"><i class="fas fa-volume-mute text-warning me-2"></i> <strong>Низкий уровень шума при использовании мокрого ротора</strong></li>
 </ul>
 </div>
-<div class="col-md-4"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_264.jpg" alt="насосы DUCA вило" class="img-fluid rounded border"></div>
+<div class="col-md-4"><img src="Screenshot_264.jpg" alt="насосы DUCA вило" class="img-fluid rounded border"></div>
 </div>
-<div class="text-center mt-4"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_273%20%20(2).jpg" alt="насосы DUCA рабочее колесо" class="img-fluid rounded border"></div>
+<div class="text-center mt-4"><img src="Screenshot_273  (2).jpg" alt="насосы DUCA рабочее колесо" class="img-fluid rounded border"></div>
 </div>
 </div>
 <!-- Совместимость с Bosch/Buderus -->
 <div class="card mb-4">
-<div class="card-body text-center"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_265%20%20(1).jpg" alt="насосы DUCA для bosch buderus" class="img-fluid rounded border mb-3">
+<div class="card-body text-center"><img src="Screenshot_265  (1).jpg" alt="насосы DUCA для bosch buderus" class="img-fluid rounded border mb-3">
 <blockquote class="blockquote bg-warning text-dark p-3 rounded">
 <p class="mb-2"><strong><span style="color: #e67e23;"><i class="fas fa-sync me-2"></i>ОБРАТНОЕ ВРАЩЕНИЕ</span></strong></p>
 <p class="mb-2"><strong><span style="color: #e67e23;"><i class="fas fa-exchange-alt me-2"></i>СПЕЦИАЛЬНО ПРЕДНАЗНАЧЕН ДЛЯ WILO</span></strong></p>
@@ -153,7 +153,7 @@ title: 'DUCA'
 </div>
 <div class="card-body">
 <div class="row">
-<div class="col-md-8"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_266.jpg" alt="насосы DUCA вило Wilo" class="img-fluid rounded border mb-3">
+<div class="col-md-8"><img src="Screenshot_266.jpg" alt="насосы DUCA вило Wilo" class="img-fluid rounded border mb-3">
 <h6 class="text-primary">СОВМЕСТИМОСТЬ МОДЕЛЕЙ:</h6>
 <ul class="mb-0">
 <li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> <strong>WILO RS 15/4</strong></li>
@@ -161,7 +161,7 @@ title: 'DUCA'
 <li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> <strong>WILO STAR RS 25/7</strong></li>
 </ul>
 </div>
-<div class="col-md-4"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_267.jpg" alt="насосы DUCA" class="img-fluid rounded border"></div>
+<div class="col-md-4"><img src="Screenshot_267.jpg" alt="насосы DUCA" class="img-fluid rounded border"></div>
 </div>
 </div>
 </div>
@@ -173,15 +173,15 @@ title: 'DUCA'
 <div class="card-body">
 <h6 class="text-primary"><i class="fas fa-bolt me-2"></i>Ротор DUCA - Grundfos</h6>
 <div class="row mb-4">
-<div class="col-md-6 mb-3"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_269.jpg" alt="насосы DUCA ротор" class="img-fluid rounded border"></div>
-<div class="col-md-6 mb-3"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_268.jpg" alt="насосы DUCA ротор grundfos" class="img-fluid rounded border"></div>
+<div class="col-md-6 mb-3"><img src="Screenshot_269.jpg" alt="насосы DUCA ротор" class="img-fluid rounded border"></div>
+<div class="col-md-6 mb-3"><img src="Screenshot_268.jpg" alt="насосы DUCA ротор grundfos" class="img-fluid rounded border"></div>
 </div>
 <h6 class="text-warning"><i class="fas fa-wind me-2"></i>Ротор DUCA - WILO</h6>
 <div class="row">
-<div class="col-md-6 mb-3"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_271.jpg" alt="насосы DUCA ротор wilo" class="img-fluid rounded border"></div>
-<div class="col-md-6 mb-3"><img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_270.jpg" alt="насосы DUCA ротор wilo" class="img-fluid rounded border"></div>
+<div class="col-md-6 mb-3"><img src="Screenshot_271.jpg" alt="насосы DUCA ротор wilo" class="img-fluid rounded border"></div>
+<div class="col-md-6 mb-3"><img src="Screenshot_270.jpg" alt="насосы DUCA ротор wilo" class="img-fluid rounded border"></div>
 </div>
-<div class="text-center mt-3"><a href="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_274.jpg" target="_blank" rel="noopener"> <img src="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_274%20%20(1).jpg" alt="насосы DUCA ротор" class="img-fluid rounded border"> </a></div>
+<div class="text-center mt-3"><a href="https://service04.ru/bl-content/uploads/image/DUCA/Screenshot_274.jpg" target="_blank" rel="noopener"> <img src="Screenshot_274  (1).jpg" alt="насосы DUCA ротор" class="img-fluid rounded border"> </a></div>
 </div>
 </div>
 <!-- О компании -->
@@ -202,7 +202,7 @@ title: 'DUCA'
 <div class="col-md-4 mb-2"><a href="tel:+79262211348" class="btn btn-light btn-lg btn-block"> <i class="fas fa-phone me-2"></i>+7(926) 221-13-48 </a></div>
 <div class="col-md-4"><a href="https://service04.ru/contact-us/feedback" class="btn btn-warning btn-lg btn-block text-dark"> <i class="fas fa-envelope me-2"></i>Написать нам </a></div>
 </div>
-<div class="text-center mt-3"><img src="https://service04.ru/bl-content/uploads/pages/ac4876ecc4b60c88a383da19921078a4/zapchasti_mora%20%20(2)(1).jpg" alt="насосы DUCA ротор" class="img-fluid rounded border mt-3"></div>
+<div class="text-center mt-3"><img src="zapchasti_mora  (2)(1).jpg" alt="насосы DUCA ротор" class="img-fluid rounded border mt-3"></div>
 </div>
 </div>
 </div>

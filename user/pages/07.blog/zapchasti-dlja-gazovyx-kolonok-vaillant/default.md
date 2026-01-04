@@ -13,7 +13,7 @@ title: 'Запчасти для колонок Vaillant'
 <div class="card mb-4">
 <div class="card-body">
 <div class="row">
-<div class="col-md-4 mb-3"><img src="https://service04.ru/bl-content/img/2019/12/vaillant.png" alt="Запчасти для колонок Vaillant" class="img-fluid rounded mx-auto d-block border"></div>
+<div class="col-md-4 mb-3"><img src="vaillant.png" alt="Запчасти для колонок Vaillant" class="img-fluid rounded mx-auto d-block border"></div>
 <div class="col-md-8">
 <p class="lead">Оригинальные <strong>запчасти для колонок Vaillant</strong> необходимо использовать в процессе всех ремонтов водогрейного оборудования от ведущего производителя. Применение качественных деталей/комплектующих продлевает срок эксплуатации техники, повышает КПД и значительно удешевляет весь комплекс работ по обслуживанию или ремонту.</p>
 <div class="alert alert-info mt-3">
@@ -80,10 +80,10 @@ title: 'Запчасти для колонок Vaillant'
 </div>
 <div class="card-body">
 <div class="row">
-<div class="col-md-6 mb-3"><a href="https://service04.ru/bl-content/img/2019/12/zapchasti_vaillant1-e8edb0a5.jpg" data-lightcard="vaillant" data-h3="Запасные части для газовых колонок Вайлант"> <img src="https://service04.ru/bl-content/img/2019/12/zapchasti_vaillant1-e8edb0a5.jpg" alt="Запасные части для газовых колонок Вайлант" class="img-fluid rounded border mb-2" style="cursor: pointer;"> </a>
+<div class="col-md-6 mb-3"><a href="zapchasti_vaillant1-e8edb0a5.jpg" data-lightcard="vaillant" data-h3="Запасные части для газовых колонок Вайлант"> <img src="zapchasti_vaillant1-e8edb0a5.jpg" alt="Запасные части для газовых колонок Вайлант" class="img-fluid rounded border mb-2" style="cursor: pointer;"> </a>
 <p class="text-center small mb-0">Запасные части для газовых колонок Вайлант</p>
 </div>
-<div class="col-md-6 mb-3"><a href="https://service04.ru/bl-content/img/2019/12/zapchasti_vaillant-4db9935d.jpg" data-lightcard="vaillant" data-h3="Запасные части для газовых колонок Вайлант"> <img src="https://service04.ru/bl-content/img/2019/12/zapchasti_vaillant-4db9935d.jpg" alt="Запасные части для газовых колонок Вайлант" class="img-fluid rounded border mb-2" style="cursor: pointer;"> </a>
+<div class="col-md-6 mb-3"><a href="zapchasti_vaillant-4db9935d.jpg" data-lightcard="vaillant" data-h3="Запасные части для газовых колонок Вайлант"> <img src="zapchasti_vaillant-4db9935d.jpg" alt="Запасные части для газовых колонок Вайлант" class="img-fluid rounded border mb-2" style="cursor: pointer;"> </a>
 <p class="text-center small mb-0">Запасные части для газовых колонок Вайлант</p>
 </div>
 </div>

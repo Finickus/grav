@@ -16,7 +16,7 @@ title: 'Почему химическая чистка важна:'
 <p>Эти отложения ухудшают теплопередачу, вызывают перегрев оборудования и могут привести к серьёзным поломкам. Регулярная химическая чистка предотвращает эти проблемы и обеспечивает эффективную работу котла.</p>
 </div>
 <div class="col text-center">
-<figure class="image"><img src="https://service04.ru/bl-content/uploads/pages/8c8f345f037d97ed16d78bcda00161c6/him01.jpg" alt="Важность чистки теплообменника" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="him01.jpg" alt="Важность чистки теплообменника" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 </div>
 <!-- Преимущества -->
@@ -67,7 +67,7 @@ title: 'Почему химическая чистка важна:'
 </div>
 </div>
 <div class="col text-center">
-<figure class="image"><img src="https://service04.ru/bl-content/uploads/pages/8c8f345f037d97ed16d78bcda00161c6/Screenshot_96  (1).jpg" alt="Профессиональная чистка теплообменников" class="rounded shadow" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="Screenshot_96  (1).jpg" alt="Профессиональная чистка теплообменников" class="rounded shadow" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 </div>
 <!-- Предупреждения -->
@@ -104,7 +104,7 @@ title: 'Почему химическая чистка важна:'
 </div>
 </div>
 <div class="col is-2 text-center"><i class="fas fa-arrow-right fa-2x text-primary is-hidden-mobile"></i> <i class="fas fa-arrow-down fa-2x text-primary is-hidden-tablet my-3"></i>
-<figure class="image is-inline-block"><img src="https://service04.ru/bl-content/uploads/pages/8c8f345f037d97ed16d78bcda00161c6/Screenshot_97  (1).jpg" alt="Результат чистки" class="rounded" style="max-width: 100%;"></figure>
+<figure class="image is-inline-block"><img src="Screenshot_97  (1).jpg" alt="Результат чистки" class="rounded" style="max-width: 100%;"></figure>
 </div>
 <div class="col-5">
 <div class="card bg-success text-white"><header class="d-flex align-items-center mb-3"><i class="fas fa-check-circle me-2"></i>

@@ -20,7 +20,7 @@ title: 'Ремонт бойлеров American Water Heater Company MOR-FLO'
     <div class="row g-4 mb-5 align-items-center">
         <div class="col-md-7">
             <a href="#modal-morflo-main" class="lightbox-trigger d-inline-block" data-bs-toggle="modal" data-bs-target="#modal-morflo-main">
-                <img src="https://service04.ru/bl-content/uploads/image/MORFLO/mor-flo4.png" alt="Схема газового бойлера MOR-FLO" class="img-fluid rounded shadow-sm">
+                <img src="mor-flo4.png" alt="Схема газового бойлера MOR-FLO" class="img-fluid rounded shadow-sm">
             </a>
         </div>
         <div class="col-md-5">
@@ -164,7 +164,7 @@ title: 'Ремонт бойлеров American Water Heater Company MOR-FLO'
     <div class="row g-4 mb-5 align-items-center border p-4 rounded shadow-sm bg-light">
         <div class="col-md-4 text-center">
             <a href="#modal-morflo-errors" class="lightbox-trigger d-inline-block" data-bs-toggle="modal" data-bs-target="#modal-morflo-errors">
-                <img src="https://service04.ru/bl-content/img/2019/12/mor-flo1.png" alt="Светодиодная индикация MOR-FLO" class="img-fluid rounded shadow-sm">
+                <img src="mor-flo1.png" alt="Светодиодная индикация MOR-FLO" class="img-fluid rounded shadow-sm">
             </a>
         </div>
         <div class="col-md-8">
@@ -214,7 +214,7 @@ title: 'Ремонт бойлеров American Water Heater Company MOR-FLO'
         <p class="small mb-4">Сервис 04 выполняет ремонт, техническое обслуживание и продажу запчастей для Энергонезависимых газовых накопительных водонагревателей MOR-FLO (American Water Heater Company).</p>
         
         <div class="text-center mb-4">
-            <img src="https://service04.ru/bl-content/uploads/image/MORFLO/mor-flo-logo.jpg" alt="MOR-FLO Logo" class="img-fluid" style="max-width: 200px;">
+            <img src="mor-flo-logo.jpg" alt="MOR-FLO Logo" class="img-fluid" style="max-width: 200px;">
         </div>
 
         <p class="small">Мы работаем круглосуточно и выезжаем на дом к клиенту в любое удобное время. Мы используем только оригинальные запчасти и расходные материалы от производителя. Также предоставляем гарантию на все виды работ и оборудование.</p>
@@ -301,7 +301,7 @@ title: 'Ремонт бойлеров American Water Heater Company MOR-FLO'
 
     <div class="text-center mb-5">
         <a href="#modal-morflo-bottom" class="lightbox-trigger d-inline-block" data-bs-toggle="modal" data-bs-target="#modal-morflo-bottom">
-            <img src="https://service04.ru/bl-content/uploads/pages/4e1fc4b9b172375f9aee2e12eab588bb/Oshibki(4)(1).jpg" alt="Ошибки бойлера MOR-FLO" class="img-fluid rounded shadow-sm">
+            <img src="Oshibki(4)(1).jpg" alt="Ошибки бойлера MOR-FLO" class="img-fluid rounded shadow-sm">
         </a>
     </div>
 
@@ -309,7 +309,7 @@ title: 'Ремонт бойлеров American Water Heater Company MOR-FLO'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/image/MORFLO/mor-flo4.png" class="img-fluid rounded" alt="Схема газового бойлера MOR-FLO" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="mor-flo4.png" class="img-fluid rounded" alt="Схема газового бойлера MOR-FLO" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -318,7 +318,7 @@ title: 'Ремонт бойлеров American Water Heater Company MOR-FLO'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/img/2019/12/mor-flo1.png" class="img-fluid rounded" alt="Светодиодная индикация MOR-FLO" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="mor-flo1.png" class="img-fluid rounded" alt="Светодиодная индикация MOR-FLO" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -327,7 +327,7 @@ title: 'Ремонт бойлеров American Water Heater Company MOR-FLO'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/pages/4e1fc4b9b172375f9aee2e12eab588bb/Oshibki(4)(1).jpg" class="img-fluid rounded" alt="Ошибки бойлера MOR-FLO" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="Oshibki(4)(1).jpg" class="img-fluid rounded" alt="Ошибки бойлера MOR-FLO" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

@@ -53,7 +53,7 @@ title: 'Запчасти для электрокотлов Mora'
 <div class="card-body">
 <div class="row align-items-center">
 <div class="col-6">
-<figure class="image mb-3"><a href="https://example.com/path/to/mora_parts_large.jpg" data-lightcard="gallery" data-h3="Оригинальные запчасти Mora"> <img src="https://service04.ru/bl-content/uploads/image/fotonet%20(1).jpg" alt="Оригинальные запчасти Mora" class="border"> </a></figure>
+<figure class="image mb-3"><a href="https://example.com/path/to/mora_parts_large.jpg" data-lightcard="gallery" data-h3="Оригинальные запчасти Mora"> <img src="fotonet (1).jpg" alt="Оригинальные запчасти Mora" class="border"> </a></figure>
 </div>
 <div class="col-6">
 <ol class="mb-0">

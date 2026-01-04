@@ -20,7 +20,7 @@ title: 'Запчасти для котлов Protherm'
 <p class="mb-0"><strong>Важно:</strong> Данный перечень запчастей является далеко неполным. Если Вы не найдете нужную запчасть, тогда обращайтесь к нашим консультантам в офисе по телефонам, указанным в контактах.</p>
 </div>
 </div>
-<div class="col-md-4 text-center"><img src="https://service04.ru/bl-content/uploads/pages/1d3a6002a7743c325527b613b0b0a373/Screenshot_311(1).jpg" alt="Котлы Protherm TLO" class="img-fluid rounded border">
+<div class="col-md-4 text-center"><img src="Screenshot_311(1).jpg" alt="Котлы Protherm TLO" class="img-fluid rounded border">
 <p class="mt-2"><small>Котлы Protherm TLO</small></p>
 </div>
 </div>
@@ -87,14 +87,14 @@ title: 'Запчасти для котлов Protherm'
 <td class="text-center">7</td>
 <td>0020027536</td>
 <td>Термостат продуктов сгор.поз.конт</td>
-<td class="text-center"><img src="https://service04.ru/bl-content/img/2019/12/termostat_produktov_sgoranija_poz_kont.jpg" alt="0020027536" class="img-fluid" style="max-height: 50px;"></td>
+<td class="text-center"><img src="termostat_produktov_sgoranija_poz_kont.jpg" alt="0020027536" class="img-fluid" style="max-height: 50px;"></td>
 <td class="text-center"><btn btn-primary class="btn btn-sm btn-info me-1 mb-1">Подробнее</btn btn-primary> <btn btn-primary class="btn btn-sm btn-success mb-1">Купить</btn btn-primary></td>
 </tr>
 <tr>
 <td class="text-center">8</td>
 <td>0020027572</td>
 <td>Термостат рабочий - позол.контакт</td>
-<td class="text-center"><img src="https://service04.ru/bl-content/img/2019/12/1399462802-293.jpg" alt="0020027572" class="img-fluid" style="max-height: 50px;"></td>
+<td class="text-center"><img src="1399462802-293.jpg" alt="0020027572" class="img-fluid" style="max-height: 50px;"></td>
 <td class="text-center"><btn btn-primary class="btn btn-sm btn-info me-1 mb-1">Подробнее</btn btn-primary> <btn btn-primary class="btn btn-sm btn-success mb-1">Купить</btn btn-primary></td>
 </tr>
 <tr>

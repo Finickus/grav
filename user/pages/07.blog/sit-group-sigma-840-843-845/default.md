@@ -4,7 +4,7 @@ title: 'SIT Group - SIGMA 840-843-845'
 
 <div class="container-fluid mt-5 mb-5">
 
-<figure class="image mb-5"><img src="https://service04.ru/bl-content/uploads/image/1RAZNOE/Screenshot_45%20(1).jpg" alt="Схема газового клапана SIT SIGMA 84x"></figure>
+<figure class="image mb-5"><img src="Screenshot_45 (1).jpg" alt="Схема газового клапана SIT SIGMA 84x"></figure>
 <div class="table-container mb-5">
 <table class="table is-bordered is-striped w-100 is-hoverable">
 <thead class="bg-dark text-white">

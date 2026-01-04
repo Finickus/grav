@@ -13,7 +13,7 @@ title: 'Как работает термостатический клапан р
 <div class="card mb-5">
 <div class="card-body">
 <p class="fs-5">Термостатические краны позволяют регулировать и поддерживать температуру в помещении. Они могут быть установлены на любом типе водяного радиатора.</p>
-<div class="text-center mt-4"><a href="https://service04.ru/bl-content/img/2022/07/2022-07-13114351.png" target="_blank" data-h3="Термостатический клапан радиатора" rel="noopener"> <img src="https://service04.ru/bl-content/img/2022/07/2022-07-13114351.png" alt="Термостатический клапан радиатора" class="is-fullwidth"> </a></div>
+<div class="text-center mt-4"><a href="2022-07-13114351.png" target="_blank" data-h3="Термостатический клапан радиатора" rel="noopener"> <img src="2022-07-13114351.png" alt="Термостатический клапан радиатора" class="is-fullwidth"> </a></div>
 </div>
 </div>
 <div class="card mb-5"><header class="card-header bg-info text-white">
@@ -35,7 +35,7 @@ title: 'Как работает термостатический клапан р
 <p class="mb-0">Будьте осторожны, термостатический клапан радиатора не управляет котлом. Если заданная температура котла установлена на уровне 16 ° C, нет смысла полностью открывать кран: помещение больше не будет нагреваться.</p>
 </div>
 </div>
-<div class="col-6 text-center"><a href="https://service04.ru/bl-content/img/2022/07/2022-07-13115348-1.png" target="_blank" data-h3="Как работает термостатический кран" rel="noopener"> <img src="https://service04.ru/bl-content/img/2022/07/2022-07-13115348-1.png" alt="Как работает термостатический кран" class="is-fullwidth"> </a></div>
+<div class="col-6 text-center"><a href="2022-07-13115348-1.png" target="_blank" data-h3="Как работает термостатический кран" rel="noopener"> <img src="2022-07-13115348-1.png" alt="Как работает термостатический кран" class="is-fullwidth"> </a></div>
 </div>
 </div>
 </div>

@@ -10,7 +10,7 @@ title: 'ABC 537 АВТОМАТИКА РОЗЖИГА'
 <!-- Изображение товара -->
 <div class="row mb-5">
 <div class="col-md-8 mx-auto">
-<div class="card shadow-sm"><img src="https://service04.ru/bl-content/img/2019/12/20160114_095223-4a21e1e8.jpg" alt="ABC 537 автоматика розжига" class="card-img-top"></div>
+<div class="card shadow-sm"><img src="20160114_095223-4a21e1e8.jpg" alt="ABC 537 автоматика розжига" class="card-img-top"></div>
 </div>
 </div>
 <!-- Карточки товаров -->
@@ -81,9 +81,9 @@ title: 'ABC 537 АВТОМАТИКА РОЗЖИГА'
 </div>
 <div class="card-body text-center code-images">
 <div class="row">
-<div class="col-md-6"><img src="https://service04.ru/bl-content/img/2019/12/wp86e7fd1a_05_06.jpg" alt="Код автоматики 1" class="img-fluid"></div>
-<div class="col-md-6"><img src="https://service04.ru/bl-content/img/2019/12/wpb007dc56_05_06.jpg" alt="Код автоматики 2" class="img-fluid"></div>
-<div class="col-md-12 mt-3"><img src="https://service04.ru/bl-content/img/2019/12/wpce9e30a5_05_06.jpg" alt="Код автоматики 3" class="img-fluid"></div>
+<div class="col-md-6"><img src="wp86e7fd1a_05_06.jpg" alt="Код автоматики 1" class="img-fluid"></div>
+<div class="col-md-6"><img src="wpb007dc56_05_06.jpg" alt="Код автоматики 2" class="img-fluid"></div>
+<div class="col-md-12 mt-3"><img src="wpce9e30a5_05_06.jpg" alt="Код автоматики 3" class="img-fluid"></div>
 </div>
 <div class="mt-3"><btn btn-primary class="btn btn-outline-primary"> <i class="bi bi-zoom-in"></i> Проверить код вашей автоматики </btn btn-primary></div>
 </div>
@@ -141,7 +141,7 @@ title: 'ABC 537 АВТОМАТИКА РОЗЖИГА'
 </div>
 </div>
 <!-- Дополнительное изображение -->
-<div class="text-center mt-5"><img src="https://service04.ru/bl-content/img/2019/12/elektronnaia-plata-537-abc-0537005-proterm-0020025291-.jpg" alt="ABC 537 автоматика розжига" class="img-fluid rounded shadow"></div>
+<div class="text-center mt-5"><img src="elektronnaia-plata-537-abc-0537005-proterm-0020025291-.jpg" alt="ABC 537 автоматика розжига" class="img-fluid rounded shadow"></div>
 </div>
 <p>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>

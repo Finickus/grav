@@ -2,7 +2,7 @@
 title: 'Мы предлагаем следующие услуги по ремонту и обслуживанию электрических котлов Vaillant:'
 ---
 
-<p><img src="https://service04.ru/bl-content/uploads/pages/b1e4e0a5a21e48c55527380aee2efbef/KotelVaillant(1).jpg" alt=""></p>
+<p><img src="KotelVaillant(1).jpg" alt=""></p>
 <div>
 <div class="jumbotron">
 <p class="lead">Выезжаем по Москве и Московской области.</p>
@@ -21,18 +21,18 @@ title: 'Мы предлагаем следующие услуги по ремо�
 </div>
 </div>
 <div class="row">
-<div class="bg-light col-lg-3 col-sm-6" style="width: 195.266px;"><img class="img-fluid my-5" src="https://service04.ru/bl-content/uploads/image/1ICON/arrows_exclamation.svg" data-fa-icon="sensor-alert" data-fa-style="fab" style="font-size: 1.25rem; width: 64px; height: 64px; display: block; margin-left: auto; margin-right: auto;">
+<div class="bg-light col-lg-3 col-sm-6" style="width: 195.266px;"><img class="img-fluid my-5" src="arrows_exclamation.svg" data-fa-icon="sensor-alert" data-fa-style="fab" style="font-size: 1.25rem; width: 64px; height: 64px; display: block; margin-left: auto; margin-right: auto;">
 <h5 style="text-align: center;">Диагностика неисправностей</h5>
 </div>
-<div class="col-lg-3 col-sm-6" style="width: 195.266px;"><img class="img-fluid my-5" src="https://service04.ru/bl-content/uploads/image/1ICON/basic_settings.svg" data-fa-icon="sass" data-fa-style="fab" style="width: 64px; height: 64px; font-size: 1.25rem; display: block; margin-left: auto; margin-right: auto;">
+<div class="col-lg-3 col-sm-6" style="width: 195.266px;"><img class="img-fluid my-5" src="basic_settings.svg" data-fa-icon="sass" data-fa-style="fab" style="width: 64px; height: 64px; font-size: 1.25rem; display: block; margin-left: auto; margin-right: auto;">
 <h5 style="text-align: center;">Ремонт котлов и техническое обслуживание котлов</h5>
 <p class="mt-2 mb-0"></p>
 </div>
-<div class="bg-light col-lg-3 col-sm-6" style="width: 195.266px;"><img class="img-fluid my-5" src="https://service04.ru/bl-content/uploads/image/1ICON/arrows_rotate.svg" data-fa-icon="code" data-fa-style="fal" style="width: 64px; height: 64px; font-size: 1.25rem; display: block; margin-left: auto; margin-right: auto;">
+<div class="bg-light col-lg-3 col-sm-6" style="width: 195.266px;"><img class="img-fluid my-5" src="arrows_rotate.svg" data-fa-icon="code" data-fa-style="fal" style="width: 64px; height: 64px; font-size: 1.25rem; display: block; margin-left: auto; margin-right: auto;">
 <h5 style="text-align: center;">Замена запчастей</h5>
 <p class="mt-2 mb-0"></p>
 </div>
-<div class="col-lg-3 col-sm-6" style="width: 195.266px;"><img class="img-fluid my-5" src="https://service04.ru/bl-content/uploads/image/1ICON/basic_gear.svg" data-fa-icon="cog" data-fa-style="fal" style="width: 64px; height: 64px; font-size: 1.25rem; display: block; margin-left: auto; margin-right: auto;">
+<div class="col-lg-3 col-sm-6" style="width: 195.266px;"><img class="img-fluid my-5" src="basic_gear.svg" data-fa-icon="cog" data-fa-style="fal" style="width: 64px; height: 64px; font-size: 1.25rem; display: block; margin-left: auto; margin-right: auto;">
 <h5 style="text-align: center;">Установка и настройка оборудования</h5>
 <p class="mt-2 mb-0"></p>
 </div>
@@ -46,10 +46,10 @@ title: 'Мы предлагаем следующие услуги по ремо�
 
 </div>
 <div class="col-md-4">
-<p><img src="https://service04.ru/bl-content/uploads/pages/b1e4e0a5a21e48c55527380aee2efbef/Screenshot_111.jpg" alt=""></p>
+<p><img src="Screenshot_111.jpg" alt=""></p>
 </div>
 <div class="col-md-4">
-<p><img src="https://service04.ru/bl-content/uploads/pages/b1e4e0a5a21e48c55527380aee2efbef/Screenshot_105.jpg" alt=""></p>
+<p><img src="Screenshot_105.jpg" alt=""></p>
 </div>
 </div>
 <p></p>
@@ -104,11 +104,11 @@ title: 'Мы предлагаем следующие услуги по ремо�
 <li>F.19 Короткое замыкание датчика NTC (датчика наружной температуры)</li>
 </ul>
 </div>
-<div class="col-md-4"><img src="https://service04.ru/bl-content/uploads/pages/b1e4e0a5a21e48c55527380aee2efbef/Screenshot_114.jpg" alt=""></div>
+<div class="col-md-4"><img src="Screenshot_114.jpg" alt=""></div>
 </div>
 <p></p>
 <div class="row shadow-sm p-3 mb-5 bg-white rounded">
-<div class="col-md-4"><img src="https://service04.ru/bl-content/uploads/pages/b1e4e0a5a21e48c55527380aee2efbef/Screenshot_110.jpg" alt=""></div>
+<div class="col-md-4"><img src="Screenshot_110.jpg" alt=""></div>
 <div class="col-md-8">
 <p><span style="font-weight: bolder;">Сервисное обслуживание котлов Vaillant</span> — это залог надежности, безопасности и эффективности вашей системы отопления. Наша команда готова предоставить профессиональное и качественное обслуживание вашего котла, чтобы вы могли наслаждаться комфортной обстановкой в вашем доме. Свяжитесь с нами, чтобы заказать сервисное обслуживание и уверенно знать, что ваш котел Vaillant работает на полную мощность.</p>
 <div class="fs-categorylink">

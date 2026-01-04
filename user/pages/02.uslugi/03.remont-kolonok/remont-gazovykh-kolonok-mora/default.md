@@ -15,7 +15,7 @@ title: 'Ремонт газовых колонок Mora'
     <div class="row g-4 mb-5 align-items-center">
         <div class="col-md-4 text-center">
             <a href="#modal-img-col" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-col">
-                <img src="https://service04.ru/bl-content/uploads/image/Mora/2022-07-15_125209.jpg" alt="Газовая колонка Mora" class="img-fluid rounded shadow-lg img-card" style="max-height: 350px;">
+                <img src="2022-07-15_125209.jpg" alt="Газовая колонка Mora" class="img-fluid rounded shadow-lg img-card" style="max-height: 350px;">
             </a>
         </div>
         <div class="col-md-8">
@@ -58,7 +58,7 @@ title: 'Ремонт газовых колонок Mora'
         </div>
         <div class="col-md-6 text-center">
             <a href="#modal-img-sticker" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-sticker">
-                <img src="https://service04.ru/bl-content/uploads/image/Mora/Screenshot_27%20(2).jpg" alt="Наклейка с моделью Mora" class="img-fluid rounded shadow-lg">
+                <img src="Screenshot_27 (2).jpg" alt="Наклейка с моделью Mora" class="img-fluid rounded shadow-lg">
             </a>
         </div>
     </div>
@@ -101,7 +101,7 @@ title: 'Ремонт газовых колонок Mora'
     
     <div class="text-center">
         <a href="#modal-img-bottom" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-bottom">
-            <img src="https://service04.ru/bl-content/uploads/image/Mora/MoraTop%20(1).jpg" alt="MORA TOP" class="img-fluid rounded shadow-lg">
+            <img src="MoraTop (1).jpg" alt="MORA TOP" class="img-fluid rounded shadow-lg">
         </a>
     </div>
 
@@ -110,7 +110,7 @@ title: 'Ремонт газовых колонок Mora'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/image/Mora/2022-07-15_125209.jpg" class="img-fluid rounded" alt="Газовая колонка Mora" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="2022-07-15_125209.jpg" class="img-fluid rounded" alt="Газовая колонка Mora" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -119,7 +119,7 @@ title: 'Ремонт газовых колонок Mora'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/image/Mora/Screenshot_27%20(2).jpg" class="img-fluid rounded" alt="Наклейка с моделью Mora" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="Screenshot_27 (2).jpg" class="img-fluid rounded" alt="Наклейка с моделью Mora" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -128,7 +128,7 @@ title: 'Ремонт газовых колонок Mora'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="https://service04.ru/bl-content/uploads/image/Mora/MoraTop%20(1).jpg" class="img-fluid rounded" alt="MORA TOP" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="MoraTop (1).jpg" class="img-fluid rounded" alt="MORA TOP" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
