@@ -2,8 +2,7 @@
 title: 'Техническое обслуживание дизельной горелки'
 ---
 
-<p></p>
-<p></p>
+
 <div class="container py-5"><!-- Заголовок и введение -->
 <div class="text-center mb-5">
 
@@ -363,6 +362,6 @@ title: 'Техническое обслуживание дизельной го�
 </div>
 </div>
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
 </p>

@@ -123,7 +123,7 @@ title: 'Ошибки настенных котлов Мора'
             </div>
             <div class="card-body p-4">
                 <div class="row g-4 align-items-center mb-4">
-                    <div class="col-md-4"><img src="7.jpg" class="img-fluid rounded border shadow-sm"></div>
+                    <div class="col-md-4"><img src="7.jpg" alt="Котлы без цифрового табло" class="img-fluid rounded border shadow-sm"></div>
                     <div class="col-md-8">
                         <h5>Типичная проблема: Падение мощности</h5>
                         <p class="small text-muted">Котел работает, но не может прогреть радиаторы до нужной температуры.</p>
@@ -134,14 +134,14 @@ title: 'Ошибки настенных котлов Мора'
                         <summary class="fw-bold cursor-pointer"><i class="fas fa-search me-2 text-primary"></i> Причины падения мощности</summary>
                         <div class="mt-3 small px-3">
                             <p>Зачастую это дефект модуляционной катушки газового клапана или сбитые настройки давления газа.</p>
-                            <img src="8.jpg" class="img-fluid rounded mt-2 border" style="max-height: 200px;">
+                            <img src="8.jpg" alt="Типичная проблема: Падение мощности" class="img-fluid rounded mt-2 border" style="max-height: 200px;">
                         </div>
                     </details>
                     <details class="p-3 bg-white">
                         <summary class="fw-bold cursor-pointer"><i class="fas fa-water me-2 text-info"></i> Плохо греет горячую воду (ГВС)</summary>
                         <div class="mt-3 small px-3">
                             <p>Причина в 90% случаев — накипь во вторичном теплообменнике.</p>
-                            <img src="9.jpg" class="img-fluid rounded mt-2 border" style="max-height: 200px;">
+                            <img src="9.jpg" alt="Типичная проблема: Падение мощности" class="img-fluid rounded mt-2 border" style="max-height: 200px;">
                         </div>
                     </details>
                 </div>

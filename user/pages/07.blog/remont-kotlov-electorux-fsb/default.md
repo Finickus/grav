@@ -15,7 +15,7 @@ title: 'Bez nazvaniya'
 </div>
 <p><a class="btn btn-primary" href="#h_502932282121696497228452">Гарантия</a> <a class="btn btn-primary" href="#h_8863801872641696497348438">Задать вопрос</a> <a class="btn btn-primary" href="#h_9363462084621696497400302">Зона обслуживания </a>  </p>
 <div class="row">
-<div class="col-md-4"><img src="electrolux1.jpg" class="img-fluid" width="368" height="500"><img src="Electrolux100.jpg" width="100%" alt=""></div>
+<div class="col-md-4"><img src="electrolux1.jpg" alt="Electrolux1" class="img-fluid" width="368" height="500"><img src="Electrolux100.jpg" width="100%" alt=""></div>
 <div class="col-md-8">
 <h3>Почему выбирают нас?</h3>
 <ol>

@@ -114,7 +114,7 @@ title: Будерус
                 <h5 class="fw-bold mb-3"><i class="fas fa-headset me-2"></i>Нужна помощь инженера?</h5>
                 <p class="small">Сложно подобрать насос или блок автоматики именно к вашей версии котла? Наши инженеры подберут деталь по артикулу или серийному номеру за 5 минут.</p>
                 <div class="text-center mt-3">
-                    <img src="e28473d83b264527636f57b9c31d1db6.png" class="img-fluid rounded border bg-white p-2 shadow-sm" style="max-height: 100px;">
+                    <img src="e28473d83b264527636f57b9c31d1db6.png" alt="Нужна помощь инженера?" class="img-fluid rounded border bg-white p-2 shadow-sm" style="max-height: 100px;">
                 </div>
             </div>
         </div>

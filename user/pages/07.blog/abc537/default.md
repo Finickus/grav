@@ -144,6 +144,6 @@ title: 'ABC 537 АВТОМАТИКА РОЗЖИГА'
 <div class="text-center mt-5"><img src="elektronnaia-plata-537-abc-0537005-proterm-0020025291-.jpg" alt="ABC 537 автоматика розжига" class="img-fluid rounded shadow"></div>
 </div>
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
 </p>

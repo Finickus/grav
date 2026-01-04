@@ -121,4 +121,3 @@ title: 'Зона обслуживания'
 <p><img class="img-fluid" src="vyvoz-musora-v-moskovskoy-oblasti.jpg" alt="" width="662" height="542"></p>
 </div>
 </div>
-<p></p>

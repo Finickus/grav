@@ -220,9 +220,9 @@ title: 'Bez nazvaniya'
 </div>
 </div>
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </p>
 <div class="container mt-4">
 <div class="card border-danger">
@@ -454,12 +454,12 @@ title: 'Bez nazvaniya'
 <div class="card-footer text-center text-muted small"><i class="fas fa-exclamation-triangle"></i> Работы с электронными компонентами могут привести к потере гарантии!</div>
 </div>
 </div>
-<!-- Подключение иконок Font Awesome и Bootstrap JS -->
+
 <p></p>
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </p>
 <p></p>
 <div class="container mt-4">
@@ -1661,9 +1661,9 @@ title: 'Bez nazvaniya'
 </div>
 </div>
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 <script>
         // Анимация для шагов
         $(document).ready(function() {
@@ -2291,11 +2291,11 @@ title: 'Bez nazvaniya'
 </div>
 <!-- Подключение иконок Font Awesome -->
 <p></p>
-<!-- Подключение Bootstrap JS -->
+
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </p>
 <div class="container mt-4">
 <div class="card border-warning" style="border-color: #fd7e14;">
@@ -2629,11 +2629,11 @@ title: 'Bez nazvaniya'
 </div>
 <!-- Подключение иконок Font Awesome -->
 <p></p>
-<!-- Подключение Bootstrap JS -->
+
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </p>
 <div class="container mt-4">
 <div class="card border-warning" style="border-color: #fd7e14;">
@@ -2970,11 +2970,11 @@ title: 'Bez nazvaniya'
 </div>
 <!-- Подключение иконок Font Awesome -->
 <p></p>
-<!-- Подключение Bootstrap JS -->
+
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </p>
 <div class="container mt-4">
 <div class="card border-warning" style="border-color: #fd7e14;">
@@ -3315,11 +3315,11 @@ title: 'Bez nazvaniya'
 </div>
 <!-- Подключение иконок Font Awesome -->
 <p></p>
-<!-- Подключение Bootstrap JS -->
+
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </p>
 <div class="container mt-4">
 <div class="card border-warning" style="border-color: #007bff;">
@@ -3625,11 +3625,11 @@ title: 'Bez nazvaniya'
 </div>
 <!-- Подключение иконок Font Awesome -->
 <p></p>
-<!-- Подключение Bootstrap JS -->
+
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </p>
 <div class="container mt-4">
 <div class="card border-danger" style="border-color: #dc3545;">
@@ -3989,11 +3989,11 @@ title: 'Bez nazvaniya'
 </div>
 <!-- Подключение иконок Font Awesome -->
 <p></p>
-<!-- Подключение Bootstrap JS -->
+
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </p>
 <div class="container mt-4">
 <div class="card border-primary" style="border-color: #6f42c1;">
@@ -4356,11 +4356,11 @@ title: 'Bez nazvaniya'
 </div>
 <!-- Подключение иконок Font Awesome -->
 <p></p>
-<!-- Подключение Bootstrap JS -->
+
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </p>
 <div class="container mt-4">
 <div class="card border-warning" style="border-color: #ff9800;">
@@ -4721,11 +4721,11 @@ title: 'Bez nazvaniya'
 </div>
 <!-- Подключение иконок Font Awesome -->
 <p></p>
-<!-- Подключение Bootstrap JS -->
+
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </p>
 <div class="container mt-4">
 <div class="card border-info" style="border-color: #1976d2;">
@@ -5114,11 +5114,11 @@ title: 'Bez nazvaniya'
 </div>
 <!-- Подключение иконок Font Awesome -->
 <p></p>
-<!-- Подключение Bootstrap JS -->
+
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </p>
 <div class="container mt-4">
 <div class="card border-warning" style="border-color: #ff9800;">
@@ -5504,11 +5504,11 @@ title: 'Bez nazvaniya'
 </div>
 <!-- Подключение иконок Font Awesome -->
 <p></p>
-<!-- Подключение Bootstrap JS -->
+
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </p>
 <div class="container mt-4">
 <div class="card border-primary" style="border-color: #6f42c1;">
@@ -5880,11 +5880,11 @@ title: 'Bez nazvaniya'
 </div>
 <!-- Подключение иконок Font Awesome -->
 <p></p>
-<!-- Подключение Bootstrap JS -->
+
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </p>
 <div class="container mt-4">
 <div class="card border-danger" style="border-color: #d32f2f;">
@@ -6270,11 +6270,11 @@ title: 'Bez nazvaniya'
 </div>
 <!-- Подключение иконок Font Awesome -->
 <p></p>
-<!-- Подключение Bootstrap JS -->
+
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </p>
 <div class="container mt-4">
 <div class="card border-warning" style="border-color: #ff9800;">
@@ -6662,11 +6662,11 @@ title: 'Bez nazvaniya'
 </div>
 <!-- Подключение иконок Font Awesome -->
 <p></p>
-<!-- Подключение Bootstrap JS -->
+
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </p>
 <div class="container mt-4">
 <div class="card border-danger" style="border-color: #d32f2f;">
@@ -7053,11 +7053,11 @@ title: 'Bez nazvaniya'
 </div>
 <!-- Подключение иконок Font Awesome -->
 <p></p>
-<!-- Подключение Bootstrap JS -->
+
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </p>
 <div class="container mt-4">
 <div class="card border-warning" style="border-color: #ff9800;">
@@ -7398,11 +7398,11 @@ title: 'Bez nazvaniya'
 </div>
 <!-- Подключение иконок Font Awesome -->
 <p></p>
-<!-- Подключение Bootstrap JS -->
+
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </p>
 <div class="container mt-4">
 <div class="card border-primary" style="border-color: #2196f3;">
@@ -8150,11 +8150,11 @@ title: 'Bez nazvaniya'
 </div>
 <!-- Подключение иконок Font Awesome -->
 <p></p>
-<!-- Подключение Bootstrap JS -->
+
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </p>
 <div class="container mt-4">
 <div class="card border-info" style="border-color: #0288d1;">
@@ -8514,9 +8514,9 @@ title: 'Bez nazvaniya'
 </div>
 <!-- Подключение иконок Font Awesome -->
 <p></p>
-<!-- Подключение Bootstrap JS -->
+
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
 </p>

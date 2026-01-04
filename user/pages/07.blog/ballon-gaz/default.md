@@ -230,24 +230,10 @@ title: 'Отопление дачи газовыми баллонами — эт
 <p></p>
 </div>
 </div>
-</footer><!-- Bootstrap JS и зависимости -->
+</footer>
 <p>
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+
+
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"></script>
 </p>
 <!-- Плавная прокрутка -->
-<p>
-<script>
-        $(document).ready(function(){
-            $('a[href^="#"]').on('click', function(e) {
-                e.preventDefault();
-                var target = this.hash;
-                var $target = $(target);
-                $('html, body').animate({
-                    'scrollTop': $target.offset().top - 70
-                }, 800, 'swing');
-            });
-        });
-    </script>
-</p>

@@ -20,8 +20,7 @@ title: 'Почему выбирают нас?'
 <p><a class="btn btn-light" href="#h_2787265593161693585904859">Сервисное обслуживание</a></p>
 <p><a class="btn btn-light" href="#h_1226986624201693585914529">Сертификаты мастеров Protherm</a></p>
 <p><a class="btn btn-light" href="#h_4344624525221693585925288">Зона обслуживания</a></p>
-<p></p>
-<p></p>
+
 </div>
 <div class="col-md-6">
 <p><img src="Screenshot_178(2).jpg" alt=""></p>

@@ -11,8 +11,7 @@ title: 'Почему выбирают нас?'
 </div>
 <p></p>
 <p><img src="term1(1).jpg" alt="" width="100%"></p>
-<p></p>
-<p></p>
+
 <div class="row">
 <div class="col-md-12">
 
@@ -35,8 +34,7 @@ title: 'Почему выбирают нас?'
 </ol>
 </div>
 </div>
-<p></p>
-<p></p>
+
 <div class="row shadow">
 <div class="col-md-6"><hr>
 <h3 style="text-align: center;">Наши услуги:</h3>

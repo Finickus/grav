@@ -100,7 +100,7 @@ title: 'Запчасти для электрокотлов Kospel'
 
         <h5 class="fw-bold text-primary mb-4 border-bottom pb-2"><i class="fas fa-fire-alt me-2 text-danger"></i>Нагревательные элементы (ТЭНы)</h5>
         <div class="text-center mb-4">
-            <img src="kospel-6.png" class="img-fluid border p-3 rounded" style="max-height: 250px;">
+            <img src="kospel-6.png" alt="Нагревательные элементы (ТЭНы)" class="img-fluid border p-3 rounded" style="max-height: 250px;">
         </div>
         <div class="table-responsive mb-5">
             <table class="table table-striped table-hover table-bordered small align-middle text-center">
@@ -117,8 +117,8 @@ title: 'Запчасти для электрокотлов Kospel'
 
         <h5 class="fw-bold text-primary mb-4 border-bottom pb-2"><i class="fas fa-tint me-2 text-info"></i>Насосы и ограничители</h5>
         <div class="row g-4 text-center mb-4">
-            <div class="col-md-6"><img src="kospel-7.png" class="img-fluid border p-2 rounded" style="max-height: 180px;"></div>
-            <div class="col-md-6"><img src="kospel-8.png" class="img-fluid border p-2 rounded" style="max-height: 180px;"></div>
+            <div class="col-md-6"><img src="kospel-7.png" alt="Насосы и ограничители" class="img-fluid border p-2 rounded" style="max-height: 180px;"></div>
+            <div class="col-md-6"><img src="kospel-8.png" alt="Насосы и ограничители" class="img-fluid border p-2 rounded" style="max-height: 180px;"></div>
         </div>
         <div class="table-responsive">
             <table class="table table-striped table-hover table-bordered small align-middle">

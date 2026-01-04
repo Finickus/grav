@@ -84,4 +84,3 @@ title: ''
 <li>Звуки не характерные для работы колонки</li>
 </ul>
 <p><img src="Kotelariston(1).jpg" alt="Ремонт газовых колонок Ariston" width="895" height="179"></p>
-<p></p>

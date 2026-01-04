@@ -250,4 +250,3 @@ title: 'Газовые котлы Thermona'
   });
 </script>
 -->
-<p></p>

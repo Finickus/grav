@@ -20,17 +20,17 @@ title: 'Ремонт Kospel – это наша специализация!'
 <div class="container">
 <div class="row">
 <div class="col-12 col-lg-4 py-3" style="width: 284.462px; flex-basis: 33.3333%; max-width: 33.3333%;">
-<h4><span style="font-weight: bolder;"><img class="img-fluid" src="basic_bolt.svg" style="width: 40px; height: 40px;"></span></h4>
+<h4><span style="font-weight: bolder;"><img class="img-fluid" src="basic_bolt.svg" alt="Basic bolt" style="width: 40px; height: 40px;"></span></h4>
 <h4><span style="font-weight: bolder;">Любые ошибки</span></h4>
 <p>Поломки  могут быть связаны с неисправностью насоса, термостата, ТЭНа, реле или других компонентов. В случае обнаружения проблемы, мы проводим диагностику и быстро устраняем неисправность.</p>
 </div>
 <div class="col-12 col-lg-4 py-3" style="width: 284.462px; flex-basis: 33.3333%; max-width: 33.3333%;">
-<h4><span style="font-weight: bolder;"><img class="img-fluid" src="basic_elaboration_document_check.svg" style="width: 40px; height: 40px;"></span></h4>
+<h4><span style="font-weight: bolder;"><img class="img-fluid" src="basic_elaboration_document_check.svg" alt="Любые ошибки" style="width: 40px; height: 40px;"></span></h4>
 <h4><span style="font-weight: bolder;">Гарантия на работы</span></h4>
 <p>Мы гарантируем качество наших работ и предоставляем гарантию на все виды услуг.</p>
 </div>
 <div class="col-12 col-lg-4 py-3" style="width: 284.462px; flex-basis: 33.3333%; max-width: 33.3333%;">
-<h4><span style="font-weight: bolder;"><img class="img-fluid" src="basic_geolocalize-05.svg" style="width: 40px; height: 40px;"></span></h4>
+<h4><span style="font-weight: bolder;"><img class="img-fluid" src="basic_geolocalize-05.svg" alt="Гарантия на работы" style="width: 40px; height: 40px;"></span></h4>
 <h4><span style="font-weight: bolder;">Зона выезда</span></h4>
 <p>Мы работаем по Москве и Московской области. Чтобы вызвать мастера, позвоните нам по указанному номеру телефона или заполните заявку на сайте.</p>
 </div>
@@ -83,7 +83,7 @@ title: 'Ремонт Kospel – это наша специализация!'
 <div class="row">
 <div class="col-12 col-sm-6 col-lg-3" style="width: 213.351px;">
 <div class="d-flex align-items-start mb-4">
-<div style="width: 2rem; flex-shrink: 0;"><img class="img-fluid" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjMDAwMDAwIj48cGF0aCBkPSJNNDM1Ljg0OCA4My40NjZMMTcyLjgwNCAzNDYuNTFsLTk2LjY1Mi05Ni42NTJjLTQuNjg2LTQuNjg2LTEyLjI4NC00LjY4Ni0xNi45NzEgMGwtMjguMjg0IDI4LjI4NGMtNC42ODYgNC42ODYtNC42ODYgMTIuMjg0IDAgMTYuOTcxbDEzMy40MjEgMTMzLjQyMWM0LjY4NiA0LjY4NiAxMi4yODQgNC42ODYgMTYuOTcxIDBsMjk5LjgxMy0yOTkuODEzYzQuNjg2LTQuNjg2IDQuNjg2LTEyLjI4NCAwLTE2Ljk3MWwtMjguMjg0LTI4LjI4NGMtNC42ODYtNC42ODYtMTIuMjg0LTQuNjg2LTE2Ljk3IDB6Ij48L3BhdGg+PC9zdmc+" data-fa-icon="check" data-fa-style="far" style="width: 1.5em; height: 1.5em;"></div>
+<div style="width: 2rem; flex-shrink: 0;"><img class="img-fluid" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjMDAwMDAwIj48cGF0aCBkPSJNNDM1Ljg0OCA4My40NjZMMTcyLjgwNCAzNDYuNTFsLTk2LjY1Mi05Ni42NTJjLTQuNjg2LTQuNjg2LTEyLjI4NC00LjY4Ni0xNi45NzEgMGwtMjguMjg0IDI4LjI4NGMtNC42ODYgNC42ODYtNC42ODYgMTIuMjg0IDAgMTYuOTcxbDEzMy40MjEgMTMzLjQyMWM0LjY4NiA0LjY4NiAxMi4yODQgNC42ODYgMTYuOTcxIDBsMjk5LjgxMy0yOTkuODEzYzQuNjg2LTQuNjg2IDQuNjg2LTEyLjI4NCAwLTE2Ljk3MWwtMjguMjg0LTI4LjI4NGMtNC42ODYtNC42ODYtMTIuMjg0LTQuNjg2LTE2Ljk3IDB6Ij48L3BhdGg+PC9zdmc+" alt="Основные поломки и неисправности электрических котлов Kospel" data-fa-icon="check" data-fa-style="far" style="width: 1.5em; height: 1.5em;"></div>
 <div>
 <h4>Насоса</h4>
 <p>Может быть связана с износом деталей или засорением системы.</p>
@@ -92,7 +92,7 @@ title: 'Ремонт Kospel – это наша специализация!'
 </div>
 <div class="col-12 col-sm-6 col-lg-3" style="width: 213.351px;">
 <div class="d-flex align-items-start mb-4">
-<div style="width: 2rem; flex-shrink: 0;"><img class="img-fluid" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjMDAwMDAwIj48cGF0aCBkPSJNNDM1Ljg0OCA4My40NjZMMTcyLjgwNCAzNDYuNTFsLTk2LjY1Mi05Ni42NTJjLTQuNjg2LTQuNjg2LTEyLjI4NC00LjY4Ni0xNi45NzEgMGwtMjguMjg0IDI4LjI4NGMtNC42ODYgNC42ODYtNC42ODYgMTIuMjg0IDAgMTYuOTcxbDEzMy40MjEgMTMzLjQyMWM0LjY4NiA0LjY4NiAxMi4yODQgNC42ODYgMTYuOTcxIDBsMjk5LjgxMy0yOTkuODEzYzQuNjg2LTQuNjg2IDQuNjg2LTEyLjI4NCAwLTE2Ljk3MWwtMjguMjg0LTI4LjI4NGMtNC42ODYtNC42ODYtMTIuMjg0LTQuNjg2LTE2Ljk3IDB6Ij48L3BhdGg+PC9zdmc+" data-fa-icon="check" data-fa-style="far" style="width: 1.5em; height: 1.5em;"></div>
+<div style="width: 2rem; flex-shrink: 0;"><img class="img-fluid" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjMDAwMDAwIj48cGF0aCBkPSJNNDM1Ljg0OCA4My40NjZMMTcyLjgwNCAzNDYuNTFsLTk2LjY1Mi05Ni42NTJjLTQuNjg2LTQuNjg2LTEyLjI4NC00LjY4Ni0xNi45NzEgMGwtMjguMjg0IDI4LjI4NGMtNC42ODYgNC42ODYtNC42ODYgMTIuMjg0IDAgMTYuOTcxbDEzMy40MjEgMTMzLjQyMWM0LjY4NiA0LjY4NiAxMi4yODQgNC42ODYgMTYuOTcxIDBsMjk5LjgxMy0yOTkuODEzYzQuNjg2LTQuNjg2IDQuNjg2LTEyLjI4NCAwLTE2Ljk3MWwtMjguMjg0LTI4LjI4NGMtNC42ODYtNC42ODYtMTIuMjg0LTQuNjg2LTE2Ljk3IDB6Ij48L3BhdGg+PC9zdmc+" alt="Svg+xml;base64,phn2zyb4bwxucz0iahr0cdovl3d3dy53my5vcmcvmjawmc9zdmciihzpzxdcb3g9ijagmca1mtignteyiibmawxspsijmdawmdawij48cgf0acbkpsjnndm1ljg0oca4my40njzmmtcyljgwncazndyuntfsltk2ljy1mi05ni42ntjjltqunjg2ltqunjg2lteylji4nc00ljy4ni0xni45nzegmgwtmjgumjg0idi4lji4ngmtnc42odygnc42odytnc42odygmtiumjg0idagmtyuotcxbdezmy40mjegmtmzljqymwm0ljy4nia0ljy4niaxmi4yodqgnc42odygmtyuotcxidbsmjk5ljgxmy0yotkuodezyzqunjg2ltqunjg2idqunjg2lteylji4ncawlte2ljk3mwwtmjgumjg0lti4lji4ngmtnc42odytnc42odytmtiumjg0ltqunjg2lte2ljk3idb6ij48l3bhdgg+pc9zdmc+" data-fa-icon="check" data-fa-style="far" style="width: 1.5em; height: 1.5em;"></div>
 <div>
 <h4>Термостата</h4>
 <p>Может привести к перегреву котла или недостаточному нагреву воды.</p>
@@ -101,7 +101,7 @@ title: 'Ремонт Kospel – это наша специализация!'
 </div>
 <div class="col-12 col-sm-6 col-lg-3" style="width: 213.351px;">
 <div class="d-flex align-items-start mb-4">
-<div style="width: 2rem; flex-shrink: 0;"><img class="img-fluid" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjMDAwMDAwIj48cGF0aCBkPSJNNDM1Ljg0OCA4My40NjZMMTcyLjgwNCAzNDYuNTFsLTk2LjY1Mi05Ni42NTJjLTQuNjg2LTQuNjg2LTEyLjI4NC00LjY4Ni0xNi45NzEgMGwtMjguMjg0IDI4LjI4NGMtNC42ODYgNC42ODYtNC42ODYgMTIuMjg0IDAgMTYuOTcxbDEzMy40MjEgMTMzLjQyMWM0LjY4NiA0LjY4NiAxMi4yODQgNC42ODYgMTYuOTcxIDBsMjk5LjgxMy0yOTkuODEzYzQuNjg2LTQuNjg2IDQuNjg2LTEyLjI4NCAwLTE2Ljk3MWwtMjguMjg0LTI4LjI4NGMtNC42ODYtNC42ODYtMTIuMjg0LTQuNjg2LTE2Ljk3IDB6Ij48L3BhdGg+PC9zdmc+" data-fa-icon="check" data-fa-style="far" style="width: 1.5em; height: 1.5em;"></div>
+<div style="width: 2rem; flex-shrink: 0;"><img class="img-fluid" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjMDAwMDAwIj48cGF0aCBkPSJNNDM1Ljg0OCA4My40NjZMMTcyLjgwNCAzNDYuNTFsLTk2LjY1Mi05Ni42NTJjLTQuNjg2LTQuNjg2LTEyLjI4NC00LjY4Ni0xNi45NzEgMGwtMjguMjg0IDI4LjI4NGMtNC42ODYgNC42ODYtNC42ODYgMTIuMjg0IDAgMTYuOTcxbDEzMy40MjEgMTMzLjQyMWM0LjY4NiA0LjY4NiAxMi4yODQgNC42ODYgMTYuOTcxIDBsMjk5LjgxMy0yOTkuODEzYzQuNjg2LTQuNjg2IDQuNjg2LTEyLjI4NCAwLTE2Ljk3MWwtMjguMjg0LTI4LjI4NGMtNC42ODYtNC42ODYtMTIuMjg0LTQuNjg2LTE2Ljk3IDB6Ij48L3BhdGg+PC9zdmc+" alt="Svg+xml;base64,phn2zyb4bwxucz0iahr0cdovl3d3dy53my5vcmcvmjawmc9zdmciihzpzxdcb3g9ijagmca1mtignteyiibmawxspsijmdawmdawij48cgf0acbkpsjnndm1ljg0oca4my40njzmmtcyljgwncazndyuntfsltk2ljy1mi05ni42ntjjltqunjg2ltqunjg2lteylji4nc00ljy4ni0xni45nzegmgwtmjgumjg0idi4lji4ngmtnc42odygnc42odytnc42odygmtiumjg0idagmtyuotcxbdezmy40mjegmtmzljqymwm0ljy4nia0ljy4niaxmi4yodqgnc42odygmtyuotcxidbsmjk5ljgxmy0yotkuodezyzqunjg2ltqunjg2idqunjg2lteylji4ncawlte2ljk3mwwtmjgumjg0lti4lji4ngmtnc42odytnc42odytmtiumjg0ltqunjg2lte2ljk3idb6ij48l3bhdgg+pc9zdmc+" data-fa-icon="check" data-fa-style="far" style="width: 1.5em; height: 1.5em;"></div>
 <div>
 <h4>Реле</h4>
 <p>Может привести к отключению котла или неправильному функционированию системы.</p>
@@ -110,7 +110,7 @@ title: 'Ремонт Kospel – это наша специализация!'
 </div>
 <div class="col-12 col-sm-6 col-lg-3" style="width: 213.351px;">
 <div class="d-flex align-items-start mb-4">
-<div style="width: 2rem; flex-shrink: 0;"><img class="img-fluid" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjMDAwMDAwIj48cGF0aCBkPSJNNDM1Ljg0OCA4My40NjZMMTcyLjgwNCAzNDYuNTFsLTk2LjY1Mi05Ni42NTJjLTQuNjg2LTQuNjg2LTEyLjI4NC00LjY4Ni0xNi45NzEgMGwtMjguMjg0IDI4LjI4NGMtNC42ODYgNC42ODYtNC42ODYgMTIuMjg0IDAgMTYuOTcxbDEzMy40MjEgMTMzLjQyMWM0LjY4NiA0LjY4NiAxMi4yODQgNC42ODYgMTYuOTcxIDBsMjk5LjgxMy0yOTkuODEzYzQuNjg2LTQuNjg2IDQuNjg2LTEyLjI4NCAwLTE2Ljk3MWwtMjguMjg0LTI4LjI4NGMtNC42ODYtNC42ODYtMTIuMjg0LTQuNjg2LTE2Ljk3IDB6Ij48L3BhdGg+PC9zdmc+" data-fa-icon="check" data-fa-style="far" style="width: 1.5em; height: 1.5em;"></div>
+<div style="width: 2rem; flex-shrink: 0;"><img class="img-fluid" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjMDAwMDAwIj48cGF0aCBkPSJNNDM1Ljg0OCA4My40NjZMMTcyLjgwNCAzNDYuNTFsLTk2LjY1Mi05Ni42NTJjLTQuNjg2LTQuNjg2LTEyLjI4NC00LjY4Ni0xNi45NzEgMGwtMjguMjg0IDI4LjI4NGMtNC42ODYgNC42ODYtNC42ODYgMTIuMjg0IDAgMTYuOTcxbDEzMy40MjEgMTMzLjQyMWM0LjY4NiA0LjY4NiAxMi4yODQgNC42ODYgMTYuOTcxIDBsMjk5LjgxMy0yOTkuODEzYzQuNjg2LTQuNjg2IDQuNjg2LTEyLjI4NCAwLTE2Ljk3MWwtMjguMjg0LTI4LjI4NGMtNC42ODYtNC42ODYtMTIuMjg0LTQuNjg2LTE2Ljk3IDB6Ij48L3BhdGg+PC9zdmc+" alt="Svg+xml;base64,phn2zyb4bwxucz0iahr0cdovl3d3dy53my5vcmcvmjawmc9zdmciihzpzxdcb3g9ijagmca1mtignteyiibmawxspsijmdawmdawij48cgf0acbkpsjnndm1ljg0oca4my40njzmmtcyljgwncazndyuntfsltk2ljy1mi05ni42ntjjltqunjg2ltqunjg2lteylji4nc00ljy4ni0xni45nzegmgwtmjgumjg0idi4lji4ngmtnc42odygnc42odytnc42odygmtiumjg0idagmtyuotcxbdezmy40mjegmtmzljqymwm0ljy4nia0ljy4niaxmi4yodqgnc42odygmtyuotcxidbsmjk5ljgxmy0yotkuodezyzqunjg2ltqunjg2idqunjg2lteylji4ncawlte2ljk3mwwtmjgumjg0lti4lji4ngmtnc42odytnc42odytmtiumjg0ltqunjg2lte2ljk3idb6ij48l3bhdgg+pc9zdmc+" data-fa-icon="check" data-fa-style="far" style="width: 1.5em; height: 1.5em;"></div>
 <div>
 <h4>Платы</h4>
 <p>Могут возникнуть при неправильной настройке или повреждении компонентов.</p>
@@ -119,7 +119,7 @@ title: 'Ремонт Kospel – это наша специализация!'
 </div>
 <div class="col-12 col-sm-6 col-lg-3" style="width: 213.351px;">
 <div class="d-flex align-items-start mb-4">
-<div style="width: 2rem; flex-shrink: 0;"><img class="img-fluid" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjMDAwMDAwIj48cGF0aCBkPSJNNDM1Ljg0OCA4My40NjZMMTcyLjgwNCAzNDYuNTFsLTk2LjY1Mi05Ni42NTJjLTQuNjg2LTQuNjg2LTEyLjI4NC00LjY4Ni0xNi45NzEgMGwtMjguMjg0IDI4LjI4NGMtNC42ODYgNC42ODYtNC42ODYgMTIuMjg0IDAgMTYuOTcxbDEzMy40MjEgMTMzLjQyMWM0LjY4NiA0LjY4NiAxMi4yODQgNC42ODYgMTYuOTcxIDBsMjk5LjgxMy0yOTkuODEzYzQuNjg2LTQuNjg2IDQuNjg2LTEyLjI4NCAwLTE2Ljk3MWwtMjguMjg0LTI4LjI4NGMtNC42ODYtNC42ODYtMTIuMjg0LTQuNjg2LTE2Ljk3IDB6Ij48L3BhdGg+PC9zdmc+" data-fa-icon="check" data-fa-style="far" style="width: 1.5em; height: 1.5em;"></div>
+<div style="width: 2rem; flex-shrink: 0;"><img class="img-fluid" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjMDAwMDAwIj48cGF0aCBkPSJNNDM1Ljg0OCA4My40NjZMMTcyLjgwNCAzNDYuNTFsLTk2LjY1Mi05Ni42NTJjLTQuNjg2LTQuNjg2LTEyLjI4NC00LjY4Ni0xNi45NzEgMGwtMjguMjg0IDI4LjI4NGMtNC42ODYgNC42ODYtNC42ODYgMTIuMjg0IDAgMTYuOTcxbDEzMy40MjEgMTMzLjQyMWM0LjY4NiA0LjY4NiAxMi4yODQgNC42ODYgMTYuOTcxIDBsMjk5LjgxMy0yOTkuODEzYzQuNjg2LTQuNjg2IDQuNjg2LTEyLjI4NCAwLTE2Ljk3MWwtMjguMjg0LTI4LjI4NGMtNC42ODYtNC42ODYtMTIuMjg0LTQuNjg2LTE2Ljk3IDB6Ij48L3BhdGg+PC9zdmc+" alt="Svg+xml;base64,phn2zyb4bwxucz0iahr0cdovl3d3dy53my5vcmcvmjawmc9zdmciihzpzxdcb3g9ijagmca1mtignteyiibmawxspsijmdawmdawij48cgf0acbkpsjnndm1ljg0oca4my40njzmmtcyljgwncazndyuntfsltk2ljy1mi05ni42ntjjltqunjg2ltqunjg2lteylji4nc00ljy4ni0xni45nzegmgwtmjgumjg0idi4lji4ngmtnc42odygnc42odytnc42odygmtiumjg0idagmtyuotcxbdezmy40mjegmtmzljqymwm0ljy4nia0ljy4niaxmi4yodqgnc42odygmtyuotcxidbsmjk5ljgxmy0yotkuodezyzqunjg2ltqunjg2idqunjg2lteylji4ncawlte2ljk3mwwtmjgumjg0lti4lji4ngmtnc42odytnc42odytmtiumjg0ltqunjg2lte2ljk3idb6ij48l3bhdgg+pc9zdmc+" data-fa-icon="check" data-fa-style="far" style="width: 1.5em; height: 1.5em;"></div>
 <div>
 <h4>Отсутствие нагрева</h4>
 <p>Если ваш электрический котел Kospel не нагревает воду, возможно, причина в неисправности термостата, накопительного бака или проблема с электрической цепью.</p>
@@ -128,7 +128,7 @@ title: 'Ремонт Kospel – это наша специализация!'
 </div>
 <div class="col-12 col-sm-6 col-lg-3" style="width: 213.351px;">
 <div class="d-flex align-items-start mb-4">
-<div style="width: 2rem; flex-shrink: 0;"><img class="img-fluid" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjMDAwMDAwIj48cGF0aCBkPSJNNDM1Ljg0OCA4My40NjZMMTcyLjgwNCAzNDYuNTFsLTk2LjY1Mi05Ni42NTJjLTQuNjg2LTQuNjg2LTEyLjI4NC00LjY4Ni0xNi45NzEgMGwtMjguMjg0IDI4LjI4NGMtNC42ODYgNC42ODYtNC42ODYgMTIuMjg0IDAgMTYuOTcxbDEzMy40MjEgMTMzLjQyMWM0LjY4NiA0LjY4NiAxMi4yODQgNC42ODYgMTYuOTcxIDBsMjk5LjgxMy0yOTkuODEzYzQuNjg2LTQuNjg2IDQuNjg2LTEyLjI4NCAwLTE2Ljk3MWwtMjguMjg0LTI4LjI4NGMtNC42ODYtNC42ODYtMTIuMjg0LTQuNjg2LTE2Ljk3IDB6Ij48L3BhdGg+PC9zdmc+" data-fa-icon="check" data-fa-style="far" style="width: 1.5em; height: 1.5em;"></div>
+<div style="width: 2rem; flex-shrink: 0;"><img class="img-fluid" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjMDAwMDAwIj48cGF0aCBkPSJNNDM1Ljg0OCA4My40NjZMMTcyLjgwNCAzNDYuNTFsLTk2LjY1Mi05Ni42NTJjLTQuNjg2LTQuNjg2LTEyLjI4NC00LjY4Ni0xNi45NzEgMGwtMjguMjg0IDI4LjI4NGMtNC42ODYgNC42ODYtNC42ODYgMTIuMjg0IDAgMTYuOTcxbDEzMy40MjEgMTMzLjQyMWM0LjY4NiA0LjY4NiAxMi4yODQgNC42ODYgMTYuOTcxIDBsMjk5LjgxMy0yOTkuODEzYzQuNjg2LTQuNjg2IDQuNjg2LTEyLjI4NCAwLTE2Ljk3MWwtMjguMjg0LTI4LjI4NGMtNC42ODYtNC42ODYtMTIuMjg0LTQuNjg2LTE2Ljk3IDB6Ij48L3BhdGg+PC9zdmc+" alt="Отсутствие нагрева" data-fa-icon="check" data-fa-style="far" style="width: 1.5em; height: 1.5em;"></div>
 <div>
 <h4>Протечка воды</h4>
 <p>Если обнаружена протечка воды из вашего электрического котла Kospel, это может быть вызвано повреждением уплотнительных элементов, коррозией или поломкой клапанов.</p>
@@ -137,7 +137,7 @@ title: 'Ремонт Kospel – это наша специализация!'
 </div>
 <div class="col-12 col-sm-6 col-lg-3" style="width: 213.351px;">
 <div class="d-flex align-items-start mb-4">
-<div style="width: 2rem; flex-shrink: 0;"><img class="img-fluid" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjMDAwMDAwIj48cGF0aCBkPSJNNDM1Ljg0OCA4My40NjZMMTcyLjgwNCAzNDYuNTFsLTk2LjY1Mi05Ni42NTJjLTQuNjg2LTQuNjg2LTEyLjI4NC00LjY4Ni0xNi45NzEgMGwtMjguMjg0IDI4LjI4NGMtNC42ODYgNC42ODYtNC42ODYgMTIuMjg0IDAgMTYuOTcxbDEzMy40MjEgMTMzLjQyMWM0LjY4NiA0LjY4NiAxMi4yODQgNC42ODYgMTYuOTcxIDBsMjk5LjgxMy0yOTkuODEzYzQuNjg2LTQuNjg2IDQuNjg2LTEyLjI4NCAwLTE2Ljk3MWwtMjguMjg0LTI4LjI4NGMtNC42ODYtNC42ODYtMTIuMjg0LTQuNjg2LTE2Ljk3IDB6Ij48L3BhdGg+PC9zdmc+" data-fa-icon="check" data-fa-style="far" style="width: 1.5em; height: 1.5em;"></div>
+<div style="width: 2rem; flex-shrink: 0;"><img class="img-fluid" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjMDAwMDAwIj48cGF0aCBkPSJNNDM1Ljg0OCA4My40NjZMMTcyLjgwNCAzNDYuNTFsLTk2LjY1Mi05Ni42NTJjLTQuNjg2LTQuNjg2LTEyLjI4NC00LjY4Ni0xNi45NzEgMGwtMjguMjg0IDI4LjI4NGMtNC42ODYgNC42ODYtNC42ODYgMTIuMjg0IDAgMTYuOTcxbDEzMy40MjEgMTMzLjQyMWM0LjY4NiA0LjY4NiAxMi4yODQgNC42ODYgMTYuOTcxIDBsMjk5LjgxMy0yOTkuODEzYzQuNjg2LTQuNjg2IDQuNjg2LTEyLjI4NCAwLTE2Ljk3MWwtMjguMjg0LTI4LjI4NGMtNC42ODYtNC42ODYtMTIuMjg0LTQuNjg2LTE2Ljk3IDB6Ij48L3BhdGg+PC9zdmc+" alt="Протечка воды" data-fa-icon="check" data-fa-style="far" style="width: 1.5em; height: 1.5em;"></div>
 <div>
 <h4>Уровень шума</h4>
 <p>Если ваш электрический котел Kospel издает необычные шумы, это может указывать на проблемы с насосом, или другими двигателями внутри котла.</p>
@@ -146,7 +146,7 @@ title: 'Ремонт Kospel – это наша специализация!'
 </div>
 <div class="col-12 col-sm-6 col-lg-3" style="width: 213.351px;">
 <div class="d-flex align-items-start mb-4">
-<div style="width: 2rem; flex-shrink: 0;"><img class="img-fluid" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjMDAwMDAwIj48cGF0aCBkPSJNNDM1Ljg0OCA4My40NjZMMTcyLjgwNCAzNDYuNTFsLTk2LjY1Mi05Ni42NTJjLTQuNjg2LTQuNjg2LTEyLjI4NC00LjY4Ni0xNi45NzEgMGwtMjguMjg0IDI4LjI4NGMtNC42ODYgNC42ODYtNC42ODYgMTIuMjg0IDAgMTYuOTcxbDEzMy40MjEgMTMzLjQyMWM0LjY4NiA0LjY4NiAxMi4yODQgNC42ODYgMTYuOTcxIDBsMjk5LjgxMy0yOTkuODEzYzQuNjg2LTQuNjg2IDQuNjg2LTEyLjI4NCAwLTE2Ljk3MWwtMjguMjg0LTI4LjI4NGMtNC42ODYtNC42ODYtMTIuMjg0LTQuNjg2LTE2Ljk3IDB6Ij48L3BhdGg+PC9zdmc+" data-fa-icon="check" data-fa-style="far" style="width: 1.5em; height: 1.5em;"></div>
+<div style="width: 2rem; flex-shrink: 0;"><img class="img-fluid" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBmaWxsPSIjMDAwMDAwIj48cGF0aCBkPSJNNDM1Ljg0OCA4My40NjZMMTcyLjgwNCAzNDYuNTFsLTk2LjY1Mi05Ni42NTJjLTQuNjg2LTQuNjg2LTEyLjI4NC00LjY4Ni0xNi45NzEgMGwtMjguMjg0IDI4LjI4NGMtNC42ODYgNC42ODYtNC42ODYgMTIuMjg0IDAgMTYuOTcxbDEzMy40MjEgMTMzLjQyMWM0LjY4NiA0LjY4NiAxMi4yODQgNC42ODYgMTYuOTcxIDBsMjk5LjgxMy0yOTkuODEzYzQuNjg2LTQuNjg2IDQuNjg2LTEyLjI4NCAwLTE2Ljk3MWwtMjguMjg0LTI4LjI4NGMtNC42ODYtNC42ODYtMTIuMjg0LTQuNjg2LTE2Ljk3IDB6Ij48L3BhdGg+PC9zdmc+" alt="Уровень шума" data-fa-icon="check" data-fa-style="far" style="width: 1.5em; height: 1.5em;"></div>
 <div>
 <h4>Ошибки платы</h4>
 <p>Если на дисплее вашего электрического котла Kospel появляются ошибки или неправильные показания, это может быть связано с неисправностью датчиков или электронной платы.</p>

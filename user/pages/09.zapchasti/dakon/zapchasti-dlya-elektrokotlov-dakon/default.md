@@ -123,12 +123,12 @@ title: 'Запчасти для электрокотлов Dakon'
                 </thead>
                 <tbody>
                     <tr>
-                        <td><img src="Zapchasti_Dakon_Image03.jpg" class="img-thumbnail" style="max-height: 50px;"></td>
+                        <td><img src="Zapchasti_Dakon_Image03.jpg" alt="Популярные запчасти" class="img-thumbnail" style="max-height: 50px;"></td>
                         <td class="text-start"><strong>Выключатель VS 25 — 1103 A8 DAKON</strong><br><span class="text-muted">Арт: 44001947</span></td>
                         <td><a href="#" class="btn btn-sm btn-primary px-3 shadow-sm">КУПИТЬ</a></td>
                     </tr>
                     <tr>
-                        <td><img src="Zapchasti_Dakon_Image04.jpg" class="img-thumbnail" style="max-height: 50px;"></td>
+                        <td><img src="Zapchasti_Dakon_Image04.jpg" alt="Популярные запчасти" class="img-thumbnail" style="max-height: 50px;"></td>
                         <td class="text-start"><strong>Термостат блокировочный LY 36 (TG 400)</strong><br><span class="text-muted">Защита от перегрева</span></td>
                         <td><a href="#" class="btn btn-sm btn-primary px-3 shadow-sm">КУПИТЬ</a></td>
                     </tr>

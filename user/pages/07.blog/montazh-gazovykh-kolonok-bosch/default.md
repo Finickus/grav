@@ -139,4 +139,3 @@ title: 'Гарантийное и после гарантийное обслуж
 </div>
 <p></p>
 <p><span style="font-size: 14.4px; background-color: #fcfcfc;"><img src="Bosch2(1).jpg" alt="" width="905" height="181"></span></p>
-<p></p>

@@ -262,8 +262,7 @@ title: 'Ремонт котлов Attack за 1 выезд.'
 </tr>
 </tbody>
 </table>
-<p> </p>
-<p></p>
+
 </div>
 <div>
 <div class="row a">
