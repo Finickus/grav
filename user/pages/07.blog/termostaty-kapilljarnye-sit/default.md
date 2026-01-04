@@ -14,7 +14,7 @@ title: 'Термостаты капиллярные Sit'
 <div class="card-body">
 <div class="row align-items-center is-multiline">
 <div class="col-4 mb-3 text-center">
-<figure class="image is-inline-block"><img src="7.png" alt="Термостаты капиллярные Sit" class="has-border-light shadow"></figure>
+<figure class="image is-inline-block"><img src="/blog/termostaty-kapilljarnye-sit/7.png" alt="Термостаты капиллярные Sit" class="has-border-light shadow"></figure>
 </div>
 <div class="col is-two-thirds content">
 <p class="fs-6">Термостаты капиллярные Sit – устройства для автоматической регулировки температурных показателей в пределах от 0 до +90 градусов. Оснащенное тремя контактными зажимами оборудование мощностью 16 кВт входит в комплектацию практически всех отопительных приборов отечественного производства и многих моделей техники от зарубежных производителей.</p>

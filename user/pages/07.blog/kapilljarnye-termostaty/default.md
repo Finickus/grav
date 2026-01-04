@@ -31,10 +31,10 @@ title: 'Капиллярные термостаты'
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-192x192 mx-auto"><img src="2018-03-14_233627.png" alt="TG200 Регулируемый термостат, настраиваемый с помощью шипа" class="rounded"></figure>
+<figure class="image is-192x192 mx-auto"><img src="/blog/kapilljarnye-termostaty/2018-03-14_233627.png" alt="TG200 Регулируемый термостат, настраиваемый с помощью шипа" class="rounded"></figure>
 </td>
 <td class="text-center">
-<figure class="image is-192x192 mx-auto"><img src="2018-03-14_235250.png" alt="TG200 Регулируемый термостат, настраиваемый с помощью отвертки" class="rounded"></figure>
+<figure class="image is-192x192 mx-auto"><img src="/blog/kapilljarnye-termostaty/2018-03-14_235250.png" alt="TG200 Регулируемый термостат, настраиваемый с помощью отвертки" class="rounded"></figure>
 </td>
 </tr>
 <tr>
@@ -43,10 +43,10 @@ title: 'Капиллярные термостаты'
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-192x192 mx-auto"><img src="2018-03-14_235326.png" alt="TG400 Предохранительный термостат, настраиваемый с помощью отвертки" class="rounded"></figure>
+<figure class="image is-192x192 mx-auto"><img src="/blog/kapilljarnye-termostaty/2018-03-14_235326.png" alt="TG400 Предохранительный термостат, настраиваемый с помощью отвертки" class="rounded"></figure>
 </td>
 <td class="text-center">
-<figure class="image is-192x192 mx-auto"><img src="2018-03-14_235434.png" alt="TG400 Предохранительный термостат, автоматический сброс с отказоустойчивой функцией" class="rounded"></figure>
+<figure class="image is-192x192 mx-auto"><img src="/blog/kapilljarnye-termostaty/2018-03-14_235434.png" alt="TG400 Предохранительный термостат, автоматический сброс с отказоустойчивой функцией" class="rounded"></figure>
 </td>
 </tr>
 </tbody>

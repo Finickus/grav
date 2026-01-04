@@ -4,7 +4,7 @@ title: 'Ремонт котлов Junkers'
 
 <div class="container-fluid py-6"><!-- Заголовок и логотип -->
 <div class="text-center mb-5">
-<figure class="image is-inline-block mb-4" style="max-width: 250px;"><img src="logoJunkers.png" alt="Логотип котлов Junkers"></figure>
+<figure class="image is-inline-block mb-4" style="max-width: 250px;"><img src="/blog/remont-gazovyx-kotlov-junkers/logoJunkers.png" alt="Логотип котлов Junkers"></figure>
 
 <p class="h5 lead text-muted"><i class="fas fa-car text-warning mr-1"></i>Срочный выезд мастера по всему Подмосковью</p>
 </div>
@@ -27,7 +27,7 @@ title: 'Ремонт котлов Junkers'
 <h3 class="h4 display-4 text-center mb-5"><i class="fas fa-camera-retro text-warning me-2"></i>Ремонтируем все модели</h3>
 <div class="row g-3 is-centered">
 <div class="col is-3 text-center">
-<figure class="image is-192x192 mx-auto mb-2"><img src="cerapur_sach_service04-b4c53f1f.jpg" alt="Модель Cerapur"></figure>
+<figure class="image is-192x192 mx-auto mb-2"><img src="/blog/remont-gazovyx-kotlov-junkers/cerapur_sach_service04-b4c53f1f.jpg" alt="Модель Cerapur"></figure>
 <p class="fs-6">Cerapur</p>
 </div>
 <!-- Добавьте остальные модели по аналогии --></div>
@@ -66,7 +66,7 @@ title: 'Ремонт котлов Junkers'
 </div>
 </div>
 <div class="text-center mt-5">
-<figure class="image is-inline-block" style="max-width: 600px;"><img src="img-2017-03-01-11-12-11_service04.png" alt="Схема ремонта котла"></figure>
+<figure class="image is-inline-block" style="max-width: 600px;"><img src="/blog/remont-gazovyx-kotlov-junkers/img-2017-03-01-11-12-11_service04.png" alt="Схема ремонта котла"></figure>
 </div>
 </div>
 <!-- Преимущества -->
@@ -101,13 +101,13 @@ title: 'Ремонт котлов Junkers'
 <h4 class="h5 text-center mb-4"><i class="fas fa-images text-warning me-2"></i>Примеры работ</h4>
 <div class="row g-3">
 <div class="col-12 mb-3">
-<figure class="image"><img src="img_heizung1_service04.jpg" alt="Пример ремонта 1"></figure>
+<figure class="image"><img src="/blog/remont-gazovyx-kotlov-junkers/img_heizung1_service04.jpg" alt="Пример ремонта 1"></figure>
 </div>
 <div class="col-6 mb-3">
-<figure class="image"><img src="img_heizung2_service04.jpg" alt="Пример ремонта 2"></figure>
+<figure class="image"><img src="/blog/remont-gazovyx-kotlov-junkers/img_heizung2_service04.jpg" alt="Пример ремонта 2"></figure>
 </div>
 <div class="col-6 mb-3">
-<figure class="image"><img src="img_heiz_brennwert_service04.jpg" alt="Пример ремонта 3"></figure>
+<figure class="image"><img src="/blog/remont-gazovyx-kotlov-junkers/img_heiz_brennwert_service04.jpg" alt="Пример ремонта 3"></figure>
 </div>
 </div>
 </div>

@@ -13,7 +13,7 @@ title: 'Газовый клапан SIT NOVA'
 <div class="card mb-4">
 <div class="card-body">
 <div class="row">
-<div class="col-md-4 mb-3"><img src="GAZOVYJ-KLAPAN-SIT-KOD-0.822.110-554a02d0.png" alt="Газовый клапан SIT Код 0.822.110 NOVA" class="img-fluid rounded mx-auto d-block border"></div>
+<div class="col-md-4 mb-3"><img src="/blog/sirius/GAZOVYJ-KLAPAN-SIT-KOD-0.822.110-554a02d0.png" alt="Газовый клапан SIT Код 0.822.110 NOVA" class="img-fluid rounded mx-auto d-block border"></div>
 <div class="col-md-8">
 <h3 class="card-h3" style="color: #e37a25;">Газовый клапан SIT NOVA Код 0.822.110</h3>
 <p>Газовый клапан управления подачей газа c двумя автоматическими клапанами, регулятором давления. Имеется возможность регулировки потока газа на запальную горелку и выходного давления.</p>

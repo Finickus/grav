@@ -8,7 +8,7 @@ title: 'THERM 14 TLN (2015) — Запчасти и характеристики
 <!-- Описание котла -->
 <div class="row mb-5">
 <div class="col-12 is-4-desktop">
-<figure class="image"><img src="2572_14-LN-.png" alt="THERM 14 TLN" class="boiler-img"></figure>
+<figure class="image"><img src="/blog/opisanie-kotla-therm-14-tln-2015g-vypuska/2572_14-LN-.png" alt="THERM 14 TLN" class="boiler-img"></figure>
 </div>
 <div class="col-12 is-8-desktop">
 <p>Газовый котёл <strong>THERM 14 TLN</strong> — современное отопительное оборудование для эффективного обогрева жилых помещений. Модель 2015 года отличается надёжностью, удобством эксплуатации и простотой обслуживания.</p>
@@ -30,7 +30,7 @@ title: 'THERM 14 TLN (2015) — Запчасти и характеристики
 <p class="card-h3">Раздел газ</p>
 </header>
 <div class="card-body">
-<figure class="image mb-4"><img src="2572_14-LN-2.png" alt="Раздел газ"></figure>
+<figure class="image mb-4"><img src="/blog/opisanie-kotla-therm-14-tln-2015g-vypuska/2572_14-LN-2.png" alt="Раздел газ"></figure>
 <div class="table-container">
 <table class="table is-bordered is-striped w-100">
 <thead>
@@ -172,7 +172,7 @@ title: 'THERM 14 TLN (2015) — Запчасти и характеристики
 <p class="card-h3">Раздел вода</p>
 </header>
 <div class="card-body">
-<figure class="image mb-4"><img src="2572_14-LN-.png" alt="Раздел вода"></figure>
+<figure class="image mb-4"><img src="/blog/opisanie-kotla-therm-14-tln-2015g-vypuska/2572_14-LN-.png" alt="Раздел вода"></figure>
 <div class="table-container">
 <table class="table is-bordered is-striped w-100">
 <thead>
@@ -288,7 +288,7 @@ title: 'THERM 14 TLN (2015) — Запчасти и характеристики
 <p class="card-h3">Раздел электропанель</p>
 </header>
 <div class="card-body">
-<figure class="image mb-4"><img src="2572_14-LN-3.png" alt="Раздел электропанель"></figure>
+<figure class="image mb-4"><img src="/blog/opisanie-kotla-therm-14-tln-2015g-vypuska/2572_14-LN-3.png" alt="Раздел электропанель"></figure>
 <div class="table-container">
 <table class="table is-bordered is-striped w-100">
 <thead>
@@ -344,7 +344,7 @@ title: 'THERM 14 TLN (2015) — Запчасти и характеристики
 <p class="card-h3">Гидравлический раздел</p>
 </header>
 <div class="card-body">
-<figure class="image mb-4"><img src="2572_14-LN-4.png" alt="Раздел гидравлический"></figure>
+<figure class="image mb-4"><img src="/blog/opisanie-kotla-therm-14-tln-2015g-vypuska/2572_14-LN-4.png" alt="Раздел гидравлический"></figure>
 <div class="table-container">
 <table class="table is-bordered is-striped w-100">
 <thead>

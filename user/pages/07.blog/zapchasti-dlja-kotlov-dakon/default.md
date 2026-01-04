@@ -11,7 +11,7 @@ title: 'Запчасти для всех моделей газовых котл�
 <p class="animate-fade-up" style="animation-delay: 0.4s;"><a class="btn btn-primary is-outlined is-info" href="#">ЗАПАСНЫЕ ЧАСТИ ДЛЯ ЭЛЕКТРОКОТЛОВ DAKON</a></p>
 </div>
 <div class="col-4 text-center">
-<figure class="image is-128x128 is-inline-block animate-fade-up" style="animation-delay: 0.6s;"><img src="dakon_png-4017b8d7.png" alt="Логотип Dakon"></figure>
+<figure class="image is-128x128 is-inline-block animate-fade-up" style="animation-delay: 0.6s;"><img src="/blog/zapchasti-dlja-kotlov-dakon/dakon_png-4017b8d7.png" alt="Логотип Dakon"></figure>
 </div>
 </div>
 </div>
@@ -20,7 +20,7 @@ title: 'Запчасти для всех моделей газовых котл�
 <h2 class="h4 display-4 text-warning mb-4">Для надежной работы техники только оригинальные детали и запчасти Dakon</h2>
 <div class="row g-3">
 <div class="col-6">
-<figure class="image mb-4 animate-scale-up"><img src="zapchasti-dakon.jpg" class="rounded" alt="Запчасти Dakon"></figure>
+<figure class="image mb-4 animate-scale-up"><img src="/blog/zapchasti-dlja-kotlov-dakon/zapchasti-dakon.jpg" class="rounded" alt="Запчасти Dakon"></figure>
 <p>В нашем каталоге вы можете подобрать и купить запчасти Dakon, которые необходимы для поточного или аварийного ремонта котельной техники от известного производителя. Покупка оригинальных запчастей и деталей – это гарантия:</p>
 </div>
 <div class="col-6">

@@ -13,8 +13,8 @@ title: 'Запчасти для электро котла Mora Electra Light'
 <div class="card mb-4">
 <div class="card-body text-center">
 <div class="row">
-<div class="col-md-6 mb-3"><img src="2018-03-06_000516.jpg" alt="Electra Light" class="img-fluid rounded border"></div>
-<div class="col-md-6 mb-3"><img src="2018-03-06_000609.jpg" alt="Запчасти для Mora Electra Light" class="img-fluid rounded border"></div>
+<div class="col-md-6 mb-3"><img src="/blog/zapchasti-dlja-ehlektrokotlov-mora-electro-lite/2018-03-06_000516.jpg" alt="Electra Light" class="img-fluid rounded border"></div>
+<div class="col-md-6 mb-3"><img src="/blog/zapchasti-dlja-ehlektrokotlov-mora-electro-lite/2018-03-06_000609.jpg" alt="Запчасти для Mora Electra Light" class="img-fluid rounded border"></div>
 </div>
 </div>
 </div>

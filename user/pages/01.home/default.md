@@ -46,17 +46,17 @@ process:
         <div class="row g-4 justify-content-center">
             <div class="col-md-4">
                 <div class="card border-0 shadow-sm h-100 hover-lift">
-                    <img src="Service04_3.jpg" class="card-img-top" alt="Исправление ошибок" style="height: 200px; object-fit: cover;">
+                    <img src="/home/Service04_3.jpg" class="card-img-top" alt="Исправление ошибок" style="height: 200px; object-fit: cover;">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card border-0 shadow-sm h-100 hover-lift">
-                    <img src="service04_1.jpg" class="card-img-top" alt="Диагностика" style="height: 200px; object-fit: cover;">
+                    <img src="/home/service04_1.jpg" class="card-img-top" alt="Диагностика" style="height: 200px; object-fit: cover;">
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card border-0 shadow-sm h-100 hover-lift">
-                    <img src="service04_2.jpg" class="card-img-top" alt="Ремонт котлов" style="height: 200px; object-fit: cover;">
+                    <img src="/home/service04_2.jpg" class="card-img-top" alt="Ремонт котлов" style="height: 200px; object-fit: cover;">
                 </div>
             </div>
         </div>
@@ -74,21 +74,21 @@ process:
         <div class="row g-4 text-center">
             <div class="col-md-4">
                 <div class="bg-white p-4 rounded shadow-sm h-100">
-                    <img class="service-icon" src="arrows_question.svg" alt="Диагностика">
+                    <img class="service-icon" src="/home/arrows_question.svg" alt="Диагностика">
                     <h4>Диагностика котлов и систем</h4>
                     <p class="text-muted">Мы проводим тщательную диагностику вашего котельного оборудования для выявления возможных неисправностей.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="bg-white p-4 rounded shadow-sm h-100">
-                    <img class="service-icon" src="basic_settings.svg" alt="Ремонт">
+                    <img class="service-icon" src="/home/basic_settings.svg" alt="Ремонт">
                     <h4>Ремонт и замена запчастей</h4>
                     <p class="text-muted">Наша команда использует оригинальные запчасти от ведущих производителей для надежного восстановления.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="bg-white p-4 rounded shadow-sm h-100">
-                    <img class="service-icon" src="basic_message_multiple.svg" alt="Консультации">
+                    <img class="service-icon" src="/home/basic_message_multiple.svg" alt="Консультации">
                     <h4>Консультации и рекомендации</h4>
                     <p class="text-muted">Поможем разобраться с любыми вопросами по эксплуатации и обслуживанию оборудования.</p>
                 </div>
@@ -102,7 +102,7 @@ process:
         <div class="card shadow border-0 overflow-hidden">
             <div class="row g-0 align-items-center">
                 <div class="col-lg-5 text-center bg-light">
-                    <img src="avtoS04.jpg" alt="Сервис на выезде" class="img-fluid" style="max-height: 400px; object-fit: cover;">
+                    <img src="/home/avtoS04.jpg" alt="Сервис на выезде" class="img-fluid" style="max-height: 400px; object-fit: cover;">
                 </div>
                 <div class="col-lg-7 p-4 p-md-5">
                     <h3 class="fw-bold text-center mb-4">Почему выбирают нас:</h3>
@@ -183,7 +183,7 @@ process:
     <div class="container">
         <div class="row align-items-center g-4">
             <div class="col-md-4">
-                <img src="Screenshot_35.jpg" class="img-fluid rounded shadow" alt="Сервисный центр">
+                <img src="/home/Screenshot_35.jpg" class="img-fluid rounded shadow" alt="Сервисный центр">
             </div>
             <div class="col-md-8">
                 <h4 class="fw-bold mb-3">Собственный сервисный центр</h4>

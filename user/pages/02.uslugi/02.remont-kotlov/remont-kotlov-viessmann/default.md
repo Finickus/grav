@@ -18,7 +18,7 @@ title: 'Ремонт котлов Viessmann'
         <div class="card-body p-4 p-md-5">
             <div class="row align-items-center g-5">
                 <div class="col-lg-4 text-center">
-                    <img src="Viessmann_logo-ab05f48a.gif" 
+                    <img src="/uslugi/remont-kotlov/remont-kotlov-viessmann/Viessmann_logo-ab05f48a.gif" 
                          alt="Viessmann" class="img-fluid rounded-circle shadow-sm border p-3" style="max-height: 200px;">
                 </div>
                 <div class="col-lg-8">
@@ -58,7 +58,7 @@ title: 'Ремонт котлов Viessmann'
                     </ul>
                 </div>
                 <div class="col-lg-5 text-center">
-                    <img src="remont-kotla-visman3.jpg" 
+                    <img src="/uslugi/remont-kotlov/remont-kotlov-viessmann/remont-kotla-visman3.jpg" 
                          alt="Диагностика Viessmann" class="img-fluid rounded shadow">
                 </div>
             </div>
@@ -96,7 +96,7 @@ title: 'Ремонт котлов Viessmann'
             </div>
         </div>
         <div class="col-lg-4 text-center">
-            <img src="remont-kotla-visman-4708a5a7.jpg" 
+            <img src="/uslugi/remont-kotlov/remont-kotlov-viessmann/remont-kotla-visman-4708a5a7.jpg" 
                  alt="Ремонт Висман" class="img-fluid rounded shadow border p-2 mt-lg-5">
         </div>
     </div>
@@ -117,7 +117,7 @@ title: 'Ремонт котлов Viessmann'
                     </ul>
                 </div>
                 <div class="col-md-5 text-center">
-                    <img src="remont-kotla-visman2-33bf8c4c.jpg" 
+                    <img src="/uslugi/remont-kotlov/remont-kotlov-viessmann/remont-kotla-visman2-33bf8c4c.jpg" 
                          alt="Мастер Viessmann" class="img-fluid rounded border shadow-sm mb-2">
                     <p class="small text-muted fst-italic">Ремонт котла Viessmann Vitopend 100</p>
                 </div>

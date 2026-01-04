@@ -49,7 +49,7 @@ title: 'Газовые клапаны SIT NOVA'
 <p>Базовая серия, подходящая для большинства бытовых котлов.</p>
 <div class="row g-3 is-variable is-6 text-center">
 <div class="col-4">
-<figure class="image mb-2"><img src="1.png" alt="Газовый клапан SIT 0.820.303 820 NOVA MV" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image mb-2"><img src="/blog/gazovyj-klapan-sit-nova-820822824825826827828/1.png" alt="Газовый клапан SIT 0.820.303 820 NOVA MV" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 <p class="mb-1"><strong>0.820.303</strong> – многофункциональный клапан (MV)</p>
 <ul class="fs-6 mb-2">
 <li><i class="fas fa-bolt text-primary mr-1"></i> Напряжение: 220–240 В</li>
@@ -63,7 +63,7 @@ title: 'Газовые клапаны SIT NOVA'
 </div>
 </form></div>
 <div class="col-4">
-<figure class="image mb-2"><img src="1.png" alt="Газовый клапан SIT 0.820.332 820 NOVA" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image mb-2"><img src="/blog/gazovyj-klapan-sit-nova-820822824825826827828/1.png" alt="Газовый клапан SIT 0.820.332 820 NOVA" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 <p class="mb-1"><strong>0.820.332</strong> – стандартная версия</p>
 <ul class="fs-6 mb-2">
 <li><i class="fas fa-bolt text-primary mr-1"></i> Напряжение: 220–240 В</li>
@@ -76,7 +76,7 @@ title: 'Газовые клапаны SIT NOVA'
 </div>
 </form></div>
 <div class="col-4">
-<figure class="image mb-2"><img src="GAZOVYJ-KLAPAN-SIT-KOD-0.820.010.png" alt="Газовый клапан SIT 0.820.010 820 NOVA" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image mb-2"><img src="/blog/gazovyj-klapan-sit-nova-820822824825826827828/GAZOVYJ-KLAPAN-SIT-KOD-0.820.010.png" alt="Газовый клапан SIT 0.820.010 820 NOVA" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 <p class="mb-1"><strong>0.820.010</strong> – базовая модель</p>
 <ul class="fs-6 mb-2">
 <li><i class="fas fa-tag text-success mr-1"></i> Цена: от 4900 руб.</li>
@@ -94,7 +94,7 @@ title: 'Газовые клапаны SIT NOVA'
 <div class="accordion-content p-4">
 <div class="row is-variable is-6">
 <div class="col-6 text-center">
-<figure class="image mb-3"><img src="GAZOVYJ-KLAPAN-SIT-KOD-0.822.110.png" alt="Газовый клапан SIT 0.822.110 NOVA" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image mb-3"><img src="/blog/gazovyj-klapan-sit-nova-820822824825826827828/GAZOVYJ-KLAPAN-SIT-KOD-0.822.110.png" alt="Газовый клапан SIT 0.822.110 NOVA" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 <div class="col-6">
 <p><strong>0.822.110</strong> – модель с улучшенными параметрами, подходит для котлов с повышенными требованиями к безопасности.</p>
@@ -111,7 +111,7 @@ title: 'Газовые клапаны SIT NOVA'
 <div class="accordion-content p-4">
 <div class="row is-variable is-6">
 <div class="col-6 text-center">
-<figure class="image mb-3"><img src="GAZOVYJ-KLAPAN-824-NOVA-0.824.010.png" alt="Газовый клапан 824 NOVA 0.824.010" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image mb-3"><img src="/blog/gazovyj-klapan-sit-nova-820822824825826827828/GAZOVYJ-KLAPAN-824-NOVA-0.824.010.png" alt="Газовый клапан 824 NOVA 0.824.010" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 <div class="col-6">
 <p><strong>0.824.010</strong> – клапан для средних нагрузок, применяется в котлах средней мощности.</p>
@@ -128,7 +128,7 @@ title: 'Газовые клапаны SIT NOVA'
 <div class="accordion-content p-4">
 <div class="row is-variable is-6">
 <div class="col-6 text-center">
-<figure class="image mb-3"><img src="GAZOVYJ-KLAPAN-826-NOVA-0.826.010.png" alt="Газовый клапан 826 | 827 NOVA 0.826.010 0.827.128" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image mb-3"><img src="/blog/gazovyj-klapan-sit-nova-820822824825826827828/GAZOVYJ-KLAPAN-826-NOVA-0.826.010.png" alt="Газовый клапан 826 | 827 NOVA 0.826.010 0.827.128" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 <div class="col-6">
 <ul class="mb-3">

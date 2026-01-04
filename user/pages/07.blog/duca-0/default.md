@@ -77,7 +77,7 @@ title: 'DUCA'
 <div class="card-body">
 <div class="row">
 <div class="col is-two-thirds">
-<figure class="image mb-3"><img src="Screenshot_261.jpg" alt="насосы DUCA grundfos" class="border"></figure>
+<figure class="image mb-3"><img src="/blog/duca-0/Screenshot_261.jpg" alt="насосы DUCA grundfos" class="border"></figure>
 <h5 class="h6 text-primary">СОВМЕСТИМОСТЬ МОДЕЛЕЙ:</h5>
 <ul>
 <li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i><strong>GRUNDFOS UPS 15-50</strong></li>
@@ -91,7 +91,7 @@ title: 'DUCA'
 </div>
 </div>
 <div class="col-4">
-<figure class="image"><img src="Screenshot_262.jpg" alt="насосы DUCA" class="border"></figure>
+<figure class="image"><img src="/blog/duca-0/Screenshot_262.jpg" alt="насосы DUCA" class="border"></figure>
 </div>
 </div>
 </div>
@@ -103,7 +103,7 @@ title: 'DUCA'
 <div class="card-body">
 <div class="row">
 <div class="col is-two-thirds">
-<figure class="image mb-3"><img src="Screenshot_263.jpg" alt="насосы DUCA wilo" class="border"></figure>
+<figure class="image mb-3"><img src="/blog/duca-0/Screenshot_263.jpg" alt="насосы DUCA wilo" class="border"></figure>
 <h6 class="h6 text-primary">Модели:</h6>
 <ul>
 <li class="mb-1"><i class="fas fa-circle text-info me-2"></i> BPS-W 15-5</li>
@@ -139,7 +139,7 @@ title: 'DUCA'
 </ul>
 </div>
 <div class="col-4">
-<figure class="image"><img src="Screenshot_264.jpg" alt="насосы DUCA вило" class="border"></figure>
+<figure class="image"><img src="/blog/duca-0/Screenshot_264.jpg" alt="насосы DUCA вило" class="border"></figure>
 </div>
 </div>
 <div class="text-center mt-4">
@@ -166,7 +166,7 @@ title: 'DUCA'
 <div class="card-body">
 <div class="row">
 <div class="col is-two-thirds">
-<figure class="image mb-3"><img src="Screenshot_266.jpg" alt="насосы DUCA вило Wilo" class="border"></figure>
+<figure class="image mb-3"><img src="/blog/duca-0/Screenshot_266.jpg" alt="насосы DUCA вило Wilo" class="border"></figure>
 <h6 class="h6 text-primary">СОВМЕСТИМОСТЬ МОДЕЛЕЙ:</h6>
 <ul class="mb-0">
 <li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i><strong>WILO RS 15/4</strong></li>
@@ -175,7 +175,7 @@ title: 'DUCA'
 </ul>
 </div>
 <div class="col-4">
-<figure class="image"><img src="Screenshot_267.jpg" alt="насосы DUCA" class="border"></figure>
+<figure class="image"><img src="/blog/duca-0/Screenshot_267.jpg" alt="насосы DUCA" class="border"></figure>
 </div>
 </div>
 </div>
@@ -188,19 +188,19 @@ title: 'DUCA'
 <h6 class="h6 text-primary"><i class="fas fa-bolt me-2"></i>Ротор DUCA - Grundfos</h6>
 <div class="row mb-4">
 <div class="col-6 mb-3">
-<figure class="image"><img src="Screenshot_269.jpg" alt="насосы DUCA ротор" class="border"></figure>
+<figure class="image"><img src="/blog/duca-0/Screenshot_269.jpg" alt="насосы DUCA ротор" class="border"></figure>
 </div>
 <div class="col-6 mb-3">
-<figure class="image"><img src="Screenshot_268.jpg" alt="насосы DUCA ротор grundfos" class="border"></figure>
+<figure class="image"><img src="/blog/duca-0/Screenshot_268.jpg" alt="насосы DUCA ротор grundfos" class="border"></figure>
 </div>
 </div>
 <h6 class="h6 text-warning"><i class="fas fa-wind me-2"></i>Ротор DUCA - WILO</h6>
 <div class="row">
 <div class="col-6 mb-3">
-<figure class="image"><img src="Screenshot_271.jpg" alt="насосы DUCA ротор wilo" class="border"></figure>
+<figure class="image"><img src="/blog/duca-0/Screenshot_271.jpg" alt="насосы DUCA ротор wilo" class="border"></figure>
 </div>
 <div class="col-6 mb-3">
-<figure class="image"><img src="Screenshot_270.jpg" alt="насосы DUCA ротор wilo" class="border"></figure>
+<figure class="image"><img src="/blog/duca-0/Screenshot_270.jpg" alt="насосы DUCA ротор wilo" class="border"></figure>
 </div>
 </div>
 <div class="text-center mt-3">

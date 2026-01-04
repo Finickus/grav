@@ -5,7 +5,7 @@ title: 'Теплообменник Junkers WR10/Bosch GWH10.'
 
 <div class="ce_text first block" style='overflow: hidden; margin-left: 10px; margin-right: 10px; color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>
 
-<figure class="image_container float_left" style="margin: 0px 20px 0px 0px; padding: 0px; float: left;"><a class="ccardElement" data-lightcard="82a7fc" href="https://boilererror.ru/wp-content/uploads/2019/12/20151211_124425.jpg" style="color: rgb(96, 88, 77);"><img src="20151211_124425-0b90180e.jpg" alt=""></a></figure>
+<figure class="image_container float_left" style="margin: 0px 20px 0px 0px; padding: 0px; float: left;"><a class="ccardElement" data-lightcard="82a7fc" href="https://boilererror.ru/wp-content/uploads/2019/12/20151211_124425.jpg" style="color: rgb(96, 88, 77);"><img src="/blog/teploobmennik-junkers-wr10/20151211_124425-0b90180e.jpg" alt=""></a></figure>
 <p>Газовые колонки Bosch WR 10 со скоростью нагрева воды 10 л/мин укомплектованы качественным оригинальным теплообменником, который отличается:</p>
 <ul type="disc">
 <li>Прочностью – деталь выполнена из металлического сплава;</li>
@@ -21,7 +21,7 @@ title: 'Теплообменник Junkers WR10/Bosch GWH10.'
 </div>
 <div class="ce_text block" style='overflow: hidden; margin-left: 10px; margin-right: 10px; color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>
 <h2 style="padding-bottom: 5px; border-bottom: 2px solid; color: rgb(227, 122, 37);">От продажи до комплексного обслуживания – выгодные решения для каждого клиента</h2>
-<figure class="image_container float_right" style="margin: 0px 0px 0px 20px; padding: 0px; float: right;"><img src="20151211_124439-e7261ca4.jpg" alt="Теплообменник Junkers WR10"></figure>
+<figure class="image_container float_right" style="margin: 0px 0px 0px 20px; padding: 0px; float: right;"><img src="/blog/teploobmennik-junkers-wr10/20151211_124439-e7261ca4.jpg" alt="Теплообменник Junkers WR10"></figure>
 <p>Для оптовых и розничных покупателей мы предлагаем:</p>
 <ul type="disc">
 <li>Продажу медного теплообменника для газовых колонок Bosch WR10 (подходят для установки на некоторые модели проточных водонагревателей Junkers). Специальная программа</li>
@@ -32,21 +32,21 @@ title: 'Теплообменник Junkers WR10/Bosch GWH10.'
 <p>*При возникших вопросах или необходимости уточнения моделей, к которым подойдет теплообменник, свяжитесь с нами по указанному на странице номеру телефона или оформите покупку непосредственно в каталоге.</p>
 </div>
 <div class="ce_image block" style='overflow: hidden; margin-left: 10px; margin-right: 10px; color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>
-<figure class="image_container" style="margin: 0px; padding: 0px;"><img src="20151211_124430.jpg" alt="Теплообменник Junkers WR10/Bosch GWH10"></figure>
+<figure class="image_container" style="margin: 0px; padding: 0px;"><img src="/blog/teploobmennik-junkers-wr10/20151211_124430.jpg" alt="Теплообменник Junkers WR10/Bosch GWH10"></figure>
 </div>
 <div class="ce_gallery last block" style='overflow: hidden; margin-left: 10px; margin-right: 10px; color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>
 <ul class="cols_4" style="margin: 0px; padding: 0px; overflow: hidden; list-style: none;">
 <li class="row_0 row_first row_last even col_0 col_first" style="float: left; clear: left;">
-<figure class="image_container" style="margin: 0px; padding: 0px;"><a class="ccardElement" data-lightcard="lb897" href="https://boilererror.ru/wp-content/uploads/2019/12/20151211_124445.jpg" style="color: rgb(96, 88, 77);" h3="20151211_124445.jpg"><img src="20151211_124445-c23d4bd9.jpg" alt="20151211_124445.jpg"></a></figure>
+<figure class="image_container" style="margin: 0px; padding: 0px;"><a class="ccardElement" data-lightcard="lb897" href="https://boilererror.ru/wp-content/uploads/2019/12/20151211_124445.jpg" style="color: rgb(96, 88, 77);" h3="20151211_124445.jpg"><img src="/blog/teploobmennik-junkers-wr10/20151211_124445-c23d4bd9.jpg" alt="20151211_124445.jpg"></a></figure>
 </li>
 <li class="row_0 row_first row_last even col_1" style="float: left;">
-<figure class="image_container" style="margin: 0px; padding: 0px;"><a class="ccardElement" data-lightcard="lb897" href="https://boilererror.ru/wp-content/uploads/2019/12/20151211_124449.jpg" style="color: rgb(96, 88, 77);" h3="20151211_124449.jpg"><img src="20151211_124449-ce85238e.jpg" alt="20151211_124449.jpg"></a></figure>
+<figure class="image_container" style="margin: 0px; padding: 0px;"><a class="ccardElement" data-lightcard="lb897" href="https://boilererror.ru/wp-content/uploads/2019/12/20151211_124449.jpg" style="color: rgb(96, 88, 77);" h3="20151211_124449.jpg"><img src="/blog/teploobmennik-junkers-wr10/20151211_124449-ce85238e.jpg" alt="20151211_124449.jpg"></a></figure>
 </li>
 <li class="row_0 row_first row_last even col_2" style="float: left;">
-<figure class="image_container" style="margin: 0px; padding: 0px;"><a class="ccardElement" data-lightcard="lb897" href="https://boilererror.ru/wp-content/uploads/2019/12/20151211_124457.jpg" style="color: rgb(96, 88, 77);" h3="20151211_124457.jpg"><img src="20151211_124457-f745a3f7.jpg" alt="20151211_124457.jpg"></a></figure>
+<figure class="image_container" style="margin: 0px; padding: 0px;"><a class="ccardElement" data-lightcard="lb897" href="https://boilererror.ru/wp-content/uploads/2019/12/20151211_124457.jpg" style="color: rgb(96, 88, 77);" h3="20151211_124457.jpg"><img src="/blog/teploobmennik-junkers-wr10/20151211_124457-f745a3f7.jpg" alt="20151211_124457.jpg"></a></figure>
 </li>
 <li class="row_0 row_first row_last even col_3 col_last" style="float: left;">
-<figure class="image_container" style="margin: 0px; padding: 0px;"><a class="ccardElement" data-lightcard="lb897" href="https://boilererror.ru/wp-content/uploads/2019/12/20151211_124505.jpg" style="color: rgb(96, 88, 77);" h3="20151211_124505.jpg"><img src="20151211_124505-2dea7169.jpg" alt="20151211_124505.jpg"></a></figure>
+<figure class="image_container" style="margin: 0px; padding: 0px;"><a class="ccardElement" data-lightcard="lb897" href="https://boilererror.ru/wp-content/uploads/2019/12/20151211_124505.jpg" style="color: rgb(96, 88, 77);" h3="20151211_124505.jpg"><img src="/blog/teploobmennik-junkers-wr10/20151211_124505-2dea7169.jpg" alt="20151211_124505.jpg"></a></figure>
 </li>
 </ul>
 </div>

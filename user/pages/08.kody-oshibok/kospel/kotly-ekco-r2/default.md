@@ -31,7 +31,7 @@ title: 'Котлы EKCO.R2'
         <div class="card-body text-center p-4">
             <figure class="figure mb-0 d-inline-block">
                 <a href="#modal-main-r2" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-main-r2">
-                    <img src="kotel-kospel10-c924c717.jpg" alt="Котлы EKCO.R2" class="img-fluid rounded shadow">
+                    <img src="/kody-oshibok/kospel/kotly-ekco-r2/kotel-kospel10-c924c717.jpg" alt="Котлы EKCO.R2" class="img-fluid rounded shadow">
                 </a>
             </figure>
         </div>
@@ -46,10 +46,10 @@ title: 'Котлы EKCO.R2'
                 <div class="col-md-6 mb-3">
                     <figure class="figure mb-4">
                         <a href="#modal-panel-r2" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-panel-r2">
-                            <img src="kotel-kospel12.jpg" alt="Панель управления EKCO.R2" class="img-fluid rounded shadow mb-3">
+                            <img src="/kody-oshibok/kospel/kotly-ekco-r2/kotel-kospel12.jpg" alt="Панель управления EKCO.R2" class="img-fluid rounded shadow mb-3">
                         </a>
                         <a href="#modal-scheme-r2" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-scheme-r2">
-                            <img src="kotel-kospel11.jpg" alt="Схема подключения EKCO.R2" class="img-fluid rounded shadow">
+                            <img src="/kody-oshibok/kospel/kotly-ekco-r2/kotel-kospel11.jpg" alt="Схема подключения EKCO.R2" class="img-fluid rounded shadow">
                         </a>
                     </figure>
                 </div>
@@ -174,7 +174,7 @@ title: 'Котлы EKCO.R2'
                     <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body p-0 text-center">
-                    <img src="kotel-kospel10-c924c717.jpg" class="img-fluid rounded" alt="Котлы EKCO.R2" style="max-height: 90vh;">
+                    <img src="/kody-oshibok/kospel/kotly-ekco-r2/kotel-kospel10-c924c717.jpg" class="img-fluid rounded" alt="Котлы EKCO.R2" style="max-height: 90vh;">
                 </div>
             </div>
         </div>
@@ -184,7 +184,7 @@ title: 'Котлы EKCO.R2'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="kotel-kospel12.jpg" class="img-fluid rounded" alt="Панель управления EKCO.R2" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/kody-oshibok/kospel/kotly-ekco-r2/kotel-kospel12.jpg" class="img-fluid rounded" alt="Панель управления EKCO.R2" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -193,7 +193,7 @@ title: 'Котлы EKCO.R2'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="kotel-kospel11.jpg" class="img-fluid rounded" alt="Схема подключения EKCO.R2" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/kody-oshibok/kospel/kotly-ekco-r2/kotel-kospel11.jpg" class="img-fluid rounded" alt="Схема подключения EKCO.R2" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

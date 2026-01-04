@@ -13,7 +13,7 @@ title: 'Газовый клапан NOVA 826 | 827'
 <div class="card mb-5 content-card">
 <div class="row is-variable is-6 is-centered">
 <div class="col-5">
-<figure class="image is-16by9"><img src="GAZOVYJ-KLAPAN-826-NOVA-0.826.010-bd9f6f9a.png" alt="Газовый клапан NOVA 826 | 827 0.826.010 0.827.128" class="rounded" style="margin: 0 auto; display: block;"></figure>
+<figure class="image is-16by9"><img src="/blog/gazovyj-klapan-826-827-nova-0826010-0827128/GAZOVYJ-KLAPAN-826-NOVA-0.826.010-bd9f6f9a.png" alt="Газовый клапан NOVA 826 | 827 0.826.010 0.827.128" class="rounded" style="margin: 0 auto; display: block;"></figure>
 </div>
 <div class="col-6">
 <h3 class="h4 display-4" style="color: #e37a25;">Газовые клапаны NOVA 826 и 827</h3>

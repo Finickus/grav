@@ -27,7 +27,7 @@ title: 'Схема запчастей котла Kospel EKCO L2'
 </header>
 <div class="card-body text-center">
 <p class="mb-4">**Щелкните по изображению, чтобы открыть увеличенную версию схемы.**</p>
-<a href="temp2228.png" data-lightcard="ekco-l2-scheme" data-h3="Схема запчастей котла Kospel EKCO L2"> <img src="temp2228.png" class="is-fullwidth has-border-light" alt="Схема запчастей котла Kospel EKCO L2"> </a>
+<a href="temp2228.png" data-lightcard="ekco-l2-scheme" data-h3="Схема запчастей котла Kospel EKCO L2"> <img src="/blog/ekco-l2-rus/temp2228.png" class="is-fullwidth has-border-light" alt="Схема запчастей котла Kospel EKCO L2"> </a>
 <p class="mt-2 text-muted">Схема запчастей котла Kospel EKCO L2</p>
 </div>
 </div>

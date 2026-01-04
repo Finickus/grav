@@ -18,7 +18,7 @@ title: 'Настенные газовые котлы Гепард'
 <p>Котлы <strong>Гепард</strong> – это надежные и доступные настенные газовые котлы, обеспечивающие эффективное отопление и горячее водоснабжение. Они подходят для установки в квартирах и домах.</p>
 </div>
 <div class="col-6 text-center">
-<figure class="image is-inline-block"><img src="pantera6.png" alt="Панель управления — Гепард" class="rounded" style="max-width: 100%; border: 1px solid #ddd;">
+<figure class="image is-inline-block"><img src="/blog/nastennye-gazovye-kotly-gepard-pantera-1-9/pantera6.png" alt="Панель управления — Гепард" class="rounded" style="max-width: 100%; border: 1px solid #ddd;">
 <figcaption class="text-muted fs-6 mt-2">Панель управления котла Гепард</figcaption>
 </figure>
 </div>
@@ -102,7 +102,7 @@ title: 'Настенные газовые котлы Гепард'
 <h4 class="h4 display-4 mb-0 text-white"><i class="fas fa-gamepad me-2"></i>Панель управления</h4>
 </header>
 <div class="text-center">
-<figure class="image is-inline-block mb-4"><img src="pantera6.png" alt="Панель управления — Гепард" class="rounded" style="max-height: 300px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image is-inline-block mb-4"><img src="/blog/nastennye-gazovye-kotly-gepard-pantera-1-9/pantera6.png" alt="Панель управления — Гепард" class="rounded" style="max-height: 300px; max-width: 100%; border: 1px solid #ddd;"></figure>
 <p>Интуитивно понятная панель управления позволяет легко настраивать режимы работы, контролировать температуру и получать информацию о состоянии котла.</p>
 <div class="notification is-info mb-0"><i class="fas fa-key me-2"></i><strong>Доступ к монтажным и сервисным меню – Gepard</strong></div>
 </div>

@@ -15,7 +15,7 @@ title: 'Пилотная горелка в сборе 0.190.624'
 <div class="card-body">
 <div class="row align-items-center is-multiline">
 <div class="col-lg-6 is-full-tablet text-center mb-4">
-<figure class="image is-inline-block"><img src="wpe08fc3e1_05_06.jpg" width="251" alt="Пилотная горелка SIT 0.190.624"></figure>
+<figure class="image is-inline-block"><img src="/blog/pilotnaja-gorelka/wpe08fc3e1_05_06.jpg" width="251" alt="Пилотная горелка SIT 0.190.624"></figure>
 </div>
 <div class="col-lg-6 is-full-tablet content">
 <h2 class="h4 display-4 text-primary mb-3">Надежный запуск для вашего котла</h2>

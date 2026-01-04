@@ -2,7 +2,7 @@
 title: 'Ремонт котлов Attack за 1 выезд.'
 ---
 
-<p><a data-lightcard="4b7712" href="https://boilererror.ru/wp-content/uploads/2019/12/attack.png" style="color: #0056b3; text-decoration-line: underline;"><img src="Screenshot_65(1).jpg" alt=""></a></p>
+<p><a data-lightcard="4b7712" href="https://boilererror.ru/wp-content/uploads/2019/12/attack.png" style="color: #0056b3; text-decoration-line: underline;"><img src="/blog/remont-gazovyx-kotlov-attack/Screenshot_65(1).jpg" alt=""></a></p>
 <div class="container-fluid">
 <div class="container">
 <div class="row" data-n1ed-block-category="gallery">
@@ -14,7 +14,7 @@ title: 'Ремонт котлов Attack за 1 выезд.'
 </div>
 </div>
 <hr>
-<figure><a data-lightcard="4b7712" href="https://boilererror.ru/wp-content/uploads/2019/12/attack.png"><img src="attack-a780b5bf.png" alt=""></a></figure>
+<figure><a data-lightcard="4b7712" href="https://boilererror.ru/wp-content/uploads/2019/12/attack.png"><img src="/blog/remont-gazovyx-kotlov-attack/attack-a780b5bf.png" alt=""></a></figure>
 <figure>
 <ul style="list-style-type: circle;">
 <li><a href="#h_8921070714311691938395988"><strong>Ремонт за 1 выезд. </strong><span style="font-weight: bolder;">Почему выгодно обратиться к нам для ремонта котлов</span></a><strong><a href="#h_8921070714311691938395988"></a></strong></li>
@@ -30,7 +30,7 @@ title: 'Ремонт котлов Attack за 1 выезд.'
 <p>Мы предлагаем ремонт котлов Attack за один выезд, чтобы максимально удовлетворить потребности наших клиентов. Мы понимаем, что неисправности котлов могут привести к неудобству и необходимости быстрого решения проблемы. Вот почему мы стремимся предоставить быстрый и эффективный сервис ремонта котлов Attack.</p>
 <p><strong>В чем заключается наше предложение:</strong></p>
 </div>
-<div class="col-md-6"><img src="Screenshot_69(2).jpg" alt="" height="335" width="337"></div>
+<div class="col-md-6"><img src="/blog/remont-gazovyx-kotlov-attack/Screenshot_69(2).jpg" alt="" height="335" width="337"></div>
 </div>
 <ol>
 <li>
@@ -67,7 +67,7 @@ title: 'Ремонт котлов Attack за 1 выезд.'
 <li><strong>Проблемы с вентилятором:</strong> Неисправности вентилятора воздуха могут привести к недостаточному давлению воздуха, что в свою очередь может вызывать проблемы с зажиганием и неправильную работу котла.</li>
 </ul>
 </div>
-<div class="col-md-4"><img src="Screenshot_68(1).jpg" alt=""></div>
+<div class="col-md-4"><img src="/blog/remont-gazovyx-kotlov-attack/Screenshot_68(1).jpg" alt=""></div>
 </div>
 <ul style="list-style-type: square;">
 <li><strong>Утечки воды:</strong> Появление утечек воды может быть связано с повреждением теплообменника, прокладок или соединительных труб. Это может привести к потере давления системы и неправильной работы котла.</li>
@@ -75,7 +75,7 @@ title: 'Ремонт котлов Attack за 1 выезд.'
 <li><strong>Неправильная регулировка температуры:</strong> При неправильной настройке или неисправности датчиков температуры, котел может не поддерживать нужную температуру в помещении или перегреваться.</li>
 <li><strong>Проблемы с системой отвода дымовых газов:</strong> Засорение или неправильное функционирование дымохода может привести к неправильному отводу дымовых газов, что требует немедленного вмешательства.</li>
 </ul>
-<p><img src="attack2.jpg" width="889" height="500" alt=""></p>
+<p><img src="/blog/remont-gazovyx-kotlov-attack/attack2.jpg" width="889" height="500" alt=""></p>
 <p>В случае возникновения любой из этих поломок или неисправностей, рекомендуется обратиться к профессиональным мастерам для диагностики и ремонта котла. Наша команда специалистов обладает опытом и знаниями, чтобы эффективно устранить любые поломки и восстановить нормальную работу вашего котла Attack.</p>
 <p></p>
 <h3 id="message-16919369313776">Этапы работ при ремонте котлов Attack</h3>
@@ -186,7 +186,7 @@ title: 'Ремонт котлов Attack за 1 выезд.'
 </ul>
 <p></p>
 </div>
-<div class="col-md-6"><img src="vyvoz-musora-v-moskovskoy-oblasti.jpg" alt="vyvoz-musora-v-moskovskoy-oblasti"></div>
+<div class="col-md-6"><img src="/blog/remont-gazovyx-kotlov-attack/vyvoz-musora-v-moskovskoy-oblasti.jpg" alt="vyvoz-musora-v-moskovskoy-oblasti"></div>
 </div>
 <ul></ul>
 <p>Если вы находитесь в Московской области и нуждаетесь в ремонте котла Attack, просто свяжитесь с нами, и мы организуем выезд нашего мастера к вам домой. Мы гарантируем качественное обслуживание и ремонт котлов Attack во всей Московской области.</p>

@@ -34,7 +34,7 @@ title: 'Ошибки настенных котлов Мора'
             <div class="card-body p-4 p-md-5">
                 <div class="row g-4">
                     <div class="col-md-5 text-center">
-                        <img src="1.jpg" alt="Ошибка E0" class="img-fluid rounded shadow-sm border">
+                        <img src="/kody-oshibok/mora/oshibki-nastennykh-kotlov-mora/1.jpg" alt="Ошибка E0" class="img-fluid rounded shadow-sm border">
                     </div>
                     <div class="col-md-7">
                         <p class="text-muted mb-4">Основная горелка потухла и не запускается, циркуляционный насос не функционирует. Элементы блока управления повреждены или дефектны.</p>
@@ -64,7 +64,7 @@ title: 'Ошибки настенных котлов Мора'
             <div class="card-body p-4 p-md-5">
                 <div class="row g-4 text-center text-md-start">
                     <div class="col-md-5">
-                        <img src="2.jpg" alt="Ошибка E1" class="img-fluid rounded shadow-sm border">
+                        <img src="/kody-oshibok/mora/oshibki-nastennykh-kotlov-mora/2.jpg" alt="Ошибка E1" class="img-fluid rounded shadow-sm border">
                     </div>
                     <div class="col-md-7">
                         <h4 class="h5 fw-bold mb-3 text-primary">Почему возникла:</h4>
@@ -94,7 +94,7 @@ title: 'Ошибки настенных котлов Мора'
             <div class="card-body p-4 p-md-5">
                 <div class="row g-4">
                     <div class="col-md-5 text-center">
-                        <img src="3.jpg" alt="Ошибка E2" class="img-fluid rounded shadow-sm border">
+                        <img src="/kody-oshibok/mora/oshibki-nastennykh-kotlov-mora/3.jpg" alt="Ошибка E2" class="img-fluid rounded shadow-sm border">
                     </div>
                     <div class="col-md-7">
                         <p class="text-muted small mb-4">Котел разжигается, но через несколько секунд тухнет. Блок управления не видит ионизацию (пламя).</p>
@@ -123,7 +123,7 @@ title: 'Ошибки настенных котлов Мора'
             </div>
             <div class="card-body p-4">
                 <div class="row g-4 align-items-center mb-4">
-                    <div class="col-md-4"><img src="7.jpg" alt="Котлы без цифрового табло" class="img-fluid rounded border shadow-sm"></div>
+                    <div class="col-md-4"><img src="/kody-oshibok/mora/oshibki-nastennykh-kotlov-mora/7.jpg" alt="Котлы без цифрового табло" class="img-fluid rounded border shadow-sm"></div>
                     <div class="col-md-8">
                         <h5>Типичная проблема: Падение мощности</h5>
                         <p class="small text-muted">Котел работает, но не может прогреть радиаторы до нужной температуры.</p>
@@ -134,14 +134,14 @@ title: 'Ошибки настенных котлов Мора'
                         <summary class="fw-bold cursor-pointer"><i class="fas fa-search me-2 text-primary"></i> Причины падения мощности</summary>
                         <div class="mt-3 small px-3">
                             <p>Зачастую это дефект модуляционной катушки газового клапана или сбитые настройки давления газа.</p>
-                            <img src="8.jpg" alt="Типичная проблема: Падение мощности" class="img-fluid rounded mt-2 border" style="max-height: 200px;">
+                            <img src="/kody-oshibok/mora/oshibki-nastennykh-kotlov-mora/8.jpg" alt="Типичная проблема: Падение мощности" class="img-fluid rounded mt-2 border" style="max-height: 200px;">
                         </div>
                     </details>
                     <details class="p-3 bg-white">
                         <summary class="fw-bold cursor-pointer"><i class="fas fa-water me-2 text-info"></i> Плохо греет горячую воду (ГВС)</summary>
                         <div class="mt-3 small px-3">
                             <p>Причина в 90% случаев — накипь во вторичном теплообменнике.</p>
-                            <img src="9.jpg" alt="Типичная проблема: Падение мощности" class="img-fluid rounded mt-2 border" style="max-height: 200px;">
+                            <img src="/kody-oshibok/mora/oshibki-nastennykh-kotlov-mora/9.jpg" alt="Типичная проблема: Падение мощности" class="img-fluid rounded mt-2 border" style="max-height: 200px;">
                         </div>
                     </details>
                 </div>
@@ -154,7 +154,7 @@ title: 'Ошибки настенных котлов Мора'
             <div class="card-body p-4 p-md-5">
                 <div class="row g-4 align-items-center">
                     <div class="col-md-5">
-                        <img src="10.jpg" alt="ТО" class="img-fluid rounded shadow-sm border">
+                        <img src="/kody-oshibok/mora/oshibki-nastennykh-kotlov-mora/10.jpg" alt="ТО" class="img-fluid rounded shadow-sm border">
                     </div>
                     <div class="col-md-7">
                         <h3 class="h4 fw-bold text-success mb-3">Профилактика и сервис</h3>

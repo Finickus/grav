@@ -13,7 +13,7 @@ title: 'Ремонт котлов Аристон'
 <div class="card mb-5">
 <div class="row align-items-center">
 <div class="col-4 text-center mb-4">
-<figure class="image is-192x192 mx-auto"><img src="ariston-1-f0e31f1a.png" alt="Ремонт котлов Аристон"></figure>
+<figure class="image is-192x192 mx-auto"><img src="/blog/remont-kotlov-ariston/ariston-1-f0e31f1a.png" alt="Ремонт котлов Аристон"></figure>
 </div>
 <div class="col-8">
 <p>Котельная техника от итальянской компании «Ariston» является самым надежным, простым в работе и долговечным оборудованием, которое популярно среди владельцев частных домов, коттеджей и квартир.</p>

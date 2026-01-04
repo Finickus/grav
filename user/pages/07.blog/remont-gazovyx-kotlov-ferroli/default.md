@@ -14,7 +14,7 @@ title: 'Ремонт котлов Ferroli'
 <div class="card mb-5">
 <div class="card-body">
 <div class="row align-items-center">
-<div class="col-4 text-center mb-4"><img src="ferroli-mini-f0c64cf0.png" alt="Логотип Ferroli" class="is-fullwidth rounded has-border-light"></div>
+<div class="col-4 text-center mb-4"><img src="/blog/remont-gazovyx-kotlov-ferroli/ferroli-mini-f0c64cf0.png" alt="Логотип Ferroli" class="is-fullwidth rounded has-border-light"></div>
 <div class="col-8 content">
 <p class="fs-5"><strong>Ferroli</strong> является международной компанией, которая занимается разработкой и производством высококачественных котлов. Компания Ferroli производит котлы уже более 50 лет и является мировым лидером в этой отрасли.</p>
 <p>Но время от времени даже эти качественные котлы выходят из строя.</p>
@@ -74,7 +74,7 @@ title: 'Ремонт котлов Ferroli'
 <li class="mb-2"><span class="icon has-text-secondary me-2"><i class="fas fa-border-all"></i></span> <strong>Чистка, замена теплообменника</strong> и др.</li>
 </ul>
 </div>
-<div class="col-4 text-center mb-4"><img src="remont-kotlov-ferroli3-9371ae2a.jpg" alt="Ремонт котлов Ferroli" class="is-fullwidth rounded has-border-light"></div>
+<div class="col-4 text-center mb-4"><img src="/blog/remont-gazovyx-kotlov-ferroli/remont-kotlov-ferroli3-9371ae2a.jpg" alt="Ремонт котлов Ferroli" class="is-fullwidth rounded has-border-light"></div>
 </div>
 <div class="notification is-danger mt-4">
 <h5 class="h5 text-white"><span class="icon me-2"><i class="fas fa-exclamation-circle"></i></span>Предупреждение</h5>

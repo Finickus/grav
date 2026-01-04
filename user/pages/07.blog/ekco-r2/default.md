@@ -5,7 +5,7 @@ title: 'Схема запчастей EKCO_R2'
 <div class="container-fluid mt-5">
 
 <div class="text-center">
-<figure class="image is-inline-block"><img src="wklejka-EKCO_R2-page-001-e731be2a.jpg" alt="Схема запчастей EKCO_R2"></figure>
+<figure class="image is-inline-block"><img src="/blog/ekco-r2/wklejka-EKCO_R2-page-001-e731be2a.jpg" alt="Схема запчастей EKCO_R2"></figure>
 </div>
 </div>
 <div class="content mt-4">

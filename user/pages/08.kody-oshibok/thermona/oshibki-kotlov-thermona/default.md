@@ -20,7 +20,7 @@ title: 'Ошибки котлов Thermona'
         </div>
         <div class="col-md-6 text-center">
             <a href="#modal-img-top" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-top">
-                <img src="thermona.jpg" alt="Дисплей котла Thermona с ошибкой" class="img-fluid rounded shadow-lg">
+                <img src="/kody-oshibok/thermona/oshibki-kotlov-thermona/thermona.jpg" alt="Дисплей котла Thermona с ошибкой" class="img-fluid rounded shadow-lg">
             </a>
         </div>
     </div>
@@ -30,7 +30,7 @@ title: 'Ошибки котлов Thermona'
         <div class="row g-4 align-items-center">
             <div class="col-md-3 text-center">
                 <a href="#modal-img-info" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-info">
-                    <img src="Screenshot_128(1).jpg" alt="Панель управления Thermona" class="img-fluid rounded shadow-sm">
+                    <img src="/kody-oshibok/thermona/oshibki-kotlov-thermona/Screenshot_128(1).jpg" alt="Панель управления Thermona" class="img-fluid rounded shadow-sm">
                 </a>
             </div>
             <div class="col-md-9 small">
@@ -126,7 +126,7 @@ title: 'Ошибки котлов Thermona'
     
     <div class="text-center mb-5">
         <a href="#modal-img-bottom" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-bottom">
-            <img src="Kotelthermona(1).jpg" alt="Котел Thermona" class="img-fluid rounded shadow-lg">
+            <img src="/kody-oshibok/thermona/oshibki-kotlov-thermona/Kotelthermona(1).jpg" alt="Котел Thermona" class="img-fluid rounded shadow-lg">
         </a>
     </div>
 
@@ -140,7 +140,7 @@ title: 'Ошибки котлов Thermona'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="thermona.jpg" class="img-fluid rounded" alt="Дисплей котла Thermona с ошибкой" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/kody-oshibok/thermona/oshibki-kotlov-thermona/thermona.jpg" class="img-fluid rounded" alt="Дисплей котла Thermona с ошибкой" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -149,7 +149,7 @@ title: 'Ошибки котлов Thermona'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="Screenshot_128(1).jpg" class="img-fluid rounded" alt="Панель управления Thermona" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/kody-oshibok/thermona/oshibki-kotlov-thermona/Screenshot_128(1).jpg" class="img-fluid rounded" alt="Панель управления Thermona" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -158,7 +158,7 @@ title: 'Ошибки котлов Thermona'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="Kotelthermona(1).jpg" class="img-fluid rounded" alt="Котел Thermona" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/kody-oshibok/thermona/oshibki-kotlov-thermona/Kotelthermona(1).jpg" class="img-fluid rounded" alt="Котел Thermona" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

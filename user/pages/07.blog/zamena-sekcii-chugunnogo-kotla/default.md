@@ -22,7 +22,7 @@ title: 'Замена секций чугунного котла'
         </div>
         <div class="col-md-6 text-center">
             <a href="#modal-theory-1" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-theory-1">
-                <img src="sekcii.jpg" class="img-fluid rounded shadow-sm" alt="Секции чугунного котла">
+                <img src="/blog/zamena-sekcii-chugunnogo-kotla/sekcii.jpg" class="img-fluid rounded shadow-sm" alt="Секции чугунного котла">
             </a>
         </div>
     </div>
@@ -64,22 +64,22 @@ title: 'Замена секций чугунного котла'
     <div class="row g-3 my-4 text-center">
         <div class="col-md-6 col-lg-3">
             <a href="#modal-gallery-2" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-gallery-2">
-                <img src="57fe272cc8ad0_PC040013.jpg" alt="Ремонт чугунного теплообменника" class="img-fluid rounded shadow-sm">
+                <img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe272cc8ad0_PC040013.jpg" alt="Ремонт чугунного теплообменника" class="img-fluid rounded shadow-sm">
             </a>
         </div>
         <div class="col-md-6 col-lg-3">
             <a href="#modal-gallery-3" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-gallery-3">
-                <img src="57fe272d43715_PC040014.jpg" alt="Замена секции котла" class="img-fluid rounded shadow-sm">
+                <img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe272d43715_PC040014.jpg" alt="Замена секции котла" class="img-fluid rounded shadow-sm">
             </a>
         </div>
         <div class="col-md-6 col-lg-3">
             <a href="#modal-gallery-4" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-gallery-4">
-                <img src="57fe270604219_PC040016.jpg" alt="Ремонт теплообменника котла" class="img-fluid rounded shadow-sm">
+                <img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe270604219_PC040016.jpg" alt="Ремонт теплообменника котла" class="img-fluid rounded shadow-sm">
             </a>
         </div>
         <div class="col-md-6 col-lg-3">
             <a href="#modal-gallery-5" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-gallery-5">
-                <img src="57fe2705cd77a_PC040017.jpg" alt="Замена секции чугуного котла" class="img-fluid rounded shadow-sm">
+                <img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe2705cd77a_PC040017.jpg" alt="Замена секции чугуного котла" class="img-fluid rounded shadow-sm">
             </a>
         </div>
     </div>
@@ -90,7 +90,7 @@ title: 'Замена секций чугунного котла'
     
     <div class="text-center my-4">
         <a href="#modal-gallery-6" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-gallery-6">
-            <img src="57fe27060c5dd_PC040019.jpg" alt="Осмотр чугунной секции" class="img-fluid rounded shadow-sm" style="max-width: 600px;">
+            <img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe27060c5dd_PC040019.jpg" alt="Осмотр чугунной секции" class="img-fluid rounded shadow-sm" style="max-width: 600px;">
         </a>
     </div>
 
@@ -102,17 +102,17 @@ title: 'Замена секций чугунного котла'
     <div class="row g-3 my-4 text-center">
         <div class="col-md-4">
             <a href="#modal-gallery-7" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-gallery-7">
-                <img src="57fe270578ad0_PC040021.jpg" alt="Сборка чугунной секции котла протерм" class="img-fluid rounded shadow-sm">
+                <img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe270578ad0_PC040021.jpg" alt="Сборка чугунной секции котла протерм" class="img-fluid rounded shadow-sm">
             </a>
         </div>
         <div class="col-md-4">
             <a href="#modal-gallery-8" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-gallery-8">
-                <img src="57fe270577e9b_PC040022.jpg" alt="Установка нипеля в чугунную секцию " class="img-fluid rounded shadow-sm">
+                <img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe270577e9b_PC040022.jpg" alt="Установка нипеля в чугунную секцию " class="img-fluid rounded shadow-sm">
             </a>
         </div>
         <div class="col-md-4">
             <a href="#modal-gallery-9" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-gallery-9">
-                <img src="57fe270581bff_PC040023.jpg" alt="Нанесение герметика на секцию котла" class="img-fluid rounded shadow-sm">
+                <img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe270581bff_PC040023.jpg" alt="Нанесение герметика на секцию котла" class="img-fluid rounded shadow-sm">
             </a>
         </div>
     </div>
@@ -125,12 +125,12 @@ title: 'Замена секций чугунного котла'
     <div class="row g-3 my-4 text-center">
         <div class="col-md-6">
             <a href="#modal-gallery-10" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-gallery-10">
-                <img src="57fe273946707_PC040003.jpg" alt="Инструмент для замены секции в чугунном котле" class="img-fluid rounded shadow-sm">
+                <img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe273946707_PC040003.jpg" alt="Инструмент для замены секции в чугунном котле" class="img-fluid rounded shadow-sm">
             </a>
         </div>
         <div class="col-md-6">
             <a href="#modal-gallery-11" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-gallery-11">
-                <img src="57fe272d76ffd_PC040005.jpg" alt="Инструмент для замены секции " class="img-fluid rounded shadow-sm">
+                <img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe272d76ffd_PC040005.jpg" alt="Инструмент для замены секции " class="img-fluid rounded shadow-sm">
             </a>
         </div>
     </div>
@@ -142,12 +142,12 @@ title: 'Замена секций чугунного котла'
     <div class="row g-3 my-4 text-center">
         <div class="col-md-6">
             <a href="#modal-gallery-12" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-gallery-12">
-                <img src="57fe270505532_PC040026.jpg" alt="установка новой секции теплообменника" class="img-fluid rounded shadow-sm">
+                <img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe270505532_PC040026.jpg" alt="установка новой секции теплообменника" class="img-fluid rounded shadow-sm">
             </a>
         </div>
         <div class="col-md-6">
             <a href="#modal-gallery-13" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-gallery-13">
-                <img src="57fe26f70f339_PC040027.jpg" alt="Монтаж новой секции теплообменника" class="img-fluid rounded shadow-sm">
+                <img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe26f70f339_PC040027.jpg" alt="Монтаж новой секции теплообменника" class="img-fluid rounded shadow-sm">
             </a>
         </div>
     </div>
@@ -159,19 +159,19 @@ title: 'Замена секций чугунного котла'
     <div class="row g-3 my-4 text-center">
         <div class="col-md-6">
             <a href="#modal-gallery-14" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-gallery-14">
-                <img src="57fe26f6a44e9_PC040029.jpg" alt="новая секция теплообменника" class="img-fluid rounded shadow-sm">
+                <img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe26f6a44e9_PC040029.jpg" alt="новая секция теплообменника" class="img-fluid rounded shadow-sm">
             </a>
         </div>
         <div class="col-md-6">
             <a href="#modal-gallery-15" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-gallery-15">
-                <img src="57fe26f68dc1d_PC040030.jpg" alt="прессование чугунного котла" class="img-fluid rounded shadow-sm">
+                <img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe26f68dc1d_PC040030.jpg" alt="прессование чугунного котла" class="img-fluid rounded shadow-sm">
             </a>
         </div>
     </div>
 
     <div class="text-center my-4">
         <a href="#modal-gallery-16" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-gallery-16">
-            <img src="57fe26f627a6e_PC040035.jpg" alt="Собранный котел" class="img-fluid rounded shadow-sm" style="max-width: 600px;">
+            <img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe26f627a6e_PC040035.jpg" alt="Собранный котел" class="img-fluid rounded shadow-sm" style="max-width: 600px;">
         </a>
     </div>
 
@@ -182,7 +182,7 @@ title: 'Замена секций чугунного котла'
 
     <div class="text-center my-4">
         <a href="#modal-gallery-17" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-gallery-17">
-            <img src="zamena.jpg" alt="Замена секции" class="img-fluid rounded shadow-sm">
+            <img src="/blog/zamena-sekcii-chugunnogo-kotla/zamena.jpg" alt="Замена секции" class="img-fluid rounded shadow-sm">
         </a>
     </div>
 
@@ -201,7 +201,7 @@ title: 'Замена секций чугунного котла'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="sekcii.jpg" class="img-fluid rounded" alt="Секции чугунного котла" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/blog/zamena-sekcii-chugunnogo-kotla/sekcii.jpg" class="img-fluid rounded" alt="Секции чугунного котла" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -210,7 +210,7 @@ title: 'Замена секций чугунного котла'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="57fe272cc8ad0_PC040013.jpg" class="img-fluid rounded" alt="Ремонт чугунного теплообменника" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe272cc8ad0_PC040013.jpg" class="img-fluid rounded" alt="Ремонт чугунного теплообменника" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -218,7 +218,7 @@ title: 'Замена секций чугунного котла'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="57fe272d43715_PC040014.jpg" class="img-fluid rounded" alt="Замена секции котла" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe272d43715_PC040014.jpg" class="img-fluid rounded" alt="Замена секции котла" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -226,7 +226,7 @@ title: 'Замена секций чугунного котла'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="57fe270604219_PC040016.jpg" class="img-fluid rounded" alt="Ремонт теплообменника котла" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe270604219_PC040016.jpg" class="img-fluid rounded" alt="Ремонт теплообменника котла" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -234,7 +234,7 @@ title: 'Замена секций чугунного котла'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="57fe2705cd77a_PC040017.jpg" class="img-fluid rounded" alt="Замена секции чугуного котла" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe2705cd77a_PC040017.jpg" class="img-fluid rounded" alt="Замена секции чугуного котла" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -243,7 +243,7 @@ title: 'Замена секций чугунного котла'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="57fe27060c5dd_PC040019.jpg" class="img-fluid rounded" alt="Осмотр чугунной секции" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe27060c5dd_PC040019.jpg" class="img-fluid rounded" alt="Осмотр чугунной секции" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -252,7 +252,7 @@ title: 'Замена секций чугунного котла'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="57fe270578ad0_PC040021.jpg" class="img-fluid rounded" alt="Сборка чугунной секции котла протерм" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe270578ad0_PC040021.jpg" class="img-fluid rounded" alt="Сборка чугунной секции котла протерм" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -260,7 +260,7 @@ title: 'Замена секций чугунного котла'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="57fe270577e9b_PC040022.jpg" class="img-fluid rounded" alt="Установка нипеля в чугунную секцию " style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe270577e9b_PC040022.jpg" class="img-fluid rounded" alt="Установка нипеля в чугунную секцию " style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -268,7 +268,7 @@ title: 'Замена секций чугунного котла'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="57fe270581bff_PC040023.jpg" class="img-fluid rounded" alt="Нанесение герметика на секцию котла" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe270581bff_PC040023.jpg" class="img-fluid rounded" alt="Нанесение герметика на секцию котла" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -277,7 +277,7 @@ title: 'Замена секций чугунного котла'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="57fe273946707_PC040003.jpg" class="img-fluid rounded" alt="Инструмент для замены секции в чугунном котле" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe273946707_PC040003.jpg" class="img-fluid rounded" alt="Инструмент для замены секции в чугунном котле" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -285,7 +285,7 @@ title: 'Замена секций чугунного котла'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="57fe272d76ffd_PC040005.jpg" class="img-fluid rounded" alt="Инструмент для замены секции " style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe272d76ffd_PC040005.jpg" class="img-fluid rounded" alt="Инструмент для замены секции " style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -294,7 +294,7 @@ title: 'Замена секций чугунного котла'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="57fe270505532_PC040026.jpg" class="img-fluid rounded" alt="установка новой секции теплообменника" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe270505532_PC040026.jpg" class="img-fluid rounded" alt="установка новой секции теплообменника" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -302,7 +302,7 @@ title: 'Замена секций чугунного котла'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="57fe26f70f339_PC040027.jpg" class="img-fluid rounded" alt="Монтаж новой секции теплообменника" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe26f70f339_PC040027.jpg" class="img-fluid rounded" alt="Монтаж новой секции теплообменника" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -311,7 +311,7 @@ title: 'Замена секций чугунного котла'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="57fe26f6a44e9_PC040029.jpg" class="img-fluid rounded" alt="новая секция теплообменника" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe26f6a44e9_PC040029.jpg" class="img-fluid rounded" alt="новая секция теплообменника" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -319,7 +319,7 @@ title: 'Замена секций чугунного котла'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="57fe26f68dc1d_PC040030.jpg" class="img-fluid rounded" alt="прессование чугунного котла" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe26f68dc1d_PC040030.jpg" class="img-fluid rounded" alt="прессование чугунного котла" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -328,7 +328,7 @@ title: 'Замена секций чугунного котла'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="57fe26f627a6e_PC040035.jpg" class="img-fluid rounded" alt="Собранный котел" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/blog/zamena-sekcii-chugunnogo-kotla/57fe26f627a6e_PC040035.jpg" class="img-fluid rounded" alt="Собранный котел" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -337,7 +337,7 @@ title: 'Замена секций чугунного котла'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="zamena.jpg" class="img-fluid rounded" alt="Замена секции" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/blog/zamena-sekcii-chugunnogo-kotla/zamena.jpg" class="img-fluid rounded" alt="Замена секции" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

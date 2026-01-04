@@ -2,7 +2,7 @@
 title: 'Схема запчастей EKCO_R1'
 ---
 
-<figure class="image mb-4"><img src="wklejka_EKCO_R1_120814-page-001-1ad80b45.jpg" alt="Схема запчастей EKCO_R1"></figure>
+<figure class="image mb-4"><img src="/blog/ekco-r1/wklejka_EKCO_R1_120814-page-001-1ad80b45.jpg" alt="Схема запчастей EKCO_R1"></figure>
 <section class="section">
 <div class="container">
 

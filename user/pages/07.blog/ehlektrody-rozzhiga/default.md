@@ -21,7 +21,7 @@ title: 'Электроды розжига SIT'
 <p>Процесс розжига энергоносителя в газовом оборудовании осуществляется методом искрового перекрытия с высоким давлением. Чаще всего комплект из двух электродов розжига и 1 датчика-электрода горения размещаются непосредственно в камере сгорания оборудования, работающего на газу.</p>
 </div>
 <div class="col-4 text-center">
-<figure class="image is-inline-block"><img src="3.png" alt="Электроды розжига SIT"></figure>
+<figure class="image is-inline-block"><img src="/blog/ehlektrody-rozzhiga/3.png" alt="Электроды розжига SIT"></figure>
 </div>
 </div>
 </div>

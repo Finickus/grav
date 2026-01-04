@@ -8,7 +8,7 @@ title: 'THERM 14 TLN (2015) — Запчасти и характеристики
 
     <div class="row mb-5 align-items-center">
         <div class="col-md-4 text-center mb-3 mb-md-0">
-            <img src="2572_14-LN-.png" alt="THERM 14 TLN" class="img-fluid rounded shadow-sm" style="max-height: 300px;">
+            <img src="/zapchasti/opisanie-kotla-therm-14-tln-2015g-vypuska/2572_14-LN-.png" alt="THERM 14 TLN" class="img-fluid rounded shadow-sm" style="max-height: 300px;">
         </div>
         <div class="col-md-8">
             <div class="card border-0 bg-light">
@@ -39,7 +39,7 @@ title: 'THERM 14 TLN (2015) — Запчасти и характеристики
         </div>
         <div class="card-body">
             <div class="text-center mb-4">
-                <img src="2572_14-LN-2.png" alt="Раздел газ" class="img-fluid rounded border">
+                <img src="/zapchasti/opisanie-kotla-therm-14-tln-2015g-vypuska/2572_14-LN-2.png" alt="Раздел газ" class="img-fluid rounded border">
             </div>
             <div class="table-responsive">
                 <table class="table table-bordered table-striped table-hover align-middle">
@@ -84,7 +84,7 @@ title: 'THERM 14 TLN (2015) — Запчасти и характеристики
         </div>
         <div class="card-body">
             <div class="text-center mb-4">
-                <img src="2572_14-LN-.png" alt="Раздел вода" class="img-fluid rounded border">
+                <img src="/zapchasti/opisanie-kotla-therm-14-tln-2015g-vypuska/2572_14-LN-.png" alt="Раздел вода" class="img-fluid rounded border">
             </div>
             <div class="table-responsive">
                 <table class="table table-bordered table-striped table-hover align-middle">
@@ -127,7 +127,7 @@ title: 'THERM 14 TLN (2015) — Запчасти и характеристики
         </div>
         <div class="card-body">
             <div class="text-center mb-4">
-                <img src="2572_14-LN-3.png" alt="Раздел электропанель" class="img-fluid rounded border">
+                <img src="/zapchasti/opisanie-kotla-therm-14-tln-2015g-vypuska/2572_14-LN-3.png" alt="Раздел электропанель" class="img-fluid rounded border">
             </div>
             <div class="table-responsive">
                 <table class="table table-bordered table-striped table-hover align-middle">
@@ -158,7 +158,7 @@ title: 'THERM 14 TLN (2015) — Запчасти и характеристики
         </div>
         <div class="card-body">
             <div class="text-center mb-4">
-                <img src="2572_14-LN-4.png" alt="Раздел гидравлический" class="img-fluid rounded border">
+                <img src="/zapchasti/opisanie-kotla-therm-14-tln-2015g-vypuska/2572_14-LN-4.png" alt="Раздел гидравлический" class="img-fluid rounded border">
             </div>
             <div class="table-responsive">
                 <table class="table table-bordered table-striped table-hover align-middle">

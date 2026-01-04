@@ -54,21 +54,21 @@ title: 'Bez nazvaniya'
 <div class="card">
 <div class="card-body text-center p-2">
 <h6 class="card-h3 text-primary">ГАЗОВЫЙ КЛАПАН SIT NOVA 820/822/824/825/826/827/828</h6>
-<a href="1.png" data-lightcard="gas-valves" data-h3="Газовый клапан SIT NOVA 820/822/824/825/826/827/828"> <img src="1.png" alt="Газовый клапан SIT NOVA" class="img-fluid rounded shadow-sm"> </a></div>
+<a href="1.png" data-lightcard="gas-valves" data-h3="Газовый клапан SIT NOVA 820/822/824/825/826/827/828"> <img src="/blog/gazovye-klapana/1.png" alt="Газовый клапан SIT NOVA" class="img-fluid rounded shadow-sm"> </a></div>
 </div>
 </div>
 <div class="col-md-4 mb-3">
 <div class="card">
 <div class="card-body text-center p-2">
 <h6 class="card-h3 text-secondary">Клапан 610 AS3</h6>
-<a href="GAZOVYJ-KLAPAN-610-AS3.png" data-lightcard="gas-valves" data-h3="Газовый клапан 610 AS3"> <img src="GAZOVYJ-KLAPAN-610-AS3.png" alt="Газовый клапан 610 AS3" class="img-fluid rounded shadow-sm"> </a></div>
+<a href="GAZOVYJ-KLAPAN-610-AS3.png" data-lightcard="gas-valves" data-h3="Газовый клапан 610 AS3"> <img src="/blog/gazovye-klapana/GAZOVYJ-KLAPAN-610-AS3.png" alt="Газовый клапан 610 AS3" class="img-fluid rounded shadow-sm"> </a></div>
 </div>
 </div>
 <div class="col-md-4 mb-3">
 <div class="card">
 <div class="card-body text-center p-2">
 <h6 class="card-h3 text-secondary">Клапан 710 MINISIT</h6>
-<a href="GAZOVYJ-KLAPAN-710-MINISIT.png" data-lightcard="gas-valves" data-h3="Газовый клапан 710 MINISIT"> <img src="GAZOVYJ-KLAPAN-710-MINISIT.png" alt="Газовый клапан 710 MINISIT" class="img-fluid rounded shadow-sm"> </a></div>
+<a href="GAZOVYJ-KLAPAN-710-MINISIT.png" data-lightcard="gas-valves" data-h3="Газовый клапан 710 MINISIT"> <img src="/blog/gazovye-klapana/GAZOVYJ-KLAPAN-710-MINISIT.png" alt="Газовый клапан 710 MINISIT" class="img-fluid rounded shadow-sm"> </a></div>
 </div>
 </div>
 <!-- Второй ряд -->
@@ -76,21 +76,21 @@ title: 'Bez nazvaniya'
 <div class="card">
 <div class="card-body text-center p-2">
 <h6 class="card-h3 text-secondary">Клапан 830</h6>
-<a href="GAZOVYJ-KLAPAN-830.png" data-lightcard="gas-valves" data-h3="Газовый клапан 830"> <img src="GAZOVYJ-KLAPAN-830.png" alt="Газовый клапан 830" class="img-fluid rounded shadow-sm"> </a></div>
+<a href="GAZOVYJ-KLAPAN-830.png" data-lightcard="gas-valves" data-h3="Газовый клапан 830"> <img src="/blog/gazovye-klapana/GAZOVYJ-KLAPAN-830.png" alt="Газовый клапан 830" class="img-fluid rounded shadow-sm"> </a></div>
 </div>
 </div>
 <div class="col-md-4 mb-3">
 <div class="card">
 <div class="card-body text-center p-2">
 <h6 class="card-h3 text-secondary">Клапан 840 SIGMA</h6>
-<a href="GAZOVYJ-KLAPAN-840-SIGMA.png" data-lightcard="gas-valves" data-h3="Газовый клапан 840 SIGMA"> <img src="GAZOVYJ-KLAPAN-840-SIGMA.png" alt="Газовый клапан 840 SIGMA" class="img-fluid rounded shadow-sm"> </a></div>
+<a href="GAZOVYJ-KLAPAN-840-SIGMA.png" data-lightcard="gas-valves" data-h3="Газовый клапан 840 SIGMA"> <img src="/blog/gazovye-klapana/GAZOVYJ-KLAPAN-840-SIGMA.png" alt="Газовый клапан 840 SIGMA" class="img-fluid rounded shadow-sm"> </a></div>
 </div>
 </div>
 <div class="col-md-4 mb-3">
 <div class="card">
 <div class="card-body text-center p-2">
 <h6 class="card-h3 text-secondary">Клапан SIT 0.630.029</h6>
-<a href="GAZOVYJ-KLAPAN-SIT-KOD-0.630.029.png" data-lightcard="gas-valves" data-h3="Газовый клапан SIT 0.630.029"> <img src="GAZOVYJ-KLAPAN-SIT-KOD-0.630.029.png" alt="Газовый клапан SIT 0.630.029" class="img-fluid rounded shadow-sm"> </a></div>
+<a href="GAZOVYJ-KLAPAN-SIT-KOD-0.630.029.png" data-lightcard="gas-valves" data-h3="Газовый клапан SIT 0.630.029"> <img src="/blog/gazovye-klapana/GAZOVYJ-KLAPAN-SIT-KOD-0.630.029.png" alt="Газовый клапан SIT 0.630.029" class="img-fluid rounded shadow-sm"> </a></div>
 </div>
 </div>
 <!-- Дополнительное изображение -->
@@ -98,7 +98,7 @@ title: 'Bez nazvaniya'
 <div class="card">
 <div class="card-body text-center p-2">
 <h6 class="card-h3 text-secondary">Катушка клапана SIGMA</h6>
-<a href="katushka-klapana-sigma.png" data-lightcard="gas-valves" data-h3="Катушка клапана SIGMA"> <img src="katushka-klapana-sigma.png" alt="Катушка клапана SIGMA" class="img-fluid rounded shadow-sm"> </a></div>
+<a href="katushka-klapana-sigma.png" data-lightcard="gas-valves" data-h3="Катушка клапана SIGMA"> <img src="/blog/gazovye-klapana/katushka-klapana-sigma.png" alt="Катушка клапана SIGMA" class="img-fluid rounded shadow-sm"> </a></div>
 </div>
 </div>
 </div>

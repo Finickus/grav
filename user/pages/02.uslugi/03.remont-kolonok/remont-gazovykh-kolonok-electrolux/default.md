@@ -7,7 +7,7 @@ title: 'Ремонт газовых колонок Electrolux'
         <div class="row align-items-center g-4">
             <div class="col-12 text-center">
                 <a href="#modal-main-img" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-main-img">
-                    <img src="electroluxtop(1).jpg" alt="Газовая колонка Electrolux" class="img-fluid rounded shadow-sm" style="max-height: 200px;">
+                    <img src="/uslugi/remont-kolonok/remont-gazovykh-kolonok-electrolux/electroluxtop(1).jpg" alt="Газовая колонка Electrolux" class="img-fluid rounded shadow-sm" style="max-height: 200px;">
                 </a>
                 <h1 class="display-6 fw-bold mt-3 text-info"><i class="fas fa-tools me-2"></i>Ремонт газовых колонок Electrolux</h1>
             </div>
@@ -127,7 +127,7 @@ title: 'Ремонт газовых колонок Electrolux'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="electroluxtop(1).jpg" class="img-fluid rounded" alt="Газовая колонка Electrolux" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/uslugi/remont-kolonok/remont-gazovykh-kolonok-electrolux/electroluxtop(1).jpg" class="img-fluid rounded" alt="Газовая колонка Electrolux" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

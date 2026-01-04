@@ -23,7 +23,7 @@ title: 'Профессиональный ремонт котлов Bosch'
 </div>
 </div>
 <div class="col-6">
-<figure class="image is-4by3"><img src="20160612_142300-7d3fcbb7.jpg" alt="Сервисный центр Bosch" class="rounded" style="card-shadow: 0 4px 12px rgba(0,0,0,0.1);"></figure>
+<figure class="image is-4by3"><img src="/blog/remont-kotlov-bosch/20160612_142300-7d3fcbb7.jpg" alt="Сервисный центр Bosch" class="rounded" style="card-shadow: 0 4px 12px rgba(0,0,0,0.1);"></figure>
 </div>
 </div>
 <!-- Наши услуги -->
@@ -122,7 +122,7 @@ title: 'Профессиональный ремонт котлов Bosch'
 </div>
 </div>
 <div class="col-6">
-<figure class="image is-3by2"><img src="remont-bosch.png" alt="Проблемы котлов Bosch" class="rounded" style="card-shadow: 0 4px 12px rgba(0,0,0,0.1);"></figure>
+<figure class="image is-3by2"><img src="/blog/remont-kotlov-bosch/remont-bosch.png" alt="Проблемы котлов Bosch" class="rounded" style="card-shadow: 0 4px 12px rgba(0,0,0,0.1);"></figure>
 </div>
 </div>
 </details></div>
@@ -213,7 +213,7 @@ title: 'Профессиональный ремонт котлов Bosch'
 <h2 class="h4 display-4 mb-5"><i class="fas fa-list-ol me-2"></i> Процесс ремонта котла Bosch</h2>
 <div class="row is-variable is-6">
 <div class="col-6">
-<figure class="image is-3by4"><img src="20160612_144728.jpg" alt="Процесс ремонта" class="rounded" style="card-shadow: 0 4px 12px rgba(0,0,0,0.1);"></figure>
+<figure class="image is-3by4"><img src="/blog/remont-kotlov-bosch/20160612_144728.jpg" alt="Процесс ремонта" class="rounded" style="card-shadow: 0 4px 12px rgba(0,0,0,0.1);"></figure>
 </div>
 <div class="col-6">
 <div class="card p-5">

@@ -31,7 +31,7 @@ title: 'Ремонт котлов Bosch'
                     </div>
                 </div>
                 <div class="col-lg-6">
-                    <img src="20160612_142300-7d3fcbb7.jpg" 
+                    <img src="/uslugi/remont-kotlov/remont-kotlov-bosch/20160612_142300-7d3fcbb7.jpg" 
                          alt="Сервисный центр Bosch" class="img-fluid rounded shadow">
                 </div>
             </div>
@@ -156,7 +156,7 @@ title: 'Ремонт котлов Bosch'
             </div>
         </div>
         <div class="col-lg-7 order-1 order-lg-2">
-            <img src="20160612_144728.jpg" 
+            <img src="/uslugi/remont-kotlov/remont-kotlov-bosch/20160612_144728.jpg" 
                  alt="Мастер за работой" class="img-fluid rounded shadow">
         </div>
     </div>

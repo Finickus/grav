@@ -21,7 +21,7 @@ title: 'Запчасти для электрокотлов Vaillant'
                     <p class="text-muted mb-0">Котельное оборудование отличается надежностью, простотой монтажа и бесшумностью работы. Длительный межремонтный период гарантируется при условии установки <strong>оригинальных запасных частей</strong>.</p>
                 </div>
                 <div class="col-md-4 bg-light text-center p-4">
-                    <img src="vaillant-2f66573f.png" alt="Vaillant Logo" class="img-fluid" style="max-height: 120px;">
+                    <img src="/zapchasti/vaillant/zapchasti-dlya-elektrokotlov-vaillant/vaillant-2f66573f.png" alt="Vaillant Logo" class="img-fluid" style="max-height: 120px;">
                 </div>
             </div>
         </div>
@@ -48,10 +48,10 @@ title: 'Запчасти для электрокотлов Vaillant'
                 <div class="col-lg-6 text-center">
                     <div class="row g-2">
                         <div class="col-6">
-                            <img src="vaillant.jpg" alt="Vaillant Unit" class="img-fluid rounded border shadow-sm mb-2">
+                            <img src="/zapchasti/vaillant/zapchasti-dlya-elektrokotlov-vaillant/vaillant.jpg" alt="Vaillant Unit" class="img-fluid rounded border shadow-sm mb-2">
                         </div>
                         <div class="col-6">
-                            <img src="vaillant2.jpg" alt="Vaillant System" class="img-fluid rounded border shadow-sm">
+                            <img src="/zapchasti/vaillant/zapchasti-dlya-elektrokotlov-vaillant/vaillant2.jpg" alt="Vaillant System" class="img-fluid rounded border shadow-sm">
                         </div>
                     </div>
                 </div>

@@ -34,7 +34,7 @@ title: 'Ремонт газовых колонок Ariston'
             </p>
         </div>
         <div class="col-md-6 text-center">
-            <img src="hqdefault(1)(1).jpg" alt="Ремонт газовых колонок Ariston" class="img-fluid rounded shadow-sm">
+            <img src="/uslugi/remont-kolonok/remont-gazovykh-kolonok-ariston/hqdefault(1)(1).jpg" alt="Ремонт газовых колонок Ariston" class="img-fluid rounded shadow-sm">
         </div>
     </div>
     <hr class="my-5">
@@ -134,7 +134,7 @@ title: 'Ремонт газовых колонок Ariston'
     </ul>
 
     <div class="text-center mt-4">
-        <img src="Kotelariston(1).jpg" alt="Ремонт газовых колонок Ariston" class="img-fluid rounded shadow-sm">
+        <img src="/uslugi/remont-kolonok/remont-gazovykh-kolonok-ariston/Kotelariston(1).jpg" alt="Ремонт газовых колонок Ariston" class="img-fluid rounded shadow-sm">
     </div>
 
 </div>

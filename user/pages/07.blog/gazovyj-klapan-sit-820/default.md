@@ -27,7 +27,7 @@ title: 'SIT 820 Nova'
 </ul>
 </div>
 </div>
-<div class="col-md-4 text-center"><img src="16.png" alt="Схема SIT 820" class="img-fluid rounded border mb-3"> <a href="https://service04.ru/admin/edit-content/zapchasti/zapchasti-dlya-kotlov/thermona/303-40924-gazovyj-reduktor-sit-nova-820-detail.html" class="btn btn-success btn-lg btn-block"> <img src="buy_nowf-3.png" alt="Купить сейчас" class="img-fluid"> </a>
+<div class="col-md-4 text-center"><img src="/blog/gazovyj-klapan-sit-820/16.png" alt="Схема SIT 820" class="img-fluid rounded border mb-3"> <a href="https://service04.ru/admin/edit-content/zapchasti/zapchasti-dlya-kotlov/thermona/303-40924-gazovyj-reduktor-sit-nova-820-detail.html" class="btn btn-success btn-lg btn-block"> <img src="/blog/gazovyj-klapan-sit-820/buy_nowf-3.png" alt="Купить сейчас" class="img-fluid"> </a>
 <p class="mt-2"><strong>Цена: 4900 руб.</strong></p>
 </div>
 </div>
@@ -147,7 +147,7 @@ title: 'SIT 820 Nova'
 <div class="border rounded p-3 h-100">
 <h5 class="text-uppercase" style="color: #e37a25;">Техническая документация</h5>
 <p>Полное описание технических характеристик, принципа работы и настройки газового клапана SIT 820 Nova.</p>
-<a href="https://service04.ru/admin/edit-content/gazovyj-klapan-sit-820.html?file=files/img/zapchasti/sit/820_NOVA_RU.pdf" class="btn btn-primary"> <img src="iconPDF.gif" alt="PDF" class="me-2"> 820_NOVA_RU.pdf <span class="badge bg-secondary">(402.7 КиБ)</span> </a></div>
+<a href="https://service04.ru/admin/edit-content/gazovyj-klapan-sit-820.html?file=files/img/zapchasti/sit/820_NOVA_RU.pdf" class="btn btn-primary"> <img src="/blog/gazovyj-klapan-sit-820/iconPDF.gif" alt="PDF" class="me-2"> 820_NOVA_RU.pdf <span class="badge bg-secondary">(402.7 КиБ)</span> </a></div>
 </div>
 <div class="col-md-6 mb-3">
 <div class="border rounded p-3 h-100">

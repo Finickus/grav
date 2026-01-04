@@ -27,7 +27,7 @@ title: 'Ремонт котла Baxi'
                     </div>
                 </div>
                 <div class="col-lg-4 text-center">
-                    <img src="baxikotel.jpg" alt="Котёл Baxi" class="img-fluid rounded shadow-sm">
+                    <img src="/uslugi/remont-kotlov/remont-kotla-baxi/baxikotel.jpg" alt="Котёл Baxi" class="img-fluid rounded shadow-sm">
                 </div>
             </div>
         </div>

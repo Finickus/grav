@@ -6,7 +6,7 @@ title: 'Ремонт котлов Viessmann в Москве'
 <div class="container-fluid">
 <div class="row align-items-center mb-5">
 <div class="col-lg-4 is-full-mobile text-center order-1-desktop">
-<figure class="image is-inline-block"><img src="Viessmann_logo-ab05f48a.gif" alt="Ремонт котлов Viessmann в Москве" class="rounded card shadow"></figure>
+<figure class="image is-inline-block"><img src="/blog/remont-kotlov-viessmann/Viessmann_logo-ab05f48a.gif" alt="Ремонт котлов Viessmann в Москве" class="rounded card shadow"></figure>
 </div>
 <div class="col-lg-8 is-full-mobile order-2-desktop content">
 
@@ -17,7 +17,7 @@ title: 'Ремонт котлов Viessmann в Москве'
 <div class="card mb-5">
 <h2 class="h4 display-4 mb-4">Причины отказа котла</h2>
 <div class="text-center mb-4">
-<figure class="image is-inline-block"><img src="remont-kotla-visman3.jpg" alt="Причины отказа котла Viessmann" class="rounded"></figure>
+<figure class="image is-inline-block"><img src="/blog/remont-kotlov-viessmann/remont-kotla-visman3.jpg" alt="Причины отказа котла Viessmann" class="rounded"></figure>
 </div>
 <div class="content">
 <p>В большинстве случаев котёл Viessmann выходит из строя не из‑за заводского брака, а из‑за внешних факторов или ошибок эксплуатации. К сбоям приводят нестабильное напряжение, перепады давления воды и газа, образование накипи в теплообменнике, а также неверный монтаж дымохода и отсутствие регулярного обслуживания. Всё это со временем вызывает ошибки розжига, перегрев, падение давления и аварийное отключение котла.</p>
@@ -46,7 +46,7 @@ title: 'Ремонт котлов Viessmann в Москве'
 <p class="mt-3">Если игнорировать такие симптомы, небольшая неисправность может привести к перегреву, повреждению теплообменника или отказу платы управления. Намного безопаснее вызвать специалиста на раннем этапе, чем ожидать полной остановки системы в самый холодный день.</p>
 </div>
 <div class="col-lg-4 is-full-mobile text-center order-1-desktop">
-<figure class="image is-inline-block"><img src="remont-kotla-visman-4708a5a7.jpg" alt="Признаки неисправностей котла Viessmann" class="rounded card shadow"></figure>
+<figure class="image is-inline-block"><img src="/blog/remont-kotlov-viessmann/remont-kotla-visman-4708a5a7.jpg" alt="Признаки неисправностей котла Viessmann" class="rounded card shadow"></figure>
 </div>
 </div>
 <div class="card mb-5">
@@ -68,7 +68,7 @@ title: 'Ремонт котлов Viessmann в Москве'
 <p>Оставив заявку на ремонт и обслуживание котлов Viessmann, вы получаете комплексный подход: оперативный выезд мастера, полноценную диагностику, профессиональный ремонт с использованием оригинальных запчастей и гарантию на выполненные работы.</p>
 </div>
 <div class="col-md-4 is-full-mobile text-center order-1-tablet">
-<figure class="image is-inline-block animate-scale-up"><a href="https://boilererror.ru/wp-content/uploads/2019/12/remont-kotla-visman2.jpg" target="_blank" rel="noopener"> <img src="remont-kotla-visman2-33bf8c4c.jpg" alt="ремонт котла Висман Витопенд 100" class="rounded card shadow"> </a></figure>
+<figure class="image is-inline-block animate-scale-up"><a href="https://boilererror.ru/wp-content/uploads/2019/12/remont-kotla-visman2.jpg" target="_blank" rel="noopener"> <img src="/blog/remont-kotlov-viessmann/remont-kotla-visman2-33bf8c4c.jpg" alt="ремонт котла Висман Витопенд 100" class="rounded card shadow"> </a></figure>
 <p class="mt-2 fs-6 text-muted">Ремонт котла Висман Витопенд 100</p>
 </div>
 </div>
@@ -85,7 +85,7 @@ title: 'Ремонт котлов Viessmann в Москве'
 </div>
 <p class="mt-4 has-text-weight-bold">Скачать полный прайс-лист</p>
 <div class="d-flex align-items-center mt-3">
-<figure class="image is-32x32 me-3"><img src="iconOFFICE.gif" alt="Office icon"></figure>
+<figure class="image is-32x32 me-3"><img src="/blog/remont-kotlov-viessmann/iconOFFICE.gif" alt="Office icon"></figure>
 <a href="https://service04.ru/remont-kotlov-viessmann.html?file=files/img/uslugi/Prajs.doc" class="btn btn-primary"> Скачать Prajs.doc <span class="tag ms-2">291.5 КиБ</span> </a></div>
 </div>
 </div>

@@ -15,7 +15,7 @@ title: 'GSM управление котлом'
 <div class="card-body">
 <div class="row align-items-center is-multiline">
 <div class="col-6 text-center mb-4">
-<figure class="image is-inline-block"><img src="20140902_174257.jpg" alt="GSM управление котлом фото"></figure>
+<figure class="image is-inline-block"><img src="/blog/gsm-upravlenie-kotlom/20140902_174257.jpg" alt="GSM управление котлом фото"></figure>
 </div>
 <div class="col-6 content">
 <p>**GSM управление котлом** позволяет осуществлять **контроль и полноценную настройку работы оборудования на расстоянии**. Компактная система, оснащенная датчиками, – это новинка на отечественном рынке устройств для автоматизации и корректировки котельного оборудования.</p>
@@ -32,13 +32,13 @@ title: 'GSM управление котлом'
 <div class="row g-3 text-center">
 <div class="col-6 mb-4">
 <div class="card h-100">
-<figure class="image is-inline-block mb-3" style="max-height: 150px; overflow: hidden;"><img src="zont5.png" alt="ZONT"></figure>
+<figure class="image is-inline-block mb-3" style="max-height: 150px; overflow: hidden;"><img src="/blog/gsm-upravlenie-kotlom/zont5.png" alt="ZONT"></figure>
 <h5 class="h5"><a href="https://service04.ru/admin/edit-content/distancionnoe-upravlenie-kotlom-zont.html" class="has-text-link">Дистанционное управление котлом ZONT</a></h5>
 </div>
 </div>
 <div class="col-6 mb-4">
 <div class="card h-100">
-<figure class="image is-inline-block mb-3" style="max-height: 150px; overflow: hidden;"><img src="bastion.png" alt="Bastion"></figure>
+<figure class="image is-inline-block mb-3" style="max-height: 150px; overflow: hidden;"><img src="/blog/gsm-upravlenie-kotlom/bastion.png" alt="Bastion"></figure>
 <h5 class="h5">Bastion</h5>
 <p class="text-muted">(Информация скоро будет добавлена)</p>
 </div>
@@ -91,15 +91,15 @@ title: 'GSM управление котлом'
 <h3 class="h4 display-4" style="color: #e37a25;"><span class="icon me-2"><i class="fas fa-card"></i></span>ВСЕ ЭТО В ОДНОЙ КОРОБКЕ!</h3>
 <div class="row justify-content-center mt-4">
 <div class="col is-one-quarter mb-3">
-<figure class="image is-inline-block" style="max-height: 80px; overflow: hidden;"><img src="stabilizator.png" alt="Стабилизатор"></figure>
+<figure class="image is-inline-block" style="max-height: 80px; overflow: hidden;"><img src="/blog/gsm-upravlenie-kotlom/stabilizator.png" alt="Стабилизатор"></figure>
 <p class="mt-1 fs-6">Стабилизатор</p>
 </div>
 <div class="col is-one-quarter mb-3">
-<figure class="image is-inline-block" style="max-height: 80px; overflow: hidden;"><img src="ibp.png" alt="ИБП"></figure>
+<figure class="image is-inline-block" style="max-height: 80px; overflow: hidden;"><img src="/blog/gsm-upravlenie-kotlom/ibp.png" alt="ИБП"></figure>
 <p class="mt-1 fs-6">ИБП</p>
 </div>
 <div class="col is-one-quarter mb-3">
-<figure class="image is-inline-block" style="max-height: 80px; overflow: hidden;"><img src="safe.png" alt="Безопасность"></figure>
+<figure class="image is-inline-block" style="max-height: 80px; overflow: hidden;"><img src="/blog/gsm-upravlenie-kotlom/safe.png" alt="Безопасность"></figure>
 <p class="mt-1 fs-6">Безопасность</p>
 </div>
 </div>

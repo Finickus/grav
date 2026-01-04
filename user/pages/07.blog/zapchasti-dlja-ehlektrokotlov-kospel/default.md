@@ -13,7 +13,7 @@ title: 'Запчасти для электрокотлов Kospel'
 <div class="card mb-5">
 <div class="row align-items-center">
 <div class="col-6 text-center mb-4">
-<figure class="image is-inline-block"><img src="EKCO_service04.ru_.jpg" alt="Запчасти для электрокотлов Kospel"></figure>
+<figure class="image is-inline-block"><img src="/blog/zapchasti-dlja-ehlektrokotlov-kospel/EKCO_service04.ru_.jpg" alt="Запчасти для электрокотлов Kospel"></figure>
 </div>
 <div class="col-6">
 <h3 class="h4 display-4 has-text-orange mb-3">Запчасти для электрокотлов Kospel: оптимальная стоимость оригинальных деталей</h3>
@@ -64,10 +64,10 @@ title: 'Запчасти для электрокотлов Kospel'
 <h5 class="h5 has-text-orange mt-5 mb-4"><i class="fas fa-fire me-2"></i> Узлы мощности</h5>
 <div class="row g-3 text-center mb-5">
 <div class="col-6 mb-3">
-<figure class="image is-200x200 mx-auto"><img src="kospel-4-1.png" alt="Узел мощности коспел"></figure>
+<figure class="image is-200x200 mx-auto"><img src="/blog/zapchasti-dlja-ehlektrokotlov-kospel/kospel-4-1.png" alt="Узел мощности коспел"></figure>
 </div>
 <div class="col-6 mb-3">
-<figure class="image is-200x200 mx-auto"><img src="kospel-2.png" alt="Узел мощности Kospel"></figure>
+<figure class="image is-200x200 mx-auto"><img src="/blog/zapchasti-dlja-ehlektrokotlov-kospel/kospel-2.png" alt="Узел мощности Kospel"></figure>
 </div>
 </div>
 <div class="table-container mb-5">
@@ -122,10 +122,10 @@ title: 'Запчасти для электрокотлов Kospel'
 <h5 class="h5 has-text-orange mt-5 mb-4"><i class="fas fa-microchip me-2"></i> Панели и платы управления</h5>
 <div class="row g-3 text-center mb-5">
 <div class="col-6 mb-3">
-<figure class="image is-200x200 mx-auto"><img src="kospel-3.png" alt="Kospel Панель управления"></figure>
+<figure class="image is-200x200 mx-auto"><img src="/blog/zapchasti-dlja-ehlektrokotlov-kospel/kospel-3.png" alt="Kospel Панель управления"></figure>
 </div>
 <div class="col-6 mb-3">
-<figure class="image is-200x200 mx-auto"><img src="kospel-4.png" alt="Kospel Платы управления"></figure>
+<figure class="image is-200x200 mx-auto"><img src="/blog/zapchasti-dlja-ehlektrokotlov-kospel/kospel-4.png" alt="Kospel Платы управления"></figure>
 </div>
 </div>
 <div class="table-container mb-5">
@@ -165,13 +165,13 @@ title: 'Запчасти для электрокотлов Kospel'
 <h5 class="h5 has-text-orange mt-5 mb-4"><i class="fas fa-tachometer-alt me-2"></i> Датчики</h5>
 <div class="row g-3 text-center mb-5">
 <div class="col-4 mb-3">
-<figure class="image is-150x150 mx-auto"><img src="kospel-5.png" alt="Kospel Датчики турбинка протока"></figure>
+<figure class="image is-150x150 mx-auto"><img src="/blog/zapchasti-dlja-ehlektrokotlov-kospel/kospel-5.png" alt="Kospel Датчики турбинка протока"></figure>
 </div>
 <div class="col-4 mb-3">
-<figure class="image is-150x150 mx-auto"><img src="kospel-11.png" alt="Kospel Датчики температуры"></figure>
+<figure class="image is-150x150 mx-auto"><img src="/blog/zapchasti-dlja-ehlektrokotlov-kospel/kospel-11.png" alt="Kospel Датчики температуры"></figure>
 </div>
 <div class="col-4 mb-3">
-<figure class="image is-150x150 mx-auto"><img src="kospel-10.png" alt="Kospel Манометр"></figure>
+<figure class="image is-150x150 mx-auto"><img src="/blog/zapchasti-dlja-ehlektrokotlov-kospel/kospel-10.png" alt="Kospel Манометр"></figure>
 </div>
 </div>
 <div class="table-container mb-5">
@@ -220,7 +220,7 @@ title: 'Запчасти для электрокотлов Kospel'
 <!-- Нагревательные элементы -->
 <h5 class="h5 has-text-orange mt-5 mb-4"><i class="fas fa-fire-alt me-2"></i> Нагревательные элементы</h5>
 <div class="text-center mb-4">
-<figure class="image is-200x200 mx-auto"><img src="kospel-6.png" alt="Kospel Нагревательный элемент" style="border: 1px solid #dbdbdb;"></figure>
+<figure class="image is-200x200 mx-auto"><img src="/blog/zapchasti-dlja-ehlektrokotlov-kospel/kospel-6.png" alt="Kospel Нагревательный элемент" style="border: 1px solid #dbdbdb;"></figure>
 </div>
 <div class="table-container mb-5">
 <table class="table is-bordered is-striped w-100">
@@ -284,10 +284,10 @@ title: 'Запчасти для электрокотлов Kospel'
 <h5 class="h5 has-text-orange mt-5 mb-4"><i class="fas fa-tint me-2"></i> Насосы и ограничители температуры</h5>
 <div class="row g-3 text-center mb-5">
 <div class="col-6 mb-3">
-<figure class="image is-150x150 mx-auto"><img src="kospel-7.png" alt="Kospel Насос"></figure>
+<figure class="image is-150x150 mx-auto"><img src="/blog/zapchasti-dlja-ehlektrokotlov-kospel/kospel-7.png" alt="Kospel Насос"></figure>
 </div>
 <div class="col-6 mb-3">
-<figure class="image is-150x150 mx-auto"><img src="kospel-8.png" alt="Kospel Ограничители температуры"></figure>
+<figure class="image is-150x150 mx-auto"><img src="/blog/zapchasti-dlja-ehlektrokotlov-kospel/kospel-8.png" alt="Kospel Ограничители температуры"></figure>
 </div>
 </div>
 <div class="table-container mb-5">
@@ -327,13 +327,13 @@ title: 'Запчасти для электрокотлов Kospel'
 <h5 class="h5 has-text-orange mt-5 mb-4"><i class="fas fa-faucet me-2"></i> Водные узлы и дополнительные компоненты</h5>
 <div class="row g-3 text-center mb-4">
 <div class="col-4 mb-3">
-<figure class="image is-150x150 mx-auto"><img src="kospel-9.png" alt="Kospel Водные узлы"></figure>
+<figure class="image is-150x150 mx-auto"><img src="/blog/zapchasti-dlja-ehlektrokotlov-kospel/kospel-9.png" alt="Kospel Водные узлы"></figure>
 </div>
 <div class="col-4 mb-3">
-<figure class="image is-150x150 mx-auto"><img src="kospel-12.png" alt="Kospel Автоматический воздухоотводчик"></figure>
+<figure class="image is-150x150 mx-auto"><img src="/blog/zapchasti-dlja-ehlektrokotlov-kospel/kospel-12.png" alt="Kospel Автоматический воздухоотводчик"></figure>
 </div>
 <div class="col-4 mb-3">
-<figure class="image is-150x150 mx-auto"><img src="kospel-10.png" alt="Kospel Манометр"></figure>
+<figure class="image is-150x150 mx-auto"><img src="/blog/zapchasti-dlja-ehlektrokotlov-kospel/kospel-10.png" alt="Kospel Манометр"></figure>
 </div>
 </div>
 <div class="table-container">

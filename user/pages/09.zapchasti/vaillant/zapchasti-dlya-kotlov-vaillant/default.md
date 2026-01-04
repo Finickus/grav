@@ -10,7 +10,7 @@ title: 'Запчасти для котлов Vaillant'
     </div>
 
     <div class="text-center mb-5">
-        <img src="Vaillant-zapchasti_service04.ru_.png" 
+        <img src="/zapchasti/vaillant/zapchasti-dlya-kotlov-vaillant/Vaillant-zapchasti_service04.ru_.png" 
              alt="Запчасти для котлов Vaillant" 
              class="img-fluid shadow-sm rounded" 
              style="max-width: 100%;">

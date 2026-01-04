@@ -8,7 +8,7 @@ title: 'Гарантийное и после гарантийное обслуж
 <p>Монтаж газовых колонок BOSCH должен проводиться только квалифицированными специалистами, которые имеют опыт работы с газовым оборудованием. Они должны соблюдать все требования безопасности и следовать инструкциям производителя.</p>
 <p>Если вы хотите установить газовую колонку BOSCH, обратитесь к профессионалам. Они помогут вам выбрать подходящую модель, проведут монтаж и настройку колонки, а также предоставят гарантию на работу оборудования.</p>
 </div>
-<div class="col-md-6"><img src="028c38c2fba363342e4377d9fa6e5da4a0dd0608(2).jpg" alt="" width="425" height="425"></div>
+<div class="col-md-6"><img src="/blog/montazh-gazovykh-kolonok-bosch/028c38c2fba363342e4377d9fa6e5da4a0dd0608(2).jpg" alt="" width="425" height="425"></div>
 </div>
 <p></p>
 <blockquote>
@@ -23,7 +23,7 @@ title: 'Гарантийное и после гарантийное обслуж
 
 <div class="row">
 <div class="col-md-6">
-<p><img src="remont1.jpg" width="450" height="302" alt=""></p>
+<p><img src="/blog/montazh-gazovykh-kolonok-bosch/remont1.jpg" width="450" height="302" alt=""></p>
 </div>
 <div class="col-md-6">
 <p>Плановое и гарантийное обслуживание по договору. Гарантийное обслуживание осуществляется бесплатно только в том случае, если монтаж колонки производил сертифицированный сервисный центр завода изготовителя.</p>
@@ -138,4 +138,4 @@ title: 'Гарантийное и после гарантийное обслуж
 </div>
 </div>
 <p></p>
-<p><span style="font-size: 14.4px; background-color: #fcfcfc;"><img src="Bosch2(1).jpg" alt="" width="905" height="181"></span></p>
+<p><span style="font-size: 14.4px; background-color: #fcfcfc;"><img src="/blog/montazh-gazovykh-kolonok-bosch/Bosch2(1).jpg" alt="" width="905" height="181"></span></p>

@@ -13,7 +13,7 @@ title: 'Ремонт электрических котлов'
 <!-- Вступление -->
 <div class="row is-variable is-6 mb-5">
 <div class="col-4 text-center">
-<figure class="image is-inline-block"><img src="remont1.jpg" alt="Ремонт электрических котлов" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image is-inline-block"><img src="/blog/remont-ehlektro-kotlov/remont1.jpg" alt="Ремонт электрических котлов" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 <div class="col is-two-thirds">
 <p>Мы предлагаем качественный <strong>ремонт электрических котлов</strong> любых марок. Независимо от того, котёл какого производителя вы используете, наши мастера смогут быстро и качественно устранить все неисправности. Мы работаем с такими марками, как <strong> <a href="https://service04.ru/remont-electrokotlov-protherm">Protherm</a>, Vaillant, Bosch, Ariston, Baxi, Ferroli, Kospel, Mora </strong> и многими другими.</p>
@@ -91,7 +91,7 @@ title: 'Ремонт электрических котлов'
 <!-- Protherm -->
 <div class="row is-variable is-6 mb-5 pb-5" style="border-bottom: 1px solid #eee;">
 <div class="col is-one-quarter text-center">
-<figure class="image is-inline-block"><img src="logoprotherm.jpg" alt="Protherm" style="max-height: 80px; max-width: 100%;"></figure>
+<figure class="image is-inline-block"><img src="/blog/remont-ehlektro-kotlov/logoprotherm.jpg" alt="Protherm" style="max-height: 80px; max-width: 100%;"></figure>
 </div>
 <div class="col is-three-quarters">
 <h5 class="h6 mb-2"><strong>— Электрокотлы Protherm (Словакия)</strong></h5>
@@ -102,7 +102,7 @@ title: 'Ремонт электрических котлов'
 <!-- Vaillant -->
 <div class="row is-variable is-6 mb-5 pb-5" style="border-bottom: 1px solid #eee;">
 <div class="col is-one-quarter text-center">
-<figure class="image is-inline-block"><img src="vaillant_mini.jpg" alt="Vaillant" style="max-height: 80px; max-width: 100%;"></figure>
+<figure class="image is-inline-block"><img src="/blog/remont-ehlektro-kotlov/vaillant_mini.jpg" alt="Vaillant" style="max-height: 80px; max-width: 100%;"></figure>
 </div>
 <div class="col is-three-quarters">
 <h5 class="h6 mb-2"><strong>— Электрокотлы Vaillant (Германия)</strong></h5>
@@ -113,7 +113,7 @@ title: 'Ремонт электрических котлов'
 <!-- Baxi -->
 <div class="row is-variable is-6 mb-5 pb-5" style="border-bottom: 1px solid #eee;">
 <div class="col is-one-quarter text-center">
-<figure class="image is-inline-block"><img src="baxi_mini.jpg" alt="Baxi" style="max-height: 50px; max-width: 100%; margin-bottom: 8px;"> <img src="Baxi.png" alt="Baxi Logo" style="max-height: 50px; max-width: 100%;"></figure>
+<figure class="image is-inline-block"><img src="/blog/remont-ehlektro-kotlov/baxi_mini.jpg" alt="Baxi" style="max-height: 50px; max-width: 100%; margin-bottom: 8px;"> <img src="Baxi.png" alt="Baxi Logo" style="max-height: 50px; max-width: 100%;"></figure>
 </div>
 <div class="col is-three-quarters">
 <h5 class="h6 mb-2"><strong>— Электрокотлы Baxi (Италия)</strong></h5>
@@ -123,7 +123,7 @@ title: 'Ремонт электрических котлов'
 <!-- Mora -->
 <div class="row is-variable is-6 mb-5 pb-5" style="border-bottom: 1px solid #eee;">
 <div class="col is-one-quarter text-center">
-<figure class="image is-inline-block"><img src="logomora.jpg" alt="Mora" style="max-height: 100px; max-width: 100%;"></figure>
+<figure class="image is-inline-block"><img src="/blog/remont-ehlektro-kotlov/logomora.jpg" alt="Mora" style="max-height: 100px; max-width: 100%;"></figure>
 </div>
 <div class="col is-three-quarters">
 <h5 class="h6 mb-2"><strong>— Электрокотлы Mora Top (Чехия)</strong></h5>
@@ -133,7 +133,7 @@ title: 'Ремонт электрических котлов'
 <!-- Kospel -->
 <div class="row is-variable is-6 mb-5 pb-5" style="border-bottom: 1px solid #eee;">
 <div class="col is-one-quarter text-center">
-<figure class="image is-inline-block"><img src="kospel_mini.jpg" alt="Kospel" style="max-height: 80px; max-width: 100%;"></figure>
+<figure class="image is-inline-block"><img src="/blog/remont-ehlektro-kotlov/kospel_mini.jpg" alt="Kospel" style="max-height: 80px; max-width: 100%;"></figure>
 </div>
 <div class="col is-three-quarters">
 <h5 class="h6 mb-2"><strong>— Электрокотлы Kospel (Польша)</strong></h5>

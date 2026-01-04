@@ -23,7 +23,7 @@ title: 'Как правильно запустить газовый котел'
 </ul>
 </div>
 <div class="col-6 text-center">
-<figure class="image is-inline-block" style="max-width: 256px;"><img src="9dfaf7eb876811f0a29b2a6a17c4eb64_1 (1).jpg" alt="Подготовка котла"></figure>
+<figure class="image is-inline-block" style="max-width: 256px;"><img src="/blog/kotel-gotov/9dfaf7eb876811f0a29b2a6a17c4eb64_1 (1).jpg" alt="Подготовка котла"></figure>
 </div>
 </div>
 </div>

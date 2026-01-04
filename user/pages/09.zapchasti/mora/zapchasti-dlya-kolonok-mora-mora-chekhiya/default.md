@@ -19,7 +19,7 @@ title: 'Запчасти для колонок Mora (Мора Чехия)'
         </div>
         <div class="col-lg-4 text-center">
             <div class="p-3 bg-white shadow-sm rounded border">
-                <img src="mora.png" alt="Логотип Mora" class="img-fluid" style="max-height: 120px;">
+                <img src="/zapchasti/mora/zapchasti-dlya-kolonok-mora-mora-chekhiya/mora.png" alt="Логотип Mora" class="img-fluid" style="max-height: 120px;">
             </div>
         </div>
     </div>
@@ -31,7 +31,7 @@ title: 'Запчасти для колонок Mora (Мора Чехия)'
             <div class="col-md-4">
                 <div class="card h-100 shadow-sm border-0">
                     <div class="card-body p-2">
-                        <img src="2018-03-05_220045.jpg" 
+                        <img src="/zapchasti/mora/zapchasti-dlya-kolonok-mora-mora-chekhiya/2018-03-05_220045.jpg" 
                              alt="Общий вид" class="img-fluid rounded mb-2 lightbox-trigger" 
                              data-bs-toggle="modal" data-bs-target="#modalImg1">
                         <span class="small text-muted">Общий вид</span>
@@ -41,7 +41,7 @@ title: 'Запчасти для колонок Mora (Мора Чехия)'
             <div class="col-md-4">
                 <div class="card h-100 shadow-sm border-0">
                     <div class="card-body p-2">
-                        <img src="2018-03-05_220245.jpg" 
+                        <img src="/zapchasti/mora/zapchasti-dlya-kolonok-mora-mora-chekhiya/2018-03-05_220245.jpg" 
                              alt="Схема 1" class="img-fluid rounded mb-2 lightbox-trigger"
                              data-bs-toggle="modal" data-bs-target="#modalImg2">
                         <span class="small text-muted">Схема узлов 1</span>
@@ -51,7 +51,7 @@ title: 'Запчасти для колонок Mora (Мора Чехия)'
             <div class="col-md-4">
                 <div class="card h-100 shadow-sm border-0">
                     <div class="card-body p-2">
-                        <img src="2018-03-05_220346.jpg" 
+                        <img src="/zapchasti/mora/zapchasti-dlya-kolonok-mora-mora-chekhiya/2018-03-05_220346.jpg" 
                              alt="Схема 2" class="img-fluid rounded mb-2 lightbox-trigger"
                              data-bs-toggle="modal" data-bs-target="#modalImg3">
                         <span class="small text-muted">Схема узлов 2</span>
@@ -74,7 +74,7 @@ title: 'Запчасти для колонок Mora (Мора Чехия)'
                 <tbody>
                     <tr>
                         <td class="text-center">
-                            <img src="viber-image5.jpg" class="img-thumbnail" style="width: 100px; height: 100px; object-fit: cover;" alt="Термодатчик">
+                            <img src="/zapchasti/mora/zapchasti-dlya-kolonok-mora-mora-chekhiya/viber-image5.jpg" class="img-thumbnail" style="width: 100px; height: 100px; object-fit: cover;" alt="Термодатчик">
                         </td>
                         <td>
                             <h6 class="fw-bold mb-1">ST11871 Термодатчик</h6>
@@ -94,7 +94,7 @@ title: 'Запчасти для колонок Mora (Мора Чехия)'
                     </tr>
                     <tr>
                         <td class="text-center">
-                            <img src="2018-03-05_225331.jpg" class="img-thumbnail" style="width: 100px; height: 100px; object-fit: cover;" alt="Мембрана">
+                            <img src="/zapchasti/mora/zapchasti-dlya-kolonok-mora-mora-chekhiya/2018-03-05_225331.jpg" class="img-thumbnail" style="width: 100px; height: 100px; object-fit: cover;" alt="Мембрана">
                         </td>
                         <td>
                             <h6 class="fw-bold mb-1">G40B-SP01 Мембрана арматуры</h6>
@@ -143,7 +143,7 @@ title: 'Запчасти для колонок Mora (Мора Чехия)'
                     <button type="button" class="btn-close btn-close-white ms-auto" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body p-0 text-center">
-                    <img src="2018-03-05_220045.jpg" class="img-fluid rounded" alt="Общий вид">
+                    <img src="/zapchasti/mora/zapchasti-dlya-kolonok-mora-mora-chekhiya/2018-03-05_220045.jpg" class="img-fluid rounded" alt="Общий вид">
                 </div>
             </div>
         </div>
@@ -156,7 +156,7 @@ title: 'Запчасти для колонок Mora (Мора Чехия)'
                     <button type="button" class="btn-close btn-close-white ms-auto" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body p-0 text-center">
-                    <img src="2018-03-05_220245.jpg" class="img-fluid rounded" alt="Схема 1">
+                    <img src="/zapchasti/mora/zapchasti-dlya-kolonok-mora-mora-chekhiya/2018-03-05_220245.jpg" class="img-fluid rounded" alt="Схема 1">
                 </div>
             </div>
         </div>
@@ -169,7 +169,7 @@ title: 'Запчасти для колонок Mora (Мора Чехия)'
                     <button type="button" class="btn-close btn-close-white ms-auto" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body p-0 text-center">
-                    <img src="2018-03-05_220346.jpg" class="img-fluid rounded" alt="Схема 2">
+                    <img src="/zapchasti/mora/zapchasti-dlya-kolonok-mora-mora-chekhiya/2018-03-05_220346.jpg" class="img-fluid rounded" alt="Схема 2">
                 </div>
             </div>
         </div>

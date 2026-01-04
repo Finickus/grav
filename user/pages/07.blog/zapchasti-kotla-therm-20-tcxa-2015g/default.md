@@ -291,7 +291,7 @@ title: 'Запчасти котла THERM 20 TCX.A 2015 г.'
 </table>
 </div>
 <h2 class="h5 mb-3" style="color: #e37a25;"><i class="fas fa-sliders-h me-2"></i> Панель управления</h2>
-<figure class="image mb-4"><img src="2550_panel-20-pozice.jpg" alt="Панель управления THERM 20 TCX.A"></figure>
+<figure class="image mb-4"><img src="/blog/zapchasti-kotla-therm-20-tcxa-2015g/2550_panel-20-pozice.jpg" alt="Панель управления THERM 20 TCX.A"></figure>
 <div class="table-container mb-5">
 <table class="table is-bordered is-striped w-100">
 <thead>

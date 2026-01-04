@@ -41,7 +41,7 @@ title: 'Котел KoreaStar Senator TP'
 </li>
 </ol>
 </div>
-<div class="col-md-4 text-center"><img src="korea1-1de84a18.jpg" alt="Котел KoreaStar Senator TP" class="img-fluid rounded"></div>
+<div class="col-md-4 text-center"><img src="/blog/kotly-koreastar/korea1-1de84a18.jpg" alt="Котел KoreaStar Senator TP" class="img-fluid rounded"></div>
 </div>
 </div>
 </div>

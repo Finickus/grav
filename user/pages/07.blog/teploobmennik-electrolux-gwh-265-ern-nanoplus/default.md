@@ -9,7 +9,7 @@ title: 'Теплообменник Electrolux GWH 265 ERN NanoPlus'
 <p class="text-danger has-text-weight-bold fs-5">При утилизации старого теплообменника предоставляется скидка %</p>
 <div class="row align-items-center">
 <div class="col is-one-quarter text-center">
-<figure class="image is-inline-block"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115111_wm.jpg" target="_blank" h3="Теплообменник для газовой колонки Electrolux" rel="noopener"> <img src="20151221_115111_wm-200d27a0.jpg" alt="Теплообменник Electrolux"> </a></figure>
+<figure class="image is-inline-block"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115111_wm.jpg" target="_blank" h3="Теплообменник для газовой колонки Electrolux" rel="noopener"> <img src="/blog/teploobmennik-electrolux-gwh-265-ern-nanoplus/20151221_115111_wm-200d27a0.jpg" alt="Теплообменник Electrolux"> </a></figure>
 </div>
 <div class="col is-three-quarters content">
 <p>Газовые проточные водонагреватели (колонки) относятся к технике нового поколения. Оборудование укомплектовано качественным теплообменником, который обеспечивает быстрый и равномерный нагрев воды.</p>
@@ -60,13 +60,13 @@ title: 'Теплообменник Electrolux GWH 265 ERN NanoPlus'
 <h3 class="h4 display-4">Галерея теплообменников</h3>
 <div class="row g-3 is-desktop">
 <div class="col-lg-4 is-half-tablet">
-<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115111_wm.jpg" target="_blank" rel="noopener"><img src="20151221_115111_wm-82ac4cdc.jpg" alt="Вид 1"></a></figure>
+<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115111_wm.jpg" target="_blank" rel="noopener"><img src="/blog/teploobmennik-electrolux-gwh-265-ern-nanoplus/20151221_115111_wm-82ac4cdc.jpg" alt="Вид 1"></a></figure>
 </div>
 <div class="col-lg-4 is-half-tablet">
-<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115117_wm.jpg" target="_blank" rel="noopener"><img src="20151221_115117_wm-6b94c5ac.jpg" alt="Вид 2"></a></figure>
+<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115117_wm.jpg" target="_blank" rel="noopener"><img src="/blog/teploobmennik-electrolux-gwh-265-ern-nanoplus/20151221_115117_wm-6b94c5ac.jpg" alt="Вид 2"></a></figure>
 </div>
 <div class="col-lg-4 is-half-tablet">
-<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115123_wm.jpg" target="_blank" rel="noopener"><img src="20151221_115123_wm-cd256237.jpg" alt="Вид 3"></a></figure>
+<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115123_wm.jpg" target="_blank" rel="noopener"><img src="/blog/teploobmennik-electrolux-gwh-265-ern-nanoplus/20151221_115123_wm-cd256237.jpg" alt="Вид 3"></a></figure>
 </div>
 <div class="col-lg-4 is-half-tablet">
 <figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115111_wm.jpg" target="_blank" rel="noopener"><img src="20151221_115111_wm-4104f4f9.jpg" alt="Вид 4"></a></figure>
@@ -75,7 +75,7 @@ title: 'Теплообменник Electrolux GWH 265 ERN NanoPlus'
 <figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_111307_wm.jpg" target="_blank" rel="noopener"><img src="20151221_111307-245b7e8a.jpg" alt="Вид 5"></a></figure>
 </div>
 <div class="col-lg-4 is-half-tablet">
-<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/bosch.jpg" target="_blank" rel="noopener"><img src="bosch-f852da97.jpg" alt="Вид 6"></a></figure>
+<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/bosch.jpg" target="_blank" rel="noopener"><img src="/blog/teploobmennik-electrolux-gwh-265-ern-nanoplus/bosch-f852da97.jpg" alt="Вид 6"></a></figure>
 </div>
 </div>
 </div>

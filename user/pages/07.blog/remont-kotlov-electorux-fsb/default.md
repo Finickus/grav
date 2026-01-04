@@ -7,7 +7,7 @@ title: 'Bez nazvaniya'
 <div class="row a">
 <div class="col-md-12 border bg-light py-5" style="width: 855px; border-color: #dee2e6 !important;">
 <p class="lead text-justify">Добро пожаловать в наш сервисный центр, специализирующийся на ремонте и обслуживании котельного оборудования Electrolux FSB P. Наша команда высококвалифицированных техников готова предложить вам надежные решения для обеспечения непрерывной работы вашего котла.</p>
-<p class="lead text-justify"><a href="https://tlgg.ru/GazService04" target="_blank" rel="noopener" style="color: #007bff; background-color: #ffffff; font-size: 16px; text-align: left;"><img width="40" height="40" alt="" data-lazyloading="telega.svg" src="telega.svg" class="lazyLoading" style="opacity: 0; animation: 250ms linear 500ms 1 normal forwards running lazyLoading;"></a><a href="https://wa.me/79262211348?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5,%20%D0%A3%20%D0%BC%D0%B5%D0%BD%D1%8F%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D1%83" target="_blank" rel="noopener" style="color: #007bff; background-color: #ffffff; font-size: 16px; text-align: left;"><img width="40" height="40" alt="" data-lazyloading="whatsapp.svg" src="whatsapp.svg" class="lazyLoading" style="opacity: 0; animation: 250ms linear 500ms 1 normal forwards running lazyLoading;"></a><a href="https://vk.com/service_04" target="_blank" rel="noopener" style="color: #007bff; background-color: #ffffff; font-size: 16px; text-align: left;"><img width="40" height="40" alt="" data-lazyloading="vk122.svg" src="vk122.svg" class="lazyLoading" style="opacity: 0; animation: 250ms linear 500ms 1 normal forwards running lazyLoading;"></a></p>
+<p class="lead text-justify"><a href="https://tlgg.ru/GazService04" target="_blank" rel="noopener" style="color: #007bff; background-color: #ffffff; font-size: 16px; text-align: left;"><img width="40" height="40" alt="" data-lazyloading="telega.svg" src="/blog/remont-kotlov-electorux-fsb/telega.svg" class="lazyLoading" style="opacity: 0; animation: 250ms linear 500ms 1 normal forwards running lazyLoading;"></a><a href="https://wa.me/79262211348?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5,%20%D0%A3%20%D0%BC%D0%B5%D0%BD%D1%8F%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D1%83" target="_blank" rel="noopener" style="color: #007bff; background-color: #ffffff; font-size: 16px; text-align: left;"><img width="40" height="40" alt="" data-lazyloading="whatsapp.svg" src="/blog/remont-kotlov-electorux-fsb/whatsapp.svg" class="lazyLoading" style="opacity: 0; animation: 250ms linear 500ms 1 normal forwards running lazyLoading;"></a><a href="https://vk.com/service_04" target="_blank" rel="noopener" style="color: #007bff; background-color: #ffffff; font-size: 16px; text-align: left;"><img width="40" height="40" alt="" data-lazyloading="vk122.svg" src="/blog/remont-kotlov-electorux-fsb/vk122.svg" class="lazyLoading" style="opacity: 0; animation: 250ms linear 500ms 1 normal forwards running lazyLoading;"></a></p>
 <a class="btn btn-primary" href="https://service04.ru/master" style="color: #ffffff;">Вызвать мастера</a>  </div>
 </div>
 <figure></figure>
@@ -15,7 +15,7 @@ title: 'Bez nazvaniya'
 </div>
 <p><a class="btn btn-primary" href="#h_502932282121696497228452">Гарантия</a> <a class="btn btn-primary" href="#h_8863801872641696497348438">Задать вопрос</a> <a class="btn btn-primary" href="#h_9363462084621696497400302">Зона обслуживания </a>  </p>
 <div class="row">
-<div class="col-md-4"><img src="electrolux1.jpg" alt="Electrolux1" class="img-fluid" width="368" height="500"><img src="Electrolux100.jpg" width="100%" alt=""></div>
+<div class="col-md-4"><img src="/blog/remont-kotlov-electorux-fsb/electrolux1.jpg" alt="Electrolux1" class="img-fluid" width="368" height="500"><img src="/blog/remont-kotlov-electorux-fsb/Electrolux100.jpg" width="100%" alt=""></div>
 <div class="col-md-8">
 <h3>Почему выбирают нас?</h3>
 <ol>
@@ -50,7 +50,7 @@ title: 'Bez nazvaniya'
 <h4>Почему важно регулярно обслуживать котел Electrolux FSB P?</h4>
 <p>Регулярное обслуживание котла позволяет поддерживать его в отличной работоспособности и продлевать срок службы. Это также помогает избегать неожиданных поломок и снижает риск возгорания и других опасных ситуаций.</p>
 <p>Если у вас возникли проблемы с котлом Electrolux FSB P или вам нужна профессиональная помощь, не стесняйтесь обращаться к нам. Мы гарантируем быстрое реагирование, высокое качество обслуживания и доступные цены. Сделайте ваш комфорт и безопасность нашим приоритетом. Обратитесь к нам сегодня и дайте вашему котлу Electrolux FSB P второй шанс на долгую и надежную службу. Наши специалисты всегда готовы помочь вам!</p>
-<p><img src="electrolux12.jpg" width="357" height="422" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><img src="/blog/remont-kotlov-electorux-fsb/electrolux12.jpg" width="357" height="422" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
 <h4 id="h_502932282121696497228452">Гарантия:</h4>
 <p>Мы предоставляем гарантию на все выполненные работы и установленные запчасти от 6 мес.  Мы стремимся к полной удовлетворенности клиентов и готовы решить любые возникающие проблемы после ремонта.</p>
 <h5 id="h_8863801872641696497348438">Свяжитесь с нами:</h5>
@@ -64,7 +64,7 @@ title: 'Bez nazvaniya'
 <p><span style="color: #e03e2d;"><span style="font-weight: bolder;">СНИЖЕНИЕ ЦЕН НА РЕМОНТ КОТЛОВ.</span></span></p>
 <p><span style="color: #e03e2d;"><span style="font-weight: bolder;">ДИАГНОСТИКА+РЕМОНТ  4600 руб. !!! Выезд 50руб/км !!!</span></span></p>
 <p><a class="btn btn-primary" href="https://service04.ru/master" style="color: #ffffff;">Вызвать мастера</a></p>
-<p><img src="Kotelariston(4)(1).jpg" alt="" style="background-color: #ffffff;"></p>
+<p><img src="/blog/remont-kotlov-electorux-fsb/Kotelariston(4)(1).jpg" alt="" style="background-color: #ffffff;"></p>
 </div>
 </div>
 </div>

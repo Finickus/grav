@@ -8,7 +8,7 @@ title: 'Почему выбирают нас?'
 <div class="col-md-12 border bg-light py-5">
 <p class="lead text-justify">Добро пожаловать на нашу страницу, посвященную ремонту котлов Protherm! Мы являемся специалистами по ремонту и обслуживанию котлов этого популярного бренда. Наша команда профессиональных техников имеет обширный опыт в ремонте котлов Protherm.</p>
 <p class="lead text-justify">Мы предлагаем качественный ремонт, осуществляемый опытными специалистами, которые знают все особенности и технические характеристики котлов Protherm. Мы решаем любые проблемы с котлами, будь то поломки, утечки, проблемы с электричеством или любые другие неисправности.</p>
-<p class="lead text-justify"><a href="https://tlgg.ru/GazService04" target="_blank" rel="noopener" style="color: #007bff; background-color: #ffffff; font-size: 16px; text-align: left;"><img src="telega.svg" width="40" height="40" alt=""></a><a href="https://wa.me/79262211348?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5,%20%D0%A3%20%D0%BC%D0%B5%D0%BD%D1%8F%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D1%83" target="_blank" rel="noopener" style="color: #007bff; background-color: #ffffff; font-size: 16px; text-align: left;"><img src="whatsapp.svg" width="40" height="40" alt=""></a><a href="https://vk.com/service_04" target="_blank" rel="noopener" style="color: #007bff; background-color: #ffffff; font-size: 16px; text-align: left;"><img src="vk122.svg" width="40" height="40" alt=""></a></p>
+<p class="lead text-justify"><a href="https://tlgg.ru/GazService04" target="_blank" rel="noopener" style="color: #007bff; background-color: #ffffff; font-size: 16px; text-align: left;"><img src="/blog/remont-kotlov-protherm/telega.svg" width="40" height="40" alt=""></a><a href="https://wa.me/79262211348?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5,%20%D0%A3%20%D0%BC%D0%B5%D0%BD%D1%8F%20%D0%B2%D0%BE%D0%BF%D1%80%D0%BE%D1%81%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D1%83" target="_blank" rel="noopener" style="color: #007bff; background-color: #ffffff; font-size: 16px; text-align: left;"><img src="/blog/remont-kotlov-protherm/whatsapp.svg" width="40" height="40" alt=""></a><a href="https://vk.com/service_04" target="_blank" rel="noopener" style="color: #007bff; background-color: #ffffff; font-size: 16px; text-align: left;"><img src="/blog/remont-kotlov-protherm/vk122.svg" width="40" height="40" alt=""></a></p>
 <a class="btn btn-primary" href="https://service04.ru/master">Вызвать мастера</a>  </div>
 </div>
 <figure></figure>
@@ -23,12 +23,12 @@ title: 'Почему выбирают нас?'
 
 </div>
 <div class="col-md-6">
-<p><img src="Screenshot_178(2).jpg" alt=""></p>
+<p><img src="/blog/remont-kotlov-protherm/Screenshot_178(2).jpg" alt=""></p>
 </div>
 </div>
 <h3></h3>
 <div class="row shadow-sm">
-<div class="col-md-4"><img src="logo-prot.jpg" width="100%" height="" alt=""><img src="Screenshot_176(2).jpg" alt="" width="100%"></div>
+<div class="col-md-4"><img src="/blog/remont-kotlov-protherm/logo-prot.jpg" width="100%" height="" alt=""><img src="/blog/remont-kotlov-protherm/Screenshot_176(2).jpg" alt="" width="100%"></div>
 <div class="col-md-8">
 
 <ul>
@@ -177,5 +177,5 @@ title: 'Почему выбирают нас?'
 </div>
 </div>
 <aside id="left">
-<div><nav><img src="KotelProtherm(1).jpg" alt=""></nav></div>
+<div><nav><img src="/blog/remont-kotlov-protherm/KotelProtherm(1).jpg" alt=""></nav></div>
 </aside>

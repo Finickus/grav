@@ -23,23 +23,23 @@ title: 'Теплообменник для колонки Нева'
 <div class="row g-3 is-centered">
 <div class="col is-one-quarter-desktop is-half-tablet text-center mb-5">
 <h6 class="h6 mb-2">NEVA-4011</h6>
-<figure class="image is-192x192 mx-auto"><img src="NEVA-4011-8d4e44ba.png" alt="Теплообменник для колонки Нева NEVA-4011"></figure>
+<figure class="image is-192x192 mx-auto"><img src="/blog/teploobmennik-dlja-kolonki-neva/NEVA-4011-8d4e44ba.png" alt="Теплообменник для колонки Нева NEVA-4011"></figure>
 </div>
 <div class="col is-one-quarter-desktop is-half-tablet text-center mb-5">
 <h6 class="h6 mb-2">NEVA-4510</h6>
-<figure class="image is-192x192 mx-auto"><img src="NEVA-4510-4c81f618.png" alt="Теплообменник для колонки Нева NEVA-4510"></figure>
+<figure class="image is-192x192 mx-auto"><img src="/blog/teploobmennik-dlja-kolonki-neva/NEVA-4510-4c81f618.png" alt="Теплообменник для колонки Нева NEVA-4510"></figure>
 </div>
 <div class="col is-one-quarter-desktop is-half-tablet text-center mb-5">
 <h6 class="h6 mb-2">NEVA-4510m</h6>
-<figure class="image is-192x192 mx-auto"><img src="NEVA-4510m-d075ccfd.png" alt="Теплообменник для колонки Нева NEVA-4510m"></figure>
+<figure class="image is-192x192 mx-auto"><img src="/blog/teploobmennik-dlja-kolonki-neva/NEVA-4510m-d075ccfd.png" alt="Теплообменник для колонки Нева NEVA-4510m"></figure>
 </div>
 <div class="col is-one-quarter-desktop is-half-tablet text-center mb-5">
 <h6 class="h6 mb-2">NEVA-4511</h6>
-<figure class="image is-192x192 mx-auto"><img src="NEVA-4511-f7dd8d1c.png" alt="Теплообменник для колонки Нева NEVA-4511"></figure>
+<figure class="image is-192x192 mx-auto"><img src="/blog/teploobmennik-dlja-kolonki-neva/NEVA-4511-f7dd8d1c.png" alt="Теплообменник для колонки Нева NEVA-4511"></figure>
 </div>
 <div class="col is-one-quarter-desktop is-half-tablet text-center mb-5">
 <h6 class="h6 mb-2">NEVA-4610</h6>
-<figure class="image is-192x192 mx-auto"><img src="NEVA-4610-d58e73bd.png" alt="Теплообменник для колонки Нева NEVA-4610"></figure>
+<figure class="image is-192x192 mx-auto"><img src="/blog/teploobmennik-dlja-kolonki-neva/NEVA-4610-d58e73bd.png" alt="Теплообменник для колонки Нева NEVA-4610"></figure>
 </div>
 <div class="col is-one-quarter-desktop is-half-tablet text-center mb-5">
 <h6 class="h6 mb-2">NEVALUX-5111</h6>

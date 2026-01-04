@@ -7,7 +7,7 @@ title: 'Bez nazvaniya'
 <div class="col-md-6">
 <p>Оригинальные запасные части – это гарантия качественного ремонта котельного оборудования от известного производителя Protherm. В обширном каталоге можно быстро подобрать и выгодно купить запасные части, модули, платы, детали и расходные материалы для всех типов котлов – напольных и настенных, газовых, электрических и твердотопливных.</p>
 </div>
-<div class="col-md-6"><img src="zapchasti_prptherm1-c4227dfc.png" alt=""></div>
+<div class="col-md-6"><img src="/blog/zapchasti-dlja-kotlov-protherm/zapchasti_prptherm1-c4227dfc.png" alt=""></div>
 </div>
 </figure>
 <p>Для выполнения ремонта или поточного технического обслуживания можно подобрать и приобрести запчасти, которые поставляются напрямую со складов производителя в Словакии:</p>
@@ -24,7 +24,7 @@ title: 'Bez nazvaniya'
 <p>В нашем магазине мы предлагаем только оригинальные запчасти Protherm, которые идеально подходят для вашей системы отопления. У нас вы найдете все необходимое для ремонта и обслуживания котлов: от теплообменников и насосов до датчиков и элементов управления.</p>
 <p>Покупая оригинальные запчасти Protherm у нас, вы можете быть уверены в их качестве и долговечности. Все запчасти проходят строгий контроль качества и соответствуют высоким стандартам производителя.</p>
 <div class="row">
-<div class="col-md-4"><a href="https://service04.ru/bl-content/uploads/doc/katalog_protherm.pdf" target="_blank" rel="noopener"><img src="Screenshot_312.jpg" alt=""></a></div>
+<div class="col-md-4"><a href="https://service04.ru/bl-content/uploads/doc/katalog_protherm.pdf" target="_blank" rel="noopener"><img src="/blog/zapchasti-dlja-kotlov-protherm/Screenshot_312.jpg" alt=""></a></div>
 <div class="col-md-8">
 <p>Не нашли необходимую детали или запасную часть? Оставьте заявку – доставка запчастей, деталей для котлов Protherm будет выполнена в кратчайшие сроки!</p>
 </div>
@@ -32,4 +32,4 @@ title: 'Bez nazvaniya'
 <p></p>
 <p>Не забывайте, что своевременная замена изношенных запчастей поможет продлить срок службы вашего котла и сэкономить на ремонте. Наши специалисты всегда готовы помочь вам с выбором необходимых запчастей и дать рекомендации по их замене.</p>
 <p>Так что если ваш котел Protherm нуждается в замене запчастей, не откладывайте это на потом. Загляните в наш магазин и найдите все необходимое для его ремонта.</p>
-<p><img src="zapchasti_protherm(1).jpg" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><img src="/blog/zapchasti-dlja-kotlov-protherm/zapchasti_protherm(1).jpg" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>

@@ -18,7 +18,7 @@ title: 'Теплообменник Vaillant 19-2 XZ, MAG 11-0/0 XZ C+'
 <div class="card mt-4">
 <div class="row is-variable is-6">
 <div class="col-6 text-center">
-<figure class="image"><img src="1-1db02626.jpg" alt="Теплообменник Vaillant" style="max-height: 400px; object-fit: contain;"></figure>
+<figure class="image"><img src="/blog/teploobmennik-vaillant-192-xz/1-1db02626.jpg" alt="Теплообменник Vaillant" style="max-height: 400px; object-fit: contain;"></figure>
 </div>
 <div class="col-6">
 <h5 class="h5">Описание</h5>

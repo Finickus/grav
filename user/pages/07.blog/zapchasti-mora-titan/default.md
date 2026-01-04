@@ -19,19 +19,19 @@ title: 'Запчасти для котла Mora Titan'
             <div class="row g-4 text-center">
                 <div class="col-md-4">
                     <figure class="figure">
-                        <img src="2018-03-05_233919.jpg" alt="Mora Titan" class="figure-img img-fluid rounded shadow-sm border">
+                        <img src="/blog/zapchasti-mora-titan/2018-03-05_233919.jpg" alt="Mora Titan" class="figure-img img-fluid rounded shadow-sm border">
                         <figcaption class="figure-caption mt-2">Mora Titan</figcaption>
                     </figure>
                 </div>
                 <div class="col-md-4">
                     <figure class="figure">
-                        <img src="2018-03-05_233945.jpg" alt="Запчасти мора титан" class="figure-img img-fluid rounded shadow-sm border">
+                        <img src="/blog/zapchasti-mora-titan/2018-03-05_233945.jpg" alt="Запчасти мора титан" class="figure-img img-fluid rounded shadow-sm border">
                         <figcaption class="figure-caption mt-2">Запчасти Mora Titan</figcaption>
                     </figure>
                 </div>
                 <div class="col-md-4">
                     <figure class="figure">
-                        <img src="2018-03-05_234007.jpg" alt="Схема запчастей Mora Titan" class="figure-img img-fluid rounded shadow-sm border">
+                        <img src="/blog/zapchasti-mora-titan/2018-03-05_234007.jpg" alt="Схема запчастей Mora Titan" class="figure-img img-fluid rounded shadow-sm border">
                         <figcaption class="figure-caption mt-2">Схема запчастей Mora Titan</figcaption>
                     </figure>
                 </div>

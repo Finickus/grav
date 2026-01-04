@@ -42,7 +42,7 @@ title: 'Настенные газовые котлы Baxi'
 <p>Площадь обогрева — до 310–330 м².</p>
 </div>
 <div class="col-4 text-center">
-<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="full_LUNA-3-Comfort-COMBI.jpg" alt="LUNA-3 Comfort COMBI"></figure>
+<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="/blog/nastennye-kotly-baxi/full_LUNA-3-Comfort-COMBI.jpg" alt="LUNA-3 Comfort COMBI"></figure>
 </div>
 </div>
 <div class="row align-items-center is-variable is-6 mb-5">
@@ -53,7 +53,7 @@ title: 'Настенные газовые котлы Baxi'
 <p>Площадь обогрева — 30–300 м².</p>
 </div>
 <div class="col-4 text-center">
-<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="luna_silver.jpg" alt="LUNA-3 SilverSpace"></figure>
+<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="/blog/nastennye-kotly-baxi/luna_silver.jpg" alt="LUNA-3 SilverSpace"></figure>
 </div>
 </div>
 <div class="row align-items-center is-variable is-6 mb-5">
@@ -64,7 +64,7 @@ title: 'Настенные газовые котлы Baxi'
 <p>Площадь обогрева — 30–240 м².</p>
 </div>
 <div class="col-4 text-center">
-<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="nuvola_comfort_2.jpg" alt="NUVOLA-3 Comfort"></figure>
+<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="/blog/nastennye-kotly-baxi/nuvola_comfort_2.jpg" alt="NUVOLA-3 Comfort"></figure>
 </div>
 </div>
 <div class="row align-items-center is-variable is-6 mb-5">
@@ -75,7 +75,7 @@ title: 'Настенные газовые котлы Baxi'
 <p>Площадь обогрева — до 310 м².</p>
 </div>
 <div class="col-4 text-center">
-<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="NUVOLA-3-B40.png" alt="NUVOLA-3 B40"></figure>
+<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="/blog/nastennye-kotly-baxi/NUVOLA-3-B40.png" alt="NUVOLA-3 B40"></figure>
 </div>
 </div>
 <div class="row align-items-center is-variable is-6 mb-5">
@@ -86,7 +86,7 @@ title: 'Настенные газовые котлы Baxi'
 <p>Площадь обогрева — 30–330 м².</p>
 </div>
 <div class="col-4 text-center">
-<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="ECOFour.jpg" alt="ECOFour"></figure>
+<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="/blog/nastennye-kotly-baxi/ECOFour.jpg" alt="ECOFour"></figure>
 </div>
 </div>
 <div class="row align-items-center is-variable is-6 mb-5">
@@ -97,7 +97,7 @@ title: 'Настенные газовые котлы Baxi'
 <p>Площадь обогрева — 30–240 м².</p>
 </div>
 <div class="col-4 text-center">
-<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="ECO-5-Compact.png" alt="ECO-5 Compact"></figure>
+<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="/blog/nastennye-kotly-baxi/ECO-5-Compact.png" alt="ECO-5 Compact"></figure>
 </div>
 </div>
 <div class="row align-items-center is-variable is-6 mb-5">
@@ -110,7 +110,7 @@ title: 'Настенные газовые котлы Baxi'
 </ul>
 </div>
 <div class="col-4 text-center">
-<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="MAINFour.png" alt="MAIN Four"></figure>
+<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="/blog/nastennye-kotly-baxi/MAINFour.png" alt="MAIN Four"></figure>
 </div>
 </div>
 <div class="row align-items-center is-variable is-6 mb-5">
@@ -120,7 +120,7 @@ title: 'Настенные газовые котлы Baxi'
 <p>Площадь обогрева — до 240 м².</p>
 </div>
 <div class="col-4 text-center">
-<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="main_5.jpg" alt="MAIN-5"></figure>
+<figure class="image is-inline-block" style="max-width: 100%; border: 1px solid #ddd;"><img src="/blog/nastennye-kotly-baxi/main_5.jpg" alt="MAIN-5"></figure>
 </div>
 </div>
 <div class="row align-items-center is-variable is-6 mb-5">

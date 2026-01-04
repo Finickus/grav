@@ -33,7 +33,7 @@ title: 'Запчасти для котлов Buderus (Будерус)'
 <div class="row g-3"><!-- Электронная плата -->
 <div class="col-md-12 is-6-desktop is-4-widescreen">
 <div class="card shadow">
-<figure class="image is-200x200 mx-auto mb-3"><img src="20141127_142701.jpg" alt="Электронная плата настенного котла Buderus"></figure>
+<figure class="image is-200x200 mx-auto mb-3"><img src="/blog/zapchast-buderus/20141127_142701.jpg" alt="Электронная плата настенного котла Buderus"></figure>
 <h5 class="h5">Электронная плата</h5>
 <p class="fs-6">— Logamax U044</p>
 <p class="fs-6"><strong>Артикул 87160136470, 87376004940</strong></p>
@@ -42,7 +42,7 @@ title: 'Запчасти для котлов Buderus (Будерус)'
 <!-- Плата управления -->
 <div class="col-md-12 is-6-desktop is-4-widescreen">
 <div class="card shadow">
-<figure class="image is-200x200 mx-auto mb-3"><img src="20141127_142633.jpg" alt="Плата управления настенного котла Buderus"></figure>
+<figure class="image is-200x200 mx-auto mb-3"><img src="/blog/zapchast-buderus/20141127_142633.jpg" alt="Плата управления настенного котла Buderus"></figure>
 <h5 class="h5">Плата управления</h5>
 <p class="fs-6">— Logamax U042 LED</p>
 <p class="fs-6"><strong>Артикул 87186401190</strong></p>
@@ -51,7 +51,7 @@ title: 'Запчасти для котлов Buderus (Будерус)'
 <!-- Газовая арматура -->
 <div class="col-md-12 is-6-desktop is-4-widescreen">
 <div class="card shadow">
-<figure class="image is-200x200 mx-auto mb-3"><img src="20141127_142720.jpg" alt="Газовая арматура для настенных газовых котлов Buderus"></figure>
+<figure class="image is-200x200 mx-auto mb-3"><img src="/blog/zapchast-buderus/20141127_142720.jpg" alt="Газовая арматура для настенных газовых котлов Buderus"></figure>
 <h5 class="h5">Газовая арматура</h5>
 <p class="fs-6">— Logamax U052 24-28 кВт<br>— Logamax U054 24-28 кВт</p>
 <p class="fs-6"><strong>Артикул 19928644</strong></p>
@@ -60,7 +60,7 @@ title: 'Запчасти для котлов Buderus (Будерус)'
 <!-- Датчик протока -->
 <div class="col-md-12 is-6-desktop is-4-widescreen">
 <div class="card shadow">
-<figure class="image is-200x200 mx-auto mb-3"><img src="20141127_142749.jpg" alt="Датчик протока настенного котла Buderus"></figure>
+<figure class="image is-200x200 mx-auto mb-3"><img src="/blog/zapchast-buderus/20141127_142749.jpg" alt="Датчик протока настенного котла Buderus"></figure>
 <h5 class="h5">Датчик протока</h5>
 <p class="fs-6">— Logamax U052(054) 24K</p>
 <p class="fs-6"><strong>Артикул 87182234430</strong></p>
@@ -69,7 +69,7 @@ title: 'Запчасти для котлов Buderus (Будерус)'
 <!-- Кран подпитки -->
 <div class="col-md-12 is-6-desktop is-4-widescreen">
 <div class="card shadow">
-<figure class="image is-200x200 mx-auto mb-3"><img src="20141127_142756.jpg" alt="кран подпитки настенного котла Buderus"></figure>
+<figure class="image is-200x200 mx-auto mb-3"><img src="/blog/zapchast-buderus/20141127_142756.jpg" alt="кран подпитки настенного котла Buderus"></figure>
 <h5 class="h5">Кран подпитки</h5>
 <p class="fs-6">— Logamax U052 24-28K<br>— Logamax U054 24-28K</p>
 <p class="fs-6"><strong>Артикул 19928637</strong></p>
@@ -78,7 +78,7 @@ title: 'Запчасти для котлов Buderus (Будерус)'
 <!-- Вентилятор -->
 <div class="col-md-12 is-6-desktop is-4-widescreen">
 <div class="card shadow">
-<figure class="image is-200x200 mx-auto mb-3"><img src="20141127_142829.jpg" alt="Вентилятор для настенного котла Buderus"></figure>
+<figure class="image is-200x200 mx-auto mb-3"><img src="/blog/zapchast-buderus/20141127_142829.jpg" alt="Вентилятор для настенного котла Buderus"></figure>
 <h5 class="h5">Вентилятор</h5>
 <p class="fs-6">— Logamax U042 24K</p>
 <p class="fs-6"><strong>Артикул 87160121310</strong></p>
@@ -87,7 +87,7 @@ title: 'Запчасти для котлов Buderus (Будерус)'
 <!-- Пневмореле -->
 <div class="col-md-12 is-6-desktop is-4-widescreen">
 <div class="" card="" shadow="">
-<figure class="image is-200x200 mx-auto mb-3"><img src="20141127_142934.jpg" alt="Пневмореле настенного котла Buderus"></figure>
+<figure class="image is-200x200 mx-auto mb-3"><img src="/blog/zapchast-buderus/20141127_142934.jpg" alt="Пневмореле настенного котла Buderus"></figure>
 <h5 class="h5">Пневмореле</h5>
 <p class="fs-6">— Logamax U042 24K</p>
 <p class="fs-6"><strong>Артикул 87160112910</strong></p>
@@ -96,7 +96,7 @@ title: 'Запчасти для котлов Buderus (Будерус)'
 <!-- Температурный датчик -->
 <div class="col-md-12 is-6-desktop is-4-widescreen">
 <div class="card shadow">
-<figure class="image is-200x200 mx-auto mb-3"><img src="20141127_142918.jpg" alt="Tемпературный датчик настенного котла Buderus"></figure>
+<figure class="image is-200x200 mx-auto mb-3"><img src="/blog/zapchast-buderus/20141127_142918.jpg" alt="Tемпературный датчик настенного котла Buderus"></figure>
 <h5 class="h5">Температурный датчик</h5>
 <p class="fs-6">— Logamax U042 24кВт<br>— Logamax U044 24кВт</p>
 <p class="fs-6"><strong>Артикул 87160108090</strong></p>
@@ -114,7 +114,7 @@ title: 'Запчасти для котлов Buderus (Будерус)'
 <!-- Насос -->
 <div class="col-md-12 is-6-desktop is-4-widescreen">
 <div class="card shadow">
-<figure class="image is-200x200 mx-auto mb-3"><img src="20141127_142844.jpg" alt="Насос настенного котла Buderus"></figure>
+<figure class="image is-200x200 mx-auto mb-3"><img src="/blog/zapchast-buderus/20141127_142844.jpg" alt="Насос настенного котла Buderus"></figure>
 <h5 class="h5">Насос</h5>
 <p class="fs-6">— Logamax U052 24-28K<br>— Logamax U054 24(K)<br>— Logamax U042(44) 24K</p>
 <p class="fs-6"><strong>Артикул 19928656</strong></p>
@@ -144,7 +144,7 @@ title: 'Запчасти для котлов Buderus (Будерус)'
 <p class="mb-0">Возникли проблемы с подбором запчастей и деталей? Не знаете, какие блоки или насосы подобрать к используемой модификации котла? <strong>Свяжитесь с нашими специалистами!</strong> Опытные инженеры подберут нужные запчасти, предложат несколько вариантов деталей по неизменно доступной стоимости.</p>
 </div>
 <div class="text-center mt-5">
-<figure class="image is-inline-block"><img src="e28473d83b264527636f57b9c31d1db6.png" alt="панель котла будерус" style="border: 1px solid #dbdbdb;"></figure>
+<figure class="image is-inline-block"><img src="/blog/zapchast-buderus/e28473d83b264527636f57b9c31d1db6.png" alt="панель котла будерус" style="border: 1px solid #dbdbdb;"></figure>
 </div>
 </div>
 <!-- Контакты -->

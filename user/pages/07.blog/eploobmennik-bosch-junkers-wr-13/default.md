@@ -16,7 +16,7 @@ title: 'Теплообменник Bosch Junkers WR 13'
 <h3 class="h5 mb-0"><i class="fas fa-info-circle me-2"></i>Описание продукта</h3>
 </div>
 <p class="h5 lead">Теплообменник Bosch Junkers WR 13 – это ключевой элемент газовых котлов и водонагревателей Bosch и Junkers, обеспечивающий передачу тепла от сгорания газа к теплоносителю (воде). Он изготавливается из высококачественной меди или нержавеющей стали, что гарантирует долговечность и эффективную работу даже при интенсивной эксплуатации.</p>
-<figure class="image is-3by2 mb-4"><img src="bosch-13-1.jpg" alt="Теплообменник Bosch WR 13" style="border: 1px solid #ddd;"></figure>
+<figure class="image is-3by2 mb-4"><img src="/blog/eploobmennik-bosch-junkers-wr-13/bosch-13-1.jpg" alt="Теплообменник Bosch WR 13" style="border: 1px solid #ddd;"></figure>
 <div class="notification is-info">
 <h5 class="h6"><i class="fas fa-fire me-2"></i>Особенности нашего теплообменника:</h5>
 <div class="row is-variable is-6">

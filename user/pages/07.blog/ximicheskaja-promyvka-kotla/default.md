@@ -16,7 +16,7 @@ title: 'Почему химическая чистка важна:'
 <p>Эти отложения ухудшают теплопередачу, вызывают перегрев оборудования и могут привести к серьёзным поломкам. Регулярная химическая чистка предотвращает эти проблемы и обеспечивает эффективную работу котла.</p>
 </div>
 <div class="col text-center">
-<figure class="image"><img src="him01.jpg" alt="Важность чистки теплообменника" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/ximicheskaja-promyvka-kotla/him01.jpg" alt="Важность чистки теплообменника" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 </div>
 <!-- Преимущества -->

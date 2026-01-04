@@ -7,7 +7,7 @@ title: 'TG200 Регулируемый термостат, настраивае�
 
 <div class="row align-items-center is-multiline">
 <div class="col-4 text-center">
-<figure class="image is-inline-block"><a href="https://boilererror.ru/wp-content/uploads/2019/12/2018-03-14_235250.png" target="_blank" rel="noopener"> <img src="2018-03-14_235250-d6de93d4.png" alt="TG200 Регулируемый термостат, настраиваемый с помощью отвертки" class="has-border-light"> </a></figure>
+<figure class="image is-inline-block"><a href="https://boilererror.ru/wp-content/uploads/2019/12/2018-03-14_235250.png" target="_blank" rel="noopener"> <img src="/blog/tg200-reguliruemyj-termostat-nastrajvaemyj-s-pomoschju-otvertki/2018-03-14_235250-d6de93d4.png" alt="TG200 Регулируемый термостат, настраиваемый с помощью отвертки" class="has-border-light"> </a></figure>
 </div>
 <div class="col is-two-thirds content">
 <p>TG200 — это **регулируемый термостат**, настройка которого производится **с помощью отвертки**.</p>

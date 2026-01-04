@@ -38,7 +38,7 @@ title: 'Запчасти для котлов Mora'
         </div>
         <div class="col-md-4 text-center">
             <a href="#modal-img-parts" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-parts">
-                <img src="zapchasti111.jpg" class="img-fluid rounded shadow-lg" alt="Запчасти для котлов Mora">
+                <img src="/zapchasti/mora/zapchasti-dlya-kotlov-mora/zapchasti111.jpg" class="img-fluid rounded shadow-lg" alt="Запчасти для котлов Mora">
             </a>
         </div>
     </div>
@@ -150,7 +150,7 @@ title: 'Запчасти для котлов Mora'
 
     <div class="text-center mb-5">
         <a href="#modal-img-bottom" class="lightbox-trigger d-inline-block" data-bs-toggle="modal" data-bs-target="#modal-img-bottom">
-            <img src="zapchasti_mora(1).jpg" alt="Запчасти Mora в наличии" class="img-fluid rounded shadow-lg">
+            <img src="/zapchasti/mora/zapchasti-dlya-kotlov-mora/zapchasti_mora(1).jpg" alt="Запчасти Mora в наличии" class="img-fluid rounded shadow-lg">
         </a>
     </div>
 
@@ -158,7 +158,7 @@ title: 'Запчасти для котлов Mora'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="zapchasti111.jpg" class="img-fluid rounded" alt="Запчасти для котлов Mora" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/zapchasti/mora/zapchasti-dlya-kotlov-mora/zapchasti111.jpg" class="img-fluid rounded" alt="Запчасти для котлов Mora" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -167,7 +167,7 @@ title: 'Запчасти для котлов Mora'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="zapchasti_mora(1).jpg" class="img-fluid rounded" alt="Запчасти Mora в наличии" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/zapchasti/mora/zapchasti-dlya-kotlov-mora/zapchasti_mora(1).jpg" class="img-fluid rounded" alt="Запчасти Mora в наличии" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

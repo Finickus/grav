@@ -32,7 +32,7 @@ title: Kospel
             <div class="col-md-6 text-center">
                 <figure class="figure mb-0">
                     <a href="#modal-main" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-main">
-                        <img src="EKCO_service04.ru_.jpg" alt="Запчасти для электрокотлов Kospel" class="img-fluid rounded shadow">
+                        <img src="/zapchasti/kospel/EKCO_service04.ru_.jpg" alt="Запчасти для электрокотлов Kospel" class="img-fluid rounded shadow">
                     </a>
                 </figure>
             </div>
@@ -87,14 +87,14 @@ title: Kospel
             <div class="col-md-6 mb-3">
                 <figure class="figure mx-auto" style="width: 200px; height: 200px;">
                     <a href="#modal-power-1" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-power-1">
-                        <img src="kospel-4-1.png" alt="Узел мощности коспел" class="img-fluid">
+                        <img src="/zapchasti/kospel/kospel-4-1.png" alt="Узел мощности коспел" class="img-fluid">
                     </a>
                 </figure>
             </div>
             <div class="col-md-6 mb-3">
                 <figure class="figure mx-auto" style="width: 200px; height: 200px;">
                     <a href="#modal-power-2" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-power-2">
-                        <img src="kospel-2.png" alt="Узел мощности Kospel" class="img-fluid">
+                        <img src="/zapchasti/kospel/kospel-2.png" alt="Узел мощности Kospel" class="img-fluid">
                     </a>
                 </figure>
             </div>
@@ -125,14 +125,14 @@ title: Kospel
             <div class="col-md-6 mb-3">
                 <figure class="figure mx-auto" style="width: 200px; height: 200px;">
                     <a href="#modal-panel-1" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-panel-1">
-                        <img src="kospel-3.png" alt="Kospel Панель управления" class="img-fluid">
+                        <img src="/zapchasti/kospel/kospel-3.png" alt="Kospel Панель управления" class="img-fluid">
                     </a>
                 </figure>
             </div>
             <div class="col-md-6 mb-3">
                 <figure class="figure mx-auto" style="width: 200px; height: 200px;">
                     <a href="#modal-panel-2" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-panel-2">
-                        <img src="kospel-4.png" alt="Kospel Платы управления" class="img-fluid">
+                        <img src="/zapchasti/kospel/kospel-4.png" alt="Kospel Платы управления" class="img-fluid">
                     </a>
                 </figure>
             </div>
@@ -160,21 +160,21 @@ title: Kospel
             <div class="col-md-4 mb-3">
                 <figure class="figure mx-auto" style="width: 150px; height: 150px;">
                     <a href="#modal-sensor-1" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-sensor-1">
-                        <img src="kospel-5.png" alt="Kospel Датчики турбинка протока" class="img-fluid">
+                        <img src="/zapchasti/kospel/kospel-5.png" alt="Kospel Датчики турбинка протока" class="img-fluid">
                     </a>
                 </figure>
             </div>
             <div class="col-md-4 mb-3">
                 <figure class="figure mx-auto" style="width: 150px; height: 150px;">
                     <a href="#modal-sensor-2" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-sensor-2">
-                        <img src="kospel-11.png" alt="Kospel Датчики температуры" class="img-fluid">
+                        <img src="/zapchasti/kospel/kospel-11.png" alt="Kospel Датчики температуры" class="img-fluid">
                     </a>
                 </figure>
             </div>
             <div class="col-md-4 mb-3">
                 <figure class="figure mx-auto" style="width: 150px; height: 150px;">
                     <a href="#modal-sensor-3" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-sensor-3">
-                        <img src="kospel-10.png" alt="Kospel Манометр" class="img-fluid">
+                        <img src="/zapchasti/kospel/kospel-10.png" alt="Kospel Манометр" class="img-fluid">
                     </a>
                 </figure>
             </div>
@@ -203,7 +203,7 @@ title: Kospel
         <div class="text-center mb-4">
             <figure class="figure mx-auto" style="width: 200px; height: 200px;">
                 <a href="#modal-heating-1" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-heating-1">
-                    <img src="kospel-6.png" alt="Kospel Нагревательный элемент" class="img-fluid border">
+                    <img src="/zapchasti/kospel/kospel-6.png" alt="Kospel Нагревательный элемент" class="img-fluid border">
                 </a>
             </figure>
         </div>
@@ -235,14 +235,14 @@ title: Kospel
             <div class="col-md-6 mb-3">
                 <figure class="figure mx-auto" style="width: 150px; height: 150px;">
                     <a href="#modal-pump-1" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-pump-1">
-                        <img src="kospel-7.png" alt="Kospel Насос" class="img-fluid">
+                        <img src="/zapchasti/kospel/kospel-7.png" alt="Kospel Насос" class="img-fluid">
                     </a>
                 </figure>
             </div>
             <div class="col-md-6 mb-3">
                 <figure class="figure mx-auto" style="width: 150px; height: 150px;">
                     <a href="#modal-pump-2" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-pump-2">
-                        <img src="kospel-8.png" alt="Kospel Ограничители температуры" class="img-fluid">
+                        <img src="/zapchasti/kospel/kospel-8.png" alt="Kospel Ограничители температуры" class="img-fluid">
                     </a>
                 </figure>
             </div>
@@ -270,21 +270,21 @@ title: Kospel
             <div class="col-md-4 mb-3">
                 <figure class="figure mx-auto" style="width: 150px; height: 150px;">
                     <a href="#modal-water-1" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-water-1">
-                        <img src="kospel-9.png" alt="Kospel Водные узлы" class="img-fluid">
+                        <img src="/zapchasti/kospel/kospel-9.png" alt="Kospel Водные узлы" class="img-fluid">
                     </a>
                 </figure>
             </div>
             <div class="col-md-4 mb-3">
                 <figure class="figure mx-auto" style="width: 150px; height: 150px;">
                     <a href="#modal-water-2" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-water-2">
-                        <img src="kospel-12.png" alt="Kospel Автоматический воздухоотводчик" class="img-fluid">
+                        <img src="/zapchasti/kospel/kospel-12.png" alt="Kospel Автоматический воздухоотводчик" class="img-fluid">
                     </a>
                 </figure>
             </div>
             <div class="col-md-4 mb-3">
                 <figure class="figure mx-auto" style="width: 150px; height: 150px;">
                     <a href="#modal-water-3" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-water-3">
-                        <img src="kospel-10.png" alt="Kospel Манометр" class="img-fluid">
+                        <img src="/zapchasti/kospel/kospel-10.png" alt="Kospel Манометр" class="img-fluid">
                     </a>
                 </figure>
             </div>
@@ -325,7 +325,7 @@ title: Kospel
                     <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
                 </div>
                 <div class="modal-body p-0 text-center">
-                    <img src="EKCO_service04.ru_.jpg" class="img-fluid rounded" alt="Запчасти для электрокотлов Kospel" style="max-height: 90vh;">
+                    <img src="/zapchasti/kospel/EKCO_service04.ru_.jpg" class="img-fluid rounded" alt="Запчасти для электрокотлов Kospel" style="max-height: 90vh;">
                 </div>
             </div>
         </div>
@@ -335,7 +335,7 @@ title: Kospel
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="kospel-4-1.png" class="img-fluid rounded" alt="Узел мощности коспел" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/zapchasti/kospel/kospel-4-1.png" class="img-fluid rounded" alt="Узел мощности коспел" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -343,7 +343,7 @@ title: Kospel
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="kospel-2.png" class="img-fluid rounded" alt="Узел мощности Kospel" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/zapchasti/kospel/kospel-2.png" class="img-fluid rounded" alt="Узел мощности Kospel" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -352,7 +352,7 @@ title: Kospel
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="kospel-3.png" class="img-fluid rounded" alt="Kospel Панель управления" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/zapchasti/kospel/kospel-3.png" class="img-fluid rounded" alt="Kospel Панель управления" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -360,7 +360,7 @@ title: Kospel
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="kospel-4.png" class="img-fluid rounded" alt="Kospel Платы управления" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/zapchasti/kospel/kospel-4.png" class="img-fluid rounded" alt="Kospel Платы управления" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -369,7 +369,7 @@ title: Kospel
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="kospel-5.png" class="img-fluid rounded" alt="Kospel Датчики турбинка протока" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/zapchasti/kospel/kospel-5.png" class="img-fluid rounded" alt="Kospel Датчики турбинка протока" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -377,7 +377,7 @@ title: Kospel
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="kospel-11.png" class="img-fluid rounded" alt="Kospel Датчики температуры" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/zapchasti/kospel/kospel-11.png" class="img-fluid rounded" alt="Kospel Датчики температуры" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -385,7 +385,7 @@ title: Kospel
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="kospel-10.png" class="img-fluid rounded" alt="Kospel Манометр" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/zapchasti/kospel/kospel-10.png" class="img-fluid rounded" alt="Kospel Манометр" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -394,7 +394,7 @@ title: Kospel
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="kospel-6.png" class="img-fluid rounded" alt="Kospel Нагревательный элемент" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/zapchasti/kospel/kospel-6.png" class="img-fluid rounded" alt="Kospel Нагревательный элемент" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -403,7 +403,7 @@ title: Kospel
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="kospel-7.png" class="img-fluid rounded" alt="Kospel Насос" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/zapchasti/kospel/kospel-7.png" class="img-fluid rounded" alt="Kospel Насос" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -411,7 +411,7 @@ title: Kospel
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="kospel-8.png" class="img-fluid rounded" alt="Kospel Ограничители температуры" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/zapchasti/kospel/kospel-8.png" class="img-fluid rounded" alt="Kospel Ограничители температуры" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -420,7 +420,7 @@ title: Kospel
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="kospel-9.png" class="img-fluid rounded" alt="Kospel Водные узлы" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/zapchasti/kospel/kospel-9.png" class="img-fluid rounded" alt="Kospel Водные узлы" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -428,7 +428,7 @@ title: Kospel
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="kospel-12.png" class="img-fluid rounded" alt="Kospel Автоматический воздухоотводчик" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/zapchasti/kospel/kospel-12.png" class="img-fluid rounded" alt="Kospel Автоматический воздухоотводчик" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -436,7 +436,7 @@ title: Kospel
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="kospel-10.png" class="img-fluid rounded" alt="Kospel Манометр" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/zapchasti/kospel/kospel-10.png" class="img-fluid rounded" alt="Kospel Манометр" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

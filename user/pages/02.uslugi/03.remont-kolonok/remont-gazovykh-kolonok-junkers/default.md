@@ -38,7 +38,7 @@ title: 'Ремонт газовых колонок Junkers'
         </div>
         <div class="col-md-6 text-center">
             <a href="#modal-img-1" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-1">
-                <img src="Screenshot_61(1).jpg" alt="Газовая колонка Junkers" class="img-fluid rounded shadow">
+                <img src="/uslugi/remont-kolonok/remont-gazovykh-kolonok-junkers/Screenshot_61(1).jpg" alt="Газовая колонка Junkers" class="img-fluid rounded shadow">
             </a>
         </div>
     </div>
@@ -71,7 +71,7 @@ title: 'Ремонт газовых колонок Junkers'
         </div>
         <div class="col-md-6 text-center">
             <a href="#modal-img-3" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-3">
-                <img src="Screenshot_62(2).jpg" alt="Этапы ремонта" class="img-fluid rounded shadow">
+                <img src="/uslugi/remont-kolonok/remont-gazovykh-kolonok-junkers/Screenshot_62(2).jpg" alt="Этапы ремонта" class="img-fluid rounded shadow">
             </a>
             
         </div>
@@ -213,7 +213,7 @@ title: 'Ремонт газовых колонок Junkers'
         
         <div class="text-center mb-4">
             <a href="#modal-img-4" class="lightbox-trigger d-inline-block" data-bs-toggle="modal" data-bs-target="#modal-img-4">
-                <img src="junkers.jpg" alt="Газовая колонка Junkers" class="img-fluid rounded shadow-sm" style="max-width: 300px;">
+                <img src="/uslugi/remont-kolonok/remont-gazovykh-kolonok-junkers/junkers.jpg" alt="Газовая колонка Junkers" class="img-fluid rounded shadow-sm" style="max-width: 300px;">
             </a>
         </div>
         
@@ -224,7 +224,7 @@ title: 'Ремонт газовых колонок Junkers'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="Screenshot_61(1).jpg" class="img-fluid rounded" alt="Газовая колонка Junkers" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/uslugi/remont-kolonok/remont-gazovykh-kolonok-junkers/Screenshot_61(1).jpg" class="img-fluid rounded" alt="Газовая колонка Junkers" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -242,7 +242,7 @@ title: 'Ремонт газовых колонок Junkers'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="Screenshot_62(2).jpg" class="img-fluid rounded" alt="Этапы ремонта" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/uslugi/remont-kolonok/remont-gazovykh-kolonok-junkers/Screenshot_62(2).jpg" class="img-fluid rounded" alt="Этапы ремонта" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -251,7 +251,7 @@ title: 'Ремонт газовых колонок Junkers'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="junkers.jpg" class="img-fluid rounded" alt="Газовая колонка Junkers" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/uslugi/remont-kolonok/remont-gazovykh-kolonok-junkers/junkers.jpg" class="img-fluid rounded" alt="Газовая колонка Junkers" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

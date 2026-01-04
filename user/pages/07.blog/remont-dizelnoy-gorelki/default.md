@@ -13,7 +13,7 @@ title: 'Ремонт дизельных горелок'
 <!-- Основное описание -->
 <div class="row is-variable is-6 mb-5">
 <div class="col-4 text-center">
-<figure class="image"><img src="gorelki.png" alt="Срочный ремонт дизельных горелок" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/remont-dizelnoy-gorelki/gorelki.png" alt="Срочный ремонт дизельных горелок" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 <div class="col is-two-thirds">
 <h2 class="h4 display-4 mb-3" style="color: #e37a25;"><i class="fas fa-tools me-2"></i>Все виды ремонта дизельных горелок</h2>
@@ -99,28 +99,28 @@ title: 'Ремонт дизельных горелок'
 </header>
 <div class="row g-3 is-variable is-4 text-center">
 <div class="col-4">
-<figure class="image"><img src="remont-dizelnoy-gorelki_wp5435fc5a_05_06.jpg" alt="Ремонт дизельной горелки" class="rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/remont-dizelnoy-gorelki/remont-dizelnoy-gorelki_wp5435fc5a_05_06.jpg" alt="Ремонт дизельной горелки" class="rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 <div class="col-4">
-<figure class="image"><img src="remont-dizelnoy-gorelki_wpde0d927a_05_06.jpg" alt="Ремонт дизельной горелки" class="rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/remont-dizelnoy-gorelki/remont-dizelnoy-gorelki_wpde0d927a_05_06.jpg" alt="Ремонт дизельной горелки" class="rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 <div class="col-4">
-<figure class="image"><img src="remont-dizelnoy-gorelki_wpdf150e33_05_06.jpg" alt="Ремонт дизельной горелки" class="rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/remont-dizelnoy-gorelki/remont-dizelnoy-gorelki_wpdf150e33_05_06.jpg" alt="Ремонт дизельной горелки" class="rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 <div class="col-4">
-<figure class="image"><img src="remont-dizelnoy-gorelki_wp9a209868_06.png" alt="Ремонт дизельной горелки" class="rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/remont-dizelnoy-gorelki/remont-dizelnoy-gorelki_wp9a209868_06.png" alt="Ремонт дизельной горелки" class="rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 <div class="col-4">
-<figure class="image"><img src="remont-dizelnoy-gorelki_wpfdc67769_05_06.jpg" alt="Ремонт дизельной горелки" class="rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/remont-dizelnoy-gorelki/remont-dizelnoy-gorelki_wpfdc67769_05_06.jpg" alt="Ремонт дизельной горелки" class="rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 <div class="col-4">
-<figure class="image"><img src="remont-dizelnoy-gorelki_wp9c68d900_05_06.png" alt="Ремонт дизельной горелки" class="rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/remont-dizelnoy-gorelki/remont-dizelnoy-gorelki_wp9c68d900_05_06.png" alt="Ремонт дизельной горелки" class="rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 <div class="col-4">
-<figure class="image"><img src="remont-dizelnoy-gorelki_wp6fab52a3_05_06.png" alt="Ремонт дизельной горелки" class="rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/remont-dizelnoy-gorelki/remont-dizelnoy-gorelki_wp6fab52a3_05_06.png" alt="Ремонт дизельной горелки" class="rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 <div class="col-4">
-<figure class="image"><img src="remont-dizelnoy-gorelki_wpf8b13d5a_05_06.png" alt="Ремонт дизельной горелки" class="rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/remont-dizelnoy-gorelki/remont-dizelnoy-gorelki_wpf8b13d5a_05_06.png" alt="Ремонт дизельной горелки" class="rounded" style="max-height: 150px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 </div>
 <div class="text-center mt-4"><a href="https://service04.ru/texnicheskoe-obsluzhivanie-dizelnoj-gorelki" class="btn btn-info btn-lg"> <i class="fas fa-book me-2"></i>Техническое обслуживание дизельной горелки — Инструкция </a></div>

@@ -13,7 +13,7 @@ title: 'Ремонт за 1 выезд. Запчасти у мастера с с
 <p></p>
 
 <div class="row">
-<div class="col-md-4"><img src="2022-07-15_125209.jpg" width="249" height="327" alt=""></div>
+<div class="col-md-4"><img src="/blog/remont-gazovykh-kolonok-mora/2022-07-15_125209.jpg" width="249" height="327" alt=""></div>
 <div class="col-md-8">
 
 <p>Независимо от модели газовой колонки Mora, она может столкнуться с различными поломками и неисправностями. Вот некоторые из наиболее распространенных проблем:</p>

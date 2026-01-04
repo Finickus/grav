@@ -13,7 +13,7 @@ title: 'Монтаж газовых колонок BOSCH'
         </div>
         <div class="col-md-6 text-center">
             <a href="#modal-main-img" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-main-img">
-                <img src="028c38c2fba363342e4377d9fa6e5da4a0dd0608(2).jpg" alt="Установка газовой колонки BOSCH" class="img-fluid rounded shadow-lg">
+                <img src="/uslugi/montazh-gazovykh-kolonok/montazh-gazovykh-kolonok-bosch/028c38c2fba363342e4377d9fa6e5da4a0dd0608(2).jpg" alt="Установка газовой колонки BOSCH" class="img-fluid rounded shadow-lg">
             </a>
             
         </div>
@@ -59,7 +59,7 @@ title: 'Монтаж газовых колонок BOSCH'
     <div class="row g-4 mb-5 align-items-center">
         <div class="col-md-6 text-center">
             <a href="#modal-img-repair" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-repair">
-                <img src="remont1.jpg" alt="Обслуживание газового оборудования" class="img-fluid rounded shadow-lg">
+                <img src="/uslugi/montazh-gazovykh-kolonok/montazh-gazovykh-kolonok-bosch/remont1.jpg" alt="Обслуживание газового оборудования" class="img-fluid rounded shadow-lg">
             </a>
         </div>
         <div class="col-md-6 small">
@@ -195,7 +195,7 @@ title: 'Монтаж газовых колонок BOSCH'
     
     <div class="text-center mt-5">
         <a href="#modal-img-bottom" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-bottom">
-            <img src="Bosch2(1).jpg" alt="Газовая колонка Bosch" class="img-fluid rounded shadow-lg">
+            <img src="/uslugi/montazh-gazovykh-kolonok/montazh-gazovykh-kolonok-bosch/Bosch2(1).jpg" alt="Газовая колонка Bosch" class="img-fluid rounded shadow-lg">
         </a>
     </div>
 
@@ -203,7 +203,7 @@ title: 'Монтаж газовых колонок BOSCH'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="028c38c2fba363342e4377d9fa6e5da4a0dd0608(2).jpg" class="img-fluid rounded" alt="Установка газовой колонки BOSCH" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/uslugi/montazh-gazovykh-kolonok/montazh-gazovykh-kolonok-bosch/028c38c2fba363342e4377d9fa6e5da4a0dd0608(2).jpg" class="img-fluid rounded" alt="Установка газовой колонки BOSCH" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -212,7 +212,7 @@ title: 'Монтаж газовых колонок BOSCH'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="remont1.jpg" class="img-fluid rounded" alt="Обслуживание газового оборудования" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/uslugi/montazh-gazovykh-kolonok/montazh-gazovykh-kolonok-bosch/remont1.jpg" class="img-fluid rounded" alt="Обслуживание газового оборудования" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -221,7 +221,7 @@ title: 'Монтаж газовых колонок BOSCH'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="Bosch2(1).jpg" class="img-fluid rounded" alt="Газовая колонка Bosch" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/uslugi/montazh-gazovykh-kolonok/montazh-gazovykh-kolonok-bosch/Bosch2(1).jpg" class="img-fluid rounded" alt="Газовая колонка Bosch" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

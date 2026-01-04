@@ -33,7 +33,7 @@ title: 'Как перевести котел Viessmann в летний режи�
 </ul>
 </div>
 <div class="col text-center">
-<figure class="image is-inline-block mb-2"><img src="2022-07-07200959.png" class="border" alt="Панель управления котлом Viessmann"></figure>
+<figure class="image is-inline-block mb-2"><img src="/blog/kak-perevesti-kotel-viessmann-v-letnij-rezhim/2022-07-07200959.png" class="border" alt="Панель управления котлом Viessmann"></figure>
 <p class="fs-6 text-muted">Пример панели управления</p>
 </div>
 </div>
@@ -50,7 +50,7 @@ title: 'Как перевести котел Viessmann в летний режи�
 <div class="card-body">
 <p class="fs-5">Включите режим отпуска вашей системы отопления Viessmann на время вашего отсутствия.</p>
 <div class="text-center mb-3">
-<figure class="image is-inline-block"><img src="2022-07-07201735.png" class="border" alt="Режим отпуска Viessmann"></figure>
+<figure class="image is-inline-block"><img src="/blog/kak-perevesti-kotel-viessmann-v-letnij-rezhim/2022-07-07201735.png" class="border" alt="Режим отпуска Viessmann"></figure>
 <p class="fs-6 text-muted mt-1">Интерфейс режима отпуска</p>
 </div>
 <p>Котлы Viessmann имеют широкий набор заводских настроек, которые упрощают управление и позволяют изменять параметры теплогенератора за несколько шагов. Настройки по умолчанию помогают экономить энергию и снижают затраты на отопление.</p>

@@ -17,7 +17,7 @@ title: 'Запчасти для колонок Mora (Мора Чехия)'
 <p>Необходимы оригинальные запасные части, комплектующие и узлы в сборе для ремонта и ТО проточного водонагревателя? Мы предлагаем мастерам и частным лицам, выполняющим ремонт такой сложной техники, как <strong>колонка Mora</strong>, <strong>запчасти</strong> с гарантией качества, надежности и по самой приемлемой стоимости.</p>
 </div>
 <div class="col-4 text-center">
-<figure class="image is-inline-block"><img src="mora.png" alt="Логотип Mora" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image is-inline-block"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-mora/mora.png" alt="Логотип Mora" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 </div>
 <!-- Схемы колонки Mora Vega -->
@@ -25,17 +25,17 @@ title: 'Запчасти для колонок Mora (Мора Чехия)'
 <h2 class="h4 display-4 mb-4 has-text-orange">Схема колонки Mora Vega</h2>
 <div class="row g-3 is-variable is-6 text-center">
 <div class="col-4">
-<figure class="image"><img src="2018-03-05_220045.jpg" alt="Общий вид колонки Mora Top" style="max-width: 100%; border: 1px solid #ddd;">
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-mora/2018-03-05_220045.jpg" alt="Общий вид колонки Mora Top" style="max-width: 100%; border: 1px solid #ddd;">
 <figcaption class="fs-6 mt-2">Общий вид</figcaption>
 </figure>
 </div>
 <div class="col-4">
-<figure class="image"><img src="2018-03-05_220245.jpg" alt="Схема газовой колонки Mora Top" style="max-width: 100%; border: 1px solid #ddd;">
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-mora/2018-03-05_220245.jpg" alt="Схема газовой колонки Mora Top" style="max-width: 100%; border: 1px solid #ddd;">
 <figcaption class="fs-6 mt-2">Схема 1</figcaption>
 </figure>
 </div>
 <div class="col-4">
-<figure class="image"><img src="2018-03-05_220346.jpg" alt="Запчасти для газовой колонки Mora Top" style="max-width: 100%; border: 1px solid #ddd;">
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-mora/2018-03-05_220346.jpg" alt="Запчасти для газовой колонки Mora Top" style="max-width: 100%; border: 1px solid #ddd;">
 <figcaption class="fs-6 mt-2">Схема 2</figcaption>
 </figure>
 </div>
@@ -54,7 +54,7 @@ title: 'Запчасти для колонок Mora (Мора Чехия)'
 <tbody><!-- ST11871 -->
 <tr>
 <td class="text-center">
-<figure class="image is-100x100 mx-auto"><img src="viber-image5.jpg" alt="ST11871 Термодатчик (аналог ST90208)" style="border: 1px solid #ddd;"></figure>
+<figure class="image is-100x100 mx-auto"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-mora/viber-image5.jpg" alt="ST11871 Термодатчик (аналог ST90208)" style="border: 1px solid #ddd;"></figure>
 </td>
 <td>
 <p class="mb-1"><strong>ST11871 Термодатчик (аналог ST90208)</strong></p>
@@ -68,7 +68,7 @@ title: 'Запчасти для колонок Mora (Мора Чехия)'
 <!-- G40B-SP01 -->
 <tr>
 <td class="text-center">
-<figure class="image is-100x100 mx-auto"><img src="2018-03-05_225331.jpg" alt="G40B-SP01 Мембрана арматуры — пластик" style="border: 1px solid #ddd;"></figure>
+<figure class="image is-100x100 mx-auto"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-mora/2018-03-05_225331.jpg" alt="G40B-SP01 Мембрана арматуры — пластик" style="border: 1px solid #ddd;"></figure>
 </td>
 <td>
 <p class="mb-1"><strong>G40B-SP01 Мембрана арматуры — пластик</strong></p>
@@ -83,7 +83,7 @@ title: 'Запчасти для колонок Mora (Мора Чехия)'
 <!-- G40-SP03 -->
 <tr>
 <td class="text-center">
-<figure class="image is-100x100 mx-auto"><img src="2018-03-05_225519.jpg" alt="G40-SP03 Пружина клапана водяного" style="border: 1px solid #ddd;"></figure>
+<figure class="image is-100x100 mx-auto"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-mora/2018-03-05_225519.jpg" alt="G40-SP03 Пружина клапана водяного" style="border: 1px solid #ddd;"></figure>
 </td>
 <td>
 <p class="mb-1"><strong>G40-SP03 Пружина клапана водяного</strong></p>
@@ -98,14 +98,14 @@ title: 'Запчасти для колонок Mora (Мора Чехия)'
 <!-- Переключатель температуры -->
 <tr>
 <td class="text-center">
-<figure class="image is-100x100 mx-auto"><img src="2018-03-05_225914.jpg" alt="Переключатель температуры воды" style="border: 1px solid #ddd;"></figure>
+<figure class="image is-100x100 mx-auto"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-mora/2018-03-05_225914.jpg" alt="Переключатель температуры воды" style="border: 1px solid #ddd;"></figure>
 </td>
 <td>Переключатель температуры воды</td>
 </tr>
 <!-- Арматура Mertik -->
 <tr>
 <td class="text-center">
-<figure class="image is-100x100 mx-auto"><img src="2018-03-05_230110.jpg" alt="Арматура Mertik GW40" style="border: 1px solid #ddd;"></figure>
+<figure class="image is-100x100 mx-auto"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-mora/2018-03-05_230110.jpg" alt="Арматура Mertik GW40" style="border: 1px solid #ddd;"></figure>
 </td>
 <td>
 <p class="mb-2"><strong>Арматура Mertik GW40</strong></p>

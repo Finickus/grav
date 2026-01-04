@@ -16,7 +16,7 @@ title: 'Ремонт бойлера'
 <div class="card-body">
 <div class="row align-items-center is-multiline">
 <div class="col-lg-4 is-12-mobile text-center mb-4">
-<figure class="image"><img src="remont-boilera.png" alt="Ремонт бойлера" class="has-border-light"></figure>
+<figure class="image"><img src="/blog/remont-boilera-mora/remont-boilera.png" alt="Ремонт бойлера" class="has-border-light"></figure>
 </div>
 <div class="col-lg-8 is-12-mobile content">
 <h2 class="h5"><span class="icon me-2"><i class="fas fa-info-circle text-info"></i></span>Выполнение всех видов ремонта бойлеров</h2>
@@ -56,7 +56,7 @@ title: 'Ремонт бойлера'
 <li class="mb-3"><span class="icon me-2"><i class="fas fa-plug text-danger"></i></span> **Нагрев вилки бойлера** возникает при несоответствии вилки, розетки или шнура потребляемой мощности прибора.</li>
 </ul>
 <div class="text-center">
-<figure class="image is-inline-block mb-3"><img src="chistka_boylerov.png" alt="Чистка бойлеров" class="has-border-light"></figure>
+<figure class="image is-inline-block mb-3"><img src="/blog/remont-boilera-mora/chistka_boylerov.png" alt="Чистка бойлеров" class="has-border-light"></figure>
 </div>
 </div>
 </div>
@@ -81,10 +81,10 @@ title: 'Ремонт бойлера'
 <p>Регулярное обслуживание помогает **экономить на покупке нового оборудования** и **сохранять спокойствие**. Если важен комфорт и надёжность, лучше пригласить мастера, который быстро выполнит ремонт, а наблюдение за его работой поможет в дальнейшем увереннее обслуживать бойлер самостоятельно.</p>
 <div class="row mt-4">
 <div class="col">
-<figure class="image"><img src="20140204_144446.jpg" alt="Ремонт бойлера Мора" class="has-border-light"></figure>
+<figure class="image"><img src="/blog/remont-boilera-mora/20140204_144446.jpg" alt="Ремонт бойлера Мора" class="has-border-light"></figure>
 </div>
 <div class="col">
-<figure class="image"><img src="20140204_125810.jpg" alt="Ремонт бойлера Бакси" class="has-border-light"></figure>
+<figure class="image"><img src="/blog/remont-boilera-mora/20140204_125810.jpg" alt="Ремонт бойлера Бакси" class="has-border-light"></figure>
 </div>
 </div>
 </div>

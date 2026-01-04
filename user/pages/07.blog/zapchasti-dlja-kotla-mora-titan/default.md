@@ -15,15 +15,15 @@ title: 'Запчасти для котла Mora Titan'
 <div class="card-body">
 <div class="row g-3 text-center">
 <div class="col-4 mb-3">
-<figure class="image is-inline-block"><img src="2018-03-05_233919.jpg" alt="Mora Titan" class="has-border-light"></figure>
+<figure class="image is-inline-block"><img src="/blog/zapchasti-dlja-kotla-mora-titan/2018-03-05_233919.jpg" alt="Mora Titan" class="has-border-light"></figure>
 <p class="fs-6 mt-2">Mora Titan</p>
 </div>
 <div class="col-4 mb-3">
-<figure class="image is-inline-block"><img src="2018-03-05_233945.jpg" alt="Запчасти мора титан" class="has-border-light"></figure>
+<figure class="image is-inline-block"><img src="/blog/zapchasti-dlja-kotla-mora-titan/2018-03-05_233945.jpg" alt="Запчасти мора титан" class="has-border-light"></figure>
 <p class="fs-6 mt-2">Запчасти Mora Titan</p>
 </div>
 <div class="col-4 mb-3">
-<figure class="image is-inline-block"><img src="2018-03-05_234007.jpg" alt="Схема запчастей Mora Titan" class="has-border-light"></figure>
+<figure class="image is-inline-block"><img src="/blog/zapchasti-dlja-kotla-mora-titan/2018-03-05_234007.jpg" alt="Схема запчастей Mora Titan" class="has-border-light"></figure>
 <p class="fs-6 mt-2">Схема запчастей Mora Titan</p>
 </div>
 </div>

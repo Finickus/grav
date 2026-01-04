@@ -19,7 +19,7 @@ title: 'Монтаж автоматики ZONT'
 <p>Также есть бесплатное приложение для телефона на базе Android и Apple, защищенное паролем от несанкционированного доступа.</p>
 </div>
 <div class="col-6 text-center">
-<figure class="image is-inline-block"><img src="zont_49(1).jpg" alt="Управление термостатом ZONT со смартфона"></figure>
+<figure class="image is-inline-block"><img src="/blog/gsm-wifi-zont/zont_49(1).jpg" alt="Управление термостатом ZONT со смартфона"></figure>
 </div>
 </div>
 </section>

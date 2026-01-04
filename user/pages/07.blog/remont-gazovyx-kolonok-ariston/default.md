@@ -14,7 +14,7 @@ title: ''
 <p>Мы используем только качественные запчасти и материалы, чтобы обеспечить надежную работу вашего оборудования. Кроме того, мы предлагаем доступные цены на наши услуги и гарантию на все работы. Вы можете быть уверены, что мы выполним ремонт качественно и в срок.</p>
 <p>Не откладывайте ремонт газовой колонки Ariston на потом! Обратитесь к нам уже сегодня и получите профессиональную помощь в кратчайшие сроки.</p>
 </div>
-<div class="col-md-6" style="width: 427.5px;"><img src="hqdefault(1)(1).jpg" alt=""></div>
+<div class="col-md-6" style="width: 427.5px;"><img src="/blog/remont-gazovyx-kolonok-ariston/hqdefault(1)(1).jpg" alt=""></div>
 </div>
 <hr>
 <p></p>
@@ -83,4 +83,4 @@ title: ''
 <li>Пламя на горелке стало желтым или оранжевым</li>
 <li>Звуки не характерные для работы колонки</li>
 </ul>
-<p><img src="Kotelariston(1).jpg" alt="Ремонт газовых колонок Ariston" width="895" height="179"></p>
+<p><img src="/blog/remont-gazovyx-kolonok-ariston/Kotelariston(1).jpg" alt="Ремонт газовых колонок Ariston" width="895" height="179"></p>

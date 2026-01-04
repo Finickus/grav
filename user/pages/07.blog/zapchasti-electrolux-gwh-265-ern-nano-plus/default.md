@@ -11,7 +11,7 @@ title: 'Запчасти, детали и расходные материалы 
 <p class="subh6">Газовые колонки GWH 265 ERN Nano Plus от шведского концерна «Electrolux» – самое надежное, производительное и безопасное оборудование в своем классе. Но низкое качество воды, резкие скачки напряжения при отсутствии стабилизатора, ошибки пользователей являются причиной ремонта водонагревателя с использованием оригинальных запасных частей.</p>
 </div>
 <div class="col-4 text-center">
-<figure class="image is-256x256 mx-auto"><img src="kolonka-265-e6804b66.jpg" alt="Electrolux GWH 265 ERN Nano Plus" class="rounded"></figure>
+<figure class="image is-256x256 mx-auto"><img src="/blog/zapchasti-electrolux-gwh-265-ern-nano-plus/kolonka-265-e6804b66.jpg" alt="Electrolux GWH 265 ERN Nano Plus" class="rounded"></figure>
 </div>
 </div>
 </div>
@@ -31,22 +31,22 @@ title: 'Запчасти, детали и расходные материалы 
 <!-- Галерея -->
 <div class="row g-3 is-centered mb-5">
 <div class="col-4">
-<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_114850_wm.jpg" target="_blank" rel="noopener"> <img src="20151221_114850_wm-6ec0a828.jpg" alt="20151221_114850_wm.jpg" class="rounded"> </a></figure>
+<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_114850_wm.jpg" target="_blank" rel="noopener"> <img src="/blog/zapchasti-electrolux-gwh-265-ern-nano-plus/20151221_114850_wm-6ec0a828.jpg" alt="20151221_114850_wm.jpg" class="rounded"> </a></figure>
 </div>
 <div class="col-4">
-<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115111_wm.jpg" target="_blank" rel="noopener"> <img src="20151221_115111_wm-82ac4cdc.jpg" alt="20151221_115111_wm.jpg" class="rounded"> </a></figure>
+<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115111_wm.jpg" target="_blank" rel="noopener"> <img src="/blog/zapchasti-electrolux-gwh-265-ern-nano-plus/20151221_115111_wm-82ac4cdc.jpg" alt="20151221_115111_wm.jpg" class="rounded"> </a></figure>
 </div>
 <div class="col-4">
-<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_114901_wm.jpg" target="_blank" rel="noopener"> <img src="20151221_114901_wm-e5d41b6a.jpg" alt="20151221_114901_wm.jpg" class="rounded"> </a></figure>
+<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_114901_wm.jpg" target="_blank" rel="noopener"> <img src="/blog/zapchasti-electrolux-gwh-265-ern-nano-plus/20151221_114901_wm-e5d41b6a.jpg" alt="20151221_114901_wm.jpg" class="rounded"> </a></figure>
 </div>
 <div class="col-4">
-<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115008_wm.jpg" target="_blank" rel="noopener"> <img src="20151221_115008_wm-8e937555.jpg" alt="20151221_115008_wm.jpg" class="rounded"> </a></figure>
+<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115008_wm.jpg" target="_blank" rel="noopener"> <img src="/blog/zapchasti-electrolux-gwh-265-ern-nano-plus/20151221_115008_wm-8e937555.jpg" alt="20151221_115008_wm.jpg" class="rounded"> </a></figure>
 </div>
 <div class="col-4">
-<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115023_wm.jpg" target="_blank" rel="noopener"> <img src="20151221_115023_wm-9bb673f3.jpg" alt="20151221_115023_wm.jpg" class="rounded"> </a></figure>
+<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115023_wm.jpg" target="_blank" rel="noopener"> <img src="/blog/zapchasti-electrolux-gwh-265-ern-nano-plus/20151221_115023_wm-9bb673f3.jpg" alt="20151221_115023_wm.jpg" class="rounded"> </a></figure>
 </div>
 <div class="col-4">
-<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115040_wm.jpg" target="_blank" rel="noopener"> <img src="20151221_115040_wm-72b44d1f.jpg" alt="20151221_115040_wm.jpg" class="rounded"> </a></figure>
+<figure class="image"><a href="https://boilererror.ru/wp-content/uploads/2019/12/20151221_115040_wm.jpg" target="_blank" rel="noopener"> <img src="/blog/zapchasti-electrolux-gwh-265-ern-nano-plus/20151221_115040_wm-72b44d1f.jpg" alt="20151221_115040_wm.jpg" class="rounded"> </a></figure>
 </div>
 </div>
 <!-- Описание категорий запчастей -->
@@ -79,67 +79,67 @@ title: 'Запчасти, детали и расходные материалы 
 <tbody>
 <tr>
 <td class="text-center">
-<figure class="image is-128x128 mx-auto"><img src="20151221_115111_wm.jpg" alt="Теплообменник electrolux gwh 265 ern nanoplus" class="rounded"></figure>
+<figure class="image is-128x128 mx-auto"><img src="/blog/zapchasti-electrolux-gwh-265-ern-nano-plus/20151221_115111_wm.jpg" alt="Теплообменник electrolux gwh 265 ern nanoplus" class="rounded"></figure>
 </td>
 <td><a href="https://service04.ru/admin/edit-content/teploobmennik-electrolux-gwh-265-ern-nanoplus.html">Теплообменник Electrolux GWH 265 ERN NanoPlus</a></td>
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-128x128 mx-auto"><img src="20151221_114850_wm.jpg" alt="Датчик дымовых газов" class="rounded"></figure>
+<figure class="image is-128x128 mx-auto"><img src="/blog/zapchasti-electrolux-gwh-265-ern-nano-plus/20151221_114850_wm.jpg" alt="Датчик дымовых газов" class="rounded"></figure>
 </td>
 <td>Датчик дымовых газов</td>
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-128x128 mx-auto"><img src="20151221_114837_wm.jpg" alt="Датчик перегрева теплообменника" class="rounded"></figure>
+<figure class="image is-128x128 mx-auto"><img src="/blog/zapchasti-electrolux-gwh-265-ern-nano-plus/20151221_114837_wm.jpg" alt="Датчик перегрева теплообменника" class="rounded"></figure>
 </td>
 <td>Датчик перегрева теплообменника</td>
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-128x128 mx-auto"><img src="20151221_114901_wm.jpg" alt="Ручка регулировки" class="rounded"></figure>
+<figure class="image is-128x128 mx-auto"><img src="/blog/zapchasti-electrolux-gwh-265-ern-nano-plus/20151221_114901_wm.jpg" alt="Ручка регулировки" class="rounded"></figure>
 </td>
 <td>Ручка регулировки</td>
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-128x128 mx-auto"><img src="20151221_114950_wm.jpg" alt="Блок розжига" class="rounded"></figure>
+<figure class="image is-128x128 mx-auto"><img src="/blog/zapchasti-electrolux-gwh-265-ern-nano-plus/20151221_114950_wm.jpg" alt="Блок розжига" class="rounded"></figure>
 </td>
 <td>Блок розжига</td>
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-128x128 mx-auto"><img src="20151221_115001_wm.jpg" alt="Электрод розжига" class="rounded"></figure>
+<figure class="image is-128x128 mx-auto"><img src="/blog/zapchasti-electrolux-gwh-265-ern-nano-plus/20151221_115001_wm.jpg" alt="Электрод розжига" class="rounded"></figure>
 </td>
 <td>Электрод розжига</td>
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-128x128 mx-auto"><img src="20151221_115008_wm.jpg" alt="Электрод ионизации" class="rounded"></figure>
+<figure class="image is-128x128 mx-auto"><img src="/blog/zapchasti-electrolux-gwh-265-ern-nano-plus/20151221_115008_wm.jpg" alt="Электрод ионизации" class="rounded"></figure>
 </td>
 <td>Электрод ионизации</td>
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-128x128 mx-auto"><img src="20151221_115023_wm.jpg" alt="Бокс для батареек" class="rounded"></figure>
+<figure class="image is-128x128 mx-auto"><img src="/blog/zapchasti-electrolux-gwh-265-ern-nano-plus/20151221_115023_wm.jpg" alt="Бокс для батареек" class="rounded"></figure>
 </td>
 <td>Бокс для батареек</td>
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-128x128 mx-auto"><img src="20151221_115029_wm.jpg" alt="Датчик температуры" class="rounded"></figure>
+<figure class="image is-128x128 mx-auto"><img src="/blog/zapchasti-electrolux-gwh-265-ern-nano-plus/20151221_115029_wm.jpg" alt="Датчик температуры" class="rounded"></figure>
 </td>
 <td>Датчик температуры</td>
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-128x128 mx-auto"><img src="20151221_115040_wm.jpg" alt="Дисплей" class="rounded"></figure>
+<figure class="image is-128x128 mx-auto"><img src="/blog/zapchasti-electrolux-gwh-265-ern-nano-plus/20151221_115040_wm.jpg" alt="Дисплей" class="rounded"></figure>
 </td>
 <td>Дисплей</td>
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-128x128 mx-auto"><img src="viber-image.jpg" alt="Шток (сальник) Водяного узла Electrolux GWH 265 ERN Nano Plus" class="rounded"></figure>
+<figure class="image is-128x128 mx-auto"><img src="/blog/zapchasti-electrolux-gwh-265-ern-nano-plus/viber-image.jpg" alt="Шток (сальник) Водяного узла Electrolux GWH 265 ERN Nano Plus" class="rounded"></figure>
 </td>
 <td>
 <p><a href="https://service04.ru/admin/edit-content/shop/zapchasti-dlya-vodonagrevatelej/electrolux6344285/electrolux-gwh-265/shtok-salnik-vodjanogo-uzla-electrolux-gwh-265-ern-nano-plus">Шток (сальник) Водяного узла Electrolux GWH 265 ERN Nano Plus</a></p>
@@ -148,7 +148,7 @@ title: 'Запчасти, детали и расходные материалы 
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-128x128 mx-auto"><img src="viber-image1111.jpg" alt="Правая часть Водяного узла Electrolux GWH 265 ERN Nano Plus" class="rounded"></figure>
+<figure class="image is-128x128 mx-auto"><img src="/blog/zapchasti-electrolux-gwh-265-ern-nano-plus/viber-image1111.jpg" alt="Правая часть Водяного узла Electrolux GWH 265 ERN Nano Plus" class="rounded"></figure>
 </td>
 <td>
 <p><a href="https://service04.ru/admin/edit-content/shop/zapchasti-dlya-vodonagrevatelej/electrolux6344285/electrolux-gwh-265/pravaja-chast-vodjanogo-uzla-electrolux-gwh-265-ern-nano-plus">Правая часть Водяного узла Electrolux GWH 265 ERN Nano Plus</a></p>
@@ -157,7 +157,7 @@ title: 'Запчасти, детали и расходные материалы 
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-128x128 mx-auto"><img src="viber-image1.jpg" alt="Левая часть Водяного узла Electrolux GWH 265 ERN Nano Plus" class="rounded"></figure>
+<figure class="image is-128x128 mx-auto"><img src="/blog/zapchasti-electrolux-gwh-265-ern-nano-plus/viber-image1.jpg" alt="Левая часть Водяного узла Electrolux GWH 265 ERN Nano Plus" class="rounded"></figure>
 </td>
 <td>
 <p><a href="https://service04.ru/admin/edit-content/shop/zapchasti-dlya-vodonagrevatelej/electrolux6344285/electrolux-gwh-265/levaja-chast-vodjanogo-uzla-electrolux-gwh-265-ern-nano-plus">Левая часть Водяного узла Electrolux GWH 265 ERN Nano Plus</a></p>

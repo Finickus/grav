@@ -4,7 +4,7 @@ title: 'Ремонт газовых котлов Vaillant '
 
 <div class="container-fluid p-0">
     <header class="position-relative overflow-hidden mb-5">
-        <img src="Vailant1.jpg" alt="Котел Vaillant" class="img-fluid w-100 shadow">
+        <img src="/uslugi/remont-kotlov/remont-gazovykh-kotlov-vaillant/Vailant1.jpg" alt="Котел Vaillant" class="img-fluid w-100 shadow">
     </header>
 
     <div class="container py-4">
@@ -61,7 +61,7 @@ title: 'Ремонт газовых котлов Vaillant '
             <h2 class="h3 fw-bold mb-4 border-start border-primary border-4 ps-3"><i class="bi bi-list-check me-2"></i>Этапы восстановления системы</h2>
             <div class="row g-4 align-items-center mb-5">
                 <div class="col-lg-6">
-                    <img src="Screenshot_71(1).jpg" class="img-fluid rounded shadow" alt="Процесс ремонта">
+                    <img src="/uslugi/remont-kotlov/remont-gazovykh-kotlov-vaillant/Screenshot_71(1).jpg" class="img-fluid rounded shadow" alt="Процесс ремонта">
                 </div>
                 <div class="col-lg-6 lead">
                     Работа по четкому алгоритму производителя позволяет устранить даже скрытые дефекты напольных котлов.

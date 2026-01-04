@@ -49,7 +49,7 @@ title: 'Газовые колонки NEVA'
 <summary class="h5 has-text-orange has-text-weight-bold mb-0" style="text-transform: uppercase; cursor: pointer; list-style: none;">NEVA-4511</summary>
 <div class="p-4">
 <div class="text-center mb-4">
-<figure class="image is-inline-block"><img src="4511-401a4b67.jpg" alt="NEVA-4511" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image is-inline-block"><img src="/blog/gazovye-kolonki-neva/4511-401a4b67.jpg" alt="NEVA-4511" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 <div class="table-container">
 <table class="table is-bordered w-100 is-striped">

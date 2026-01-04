@@ -40,7 +40,7 @@ title: 'Ошибка F20 на Protherm Skat'
                         <li>Найдите датчик на медной трубке (выход теплообменника).</li>
                         <li>Нажмите красную кнопку под резиновым колпачком до щелчка.</li>
                     </ol>
-                    <img src="Screenshot_183(1).jpg" class="img-fluid rounded mt-2" alt="Сброс кнопки">
+                    <img src="/kody-oshibok/protherm/oshibka-f20-na-protherm-skat/Screenshot_183(1).jpg" class="img-fluid rounded mt-2" alt="Сброс кнопки">
                 </div>
             </div>
         </div>
@@ -67,7 +67,7 @@ title: 'Ошибка F20 на Protherm Skat'
                             </ul>
                         </div>
                         <div class="col-sm-4 text-center">
-                            <img src="Screenshot_191(1).jpg" class="img-thumbnail" alt="Воздух">
+                            <img src="/kody-oshibok/protherm/oshibka-f20-na-protherm-skat/Screenshot_191(1).jpg" class="img-thumbnail" alt="Воздух">
                         </div>
                     </div>
                 </div>

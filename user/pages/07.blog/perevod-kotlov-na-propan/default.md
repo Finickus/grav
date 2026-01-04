@@ -32,7 +32,7 @@ title: 'Перевод котлов на пропан'
 <li>Снимите форсунки 2,65 мм</li>
 </ul>
 <div class="text-center w-100">
-<figure class="image is-inline-block" style="max-height: 150px; overflow: hidden; border: 1px solid #ddd;"><img src="image_1.png" alt="Демонтаж форсунок"></figure>
+<figure class="image is-inline-block" style="max-height: 150px; overflow: hidden; border: 1px solid #ddd;"><img src="/blog/perevod-kotlov-na-propan/image_1.png" alt="Демонтаж форсунок"></figure>
 </div>
 </li>
 <li><strong>Установка новых компонентов:</strong>
@@ -41,8 +41,8 @@ title: 'Перевод котлов на пропан'
 <li>Поставьте новые трубочные горелки (номер заказа 0020025292)</li>
 </ul>
 <div class="text-center w-100">
-<figure class="image is-inline-block" style="max-height: 100px; overflow: hidden; border: 1px solid #ddd;"><img src="image_2.png" alt="Новые форсунки"></figure>
-<figure class="image is-inline-block" style="max-height: 100px; overflow: hidden; border: 1px solid #ddd;"><img src="image_3.png" alt="Новые трубочные горелки"></figure>
+<figure class="image is-inline-block" style="max-height: 100px; overflow: hidden; border: 1px solid #ddd;"><img src="/blog/perevod-kotlov-na-propan/image_2.png" alt="Новые форсунки"></figure>
+<figure class="image is-inline-block" style="max-height: 100px; overflow: hidden; border: 1px solid #ddd;"><img src="/blog/perevod-kotlov-na-propan/image_3.png" alt="Новые трубочные горелки"></figure>
 </div>
 </li>
 </ol>
@@ -58,8 +58,8 @@ title: 'Перевод котлов на пропан'
 <li>Поставьте следующий держатель в держатель вида "U"</li>
 </ul>
 <div class="text-center w-100">
-<figure class="image is-inline-block" style="max-height: 100px; overflow: hidden; border: 1px solid #ddd;"><img src="image_4.png" alt="Тепловая изоляция и держатели"></figure>
-<figure class="image is-inline-block" style="max-height: 100px; overflow: hidden; border: 1px solid #ddd;"><img src="image_2-1.png" alt="Держатели стержней"></figure>
+<figure class="image is-inline-block" style="max-height: 100px; overflow: hidden; border: 1px solid #ddd;"><img src="/blog/perevod-kotlov-na-propan/image_4.png" alt="Тепловая изоляция и держатели"></figure>
+<figure class="image is-inline-block" style="max-height: 100px; overflow: hidden; border: 1px solid #ddd;"><img src="/blog/perevod-kotlov-na-propan/image_2-1.png" alt="Держатели стержней"></figure>
 </div>
 </li>
 <li><strong>Важно:</strong>
@@ -69,7 +69,7 @@ title: 'Перевод котлов на пропан'
 <li>Надо поставить укороченный стержень (н.з. 0020027612)</li>
 </ul>
 <div class="text-center w-100">
-<figure class="image is-inline-block" style="max-height: 100px; overflow: hidden; border: 1px solid #ddd;"><img src="image_3-2.png" alt="Укороченный стержень"></figure>
+<figure class="image is-inline-block" style="max-height: 100px; overflow: hidden; border: 1px solid #ddd;"><img src="/blog/perevod-kotlov-na-propan/image_3-2.png" alt="Укороченный стержень"></figure>
 </div>
 </li>
 </ol>
@@ -140,8 +140,8 @@ title: 'Перевод котлов на пропан'
 <li>Проверьте герметичность</li>
 </ol>
 <div class="text-center w-100">
-<figure class="image is-inline-block" style="max-height: 150px; overflow: hidden; border: 1px solid #ddd;"><img src="image_5.png" alt="Газовый клапан SIT 824 Nova"></figure>
-<figure class="image is-inline-block" style="max-height: 100px; overflow: hidden; border: 1px solid #ddd;"><img src="11.jpg" alt="Настройка давления"></figure>
+<figure class="image is-inline-block" style="max-height: 150px; overflow: hidden; border: 1px solid #ddd;"><img src="/blog/perevod-kotlov-na-propan/image_5.png" alt="Газовый клапан SIT 824 Nova"></figure>
+<figure class="image is-inline-block" style="max-height: 100px; overflow: hidden; border: 1px solid #ddd;"><img src="/blog/perevod-kotlov-na-propan/11.jpg" alt="Настройка давления"></figure>
 </div>
 </div>
 </div>

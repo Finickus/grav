@@ -33,7 +33,7 @@ title: 'Описание котла THERM PRO 14 TKX.A 2015г. выпуска:'
 [88] — 40062 Окошко большое<br>
 [90] — 20779 Проходной изолятор овальный I 324, 19,5×40,5<br>
 [91] — 20545 Проходной изолятор для трубки I 326, диам.14×38</p>
-<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="2570_vodni-cast-male.jpg" alt="THERM PRO 14 TKX.A 2015"><br>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="/blog/opisanie-kotla-therm-pro-14-tkxa-2015g-vypuska/2570_vodni-cast-male.jpg" alt="THERM PRO 14 TKX.A 2015"><br>
 Названия компонентов по спецификации<br>
 [03] — 23117 Горелка 6 ram. NOx, 09.92, медь<br>
 [06] — 20400 Теплообменник дымовые газы/вода PR 12-3230003<br>

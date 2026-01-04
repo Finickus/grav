@@ -17,7 +17,7 @@ title: 'Газовый клапан SIT NOVA'
 <div class="card-body">
 <div class="row align-items-center is-multiline">
 <div class="col-12 is-4-desktop">
-<figure class="image"><img src="GAZOVYJ-KLAPAN-SIT-KOD-0.822.110-554a02d0.png" alt="Газовый клапан SIT Код 0.822.110 NOVA" class="border"></figure>
+<figure class="image"><img src="/blog/gazovyj-klapan-sit-kod-0822110-nova/GAZOVYJ-KLAPAN-SIT-KOD-0.822.110-554a02d0.png" alt="Газовый клапан SIT Код 0.822.110 NOVA" class="border"></figure>
 </div>
 <div class="col-12 is-8-desktop">
 <h3 class="h5" style="color: #e37a25;">Газовый клапан SIT NOVA Код 0.822.110</h3>

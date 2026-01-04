@@ -4,7 +4,7 @@ title: '1.'
 
 <div class="container-fluid mt-5 mb-5">
 <section class="section py-0">
-<figure class="image is-inline-block mb-4"><img src="oasistop(1).jpg" alt="Ремонт газовых колонок Oasis" class="is-fullwidth"></figure>
+<figure class="image is-inline-block mb-4"><img src="/blog/remont-kolonok-oasis/oasistop(1).jpg" alt="Ремонт газовых колонок Oasis" class="is-fullwidth"></figure>
 <p class="fs-5 has-text-weight-bold">Если ваша газовая колонка Oasis требует ремонта, важно обратиться к профессионалам, специализирующимся на обслуживании и восстановлении газового оборудования.</p>
 <p>Наши специалисты имеют большой опыт работы с газовыми колонками Oasis и готовы предоставить вам высококачественные услуги по ремонту и обслуживанию. Мы используем только оригинальные запчасти и современное оборудование для диагностики и ремонта.</p>
 </section>

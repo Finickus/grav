@@ -61,7 +61,7 @@ title: Будерус
                 <div class="col-md-6 col-lg-4">
                     <div class="card h-100 border-0 shadow-sm text-center p-3 transition-hover">
                         <div class="bg-white rounded p-3 mb-3 h-100 d-flex flex-column">
-                            <img src="20141127_142701.jpg" alt="Плата Buderus" class="img-fluid mx-auto mb-3 rounded" style="max-height: 180px;">
+                            <img src="/zapchasti/buderus/20141127_142701.jpg" alt="Плата Buderus" class="img-fluid mx-auto mb-3 rounded" style="max-height: 180px;">
                             <h5 class="h6 fw-bold mb-2">Электронная плата Logamax U044</h5>
                             <p class="small text-muted mb-3 mt-auto">Арт: 87160136470, 87376004940</p>
                             <a href="#" class="btn btn-sm btn-outline-primary w-100 rounded-pill">Запросить наличие</a>
@@ -72,7 +72,7 @@ title: Будерус
                 <div class="col-md-6 col-lg-4">
                     <div class="card h-100 border-0 shadow-sm text-center p-3 transition-hover">
                         <div class="bg-white rounded p-3 mb-3 h-100 d-flex flex-column border border-primary border-opacity-25">
-                            <img src="20141127_142633.jpg" alt="Плата Buderus" class="img-fluid mx-auto mb-3 rounded" style="max-height: 180px;">
+                            <img src="/zapchasti/buderus/20141127_142633.jpg" alt="Плата Buderus" class="img-fluid mx-auto mb-3 rounded" style="max-height: 180px;">
                             <h5 class="h6 fw-bold mb-2 text-primary">Плата управления U042 LED</h5>
                             <p class="small text-muted mb-3 mt-auto">Арт: 87186401190</p>
                             <a href="#" class="btn btn-sm btn-primary w-100 rounded-pill shadow-sm">КУПИТЬ</a>
@@ -83,7 +83,7 @@ title: Будерус
                 <div class="col-md-6 col-lg-4">
                     <div class="card h-100 border-0 shadow-sm text-center p-3 transition-hover">
                         <div class="bg-white rounded p-3 mb-3 h-100 d-flex flex-column">
-                            <img src="20141127_142749.jpg" alt="Турбинка Buderus" class="img-fluid mx-auto mb-3 rounded" style="max-height: 180px;">
+                            <img src="/zapchasti/buderus/20141127_142749.jpg" alt="Турбинка Buderus" class="img-fluid mx-auto mb-3 rounded" style="max-height: 180px;">
                             <h5 class="h6 fw-bold mb-2">Турбинка (Датчик протока)</h5>
                             <p class="small text-muted mb-3 mt-auto">U022, U042, U044, U052, U054</p>
                             <a href="https://service04.ru/shop/zapchasti-dlja-kotlov/bosch249360/87182234430_turbinka_U022_U042_U044_U052_U054-24K" class="btn btn-sm btn-outline-primary w-100 rounded-pill">КУПИТЬ</a>
@@ -114,7 +114,7 @@ title: Будерус
                 <h5 class="fw-bold mb-3"><i class="fas fa-headset me-2"></i>Нужна помощь инженера?</h5>
                 <p class="small">Сложно подобрать насос или блок автоматики именно к вашей версии котла? Наши инженеры подберут деталь по артикулу или серийному номеру за 5 минут.</p>
                 <div class="text-center mt-3">
-                    <img src="e28473d83b264527636f57b9c31d1db6.png" alt="Нужна помощь инженера?" class="img-fluid rounded border bg-white p-2 shadow-sm" style="max-height: 100px;">
+                    <img src="/zapchasti/buderus/e28473d83b264527636f57b9c31d1db6.png" alt="Нужна помощь инженера?" class="img-fluid rounded border bg-white p-2 shadow-sm" style="max-height: 100px;">
                 </div>
             </div>
         </div>

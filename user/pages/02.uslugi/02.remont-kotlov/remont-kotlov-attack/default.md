@@ -6,7 +6,7 @@ title: 'Ремонт котлов Attack'
     
     <div class="text-center py-3">
         <a href="#modal-img-1" class="lightbox-trigger d-inline-block mb-4" data-bs-toggle="modal" data-bs-target="#modal-img-1">
-            <img src="Screenshot_65(1).jpg" alt="Ремонт котлов Attack" class="img-fluid rounded shadow-sm">
+            <img src="/uslugi/remont-kotlov/remont-kotlov-attack/Screenshot_65(1).jpg" alt="Ремонт котлов Attack" class="img-fluid rounded shadow-sm">
         </a>
         
         <h1>Ремонт котлов Attack за 1 выезд.</h1>
@@ -18,7 +18,7 @@ title: 'Ремонт котлов Attack'
 
     <figure class="text-center mb-5">
         <a href="#modal-img-2" class="lightbox-trigger d-inline-block" data-bs-toggle="modal" data-bs-target="#modal-img-2">
-            <img src="attack-a780b5bf.png" alt="Схема котла Attack" class="img-fluid rounded shadow-sm">
+            <img src="/uslugi/remont-kotlov/remont-kotlov-attack/attack-a780b5bf.png" alt="Схема котла Attack" class="img-fluid rounded shadow-sm">
         </a>
     </figure>
 
@@ -41,7 +41,7 @@ title: 'Ремонт котлов Attack'
         </div>
         <div class="col-md-6 text-center">
             <a href="#modal-img-3" class="lightbox-trigger d-inline-block" data-bs-toggle="modal" data-bs-target="#modal-img-3">
-                <img src="Screenshot_69(2).jpg" alt="Мастер с запчастями" class="img-fluid rounded shadow-sm" style="max-height: 335px;">
+                <img src="/uslugi/remont-kotlov/remont-kotlov-attack/Screenshot_69(2).jpg" alt="Мастер с запчастями" class="img-fluid rounded shadow-sm" style="max-height: 335px;">
             </a>
         </div>
     </div>
@@ -84,7 +84,7 @@ title: 'Ремонт котлов Attack'
         </div>
         <div class="col-md-4 text-center">
             <a href="#modal-img-4" class="lightbox-trigger d-inline-block" data-bs-toggle="modal" data-bs-target="#modal-img-4">
-                <img src="Screenshot_68(1).jpg" alt="Ремонтная зона котла Attack" class="img-fluid rounded shadow-sm">
+                <img src="/uslugi/remont-kotlov/remont-kotlov-attack/Screenshot_68(1).jpg" alt="Ремонтная зона котла Attack" class="img-fluid rounded shadow-sm">
             </a>
         </div>
     </div>
@@ -97,7 +97,7 @@ title: 'Ремонт котлов Attack'
 
     <div class="text-center mb-5">
         <a href="#modal-img-5" class="lightbox-trigger d-inline-block" data-bs-toggle="modal" data-bs-target="#modal-img-5">
-            <img src="attack2.jpg" alt="Полное изображение котла Attack" class="img-fluid rounded shadow-sm">
+            <img src="/uslugi/remont-kotlov/remont-kotlov-attack/attack2.jpg" alt="Полное изображение котла Attack" class="img-fluid rounded shadow-sm">
         </a>
     </div>
     <p class="small mb-5">В случае возникновения любой из этих поломок или неисправностей, рекомендуется обратиться к профессиональным мастерам для диагностики и ремонта котла. Наша команда специалистов обладает опытом и знаниями, чтобы эффективно устранить любые поломки и восстановить нормальную работу вашего котла Attack.</p>
@@ -187,7 +187,7 @@ title: 'Ремонт котлов Attack'
         </div>
         <div class="col-md-6 text-center">
             <a href="#modal-img-6" class="lightbox-trigger d-inline-block" data-bs-toggle="modal" data-bs-target="#modal-img-6">
-                <img src="vyvoz-musora-v-moskovskoy-oblasti.jpg" alt="Карта Московской области" class="img-fluid rounded shadow-sm">
+                <img src="/uslugi/remont-kotlov/remont-kotlov-attack/vyvoz-musora-v-moskovskoy-oblasti.jpg" alt="Карта Московской области" class="img-fluid rounded shadow-sm">
             </a>
         </div>
     </div>
@@ -286,7 +286,7 @@ title: 'Ремонт котлов Attack'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="Screenshot_65(1).jpg" class="img-fluid rounded" alt="Ремонт котлов Attack" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/uslugi/remont-kotlov/remont-kotlov-attack/Screenshot_65(1).jpg" class="img-fluid rounded" alt="Ремонт котлов Attack" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -295,7 +295,7 @@ title: 'Ремонт котлов Attack'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="attack-a780b5bf.png" class="img-fluid rounded" alt="Схема котла Attack" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/uslugi/remont-kotlov/remont-kotlov-attack/attack-a780b5bf.png" class="img-fluid rounded" alt="Схема котла Attack" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -304,7 +304,7 @@ title: 'Ремонт котлов Attack'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="Screenshot_69(2).jpg" class="img-fluid rounded" alt="Мастер с запчастями" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/uslugi/remont-kotlov/remont-kotlov-attack/Screenshot_69(2).jpg" class="img-fluid rounded" alt="Мастер с запчастями" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -313,7 +313,7 @@ title: 'Ремонт котлов Attack'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="Screenshot_68(1).jpg" class="img-fluid rounded" alt="Ремонтная зона котла Attack" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/uslugi/remont-kotlov/remont-kotlov-attack/Screenshot_68(1).jpg" class="img-fluid rounded" alt="Ремонтная зона котла Attack" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -322,7 +322,7 @@ title: 'Ремонт котлов Attack'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="attack2.jpg" class="img-fluid rounded" alt="Полное изображение котла Attack" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/uslugi/remont-kotlov/remont-kotlov-attack/attack2.jpg" class="img-fluid rounded" alt="Полное изображение котла Attack" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -331,7 +331,7 @@ title: 'Ремонт котлов Attack'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="vyvoz-musora-v-moskovskoy-oblasti.jpg" class="img-fluid rounded" alt="Карта Московской области" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/uslugi/remont-kotlov/remont-kotlov-attack/vyvoz-musora-v-moskovskoy-oblasti.jpg" class="img-fluid rounded" alt="Карта Московской области" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

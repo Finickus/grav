@@ -32,8 +32,8 @@ title: 'Перестройка на пропан — TLO верс.15 (Медве
 <li class="mb-2"><i class="fas fa-screwdriver text-info me-2"></i> Навинтите новые сопла диаметра 1,6 мм из комплекта SPB-TLO15 с новыми уплотняющими шайбами (2)</li>
 </ol>
 <div class="row mt-4">
-<div class="col-md-6 mb-3"><a href="1.jpg" data-lightcard="conversion" data-h3="Замена сопел горелок - шаг 1"> <img src="1.jpg" alt="Перестройка на пропан - TLO верс.15 (Медведь)" class="img-fluid rounded border"> </a></div>
-<div class="col-md-6 mb-3"><a href="2.jpg" data-lightcard="conversion" data-h3="Замена сопел горелок - шаг 2"> <img src="2.jpg" alt="Перестройка на пропан - TLO верс.15 (Медведь)" class="img-fluid rounded border"> </a></div>
+<div class="col-md-6 mb-3"><a href="1.jpg" data-lightcard="conversion" data-h3="Замена сопел горелок - шаг 1"> <img src="/blog/perestrojka-na-propan-tlo-vers15-medved/1.jpg" alt="Перестройка на пропан - TLO верс.15 (Медведь)" class="img-fluid rounded border"> </a></div>
+<div class="col-md-6 mb-3"><a href="2.jpg" data-lightcard="conversion" data-h3="Замена сопел горелок - шаг 2"> <img src="/blog/perestrojka-na-propan-tlo-vers15-medved/2.jpg" alt="Перестройка на пропан - TLO верс.15 (Медведь)" class="img-fluid rounded border"> </a></div>
 </div>
 </div>
 </div>
@@ -50,7 +50,7 @@ title: 'Перестройка на пропан — TLO верс.15 (Медве
 <li class="mb-2"><i class="fas fa-power-off text-danger me-2"></i> После завершения регулировки котёл отключить, извлечь гибкую трубку U-образного манометра и чутко дотянуть запорный винт точки измерения.</li>
 <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i> Котёл ввести в ход и провести проверку герметичности точек измерения на газовой арматуре.</li>
 </ul>
-<div class="text-center mb-3"><a href="4.jpg" data-lightcard="conversion" data-h3="Настройка давления газа"> <img src="4.jpg" alt="Перестройка на пропан - TLO верс.15 (Медведь)" class="img-fluid rounded border"> </a></div>
+<div class="text-center mb-3"><a href="4.jpg" data-lightcard="conversion" data-h3="Настройка давления газа"> <img src="/blog/perestrojka-na-propan-tlo-vers15-medved/4.jpg" alt="Перестройка на пропан - TLO верс.15 (Медведь)" class="img-fluid rounded border"> </a></div>
 <h5 class="mt-4"><i class="fas fa-table text-secondary me-2"></i>Таблица параметров:</h5>
 <div class="table-responsive">
 <table class="table table-bordered table-striped">
@@ -122,7 +122,7 @@ title: 'Перестройка на пропан — TLO верс.15 (Медве
 <li class="mb-2"><i class="fas fa-plus text-success me-2"></i> Установите новое сопло 30 (0,30 мм) из комплекта SPB-TLO15</li>
 <li class="mb-2"><i class="fas fa-arrow-left text-info me-2"></i> Установите трубку главной горелки</li>
 </ol>
-<div class="text-center mt-3"><a href="3.jpg" data-lightcard="conversion" data-h3="Замена сопла главной горелки"> <img src="3.jpg" alt="Перестройка на пропан - TLO верс.15 (Медведь)" class="img-fluid rounded border"> </a></div>
+<div class="text-center mt-3"><a href="3.jpg" data-lightcard="conversion" data-h3="Замена сопла главной горелки"> <img src="/blog/perestrojka-na-propan-tlo-vers15-medved/3.jpg" alt="Перестройка на пропан - TLO верс.15 (Медведь)" class="img-fluid rounded border"> </a></div>
 </div>
 </div>
 <!-- Финальные предупреждения -->

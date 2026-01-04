@@ -11,7 +11,7 @@ title: 'Наши услуги включают:'
 <div>
 <div class="row">
 <div class="col-md-12 shadow-sm ">
-<p><img src="Screenshot_103.jpg" alt=""></p>
+<p><img src="/blog/remont-electrokotlov-protherm/Screenshot_103.jpg" alt=""></p>
 <p>Наша компания специализируемся на ремонте электрических котлов Protherm Skat и Ray и предлагаем полный спектр услуг, связанных с обслуживанием и восстановлением работоспособности ваших котлов. Наша команда опытных специалистов готова помочь вам с любыми проблемами, связанными с вашим электрическим котлом Protherm.</p>
 
 <div class="row">
@@ -93,7 +93,7 @@ title: 'Наши услуги включают:'
 </ul>
 <p style="padding: 0px; margin: 12px 0px 0px; user-select: text; word-break: break-word; line-height: var(--cib-type-body2-line-height); font-variation-settings: var(--cib-type-body2-font-variation-settings); color: #111111;  background-color: rgba(255, 255, 255, 0.7);">Не откладывайте сервисное обслуживание вашего котла. Закажите его прямо сейчас и получите специальную скидку! Для этого свяжитесь с нами по телефону или <a href="https://service04.ru/master" target="_blank" rel="noopener">заполните форму на нашем сайте</a>. </p>
 </div>
-<div class="col-md-4"><img src="logoprotherm.jpg" width="100%" height="" alt=""><img src="Screenshot_102.jpg" width="100%" height="" alt=""></div>
+<div class="col-md-4"><img src="/blog/remont-electrokotlov-protherm/logoprotherm.jpg" width="100%" height="" alt=""><img src="/blog/remont-electrokotlov-protherm/Screenshot_102.jpg" width="100%" height="" alt=""></div>
 </div>
 <p></p>
 <div class="alert alert-warning" role="alert">Сервисное обслуживание котлов рекомендуется проводить<strong> не реже одного раза в год</strong>, а также при появлении признаков неисправности или снижения эффективности работы котла. Для проведения сервисного обслуживания котлов необходимо обратиться к профессиональным мастерам, которые имеют опыт и квалификацию в этой области.</div>
@@ -121,5 +121,5 @@ title: 'Наши услуги включают:'
 </div>
 </div>
 </div>
-<p><img src="kotelprothermskat(2).jpg" alt=""></p>
+<p><img src="/blog/remont-electrokotlov-protherm/kotelprothermskat(2).jpg" alt=""></p>
 </div>

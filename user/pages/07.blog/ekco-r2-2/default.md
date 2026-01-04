@@ -13,7 +13,7 @@ title: 'Котлы EKCO.R2'
 </section>
 <div class="card mb-5 shadow">
 <div class="card-body text-center">
-<figure class="image is-inline-block"><a href="https://boilererror.ru/wp-content/uploads/2019/12/kotel-kospel10.jpg" target="_blank" rel="noopener"> <img src="kotel-kospel10-c924c717.jpg" alt="Котлы EKCO.R2" class="has-border-light"> </a></figure>
+<figure class="image is-inline-block"><a href="https://boilererror.ru/wp-content/uploads/2019/12/kotel-kospel10.jpg" target="_blank" rel="noopener"> <img src="/blog/ekco-r2-2/kotel-kospel10-c924c717.jpg" alt="Котлы EKCO.R2" class="has-border-light"> </a></figure>
 </div>
 </div>
 <div class="card mb-5 shadow"><header class="card-header bg-info text-white">
@@ -22,7 +22,7 @@ title: 'Котлы EKCO.R2'
 <div class="card-body">
 <div class="row g-3">
 <div class="col-lg-6 mb-3">
-<figure class="image mb-4"><img src="kotel-kospel12.jpg" alt="Панель управления EKCO.R2" class="has-border-light mb-3"> <img src="kotel-kospel11.jpg" alt="Схема подключения EKCO.R2" class="has-border-light"></figure>
+<figure class="image mb-4"><img src="/blog/ekco-r2-2/kotel-kospel12.jpg" alt="Панель управления EKCO.R2" class="has-border-light mb-3"> <img src="/blog/ekco-r2-2/kotel-kospel11.jpg" alt="Схема подключения EKCO.R2" class="has-border-light"></figure>
 </div>
 <div class="col-lg-6 content fs-6">
 <h5 class="h6 text-warning">Основы управления</h5>

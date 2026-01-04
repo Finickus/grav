@@ -21,7 +21,7 @@ title: 'Теплообменники для газовых водонагрев�
 <p class="mb-0">Теплообменник выполнен из <strong>толстой меди высокого качества</strong>. В случае течи теплообменника или выявления брака, допущенного на производстве, мы производим обмен на новый теплообменник.</p>
 </div>
 </div>
-<div class="col-md-4 text-center"><img src="logo-sit.png" alt="Логотип SIT" class="img-fluid rounded border mb-3"> <img src="teploobmenniki.png" alt="Газовая колонка в квартире на кухне" class="img-fluid rounded border"></div>
+<div class="col-md-4 text-center"><img src="/blog/teploobmenniki/logo-sit.png" alt="Логотип SIT" class="img-fluid rounded border mb-3"> <img src="/blog/teploobmenniki/teploobmenniki.png" alt="Газовая колонка в квартире на кухне" class="img-fluid rounded border"></div>
 </div>
 </div>
 </div>
@@ -234,7 +234,7 @@ title: 'Теплообменники для газовых водонагрев�
 <li class="mb-2"><i class="fas fa-exchange-alt text-secondary me-2"></i> Обмен на новый при течи или браке (только при установке нашим сервисным центром)</li>
 </ul>
 </div>
-<div class="col-md-4 text-center"><img src="image_1-1.jpg" alt="Теплообменник Electrolux GWH275RN" class="img-fluid rounded border mb-2">
+<div class="col-md-4 text-center"><img src="/blog/teploobmenniki/image_1-1.jpg" alt="Теплообменник Electrolux GWH275RN" class="img-fluid rounded border mb-2">
 <p class="small mb-0">Теплообменник Electrolux GWH275RN</p>
 </div>
 </div>

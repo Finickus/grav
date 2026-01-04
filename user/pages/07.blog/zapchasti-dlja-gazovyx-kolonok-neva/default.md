@@ -37,105 +37,105 @@ title: 'Схемы и запчасти для водонагревателей N
 <tr>
 <td>8</td>
 <td class="text-center">
-<figure class="image"><img src="Displej-4710-03.jpg" alt="Дисплей 4710-03.102" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/Displej-4710-03.jpg" alt="Дисплей 4710-03.102" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Дисплей 4710-03.102</td>
 </tr>
 <tr>
 <td>9</td>
 <td class="text-center">
-<figure class="image"><img src="Ruchka-4710-00.006.jpg" alt="Ручка 4710-00.006" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/Ruchka-4710-00.006.jpg" alt="Ручка 4710-00.006" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Ручка 4710-00.006</td>
 </tr>
 <tr>
 <td>16</td>
 <td class="text-center">
-<figure class="image"><img src="Svecha-3227-02.jpg" alt="Свеча 3227-02.130-01" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/Svecha-3227-02.jpg" alt="Свеча 3227-02.130-01" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Свеча 3227-02.130-01</td>
 </tr>
 <tr>
 <td>14</td>
 <td class="text-center">
-<figure class="image"><img src="Neva_kolonka_224003.jpg" alt="Тарелка со штоком 3227-02.300 VST3.4-0" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/Neva_kolonka_224003.jpg" alt="Тарелка со штоком 3227-02.300 VST3.4-0" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Тарелка со штоком 3227-02.300 VST3.4-0</td>
 </tr>
 <tr>
 <td>15</td>
 <td class="text-center">
-<figure class="image"><img src="Neva_kolonka_230628.jpg" alt="Горелка запальная 3295.07.30.000" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/Neva_kolonka_230628.jpg" alt="Горелка запальная 3295.07.30.000" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Горелка запальная 3295.07.30.000</td>
 </tr>
 <tr>
 <td>20</td>
 <td class="text-center">
-<figure class="image"><img src="2.png" alt="Свеча D-191" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/2.png" alt="Свеча D-191" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Свеча D-191</td>
 </tr>
 <tr>
 <td>29</td>
 <td class="text-center">
-<figure class="image"><img src="Datchik-nalichija-plameni-3227-02.140-01.jpeg" alt="Датчик наличия пламени 3227-02.140-01" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/Datchik-nalichija-plameni-3227-02.140-01.jpeg" alt="Датчик наличия пламени 3227-02.140-01" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Датчик наличия пламени 3227-02.140-01</td>
 </tr>
 <tr>
 <td>13</td>
 <td class="text-center">
-<figure class="image"><img src="Datchik-nalichija-plameni-3227-02.jpg" alt="Датчик наличия пламени 3227-02.140-01" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/Datchik-nalichija-plameni-3227-02.jpg" alt="Датчик наличия пламени 3227-02.140-01" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Датчик наличия пламени 3227-02.140-01</td>
 </tr>
 <tr>
 <td><em>(Номер не указан)</em></td>
 <td class="text-center">
-<figure class="image"><img src="neva-membrana.png" alt="Мембрана" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/neva-membrana.png" alt="Мембрана" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Мембрана</td>
 </tr>
 <tr>
 <td><em>(Номер не указан)</em></td>
 <td class="text-center">
-<figure class="image"><img src="neva-vodgaz.png" alt="Узел водогазовый" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/neva-vodgaz.png" alt="Узел водогазовый" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Узел водогазовый</td>
 </tr>
 <tr>
 <td><em>(Номер не указан)</em></td>
 <td class="text-center">
-<figure class="image"><img src="neva-teploobmen.png" alt="Теплообменник" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/neva-teploobmen.png" alt="Теплообменник" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Теплообменник</td>
 </tr>
 <tr>
 <td><em>(Номер не указан)</em></td>
 <td class="text-center">
-<figure class="image"><img src="4511.jpeg" alt="ЗАПАСНЫЕ ЧАСТИ ДЛЯ ВПГ NEVA-4511" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/4511.jpeg" alt="ЗАПАСНЫЕ ЧАСТИ ДЛЯ ВПГ NEVA-4511" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>ЗАПАСНЫЕ ЧАСТИ ДЛЯ ВПГ NEVA-4511</td>
 </tr>
 <tr>
 <td><em>(Номер не указан)</em></td>
 <td class="text-center">
-<figure class="image"><img src="neva6014.jpg" alt="Запчасти для колонки нева 6014" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/neva6014.jpg" alt="Запчасти для колонки нева 6014" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Запчасти для колонки нева 6014</td>
 </tr>
 <tr>
 <td><em>(Номер не указан)</em></td>
 <td class="text-center">
-<figure class="image"><img src="neva-blok.png" alt="Электронный блок Нева" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/neva-blok.png" alt="Электронный блок Нева" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Электронный блок Нева</td>
 </tr>
 <tr>
 <td><em>(Номер не указан)</em></td>
 <td class="text-center">
-<figure class="image"><img src="10.png" alt="Ручка регулировки температуры/расхода воды G40-SP041" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/10.png" alt="Ручка регулировки температуры/расхода воды G40-SP041" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Ручка регулировки температуры/расхода воды G40-SP041</td>
 </tr>
@@ -166,7 +166,7 @@ title: 'Схемы и запчасти для водонагревателей N
 <tr>
 <td><em>(Номер не указан)</em></td>
 <td class="text-center">
-<figure class="image"><img src="2.png" alt="Свеча D-191" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/2.png" alt="Свеча D-191" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Свеча D-191</td>
 </tr>
@@ -190,28 +190,28 @@ title: 'Схемы и запчасти для водонагревателей N
 <tr>
 <td><em>(Номер не указан)</em></td>
 <td class="text-center">
-<figure class="image"><img src="img-2017-02-13-12-40-30_service04.png" alt="Накладка 85х200 (светло-серая...)" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/img-2017-02-13-12-40-30_service04.png" alt="Накладка 85х200 (светло-серая...)" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Накладка 85х200 (светло-серая, с защитной пленкой) 3227-07.010</td>
 </tr>
 <tr>
 <td><em>(Номер не указан)</em></td>
 <td class="text-center">
-<figure class="image"><img src="img-2017-02-13-12-40-43_service04.png" alt="Дисплей 3227-07.003" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/img-2017-02-13-12-40-43_service04.png" alt="Дисплей 3227-07.003" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Дисплей 3227-07.003</td>
 </tr>
 <tr>
 <td><em>(Номер не указан)</em></td>
 <td class="text-center">
-<figure class="image"><img src="img-2017-02-13-12-40-57_service04.png" alt="Ручка (D40) 3227-00.004" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/img-2017-02-13-12-40-57_service04.png" alt="Ручка (D40) 3227-00.004" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Ручка (D40) 3227-00.004</td>
 </tr>
 <tr>
 <td><em>(Номер не указан)</em></td>
 <td class="text-center">
-<figure class="image"><img src="W8PHgZi49mk_service04.ru_.jpg" alt="Блок управления электронный 3272-16.000" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/W8PHgZi49mk_service04.ru_.jpg" alt="Блок управления электронный 3272-16.000" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Блок управления электронный<br>3272-16.000</td>
 </tr>
@@ -259,14 +259,14 @@ title: 'Схемы и запчасти для водонагревателей N
 <tr>
 <td>18</td>
 <td class="text-center">
-<figure class="image"><img src="Svecha-3227-02.130-01.jpeg" alt="Свеча 3227-02.130-01" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/Svecha-3227-02.130-01.jpeg" alt="Свеча 3227-02.130-01" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Свеча 3227-02.130-01</td>
 </tr>
 <tr>
 <td>18</td>
 <td class="text-center">
-<figure class="image"><img src="7.png" alt="Термореле 90 0 С TF01-BLAE90A2" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image"><img src="/blog/zapchasti-dlja-gazovyx-kolonok-neva/7.png" alt="Термореле 90 0 С TF01-BLAE90A2" style="max-height: 100px; max-width: 100%; border: 1px solid #ddd;"></figure>
 </td>
 <td>Термореле 90 0 С TF01-BLAE90A2</td>
 </tr>

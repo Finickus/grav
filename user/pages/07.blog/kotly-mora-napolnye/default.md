@@ -5,7 +5,7 @@ title: 'Напольные котлы MORA: Обзор моделей и тех�
 <div class="container-fluid mt-5 mb-5">
 
 <div class="text-center mb-5">
-<figure class="image is-inline-block"><img src="SA-20-60-1.jpg" alt="Котел MORA напольный" class="shadow" style="max-width: 300px; border: 1px solid #ddd;">
+<figure class="image is-inline-block"><img src="/blog/kotly-mora-napolnye/SA-20-60-1.jpg" alt="Котел MORA напольный" class="shadow" style="max-width: 300px; border: 1px solid #ddd;">
 <figcaption class="text-muted fs-6 mt-2">Надежные напольные котлы чешского производства</figcaption>
 </figure>
 </div>
@@ -124,7 +124,7 @@ title: 'Напольные котлы MORA: Обзор моделей и тех�
 </figure>
 </div>
 <div class="col-4 text-center">
-<figure><img src="SA-20-60.jpg" alt="Котлы MORA в котельной" class="shadow" style="max-width: 100%; border: 1px solid #ddd;">
+<figure><img src="/blog/kotly-mora-napolnye/SA-20-60.jpg" alt="Котлы MORA в котельной" class="shadow" style="max-width: 100%; border: 1px solid #ddd;">
 <figcaption class="fs-6 mt-2">Комплексные решения</figcaption>
 </figure>
 </div>

@@ -16,7 +16,7 @@ title: Dakon
                 </div>
             </div>
             <div class="col-lg-4 text-center mt-4 mt-lg-0">
-                <img src="dakon_png-4017b8d7.png" alt="Логотип Dakon" class="img-fluid" style="max-height: 120px;">
+                <img src="/zapchasti/dakon/dakon_png-4017b8d7.png" alt="Логотип Dakon" class="img-fluid" style="max-height: 120px;">
             </div>
         </div>
     </div>
@@ -26,7 +26,7 @@ title: Dakon
             <h2 class="h4 fw-bold text-warning mb-4">Для надежной работы техники — только оригинальные детали Dakon</h2>
             <div class="row g-4 align-items-center">
                 <div class="col-md-6 text-center">
-                    <img src="zapchasti-dakon.jpg" class="img-fluid rounded-4 shadow-sm mb-3" alt="Запчасти Dakon">
+                    <img src="/zapchasti/dakon/zapchasti-dakon.jpg" class="img-fluid rounded-4 shadow-sm mb-3" alt="Запчасти Dakon">
                     <p class="small text-muted">Оригинальные комплектующие — это гарантия безопасности вашего дома.</p>
                 </div>
                 <div class="col-md-6">

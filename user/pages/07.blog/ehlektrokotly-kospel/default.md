@@ -32,17 +32,17 @@ title: 'Модели котлов EKCO'
 <tbody>
 <tr>
 <td>**Котел EKCO.T**</td>
-<td><a href="kotel-kospel1.jpg" target="_blank" data-h3="Котел EKCO.T" rel="noopener"> <img src="kotel-kospel1.jpg" alt="Котел EKCO.T" class="image is-128x128 is-inline-block" style="max-height: 150px;"> </a></td>
+<td><a href="kotel-kospel1.jpg" target="_blank" data-h3="Котел EKCO.T" rel="noopener"> <img src="/blog/ehlektrokotly-kospel/kotel-kospel1.jpg" alt="Котел EKCO.T" class="image is-128x128 is-inline-block" style="max-height: 150px;"> </a></td>
 <td>Котел большой мощности для совместной работы в отопительной системе, а также с бойлером ГВС</td>
 </tr>
 <tr>
 <td>**Котел EKCO.MNz**</td>
-<td><a href="kotel-kospel2.jpg" target="_blank" data-h3="Котел EKCO.MNz" rel="noopener"> <img src="kotel-kospel2.jpg" alt="Котел EKCO.MNz" class="image is-128x128 is-inline-block" style="max-height: 150px;"> </a></td>
+<td><a href="kotel-kospel2.jpg" target="_blank" data-h3="Котел EKCO.MNz" rel="noopener"> <img src="/blog/ehlektrokotly-kospel/kotel-kospel2.jpg" alt="Котел EKCO.MNz" class="image is-128x128 is-inline-block" style="max-height: 150px;"> </a></td>
 <td>Котел с наружным погодным датчиком, большой мощности, для совместной работы с одним или двумя отопительными контурами и бойлером ГВС</td>
 </tr>
 <tr>
 <td>**Котел EKCO.L2**</td>
-<td><a href="kotel-kospel3.jpg" target="_blank" data-h3="Котел EKCO.L2" rel="noopener"> <img src="kotel-kospel3.jpg" alt="Котел EKCO.L2" class="image is-128x128 is-inline-block" style="max-height: 150px;"> </a></td>
+<td><a href="kotel-kospel3.jpg" target="_blank" data-h3="Котел EKCO.L2" rel="noopener"> <img src="/blog/ehlektrokotly-kospel/kotel-kospel3.jpg" alt="Котел EKCO.L2" class="image is-128x128 is-inline-block" style="max-height: 150px;"> </a></td>
 <td>Котел для системы типа «теплый пол»; cниженные параметры обогрева и соответствующая термическая защита</td>
 </tr>
 </tbody>
@@ -55,7 +55,7 @@ title: 'Модели котлов EKCO'
 </header>
 <div class="card-body">
 <div class="row g-3">
-<div class="col-4 mb-3 text-center"><a href="https://boilererror.ru/wp-content/uploads/2019/12/kotel-kospel1.jpg" target="_blank" data-h3="Котлы EKCO.T / EKCO.TM" rel="noopener"> <img src="kotel-kospel1-a6613be3.jpg" alt="Котлы EKCO.T / EKCO.TM" class="is-fullwidth has-border-light"> </a></div>
+<div class="col-4 mb-3 text-center"><a href="https://boilererror.ru/wp-content/uploads/2019/12/kotel-kospel1.jpg" target="_blank" data-h3="Котлы EKCO.T / EKCO.TM" rel="noopener"> <img src="/blog/ehlektrokotly-kospel/kotel-kospel1-a6613be3.jpg" alt="Котлы EKCO.T / EKCO.TM" class="is-fullwidth has-border-light"> </a></div>
 <div class="col is-two-thirds content">
 <ul class="ml-4 list-unstyled">
 <li class="mb-2"><span class="icon me-2 text-primary"><i class="fas fa-bolt"></i></span> **Модель EKCO.T** — котел большой мощности для совместной работы в отопительной системе, а также с бойлером ГВС</li>
@@ -66,7 +66,7 @@ title: 'Модели котлов EKCO'
 </ul>
 </div>
 </div>
-<div class="text-center mt-4"><a href="kotel-kospel9.jpg" target="_blank" data-h3="Дополнительное изображение EKCO.T" class="is-inline-block" rel="noopener"> <img src="kotel-kospel9.jpg" alt="Дополнительное изображение EKCO.T" style="max-height: 200px;" class="has-border-light"> </a></div>
+<div class="text-center mt-4"><a href="kotel-kospel9.jpg" target="_blank" data-h3="Дополнительное изображение EKCO.T" class="is-inline-block" rel="noopener"> <img src="/blog/ehlektrokotly-kospel/kotel-kospel9.jpg" alt="Дополнительное изображение EKCO.T" style="max-height: 200px;" class="has-border-light"> </a></div>
 </div>
 </div>
 <div class="card mb-5"><header class="card-header bg-warning text-dark">
@@ -74,7 +74,7 @@ title: 'Модели котлов EKCO'
 </header>
 <div class="card-body">
 <div class="row g-3 is-vcentered">
-<div class="col-4 mb-3 text-center"><a href="kotel-kospel8-d8eb466a.jpg" target="_blank" data-h3="Котлы EKCO.R2" rel="noopener"> <img src="kotel-kospel8-d8eb466a.jpg" alt="Котлы EKCO.R2" class="is-fullwidth has-border-light"> </a></div>
+<div class="col-4 mb-3 text-center"><a href="kotel-kospel8-d8eb466a.jpg" target="_blank" data-h3="Котлы EKCO.R2" rel="noopener"> <img src="/blog/ehlektrokotly-kospel/kotel-kospel8-d8eb466a.jpg" alt="Котлы EKCO.R2" class="is-fullwidth has-border-light"> </a></div>
 <div class="col is-two-thirds content">
 <ul class="ml-4 list-unstyled">
 <li class="mb-2"><span class="icon me-2 text-primary"><i class="fas fa-home"></i></span> **Предназначены** для совместной работы в отопительных системах, а также с бойлером косвенного нагрева</li>
@@ -91,7 +91,7 @@ title: 'Модели котлов EKCO'
 </header>
 <div class="card-body">
 <div class="row g-3 is-vcentered">
-<div class="col-4 mb-3 text-center"><a href="kotel-kospel4-a8dfa6c9.jpg" target="_blank" data-h3="Котлы EKCO.L2 / EKCO.LN2" rel="noopener"> <img src="kotel-kospel4-a8dfa6c9.jpg" alt="Котлы EKCO.L2 / EKCO.LN2" class="is-fullwidth has-border-light"> </a></div>
+<div class="col-4 mb-3 text-center"><a href="kotel-kospel4-a8dfa6c9.jpg" target="_blank" data-h3="Котлы EKCO.L2 / EKCO.LN2" rel="noopener"> <img src="/blog/ehlektrokotly-kospel/kotel-kospel4-a8dfa6c9.jpg" alt="Котлы EKCO.L2 / EKCO.LN2" class="is-fullwidth has-border-light"> </a></div>
 <div class="col is-two-thirds content">
 <ul class="ml-4 list-unstyled">
 <li class="mb-2"><span class="icon me-2 text-primary"><i class="fas fa-tint"></i></span> **Модель EKCO.LN2** – котел оборудован расширительным баком (6 литров) и обходным клапаном bypass</li>
@@ -101,7 +101,7 @@ title: 'Модели котлов EKCO'
 </ul>
 </div>
 </div>
-<div class="text-center mt-4"><a href="kotel-kospel6.jpg" target="_blank" data-h3="Дополнительное изображение EKCO.L2" class="is-inline-block me-3" rel="noopener"> <img src="kotel-kospel6.jpg" alt="Дополнительное изображение EKCO.L2" style="max-height: 150px;" class="has-border-light"> </a> <a href="kotel-kospel5.jpg" target="_blank" data-h3="Котлы EKCO.L2 / EKCO.LN2" class="is-inline-block" rel="noopener"> <img src="kotel-kospel5.jpg" alt="Котлы EKCO.L2 / EKCO.LN2" style="max-height: 150px;" class="has-border-light"> </a></div>
+<div class="text-center mt-4"><a href="kotel-kospel6.jpg" target="_blank" data-h3="Дополнительное изображение EKCO.L2" class="is-inline-block me-3" rel="noopener"> <img src="/blog/ehlektrokotly-kospel/kotel-kospel6.jpg" alt="Дополнительное изображение EKCO.L2" style="max-height: 150px;" class="has-border-light"> </a> <a href="kotel-kospel5.jpg" target="_blank" data-h3="Котлы EKCO.L2 / EKCO.LN2" class="is-inline-block" rel="noopener"> <img src="/blog/ehlektrokotly-kospel/kotel-kospel5.jpg" alt="Котлы EKCO.L2 / EKCO.LN2" style="max-height: 150px;" class="has-border-light"> </a></div>
 </div>
 </div>
 <div class="card mb-5"><header class="card-header bg-secondary text-white">
@@ -109,7 +109,7 @@ title: 'Модели котлов EKCO'
 </header>
 <div class="card-body">
 <div class="row g-3 is-vcentered">
-<div class="col-4 mb-3 text-center"><a href="https://boilererror.ru/wp-content/uploads/2019/12/kotel-kospel2.jpg" target="_blank" data-h3="Котлы EKCO.Мz / EKCO.МNz" rel="noopener"> <img src="kotel-kospel2-1e3110a4.jpg" alt="Котлы EKCO.Мz / EKCO.МNz" class="is-fullwidth has-border-light"> </a></div>
+<div class="col-4 mb-3 text-center"><a href="https://boilererror.ru/wp-content/uploads/2019/12/kotel-kospel2.jpg" target="_blank" data-h3="Котлы EKCO.Мz / EKCO.МNz" rel="noopener"> <img src="/blog/ehlektrokotly-kospel/kotel-kospel2-1e3110a4.jpg" alt="Котлы EKCO.Мz / EKCO.МNz" class="is-fullwidth has-border-light"> </a></div>
 <div class="col is-two-thirds content">
 <ul class="ml-4 list-unstyled">
 <li class="mb-2"><span class="icon me-2 text-primary"><i class="fas fa-thermometer-empty"></i></span> **Модель EKCO.Mz** — котел с наружным погодным датчиком, без расширительного бака.</li>
@@ -118,7 +118,7 @@ title: 'Модели котлов EKCO'
 </ul>
 </div>
 </div>
-<div class="text-center mt-4"><a href="kotel-kospel7.jpg" target="_blank" data-h3="Дополнительное изображение EKCO.Мz / EKCO.МNz" class="is-inline-block" rel="noopener"> <img src="kotel-kospel7.jpg" alt="Дополнительное изображение EKCO.Мz / EKCO.МNz" style="max-height: 200px;" class="has-border-light"> </a></div>
+<div class="text-center mt-4"><a href="kotel-kospel7.jpg" target="_blank" data-h3="Дополнительное изображение EKCO.Мz / EKCO.МNz" class="is-inline-block" rel="noopener"> <img src="/blog/ehlektrokotly-kospel/kotel-kospel7.jpg" alt="Дополнительное изображение EKCO.Мz / EKCO.МNz" style="max-height: 200px;" class="has-border-light"> </a></div>
 </div>
 </div>
 <div class="card mb-5"><header class="card-header bg-light">

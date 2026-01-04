@@ -6,7 +6,7 @@ title: 'Газовые проточные водонагреватели « Ро
 <div class="card mb-5">
 <div class="row align-items-center">
 <div class="col is-one-quarter text-center">
-<figure class="image is-inline-block"><img src="rossiyanka-logo.jpg" alt="колонка россиянка"></figure>
+<figure class="image is-inline-block"><img src="/blog/gazovye-kolonki-rossijanka/rossiyanka-logo.jpg" alt="колонка россиянка"></figure>
 </div>
 <div class="col is-three-quarters content">
 <p class="mb-3">Компания «Россиянка» — производитель современного высокотехнологичного оборудования для комфортного обеспечения горячей водой и отопления жилья. Все изделия разработаны с учетом **российских условий эксплуатации**.</p>
@@ -18,7 +18,7 @@ title: 'Газовые проточные водонагреватели « Ро
 
 <div class="row is-variable is-6">
 <div class="col-4 text-center">
-<figure class="image is-inline-block has-border-light"><a href="https://boilererror.ru/wp-content/uploads/2019/12/5a0eaa2cba3c2_rossiyanka_vpg.jpg" target="_blank" rel="noopener" h3="Газовая колонка Россиянка"> <img src="5a0eaa2cba3c2_rossiyanka_vpg-9d598bba.jpg" alt="Газовая колонка Россиянка"> </a></figure>
+<figure class="image is-inline-block has-border-light"><a href="https://boilererror.ru/wp-content/uploads/2019/12/5a0eaa2cba3c2_rossiyanka_vpg.jpg" target="_blank" rel="noopener" h3="Газовая колонка Россиянка"> <img src="/blog/gazovye-kolonki-rossijanka/5a0eaa2cba3c2_rossiyanka_vpg-9d598bba.jpg" alt="Газовая колонка Россиянка"> </a></figure>
 </div>
 <div class="col-8 content">
 <p>Данные модели выпускаются с 2001 года. Предназначены для подготовки горячей воды для бытовых нужд в проточном режиме. Производительность, в зависимости от модели, от **5 до 14 литров в минуту**.</p>
@@ -27,13 +27,13 @@ title: 'Газовые проточные водонагреватели « Ро
 <p>Газовая колонка должна быть удобной и красивой. Поэтому у всех колонок «Россиянка-М» такие **компактные размеры** и **симпатичный дизайн**. **Гарантия на все модели — 2 года.**</p>
 </div>
 </div>
-<figure class="image mt-5"><img src="rossiyanka.jpg" alt="Технические характеристики колонки Россиянка"></figure>
+<figure class="image mt-5"><img src="/blog/gazovye-kolonki-rossijanka/rossiyanka.jpg" alt="Технические характеристики колонки Россиянка"></figure>
 </div>
 <div class="card mb-5">
 <h2 class="h4 display-4 mb-4" style="padding-bottom: 5px; border-bottom: 2px solid #e37a25; color: #e37a25;">ТАБЛИЦА ГАЗОВЫХ ПРОТОЧНЫХ ВОДОНАГРЕВАТЕЛЕЙ</h2>
 <div class="row align-items-center mb-5">
 <div class="col-4 text-center">
-<figure class="image is-inline-block"><img src="5a0eaa2cb8846_rossiyanka_vpg-2-00c78c3c.jpg" alt="Газовая колонка Россиянка ВПГ"></figure>
+<figure class="image is-inline-block"><img src="/blog/gazovye-kolonki-rossijanka/5a0eaa2cb8846_rossiyanka_vpg-2-00c78c3c.jpg" alt="Газовая колонка Россиянка ВПГ"></figure>
 </div>
 <div class="col-8 content">
 <p class="fs-6 mb-1">Вся продукция сертифицирована Госстандартом России.</p>

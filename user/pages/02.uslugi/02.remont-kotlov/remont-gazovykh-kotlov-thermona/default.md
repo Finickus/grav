@@ -16,7 +16,7 @@ title: 'Ремонт газовых котлов Thermona'
 
     <div class="text-center mb-5">
         <a href="#modal-main-thermona" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-main-thermona">
-            <img src="term1(1).jpg" alt="Ремонт газовых котлов Thermona" class="img-fluid rounded shadow-sm">
+            <img src="/uslugi/remont-kotlov/remont-gazovykh-kotlov-thermona/term1(1).jpg" alt="Ремонт газовых котлов Thermona" class="img-fluid rounded shadow-sm">
         </a>
     </div>
 
@@ -87,7 +87,7 @@ title: 'Ремонт газовых котлов Thermona'
     
     <div class="text-center mb-5">
         <a href="#modal-thermona-scheme" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-thermona-scheme">
-            <img src="termona1(1).jpeg" alt="Схема котла Thermona" class="img-fluid rounded shadow-sm">
+            <img src="/uslugi/remont-kotlov/remont-gazovykh-kotlov-thermona/termona1(1).jpeg" alt="Схема котла Thermona" class="img-fluid rounded shadow-sm">
         </a>
     </div>
 
@@ -145,7 +145,7 @@ title: 'Ремонт газовых котлов Thermona'
         </blockquote>
         <div class="text-center mt-4">
             <a href="#modal-safety" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-safety">
-                <img src="term(2).jpg" alt="Сервисный автомобиль" class="img-fluid rounded shadow-sm">
+                <img src="/uslugi/remont-kotlov/remont-gazovykh-kotlov-thermona/term(2).jpg" alt="Сервисный автомобиль" class="img-fluid rounded shadow-sm">
             </a>
         </div>
     </div>
@@ -165,7 +165,7 @@ title: 'Ремонт газовых котлов Thermona'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="term1(1).jpg" class="img-fluid rounded" alt="Ремонт газовых котлов Thermona" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/uslugi/remont-kotlov/remont-gazovykh-kotlov-thermona/term1(1).jpg" class="img-fluid rounded" alt="Ремонт газовых котлов Thermona" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -192,7 +192,7 @@ title: 'Ремонт газовых котлов Thermona'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="termona1(1).jpeg" class="img-fluid rounded" alt="Схема котла Thermona" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/uslugi/remont-kotlov/remont-gazovykh-kotlov-thermona/termona1(1).jpeg" class="img-fluid rounded" alt="Схема котла Thermona" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -201,7 +201,7 @@ title: 'Ремонт газовых котлов Thermona'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="term(2).jpg" class="img-fluid rounded" alt="Сервисный автомобиль" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/uslugi/remont-kotlov/remont-gazovykh-kotlov-thermona/term(2).jpg" class="img-fluid rounded" alt="Сервисный автомобиль" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

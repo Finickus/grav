@@ -67,7 +67,7 @@ title: 'Запчасти котла THERM 20 TCXE.A 2015г'
 [63]     — 42319     Боковая часть левая<br>
 [64]     — 42320     Боковая часть правая<br>
 [65]     — 42321     Передняя крышка</p>
-<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="2550_panel-20-pozice.jpg" alt=""></p>
+<p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'><img src="/blog/therm-20-tcxea-2015g/2550_panel-20-pozice.jpg" alt=""></p>
 <p style='color: rgb(96, 88, 77);  background-color: rgb(251, 250, 249);'>Названия компонентов по спецификации<br>
 [65]     — 42266.1     Лицевая часть панели управления<br>
 [66]     — 42270.1     Задняя крышка панели управления<br>

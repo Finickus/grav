@@ -5,9 +5,9 @@ title: 'ТЕПЛООБМЕННИК Electrolux GWH 275 и 250 (НЕ ПУТАТЬ 
 
 
 <div class="feature" style="color: #60584d; ">
-<p><img src="wpd93ff186_05_06.jpg" alt=""></p>
+<p><img src="/blog/electroluxgwh275rn/wpd93ff186_05_06.jpg" alt=""></p>
 <p><span style="color: #ff0000; font-size: 16px;"><strong>Стоимость при покупке со склада 8900 руб</strong></span></p>
-<p><a href="zapchasti/gazovye-kolonki/electrolux/85-electrolux-gwh-275-sern/teploobmennik-gwh-275srn-detail.html"><span style="color: #ff0000; font-size: 16px;"><strong><img src="buy_nowf-3.png" alt=""></strong></span></a></p>
+<p><a href="zapchasti/gazovye-kolonki/electrolux/85-electrolux-gwh-275-sern/teploobmennik-gwh-275srn-detail.html"><span style="color: #ff0000; font-size: 16px;"><strong><img src="/blog/electroluxgwh275rn/buy_nowf-3.png" alt=""></strong></span></a></p>
 <p>Мы продаем теплообменники для газовых колонок Электролюкс в том числе теплообменник электролюкс Electrolux 275 / 250</p>
 <p><span style="color: #ff0000; font-size: 16px;"><strong>Доствка по Москве 390руб. (1-2 дня)</strong></span></p>
 <p><span style="color: #ff0000; font-size: 16px;"><strong>Срочная доставка 800 руб (3-4 часа)</strong></span></p>
@@ -37,7 +37,7 @@ title: 'ТЕПЛООБМЕННИК Electrolux GWH 275 и 250 (НЕ ПУТАТЬ 
 </div>
 <div class="story" style="color: #60584d; ">
 <h3 style="text-transform: uppercase; color: #e37a25;">ФОТО ГАЗОВОЙ КОЛОНКИ ELECTROLUX 275</h3>
-<p><img src="electrolux-gwh-275-rn1.jpg" alt=""> <img src="59207042.jpg" alt="Шилдик электрролюкс 275"></p>
+<p><img src="electrolux-gwh-275-rn1.jpg" alt=""> <img src="/blog/electroluxgwh275rn/59207042.jpg" alt="Шилдик электрролюкс 275"></p>
 <p>Купить теплообменник электролюкс с доставкой </p>
 </div>
  

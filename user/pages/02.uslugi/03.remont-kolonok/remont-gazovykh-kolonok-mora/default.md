@@ -15,7 +15,7 @@ title: 'Ремонт газовых колонок Mora'
     <div class="row g-4 mb-5 align-items-center">
         <div class="col-md-4 text-center">
             <a href="#modal-img-col" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-col">
-                <img src="2022-07-15_125209.jpg" alt="Газовая колонка Mora" class="img-fluid rounded shadow-lg img-card" style="max-height: 350px;">
+                <img src="/uslugi/remont-kolonok/remont-gazovykh-kolonok-mora/2022-07-15_125209.jpg" alt="Газовая колонка Mora" class="img-fluid rounded shadow-lg img-card" style="max-height: 350px;">
             </a>
         </div>
         <div class="col-md-8">
@@ -110,7 +110,7 @@ title: 'Ремонт газовых колонок Mora'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="2022-07-15_125209.jpg" class="img-fluid rounded" alt="Газовая колонка Mora" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/uslugi/remont-kolonok/remont-gazovykh-kolonok-mora/2022-07-15_125209.jpg" class="img-fluid rounded" alt="Газовая колонка Mora" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

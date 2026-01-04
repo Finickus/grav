@@ -17,7 +17,7 @@ title: 'Настенные котлы Mora'
 <p><strong>MORA-TOP</strong> — это чешская компания, специализирующаяся на производстве газовых и электрических котлов, а также газовых проточных водонагревателей. Настенные газовые котлы MORA-TOP представляют собой современное и надежное решение для систем отопления и горячего водоснабжения.</p>
 </div>
 <div class="col-6 text-center">
-<figure class="image is-inline-block"><img src="prod1.jpg" alt="Настенный котел Mora" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image is-inline-block"><img src="/blog/kotly-mora/prod1.jpg" alt="Настенный котел Mora" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 </div>
 </div>
 </div>

@@ -22,7 +22,7 @@ title: 'Стабилизаторы напряжения для газовых к
 </div>
 <div class="card-body">
 <div class="row mb-3">
-<div class="col-md-6 text-center mb-3"><img src="stabilizatory.png" class="img-fluid rounded border" alt="Стабилизаторы напряжения для котлов отопления"></div>
+<div class="col-md-6 text-center mb-3"><img src="/blog/stabilizatory-naprjazhenija-dlja-gazovyx-kotlov/stabilizatory.png" class="img-fluid rounded border" alt="Стабилизаторы напряжения для котлов отопления"></div>
 <div class="col-md-6">
 <p>Стабилизатор напряжения – устройство, предназначенное для качественного и бесперебойного электропитания котельного оборудования, арматуры, насосов, вентиляторов, которые используются в системе отопления. На рынке котельного оборудования актуальны несколько типов стабилизаторов, которые отличаются по принципу работы:</p>
 </div>
@@ -54,12 +54,12 @@ title: 'Стабилизаторы напряжения для газовых к
 </div>
 <div class="card-body">
 <div class="row text-center">
-<div class="col-md-6 mb-3"><a href="https://service04.ru/stabilizatory-naprjazhenija-bastion.html" target="_blank" rel="noopener"> <img src="stabilizatory-bastion.png" class="img-fluid rounded border mb-2" style="max-height: 100px;" alt="Стабилизаторы напряжения Бастион"> </a>
+<div class="col-md-6 mb-3"><a href="https://service04.ru/stabilizatory-naprjazhenija-bastion.html" target="_blank" rel="noopener"> <img src="/blog/stabilizatory-naprjazhenija-dlja-gazovyx-kotlov/stabilizatory-bastion.png" class="img-fluid rounded border mb-2" style="max-height: 100px;" alt="Стабилизаторы напряжения Бастион"> </a>
 <h6 class="h6"><a href="https://service04.ru/stabilizatory-naprjazhenija-bastion.html" class="text-dark" target="_blank" rel="noopener">БАСТИОН</a></h6>
-<a href="https://service04.ru/blok-zaschity-radel.html" target="_blank" rel="noopener"> <img src="rodel800.jpg" class="img-fluid rounded border mb-2" style="max-height: 100px;" alt="Блок защиты Радел-800"> </a>
+<a href="https://service04.ru/blok-zaschity-radel.html" target="_blank" rel="noopener"> <img src="/blog/stabilizatory-naprjazhenija-dlja-gazovyx-kotlov/rodel800.jpg" class="img-fluid rounded border mb-2" style="max-height: 100px;" alt="Блок защиты Радел-800"> </a>
 <p><a href="https://service04.ru/blok-zaschity-radel.html" class="text-dark" target="_blank" rel="noopener">Блок защиты Радел-800</a></p>
 </div>
-<div class="col-md-6 mb-3"><a href="https://service04.ru/stabilizatory-shtil.html" target="_blank" rel="noopener"> <img src="stabilizatory-shtil.png" class="img-fluid rounded border mb-2" style="max-height: 100px;" alt="Стабилизаторы Штиль"> </a>
+<div class="col-md-6 mb-3"><a href="https://service04.ru/stabilizatory-shtil.html" target="_blank" rel="noopener"> <img src="/blog/stabilizatory-naprjazhenija-dlja-gazovyx-kotlov/stabilizatory-shtil.png" class="img-fluid rounded border mb-2" style="max-height: 100px;" alt="Стабилизаторы Штиль"> </a>
 <h6 class="h6"><a href="https://service04.ru/stabilizatory-shtil.html" class="text-dark" target="_blank" rel="noopener">ШТИЛЬ</a></h6>
 </div>
 </div>

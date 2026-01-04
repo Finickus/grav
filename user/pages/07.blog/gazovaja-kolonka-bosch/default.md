@@ -92,7 +92,7 @@ title: 'Газовые колонки Bosch'
 <h5 class="h6"><span class="icon me-2"><i class="fas fa-thumbs-up"></i></span>Преимущества сотрудничества</h5>
 <p class="mb-0 fs-6">Оптимальная стоимость колонок, профессиональное консультирование на этапах выбора, сертифицированный монтаж и обслуживание – мы предлагаем комплексное обслуживание каждому покупателю.</p>
 </div>
-<div class="text-center mt-4"><img src="montagbosch.jpg" alt="" width="550" height="550" style="display: block; margin-left: auto; margin-right: auto;"></div>
+<div class="text-center mt-4"><img src="/blog/gazovaja-kolonka-bosch/montagbosch.jpg" alt="" width="550" height="550" style="display: block; margin-left: auto; margin-right: auto;"></div>
 </div>
 </div>
 <div class="card bg-primary text-white shadow p-5">

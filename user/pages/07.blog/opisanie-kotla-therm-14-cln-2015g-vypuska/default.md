@@ -5,7 +5,7 @@ title: 'Котёл THERM 14 CLN / TCLN 2015'
 <div class="content-card">
 <div class="container-fluid mt-5 mb-5"><!-- Заголовок -->
 <div class="text-center mb-5">
-<figure class="image is-inline-block mb-3"><img src="termona-min.png" alt="Термона" style="max-width: 200px; border: 1px solid #ddd;"></figure>
+<figure class="image is-inline-block mb-3"><img src="/blog/opisanie-kotla-therm-14-cln-2015g-vypuska/termona-min.png" alt="Термона" style="max-width: 200px; border: 1px solid #ddd;"></figure>
 
 <p class="h5 lead mb-4">Котёл Thermona 14 CLN / TCLN 2015 года выпуска. Предназначен для отопления и горячего водоснабжения, оснащён битермическим теплообменником и современным гидроблоком.</p>
 <ul class="mb-0">
@@ -23,7 +23,7 @@ title: 'Котёл THERM 14 CLN / TCLN 2015'
 <!-- Аккордеон запчастей --> <!-- 1. Горелка и камера сгорания --><details open="" class="mb-4">
 <summary class="accordion-header"><i class="fas fa-fire me-2"></i>Горелка и камера сгорания</summary>
 <div class="accordion-content">
-<figure class="image is-inline-block mb-4"><img src="2575_14CL-spalovaci-cast.jpg" alt="Горелка и камера сгорания" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image is-inline-block mb-4"><img src="/blog/opisanie-kotla-therm-14-cln-2015g-vypuska/2575_14CL-spalovaci-cast.jpg" alt="Горелка и камера сгорания" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 <ul class="searchable-list">
 <li>[01] — 41482 Газовый редуктор SIT 845 SIGMA — 230В</li>
 <li>[04] — 41890 Камера сгорания + крышка</li>
@@ -39,7 +39,7 @@ title: 'Котёл THERM 14 CLN / TCLN 2015'
 </details><!-- 2. Водяная часть --><details class="mb-4">
 <summary class="accordion-header"><i class="fas fa-tint me-2"></i>Водяная часть</summary>
 <div class="accordion-content">
-<figure class="image is-inline-block mb-4"><img src="2575_14-CLN-vodni-cast-zmenseno.jpg" alt="Водяная часть котла" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image is-inline-block mb-4"><img src="/blog/opisanie-kotla-therm-14-cln-2015g-vypuska/2575_14-CLN-vodni-cast-zmenseno.jpg" alt="Водяная часть котла" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 <ul class="searchable-list">
 <li>[06] — 41880.1 Теплообменник дымовые газы/вода битермический</li>
 <li>[15] — 42308 Гидроблок</li>
@@ -66,7 +66,7 @@ title: 'Котёл THERM 14 CLN / TCLN 2015'
 </details><!-- 3. Панель управления --><details class="mb-4">
 <summary class="accordion-header"><i class="fas fa-tv me-2"></i>Панель управления</summary>
 <div class="accordion-content">
-<figure class="image is-inline-block mb-4"><img src="2575_23-CLN-ovladaci-panel.jpg" alt="Панель управления котла" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
+<figure class="image is-inline-block mb-4"><img src="/blog/opisanie-kotla-therm-14-cln-2015g-vypuska/2575_23-CLN-ovladaci-panel.jpg" alt="Панель управления котла" class="rounded" style="max-width: 100%; border: 1px solid #ddd;"></figure>
 <ul class="searchable-list">
 <li>[65] — 42516 Лицевая крышка + Задняя крышка панели управления</li>
 <li>[66] — 42516 Лицевая крышка + Задняя крышка панели управления</li>

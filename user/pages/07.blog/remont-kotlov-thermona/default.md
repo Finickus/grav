@@ -10,7 +10,7 @@ title: 'Почему выбирают нас?'
 </div>
 </div>
 <p></p>
-<p><img src="term1(1).jpg" alt="" width="100%"></p>
+<p><img src="/blog/remont-kotlov-thermona/term1(1).jpg" alt="" width="100%"></p>
 
 <div class="row">
 <div class="col-md-12">
@@ -83,7 +83,7 @@ title: 'Почему выбирают нас?'
 </div>
 </figure>
 <p></p>
-<p><img src="termona1(1).jpeg" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><img src="/blog/remont-kotlov-thermona/termona1(1).jpeg" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
 </div>
 <h4>ОСНОВНЫЕ НЕПОЛАДКИ КОТЛА THERMONA</h4>
 <div>
@@ -156,7 +156,7 @@ title: 'Почему выбирают нас?'
 <blockquote>
 <p dir="ltr"><span style="color: #e67e23;">Важно помнить, что газовые котлы являются сложными техническими устройствами, и ремонт должен проводиться только квалифицированными специалистами. Не стоит пытаться самостоятельно ремонтировать котел, чтобы избежать возможных повреждений или нарушения безопасности.</span></p>
 </blockquote>
-<p><img src="term(2).jpg" alt=""></p>
+<p><img src="/blog/remont-kotlov-thermona/term(2).jpg" alt=""></p>
 </div>
 <div class="row a">
 <div class="col-md-12 border bg-light py-5">

@@ -27,7 +27,7 @@ title: 'Ремонт электрических котлов Протерм'
 
     <div class="text-center mb-5">
         <a href="#modal-main-top-img" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-main-top-img">
-            <img src="protherm1(1).jpg" alt="Авторизованный сервисный центр Protherm" class="img-fluid rounded shadow-lg">
+            <img src="/uslugi/remont-kotlov/remont-elektricheskikh-kotlov-protherm/protherm1(1).jpg" alt="Авторизованный сервисный центр Protherm" class="img-fluid rounded shadow-lg">
         </a>
     </div>
 
@@ -47,28 +47,28 @@ title: 'Ремонт электрических котлов Протерм'
         
         <div class="col-lg-3 col-sm-6">
             <div class="card h-100 p-3 shadow-sm bg-light">
-                <img class="img-fluid my-3 icon-service mx-auto" src="arrows_exclamation.svg" alt="Диагностика">
+                <img class="img-fluid my-3 icon-service mx-auto" src="/uslugi/remont-kotlov/remont-elektricheskikh-kotlov-protherm/arrows_exclamation.svg" alt="Диагностика">
                 <h5 class="fw-bold">Диагностика неисправностей</h5>
             </div>
         </div>
         
         <div class="col-lg-3 col-sm-6">
             <div class="card h-100 p-3 shadow-sm">
-                <img class="img-fluid my-3 icon-service mx-auto" src="basic_settings.svg" alt="Ремонт и ТО">
+                <img class="img-fluid my-3 icon-service mx-auto" src="/uslugi/remont-kotlov/remont-elektricheskikh-kotlov-protherm/basic_settings.svg" alt="Ремонт и ТО">
                 <h5 class="fw-bold">Ремонт и техническое обслуживание</h5>
             </div>
         </div>
         
         <div class="col-lg-3 col-sm-6">
             <div class="card h-100 p-3 shadow-sm bg-light">
-                <img class="img-fluid my-3 icon-service mx-auto" src="arrows_rotate.svg" alt="Замена запчастей">
+                <img class="img-fluid my-3 icon-service mx-auto" src="/uslugi/remont-kotlov/remont-elektricheskikh-kotlov-protherm/arrows_rotate.svg" alt="Замена запчастей">
                 <h5 class="fw-bold">Замена запчастей</h5>
             </div>
         </div>
         
         <div class="col-lg-3 col-sm-6">
             <div class="card h-100 p-3 shadow-sm">
-                <img class="img-fluid my-3 icon-service mx-auto" src="basic_gear.svg" alt="Установка и настройка">
+                <img class="img-fluid my-3 icon-service mx-auto" src="/uslugi/remont-kotlov/remont-elektricheskikh-kotlov-protherm/basic_gear.svg" alt="Установка и настройка">
                 <h5 class="fw-bold">Установка и настройка оборудования</h5>
             </div>
         </div>
@@ -98,7 +98,7 @@ title: 'Ремонт электрических котлов Протерм'
         </div>
         <div class="col-md-6 text-center">
             <a href="#modal-img-final-call" class="lightbox-trigger" data-bs-toggle="modal" data-bs-target="#modal-img-final-call">
-                <img src="Screenshot_104(1).jpg" alt="Мастер у электрического котла" class="img-fluid rounded shadow-lg">
+                <img src="/uslugi/remont-kotlov/remont-elektricheskikh-kotlov-protherm/Screenshot_104(1).jpg" alt="Мастер у электрического котла" class="img-fluid rounded shadow-lg">
             </a>
         </div>
     </div>
@@ -168,7 +168,7 @@ title: 'Ремонт электрических котлов Протерм'
         <div class="modal-dialog modal-dialog-centered modal-xl">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="protherm1(1).jpg" class="img-fluid rounded" alt="Авторизованный сервисный центр Protherm" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/uslugi/remont-kotlov/remont-elektricheskikh-kotlov-protherm/protherm1(1).jpg" class="img-fluid rounded" alt="Авторизованный сервисный центр Protherm" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>
@@ -177,7 +177,7 @@ title: 'Ремонт электрических котлов Протерм'
         <div class="modal-dialog modal-dialog-centered modal-lg">
             <div class="modal-content modal-content-lightbox">
                 <div class="modal-header border-0 p-2"><button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button></div>
-                <div class="modal-body p-0 text-center"><img src="Screenshot_104(1).jpg" class="img-fluid rounded" alt="Мастер у электрического котла" style="max-height: 90vh;"></div>
+                <div class="modal-body p-0 text-center"><img src="/uslugi/remont-kotlov/remont-elektricheskikh-kotlov-protherm/Screenshot_104(1).jpg" class="img-fluid rounded" alt="Мастер у электрического котла" style="max-height: 90vh;"></div>
             </div>
         </div>
     </div>

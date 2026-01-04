@@ -10,7 +10,7 @@
             </p>
         </div>
         <div class="col-lg-5 text-center">
-            <img src="zapchasti_prptherm1-c4227dfc.png" 
+            <img src="/zapchasti/protherm/zapchasti_prptherm1-c4227dfc.png" 
                  alt="Запчасти Протерм" class="img-fluid rounded shadow-sm">
         </div>
     </div>
@@ -67,7 +67,7 @@
         <div class="row align-items-center position-relative" style="z-index: 2;">
             <div class="col-md-3 text-center mb-3 mb-md-0">
                 <a href="https://service04.ru/bl-content/uploads/doc/katalog_protherm.pdf" target="_blank" class="d-inline-block shadow-lg hover-zoom">
-                    <img src="Screenshot_312.jpg" 
+                    <img src="/zapchasti/protherm/Screenshot_312.jpg" 
                          alt="Каталог PDF" class="img-fluid rounded border border-secondary" style="max-height: 180px;">
                 </a>
             </div>
@@ -91,7 +91,7 @@
     </div>
 
     <div class="text-center mt-5">
-        <img src="zapchasti_protherm(1).jpg" 
+        <img src="/zapchasti/protherm/zapchasti_protherm(1).jpg" 
              alt="Склад запчастей Protherm" class="img-fluid rounded shadow-lg">
     </div>
 </div>

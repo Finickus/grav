@@ -19,7 +19,7 @@ title: 'Ремонт котлов Аристон'
             <div class="row g-4 align-items-center">
                 <div class="col-md-4 text-center">
                     <figure class="figure mb-0">
-                        <img src="ariston-1-f0e31f1a.png" alt="Ремонт котлов Аристон" class="figure-img img-fluid" style="max-height: 192px;">
+                        <img src="/uslugi/remont-kotlov/remont-kotlov-ariston/ariston-1-f0e31f1a.png" alt="Ремонт котлов Аристон" class="figure-img img-fluid" style="max-height: 192px;">
                     </figure>
                 </div>
                 <div class="col-md-8">

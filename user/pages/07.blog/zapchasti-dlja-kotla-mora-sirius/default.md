@@ -18,53 +18,53 @@ title: 'Запчасти для котлов Mora Sirius'
 <p class="fs-5">Наша компания продает <strong>запчасти для котлов Mora Sirius в Москве с доставкой</strong>.</p>
 <div class="row g-3 mt-4">
 <div class="col is-one-quarter-desktop is-one-third-tablet is-half-mobile">
-<figure class="image is-4by3"><img src="2018-03-12_010109.jpg" alt="Запчасти для котла Mora Sirius" class="rounded"></figure>
+<figure class="image is-4by3"><img src="/blog/zapchasti-dlja-kotla-mora-sirius/2018-03-12_010109.jpg" alt="Запчасти для котла Mora Sirius" class="rounded"></figure>
 </div>
 <div class="col is-one-quarter-desktop is-one-third-tablet is-half-mobile">
-<figure class="image is-4by3"><img src="2018-03-12_010145.jpg" alt="Комплект дымохода PK 0KK.N042, K20SK.N042 PK25KK.N042,PK25SK.N042" class="rounded"></figure>
+<figure class="image is-4by3"><img src="/blog/zapchasti-dlja-kotla-mora-sirius/2018-03-12_010145.jpg" alt="Комплект дымохода PK 0KK.N042, K20SK.N042 PK25KK.N042,PK25SK.N042" class="rounded"></figure>
 </div>
 <div class="col is-one-quarter-desktop is-one-third-tablet is-half-mobile">
-<figure class="image is-4by3"><img src="2018-03-12_010213.jpg" alt="Комплект турбо PK20KT.N042,PK20ST.N042 PK25KT.N042,PK25ST.N042" class="rounded"></figure>
+<figure class="image is-4by3"><img src="/blog/zapchasti-dlja-kotla-mora-sirius/2018-03-12_010213.jpg" alt="Комплект турбо PK20KT.N042,PK20ST.N042 PK25KT.N042,PK25ST.N042" class="rounded"></figure>
 </div>
 <div class="col is-one-quarter-desktop is-one-third-tablet is-half-mobile">
-<figure class="image is-4by3"><img src="2018-03-12_010244.jpg" alt="Комплект дымохода PK35SK.N042, PK35KK.N042" class="rounded"></figure>
+<figure class="image is-4by3"><img src="/blog/zapchasti-dlja-kotla-mora-sirius/2018-03-12_010244.jpg" alt="Комплект дымохода PK35SK.N042, PK35KK.N042" class="rounded"></figure>
 </div>
 <div class="col is-one-quarter-desktop is-one-third-tablet is-half-mobile">
-<figure class="image is-4by3"><img src="2018-03-12_010305.jpg" alt="Комплект турбо PK35ST.N042, PK35KT.N042" class="rounded"></figure>
+<figure class="image is-4by3"><img src="/blog/zapchasti-dlja-kotla-mora-sirius/2018-03-12_010305.jpg" alt="Комплект турбо PK35ST.N042, PK35KT.N042" class="rounded"></figure>
 </div>
 <div class="col is-one-quarter-desktop is-one-third-tablet is-half-mobile">
-<figure class="image is-4by3"><img src="2018-03-12_010333.jpg" alt="Комплект гидроблока (соло) PK20SK.N042, PK20ST.N042, PK25SK.N042, PK25ST.N042" class="rounded"></figure>
+<figure class="image is-4by3"><img src="/blog/zapchasti-dlja-kotla-mora-sirius/2018-03-12_010333.jpg" alt="Комплект гидроблока (соло) PK20SK.N042, PK20ST.N042, PK25SK.N042, PK25ST.N042" class="rounded"></figure>
 </div>
 <div class="col is-one-quarter-desktop is-one-third-tablet is-half-mobile">
-<figure class="image is-4by3"><img src="2018-03-12_010356.jpg" alt="Комплект гидроблока (дымоход) PK20KK.N042, PK20KT.N042, PK25KK.N042, PK25KT.N042" class="rounded"></figure>
+<figure class="image is-4by3"><img src="/blog/zapchasti-dlja-kotla-mora-sirius/2018-03-12_010356.jpg" alt="Комплект гидроблока (дымоход) PK20KK.N042, PK20KT.N042, PK25KK.N042, PK25KT.N042" class="rounded"></figure>
 </div>
 <div class="col is-one-quarter-desktop is-one-third-tablet is-half-mobile">
-<figure class="image is-4by3"><img src="2018-03-12_010507.jpg" alt="Комплект панели (соло)" class="rounded"></figure>
+<figure class="image is-4by3"><img src="/blog/zapchasti-dlja-kotla-mora-sirius/2018-03-12_010507.jpg" alt="Комплект панели (соло)" class="rounded"></figure>
 </div>
 <div class="col is-one-quarter-desktop is-one-third-tablet is-half-mobile">
-<figure class="image is-4by3"><img src="2018-03-12_010522.jpg" alt="Комплект панели (комби)" class="rounded"></figure>
+<figure class="image is-4by3"><img src="/blog/zapchasti-dlja-kotla-mora-sirius/2018-03-12_010522.jpg" alt="Комплект панели (комби)" class="rounded"></figure>
 </div>
 <!-- прочие фото без подписей -->
 <div class="col is-one-quarter-desktop is-one-third-tablet is-half-mobile">
-<figure class="image is-4by3"><img src="2018-03-12_010609.jpg" alt="" class="rounded"></figure>
+<figure class="image is-4by3"><img src="/blog/zapchasti-dlja-kotla-mora-sirius/2018-03-12_010609.jpg" alt="" class="rounded"></figure>
 </div>
 <div class="col is-one-quarter-desktop is-one-third-tablet is-half-mobile">
-<figure class="image is-4by3"><img src="2018-03-12_010625.jpg" alt="" class="rounded"></figure>
+<figure class="image is-4by3"><img src="/blog/zapchasti-dlja-kotla-mora-sirius/2018-03-12_010625.jpg" alt="" class="rounded"></figure>
 </div>
 <div class="col is-one-quarter-desktop is-one-third-tablet is-half-mobile">
-<figure class="image is-4by3"><img src="2018-03-12_010645.jpg" alt="" class="rounded"></figure>
+<figure class="image is-4by3"><img src="/blog/zapchasti-dlja-kotla-mora-sirius/2018-03-12_010645.jpg" alt="" class="rounded"></figure>
 </div>
 <div class="col is-one-quarter-desktop is-one-third-tablet is-half-mobile">
-<figure class="image is-4by3"><img src="2018-03-12_010709.jpg" alt="" class="rounded"></figure>
+<figure class="image is-4by3"><img src="/blog/zapchasti-dlja-kotla-mora-sirius/2018-03-12_010709.jpg" alt="" class="rounded"></figure>
 </div>
 <div class="col is-one-quarter-desktop is-one-third-tablet is-half-mobile">
-<figure class="image is-4by3"><img src="2018-03-12_010733.jpg" alt="" class="rounded"></figure>
+<figure class="image is-4by3"><img src="/blog/zapchasti-dlja-kotla-mora-sirius/2018-03-12_010733.jpg" alt="" class="rounded"></figure>
 </div>
 <div class="col is-one-quarter-desktop is-one-third-tablet is-half-mobile">
-<figure class="image is-4by3"><img src="2018-03-12_010808.jpg" alt="" class="rounded"></figure>
+<figure class="image is-4by3"><img src="/blog/zapchasti-dlja-kotla-mora-sirius/2018-03-12_010808.jpg" alt="" class="rounded"></figure>
 </div>
 <div class="col is-one-quarter-desktop is-one-third-tablet is-half-mobile">
-<figure class="image is-4by3"><img src="2018-03-12_010825.jpg" alt="" class="rounded"></figure>
+<figure class="image is-4by3"><img src="/blog/zapchasti-dlja-kotla-mora-sirius/2018-03-12_010825.jpg" alt="" class="rounded"></figure>
 </div>
 </div>
 </div>

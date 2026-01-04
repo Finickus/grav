@@ -60,7 +60,7 @@ title: 'Зона обслуживания'
 <p>Если вы ищете надежного партнера для ремонта котлов Baxi, обратитесь к нам. Мы гарантируем высокое качество работы, оперативность и профессионализм в каждом проекте. Свяжитесь с нами сегодня, чтобы узнать больше о наших услугах и получить бесплатную консультацию.</p>
 <div class="row">
 <div class="col-md-12">
-<p><img src="Screenshot_205(2).jpg" alt="" width="50%" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><img src="/blog/remont-kotlov-baxi/Screenshot_205(2).jpg" alt="" width="50%" style="display: block; margin-left: auto; margin-right: auto;"></p>
 </div>
 </div>
 <h4>Сервисное обслуживание котлов baxi.</h4>
@@ -108,7 +108,7 @@ title: 'Зона обслуживания'
 </li>
 </ol>
 <p>Помните, что эти шаги могут варьироваться в зависимости от конкретной модели и типа котла, поэтому важно обратиться к руководству пользователя или проконсультироваться с профессионалом перед выполнением обслуживания котла.</p>
-<p><img src="baxikotel.jpg" alt="Ремонт котлов Baxi" width="895" height="179"></p>
+<p><img src="/blog/remont-kotlov-baxi/baxikotel.jpg" alt="Ремонт котлов Baxi" width="895" height="179"></p>
 <div class="row shadow-sm">
 <div class="col-md-6" style="width: 456.531px;">
 
@@ -118,6 +118,6 @@ title: 'Зона обслуживания'
 <p><a class="btn btn-primary" href="https://service04.ru/master" style="color: #ffffff;">Вызвать мастера</a> <a class="btn btn-secondary ms-2" href="https://service04.ru/contact-us" style="color: #ffffff;">Контакты</a></p>
 </div>
 <div class="col-md-6" style="width: 456.531px;">
-<p><img class="img-fluid" src="vyvoz-musora-v-moskovskoy-oblasti.jpg" alt="" width="662" height="542"></p>
+<p><img class="img-fluid" src="/blog/remont-kotlov-baxi/vyvoz-musora-v-moskovskoy-oblasti.jpg" alt="" width="662" height="542"></p>
 </div>
 </div>

@@ -34,7 +34,7 @@ title: 'Добро пожаловать в наш сервисный центр 
 <li><span class="has-text-weight-bold">Диагностика и устранение неисправностей</span> в работе котлов Thermona.</li>
 <li><span class="has-text-weight-bold">Предоставление консультаций и рекомендаций</span> по эксплуатации и уходу.</li>
 </ul>
-<figure class="image is-inline-block text-center my-5"><img src="zapchasti.jpg" alt="Запчасти для котлов Thermona" style="max-width: 80%; margin: 0 auto;"></figure>
+<figure class="image is-inline-block text-center my-5"><img src="/blog/zapchasti-thermona/zapchasti.jpg" alt="Запчасти для котлов Thermona" style="max-width: 80%; margin: 0 auto;"></figure>
 <h3 class="h4 display-4">Чем мы можем помочь вам?</h3>
 <ul class="ml-4">
 <li>**Поставка оригинальных запчастей:** Мы предоставляем широкий ассортимент оригинальных запчастей для котлов Thermona.</li>
@@ -54,7 +54,7 @@ title: 'Добро пожаловать в наш сервисный центр 
 <li>**Полная совместимость с указанной моделью котла** – только оригинальные запчасти и рекомендованные производителем детали;</li>
 <li>**Низкая стоимость** – мы работаем без посредников, поэтому можем предложить оптимальные расценки на весь ассортимент запчастей.</li>
 </ol>
-<figure class="image is-inline-block text-center my-5"><img src="Screenshot_319(2).jpg" alt="Каталог запчастей Thermona" style="max-width: 80%; margin: 0 auto;"></figure>
+<figure class="image is-inline-block text-center my-5"><img src="/blog/zapchasti-thermona/Screenshot_319(2).jpg" alt="Каталог запчастей Thermona" style="max-width: 80%; margin: 0 auto;"></figure>
 <h4 class="h4 display-4">ОТ КРЕПЕЖА ДО БАКОВ И ТЕПЛООБМЕННИКОВ – ВСЕ ЗАПЧАСТИ ДЛЯ КОТЛОВ THERMONA В ОДНОМ КАТАЛОГЕ</h4>
 <p>Не зависимо от сложности ремонта или специфики технического обслуживания, вы сможете подобрать необходимые детали и запчасти для котлов Thermona в нашем каталоге:</p>
 <div class="row g-3">
@@ -86,7 +86,7 @@ title: 'Добро пожаловать в наш сервисный центр 
 <li>**Оплата доставки всегда при получении товара!**</li>
 <li>Экспресс-доставка до пункта выдачи 2-3 дня, за исключением крупногабаритных грузов и очень далеких населенных пунктов.</li>
 </ul>
-<div class="text-center mt-5"><a href="https://service04.ru/zapchasti/zapchasti-dlya-kotlov/thermona.html"> <img src="zapchasti_thermona.jpg" alt="Запчасти Thermona"> </a></div>
+<div class="text-center mt-5"><a href="https://service04.ru/zapchasti/zapchasti-dlya-kotlov/thermona.html"> <img src="/blog/zapchasti-thermona/zapchasti_thermona.jpg" alt="Запчасти Thermona"> </a></div>
 </div>
 </div>
 </section>

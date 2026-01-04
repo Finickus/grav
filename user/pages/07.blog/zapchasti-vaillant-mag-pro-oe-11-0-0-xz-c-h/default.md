@@ -11,7 +11,7 @@ title: 'Запчасти для газовой колонки Vaillant Mag Pro O
 </section>
 <!-- Введение / Изображение колонки -->
 <div class="card mb-5 text-center">
-<figure class="image is-inline-block mb-4"><img src="2018-03-19_221038.jpg" alt="Запчасти vaillant mag pro oe 11-0/0 xz c+ h" class="rounded"></figure>
+<figure class="image is-inline-block mb-4"><img src="/blog/zapchasti-vaillant-mag-pro-oe-11-0-0-xz-c-h/2018-03-19_221038.jpg" alt="Запчасти vaillant mag pro oe 11-0/0 xz c+ h" class="rounded"></figure>
 <p>Запчасти vaillant mag pro oe 11-0/0 xz c+ h</p>
 </div>
 <!-- Основные компоненты -->
@@ -21,7 +21,7 @@ title: 'Запчасти для газовой колонки Vaillant Mag Pro O
 </div>
 <div class="row align-items-center mt-4">
 <div class="col-6 text-center">
-<figure class="image is-256x256 mx-auto"><img src="2018-03-19_221241-24a79a77.jpg" alt="Схема Vaillant Mag Pro" class="rounded"></figure>
+<figure class="image is-256x256 mx-auto"><img src="/blog/zapchasti-vaillant-mag-pro-oe-11-0-0-xz-c-h/2018-03-19_221241-24a79a77.jpg" alt="Схема Vaillant Mag Pro" class="rounded"></figure>
 </div>
 <div class="col">
 <ol class="d-flex flex-col gap">
@@ -46,19 +46,19 @@ title: 'Запчасти для газовой колонки Vaillant Mag Pro O
 </div>
 <div class="row g-3 mt-4">
 <div class="col-4 text-center">
-<figure class="image is-128x128 mx-auto mb-2"><img src="2018-03-19_225917.jpg" alt="Водяная арматура vaillant mag pro oe 11-0/0 xz c+ h" class="rounded"></figure>
+<figure class="image is-128x128 mx-auto mb-2"><img src="/blog/zapchasti-vaillant-mag-pro-oe-11-0-0-xz-c-h/2018-03-19_225917.jpg" alt="Водяная арматура vaillant mag pro oe 11-0/0 xz c+ h" class="rounded"></figure>
 <small>Водяная арматура</small></div>
 <div class="col-4 text-center">
-<figure class="image is-128x128 mx-auto mb-2"><img src="2018-03-19_225959.jpg" alt="Горелка vaillant mag pro oe 11-0/0 xz c+ h" class="rounded"></figure>
+<figure class="image is-128x128 mx-auto mb-2"><img src="/blog/zapchasti-vaillant-mag-pro-oe-11-0-0-xz-c-h/2018-03-19_225959.jpg" alt="Горелка vaillant mag pro oe 11-0/0 xz c+ h" class="rounded"></figure>
 <small>Горелка</small></div>
 <div class="col-4 text-center">
-<figure class="image is-128x128 mx-auto mb-2"><img src="2018-03-19_230109.jpg" alt="Газовый клапан vaillant mag pro oe 11-0/0 xz c+ h" class="rounded"></figure>
+<figure class="image is-128x128 mx-auto mb-2"><img src="/blog/zapchasti-vaillant-mag-pro-oe-11-0-0-xz-c-h/2018-03-19_230109.jpg" alt="Газовый клапан vaillant mag pro oe 11-0/0 xz c+ h" class="rounded"></figure>
 <small>Газовый клапан</small></div>
 <div class="col-6 text-center">
-<figure class="image is-128x128 mx-auto mb-2"><img src="2018-03-19_230144.jpg" alt="Теплообменник vaillant mag pro oe 11-0/0 xz c+ h" class="rounded"></figure>
+<figure class="image is-128x128 mx-auto mb-2"><img src="/blog/zapchasti-vaillant-mag-pro-oe-11-0-0-xz-c-h/2018-03-19_230144.jpg" alt="Теплообменник vaillant mag pro oe 11-0/0 xz c+ h" class="rounded"></figure>
 <small>Теплообменник</small></div>
 <div class="col-6 text-center">
-<figure class="image is-128x128 mx-auto mb-2"><img src="2018-03-19_230214.jpg" alt="Ручки vaillant mag pro oe 11-0/0 xz c+ h" class="rounded"></figure>
+<figure class="image is-128x128 mx-auto mb-2"><img src="/blog/zapchasti-vaillant-mag-pro-oe-11-0-0-xz-c-h/2018-03-19_230214.jpg" alt="Ручки vaillant mag pro oe 11-0/0 xz c+ h" class="rounded"></figure>
 <small>Ручки управления</small></div>
 </div>
 </div>
@@ -80,61 +80,61 @@ title: 'Запчасти для газовой колонки Vaillant Mag Pro O
 <tbody>
 <tr>
 <td class="text-center">
-<figure class="image is-100x100 mx-auto"><img src="2018-03-20_222306.png" alt="Водяной узел MAG11,19/2 011286" class="rounded"></figure>
+<figure class="image is-100x100 mx-auto"><img src="/blog/zapchasti-vaillant-mag-pro-oe-11-0-0-xz-c-h/2018-03-20_222306.png" alt="Водяной узел MAG11,19/2 011286" class="rounded"></figure>
 </td>
 <td><a href="https://service04.ru/admin/edit-content/shop/zapchasti-dlya-vodonagrevatelej/kolonki-vaillant/vaillant-mag-oe-11-0-0-xz-c-h/011286_vodyanoy_uzel" target="_blank" rel="noopener">Водяной узел MAG11,19/2</a><br><strong>Артикул:</strong> 011286<br>Водяная часть для колонки Vaillant MAG 11 / 19</td>
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-100x100 mx-auto"><img src="2018-03-20_234808.jpg" alt="Термоэлемент для MAG 11 C+ 20008182 Vaillant" class="rounded"></figure>
+<figure class="image is-100x100 mx-auto"><img src="/blog/zapchasti-vaillant-mag-pro-oe-11-0-0-xz-c-h/2018-03-20_234808.jpg" alt="Термоэлемент для MAG 11 C+ 20008182 Vaillant" class="rounded"></figure>
 </td>
 <td><a href="https://service04.ru/admin/edit-content/shop/zapchasti-dlya-vodonagrevatelej/kolonki-vaillant/vaillant-mag-oe-11-0-0-xz-c-h/0020008182_termoelement" target="_blank" rel="noopener"><strong>Термоэлемент для MAG 11 C+ 20008182 Vaillant</strong></a></td>
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-100x100 mx-auto"><img src="2018-03-20_222201.png" alt="Газовая арматура, (клапан) компл. MAG19с+ 053409" class="rounded"></figure>
+<figure class="image is-100x100 mx-auto"><img src="/blog/zapchasti-vaillant-mag-pro-oe-11-0-0-xz-c-h/2018-03-20_222201.png" alt="Газовая арматура, (клапан) компл. MAG19с+ 053409" class="rounded"></figure>
 </td>
 <td><a href="https://service04.ru/admin/edit-content/shop/zapchasti-dlya-vodonagrevatelej/kolonki-vaillant/vaillant-mag-oe-11-0-0-xz-c-h/053409_gazovaya_armatura" target="_blank" rel="noopener">Газовая арматура, (клапан) компл. MAG19с+</a><br><strong>Артикул:</strong> 053409</td>
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-100x100 mx-auto"><img src="2018-03-20_222627.png" alt="Комплект для перехода на сжиженный газ (форсунки) MAG11 0020006834" class="rounded"></figure>
+<figure class="image is-100x100 mx-auto"><img src="/blog/zapchasti-vaillant-mag-pro-oe-11-0-0-xz-c-h/2018-03-20_222627.png" alt="Комплект для перехода на сжиженный газ (форсунки) MAG11 0020006834" class="rounded"></figure>
 </td>
 <td><a href="https://service04.ru/admin/edit-content/shop/zapchasti-dlya-vodonagrevatelej/kolonki-vaillant/vaillant-mag-oe-11-0-0-xz-c-h/0020006834__komplekt_perenastroyki_dlya_MAG_pr" target="_blank" rel="noopener">Комплект для перехода на сжиженный газ (форсунки) MAG11</a><br><strong>Артикул:</strong> 0020006834</td>
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-100x100 mx-auto"><img src="2018-03-20_222725.jpg" alt="Мембрана, MAG19с+,11 010366" class="rounded"></figure>
+<figure class="image is-100x100 mx-auto"><img src="/blog/zapchasti-vaillant-mag-pro-oe-11-0-0-xz-c-h/2018-03-20_222725.jpg" alt="Мембрана, MAG19с+,11 010366" class="rounded"></figure>
 </td>
 <td><a href="https://service04.ru/admin/edit-content/shop/zapchasti-dlya-vodonagrevatelej/kolonki-vaillant/vaillant-mag-oe-11-0-0-xz-c-h/010366_membrana_10sht" target="_blank" rel="noopener">Мембрана, MAG19с+,11</a><br><strong>Артикул:</strong> 010366</td>
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-100x100 mx-auto"><img src="2018-03-20_223035.jpg" alt="Огневая камера Теплообменник Vaillant MAG11,19/2 0020008166" class="rounded"></figure>
+<figure class="image is-100x100 mx-auto"><img src="/blog/zapchasti-vaillant-mag-pro-oe-11-0-0-xz-c-h/2018-03-20_223035.jpg" alt="Огневая камера Теплообменник Vaillant MAG11,19/2 0020008166" class="rounded"></figure>
 </td>
 <td><a href="https://service04.ru/admin/edit-content/shop/zapchasti-dlya-vodonagrevatelej/kolonki-vaillant/vaillant-mag-oe-11-0-0-xz-c-h/0020008166_pervichnyy_teploobmennik" target="_blank" rel="noopener">Огневая камера Теплообменник Vaillant MAG11,19/2</a><br><strong>Артикул:</strong> 0020008166</td>
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-100x100 mx-auto"><img src="2018-03-20_224342.jpg" alt="Пьезорозжиг (Кнопка) MAG19/2, 11 091081" class="rounded"></figure>
+<figure class="image is-100x100 mx-auto"><img src="/blog/zapchasti-vaillant-mag-pro-oe-11-0-0-xz-c-h/2018-03-20_224342.jpg" alt="Пьезорозжиг (Кнопка) MAG19/2, 11 091081" class="rounded"></figure>
 </td>
 <td><a href="https://service04.ru/admin/edit-content/shop/zapchasti-dlya-vodonagrevatelej/kolonki-vaillant/vaillant-mag-oe-11-0-0-xz-c-h/091081_ustroystvo_pezo-rozjiga" target="_blank" rel="noopener">Пьезорозжиг (Кнопка) MAG19/2, 11</a><br><strong>Артикул:</strong> 091081</td>
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-100x100 mx-auto"><img src="2018-03-20_225539.jpg" alt="Ручка MAG11 (вода) 0020008164" class="rounded"></figure>
+<figure class="image is-100x100 mx-auto"><img src="/blog/zapchasti-vaillant-mag-pro-oe-11-0-0-xz-c-h/2018-03-20_225539.jpg" alt="Ручка MAG11 (вода) 0020008164" class="rounded"></figure>
 </td>
 <td><a href="https://service04.ru/admin/edit-content/shop/zapchasti-dlya-vodonagrevatelej/kolonki-vaillant/vaillant-mag-oe-11-0-0-xz-c-h/0020008164_ruchka" target="_blank" rel="noopener">Ручка MAG11 (вода)</a><br><strong>Артикул:</strong> 0020008164</td>
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-100x100 mx-auto"><img src="2018-03-20_225611.jpg" alt="Ручка MAG11 (газ) 0020008163" class="rounded"></figure>
+<figure class="image is-100x100 mx-auto"><img src="/blog/zapchasti-vaillant-mag-pro-oe-11-0-0-xz-c-h/2018-03-20_225611.jpg" alt="Ручка MAG11 (газ) 0020008163" class="rounded"></figure>
 </td>
 <td><a href="https://service04.ru/admin/edit-content/shop/zapchasti-dlya-vodonagrevatelej/kolonki-vaillant/vaillant-mag-oe-11-0-0-xz-c-h/0020008163_ruchka" target="_blank" rel="noopener">Ручка MAG11 (газ)</a><br><strong>Артикул:</strong> 0020008163</td>
 </tr>
 <tr>
 <td class="text-center">
-<figure class="image is-100x100 mx-auto"><img src="2018-03-20_225656.jpg" alt="Электрод MAG11, 19с+ 090719" class="rounded"></figure>
+<figure class="image is-100x100 mx-auto"><img src="/blog/zapchasti-vaillant-mag-pro-oe-11-0-0-xz-c-h/2018-03-20_225656.jpg" alt="Электрод MAG11, 19с+ 090719" class="rounded"></figure>
 </td>
 <td><a href="https://service04.ru/admin/edit-content/shop/zapchasti-dlya-vodonagrevatelej/kolonki-vaillant/vaillant-mag-oe-11-0-0-xz-c-h/090719_elektrod_rozjiga" target="_blank" rel="noopener">Электрод MAG11, 19с+</a><br><strong>Артикул:</strong> 090719</td>
 </tr>
