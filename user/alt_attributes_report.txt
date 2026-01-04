@@ -1,0 +1,29 @@
+Отчет о добавлении alt атрибутов
+Дата: 2026-01-04 15:08:17
+======================================================================
+
+Обработано файлов: 341
+Изменено файлов: 16
+Найдено изображений: 1175
+Без alt атрибута: 40
+Добавлено alt атрибутов: 40
+
+
+Измененные файлы:
+----------------------------------------------------------------------
+07.blog\opisanie-kotla-therm-14-tcln-2015g-vypuska-2\default.md
+07.blog\remont-ehlektro-kotlov-kospel\default.md
+07.blog\remont-electrokotlov-vaillant\default.md
+07.blog\remont-elektro-protherm\default.md
+07.blog\remont-gazovykh-kolonok-mora\default.md
+07.blog\remont-kolonok-electrolux\default.md
+07.blog\remont-kotlov-electorux-fsb\default.md
+07.blog\remont-kotlov-vaillant\default.md
+07.blog\remont-zanussi\default.md
+07.blog\zamena-sekcij-kotla\default.md
+07.blog\zapchasti-dlja-kotlov-mora\default.md
+07.blog\zapchasti-dlya-elektrolyuks-gwh-275-rn\default.md
+08.kody-oshibok\mora\oshibki-nastennykh-kotlov-mora\default.md
+09.zapchasti\buderus\default.md
+09.zapchasti\dakon\zapchasti-dlya-elektrokotlov-dakon\default.md
+09.zapchasti\kospel\zapchasti-dlya-elektrokotlov-kospel\default.md
