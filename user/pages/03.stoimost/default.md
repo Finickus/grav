@@ -72,7 +72,7 @@ metadata:
                     <div class="card h-100 text-center" style="border: 2px solid #28a745;">
                         <div class="card-body">
                             <h5 class="card-title"><i class="fas fa-clock text-success"></i> Первый час работы</h5>
-                            <p class="card-text text-muted">Включает диагностику и начало ремонта</p>
+                            <p class="card-text text-muted">Включает диагностику и ремонт</p>
                             <div class="fs-4 fw-bold text-success">3500 ₽</div>
                         </div>
                     </div>
