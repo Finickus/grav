@@ -1,5 +1,8 @@
 ---
 title: Ремонт электрических котлов Vaillant
+process:
+  twig: true
+  markdown: false
 metadata:
   description: Выезжаем по Москве и Московской области. Устраним неисправность в день
     обращения.
@@ -36,7 +39,7 @@ metadata:
         <a class="btn btn-primary btn-lg align-self-start" href="#" role="button">Вызвать мастера</a>
     </div>
 
-    <div class="container">
+    <div>
         <div class="row">
             <div class="col-12 text-center">
                 <h2 class="mt-4 fw-bold">Мы предлагаем следующие услуги по ремонту и обслуживанию электрических котлов <span class="text-accent-green">Vaillant</span>:</h2>
@@ -53,7 +56,7 @@ metadata:
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6">
-                <div class="p-3 h-100 rounded shadow-sm">
+                <div class="bg-light p-3 h-100 rounded shadow-sm">
                     <img class="img-fluid my-3" src="/uslugi/remont-kotlov/remont-elektricheskikh-kotlov-vaillant/basic_settings.svg" alt="Ремонт" style="width: 64px; height: 64px; display: block; margin: auto;">
                     <h5 class="fw-bold">Ремонт котлов и техническое обслуживание котлов</h5>
                 </div>
@@ -65,7 +68,7 @@ metadata:
                 </div>
             </div>
             <div class="col-lg-3 col-sm-6">
-                <div class="p-3 h-100 rounded shadow-sm">
+                <div class="bg-light p-3 h-100 rounded shadow-sm">
                     <img class="img-fluid my-3" src="/uslugi/remont-kotlov/remont-elektricheskikh-kotlov-vaillant/basic_gear.svg" alt="Установка и настройка" style="width: 64px; height: 64px; display: block; margin: auto;">
                     <h5 class="fw-bold">Установка и настройка оборудования</h5>
                 </div>

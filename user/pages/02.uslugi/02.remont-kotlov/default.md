@@ -139,7 +139,7 @@ metadata:
                 
                 <div class="accordion-item shadow-sm mb-2">
                     <h2 class="accordion-header" id="headingOne">
-                        <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" class="text-accent-orange">
+                        <button class="accordion-button collapsed fw-bold text-accent-orange" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne">
                             <i class="fas fa-power-off me-2 text-danger"></i> 1. Котел не включается или не греет воду
                         </button>
                     </h2>
@@ -158,7 +158,7 @@ metadata:
 
                 <div class="accordion-item shadow-sm mb-2">
                     <h2 class="accordion-header" id="headingTwo">
-                        <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" class="text-accent-orange">
+                        <button class="accordion-button collapsed fw-bold text-accent-orange" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo">
                             <i class="fas fa-tint me-2 text-info"></i> 2. Утечка воды из котла
                         </button>
                     </h2>
@@ -176,7 +176,7 @@ metadata:
 
                 <div class="accordion-item shadow-sm mb-2">
                     <h2 class="accordion-header" id="headingThree">
-                        <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" class="text-accent-orange">
+                        <button class="accordion-button collapsed fw-bold text-accent-orange" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree">
                             <i class="fas fa-volume-up me-2 text-warning"></i> 3. Котел шумит, гудит или стучит
                         </button>
                     </h2>
@@ -194,7 +194,7 @@ metadata:
 
                 <div class="accordion-item shadow-sm mb-2">
                     <h2 class="accordion-header" id="headingFour">
-                        <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" class="text-accent-orange">
+                        <button class="accordion-button collapsed fw-bold text-accent-orange" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour">
                             <i class="fas fa-sync me-2 text-primary"></i> 4. Котел часто отключается или работает рывками
                         </button>
                     </h2>
@@ -212,7 +212,7 @@ metadata:
 
                 <div class="accordion-item shadow-sm mb-2">
                     <h2 class="accordion-header" id="headingFive">
-                        <button class="accordion-button collapsed fw-bold" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" class="text-accent-orange">
+                        <button class="accordion-button collapsed fw-bold text-accent-orange" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive">
                             <i class="fas fa-gas-pump me-2 text-success"></i> 5. Повышенный расход газа
                         </button>
                     </h2>
