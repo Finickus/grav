@@ -1,5 +1,6 @@
 ---
 title: 'Ремонт котлов Italtherm в Москве и Московской области'
+markdown: false
 ---
 
 <div class="container my-5">
