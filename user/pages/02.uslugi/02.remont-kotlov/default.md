@@ -23,6 +23,7 @@ metadata:
   geo.placename: Москва
   author: Service04
 ---
+
 <div class="container py-5">
     
     <div class="p-5 mb-5 text-white text-center rounded-3 shadow-lg" style="background-color: #009688;">

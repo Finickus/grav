@@ -81,6 +81,23 @@ metadata:
                     </a>
                 </div>
 
+                <!-- Attack -->
+                <div class="col-md-6 col-lg-4">
+                    <a href="kody-oshibok/attack" class="text-decoration-none">
+                        <div class="card h-100 border-0 shadow-sm hover-lift transition">
+                            <div class="card-body p-3 d-flex align-items-center">
+                                <div class="bg-danger bg-opacity-10 rounded p-3 me-3" style="width: 60px; height: 60px; display: flex; align-items: center; justify-content: center;">
+                                    <i class="fas fa-fire-alt text-danger fa-2x"></i>
+                                </div>
+                                <div>
+                                    <h5 class="h6 fw-bold mb-1 text-dark">Attack</h5>
+                                    <p class="small text-muted mb-0">Коды ошибок котлов</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
                 <!-- Ariston -->
                 <div class="col-md-6 col-lg-4">
                     <a href="kody-oshibok/ariston" class="text-decoration-none">
@@ -500,6 +517,23 @@ metadata:
                                 <div>
                                     <h5 class="h6 fw-bold mb-1 text-dark">Sime</h5>
                                     <p class="small text-muted mb-0">Коды ошибок котлов</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <!-- Stout -->
+                <div class="col-md-6 col-lg-4">
+                    <a href="kody-oshibok/stout" class="text-decoration-none">
+                        <div class="card h-100 border-0 shadow-sm hover-lift transition">
+                            <div class="card-body p-3 d-flex align-items-center">
+                                <div class="bg-warning bg-opacity-10 rounded p-3 me-3" style="width: 60px; height: 60px; display: flex; align-items- center; justify-content: center;">
+                                    <i class="fas fa-bolt text-warning fa-2x"></i>
+                                </div>
+                                <div>
+                                    <h5 class="h6 fw-bold mb-1 text-dark">Stout</h5>
+                                    <p class="small text-muted mb-0">Электрокотлы</p>
                                 </div>
                             </div>
                         </div>
