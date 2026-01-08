@@ -10,7 +10,7 @@ title: 'Ремонт котлов Italtherm в Москве и Московск�
             <a class="btn btn-primary btn-lg rounded-pill mt-3 px-5 py-3" href="https://service04.ru/contact-us/feedback">Вызвать мастера</a>
         </div>
         <div class="col-lg-6">
-            <img src="italtherm_boiler.png" alt="Котел Italtherm" class="img-fluid rounded shadow">
+            <img src="italtherm_boiler.png" alt="Котел Italtherm" class="img-fluid rounded shadow-sm" loading="lazy">
         </div>
     </div>
 </div>
@@ -152,7 +152,7 @@ title: 'Ремонт котлов Italtherm в Москве и Московск�
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6 mb-4 mb-lg-0">
-                <img src="italtherm_repair.png" alt="Ремонт котлов Italtherm" class="img-fluid rounded shadow">
+                <img src="italtherm_repair.png" alt="Ремонт котлов Italtherm" class="img-fluid rounded shadow-sm" loading="lazy">
             </div>
             <div class="col-lg-6">
                 <h2 class="display-6 fw-bold mb-4">Причины поломок котлов Italtherm</h2>
@@ -336,7 +336,7 @@ title: 'Ремонт котлов Italtherm в Москве и Московск�
                 </ul>
             </div>
             <div class="col-lg-6">
-                <img src="italtherm_parts.png" alt="Запчасти для котлов Italtherm" class="img-fluid rounded shadow">
+                <img src="italtherm_parts.png" alt="Запчасти для котлов Italtherm" class="img-fluid rounded shadow-sm" loading="lazy">
             </div>
         </div>
     </div>
@@ -349,7 +349,7 @@ title: 'Ремонт котлов Italtherm в Москве и Московск�
     </div>
     <div class="row justify-content-center mb-4">
         <div class="col-lg-4 text-center">
-            <img src="italtherm_errors.png" alt="Коды ошибок Italtherm" class="img-fluid rounded shadow">
+            <img src="italtherm_errors.png" alt="Коды ошибок Italtherm" class="img-fluid rounded shadow-sm" loading="lazy">
         </div>
     </div>
     <div class="row justify-content-center">
