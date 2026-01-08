@@ -3,7 +3,7 @@ title: 'Ремонт котлов Navien в Москве и Московской
 ---
 
 <div class="logo-container bg-light">
-    <img src="navien_logo.png" alt="Navien Logo" class="img-fluid" style="max-width: 250px; margin: 0 auto; display: block; padding: 2rem 0;">
+    <img src="remont-kotlov-navien/navien_logo.png" alt="Navien Logo" class="img-fluid" style="max-width: 250px; margin: 0 auto; display: block; padding: 2rem 0;">
 </div>
 
 <div class="container my-5">
@@ -14,7 +14,7 @@ title: 'Ремонт котлов Navien в Москве и Московской
             <a class="btn btn-primary btn-lg rounded-pill mt-3 px-5 py-3" href="https://service04.ru/contact-us/feedback">Вызвать мастера</a>
         </div>
         <div class="col-lg-6">
-            <img src="navien_boiler.png" alt="Котел Navien" class="img-fluid rounded shadow">
+            <img src="remont-kotlov-navien/navien_boiler.png" alt="Котел Navien" class="img-fluid rounded shadow">
         </div>
     </div>
 </div>
@@ -156,7 +156,7 @@ title: 'Ремонт котлов Navien в Москве и Московской
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6 mb-4 mb-lg-0">
-                <img src="navien_service.png" alt="Ремонт котлов Navien" class="img-fluid rounded shadow">
+                <img src="remont-kotlov-navien/navien_service.png" alt="Ремонт котлов Navien" class="img-fluid rounded shadow">
             </div>
             <div class="col-lg-6">
                 <h2 class="display-6 fw-bold mb-4">Причины поломок котлов Navien</h2>
@@ -340,7 +340,7 @@ title: 'Ремонт котлов Navien в Москве и Московской
                 </ul>
             </div>
             <div class="col-lg-6">
-                <img src="navien_parts.png" alt="Запчасти для котлов Navien" class="img-fluid rounded shadow">
+                <img src="remont-kotlov-navien/navien_parts.png" alt="Запчасти для котлов Navien" class="img-fluid rounded shadow">
             </div>
         </div>
     </div>

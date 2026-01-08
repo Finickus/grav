@@ -13,7 +13,7 @@ canonical: 'https://service04.ru/uslugi/remont-kotlov/remont-kotlov-beretta'
 ---
 
 <div class="logo-container bg-light">
-    <img src="beretta_logo.png" alt="Beretta Logo" class="img-fluid" style="max-width: 250px; margin: 0 auto; display: block; padding: 2rem 0;">
+    <img src="remont-kotlov-beretta/beretta_logo.png" alt="Beretta Logo" class="img-fluid" style="max-width: 250px; margin: 0 auto; display: block; padding: 2rem 0;">
 </div>
 
 <div class="container my-5">
@@ -24,7 +24,7 @@ canonical: 'https://service04.ru/uslugi/remont-kotlov/remont-kotlov-beretta'
             <a class="btn btn-primary btn-lg rounded-pill mt-3 px-5 py-3" href="https://service04.ru/contact-us/feedback">Вызвать мастера</a>
         </div>
         <div class="col-lg-6">
-            <img src="beretta_boiler.png" alt="Котел Beretta" class="img-fluid rounded shadow">
+            <img src="remont-kotlov-beretta/beretta_boiler.png" alt="Котел Beretta" class="img-fluid rounded shadow">
         </div>
     </div>
 </div>
@@ -166,7 +166,7 @@ canonical: 'https://service04.ru/uslugi/remont-kotlov/remont-kotlov-beretta'
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6 mb-4 mb-lg-0">
-                <img src="beretta_service.png" alt="Ремонт котлов Beretta" class="img-fluid rounded shadow">
+                <img src="remont-kotlov-beretta/beretta_service.png" alt="Ремонт котлов Beretta" class="img-fluid rounded shadow">
             </div>
             <div class="col-lg-6">
                 <h2 class="display-6 fw-bold mb-4">Причины поломок котлов Beretta</h2>
@@ -350,7 +350,7 @@ canonical: 'https://service04.ru/uslugi/remont-kotlov/remont-kotlov-beretta'
                 </ul>
             </div>
             <div class="col-lg-6">
-                <img src="beretta_parts.png" alt="Запчасти для котлов Beretta" class="img-fluid rounded shadow">
+                <img src="remont-kotlov-beretta/beretta_parts.png" alt="Запчасти для котлов Beretta" class="img-fluid rounded shadow">
             </div>
         </div>
     </div>

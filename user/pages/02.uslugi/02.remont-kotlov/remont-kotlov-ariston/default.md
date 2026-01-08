@@ -123,7 +123,7 @@ metadata:
         <div class="card-body p-4 p-md-5">
             <div class="row g-4 align-items-center">
                 <div class="col-md-5">
-                    <img src="remont-gazovyx-kotlov-ariston3.jpg" alt="Ремонт котлов Аристон" class="img-fluid rounded shadow">
+                    <img src="remont-kotlov-ariston/remont-gazovyx-kotlov-ariston3.jpg" alt="Ремонт котлов Аристон" class="img-fluid rounded shadow">
                 </div>
                 <div class="col-md-7">
                     <p class="mb-4 text-muted">Наши мастера оснащены диагностическим оборудованием, позволяющим считывать ошибки из памяти котла и проводить тесты исполнительных механизмов.</p>

@@ -20,21 +20,21 @@ title: 'Ремонт Kospel – это наша специализация!'
         <div class="row g-4">
             <div class="col-md-4">
                 <div class="text-center">
-                    <img class="mb-3" src="basic_bolt.svg" alt="Любые ошибки" width="48" height="48">
+                    <img class="mb-3" src="remont-elektro-kotlov-kospel/basic_bolt.svg" alt="Любые ошибки" width="48" height="48">
                     <h4 class="fw-bold">Любые ошибки</h4>
                     <p>Поломки могут быть связаны с неисправностью насоса, термостата, ТЭНа, реле или других компонентов. В случае обнаружения проблемы, мы проводим диагностику и быстро устраняем неисправность.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="text-center">
-                    <img class="mb-3" src="basic_elaboration_document_check.svg" alt="Гарантия на работы" width="48" height="48">
+                    <img class="mb-3" src="remont-elektro-kotlov-kospel/basic_elaboration_document_check.svg" alt="Гарантия на работы" width="48" height="48">
                     <h4 class="fw-bold">Гарантия на работы</h4>
                     <p>Мы гарантируем качество наших работ и предоставляем гарантию на все виды услуг.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="text-center">
-                    <img class="mb-3" src="basic_geolocalize-05.svg" alt="Зона выезда" width="48" height="48">
+                    <img class="mb-3" src="remont-elektro-kotlov-kospel/basic_geolocalize-05.svg" alt="Зона выезда" width="48" height="48">
                     <h4 class="fw-bold">Зона выезда</h4>
                     <p>Мы работаем по Москве и Московской области. Чтобы вызвать мастера, позвоните нам по указанному номеру телефона или заполните заявку на сайте.</p>
                 </div>
