@@ -203,6 +203,64 @@ metadata:
         </div>
     </section>
 
+    <div class="container my-5">
+        <div class="text-center mb-5">
+            <h2 class="display-6 fw-bold">Наиболее распространенные коды ошибок котлов STOUT</h2>
+            <p class="lead text-muted">Расшифровка основных ошибок и способы их устранения</p>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="accordion shadow-sm" id="errorCodesAccordion">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingE01">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseE01" aria-expanded="true" aria-controls="collapseE01">
+                                <strong class="text-danger me-3">E01</strong> Ошибка датчика температуры
+                            </button>
+                        </h2>
+                        <div id="collapseE01" class="accordion-collapse collapse show" aria-labelledby="headingE01" data-bs-parent="#errorCodesAccordion">
+                            <div class="accordion-body">
+                                <p><strong>Причины:</strong> Неисправность датчика NTC, обрыв проводки, короткое замыкание.</p>
+                                <p><strong>Решение:</strong> Проверить проводку, заменить датчик температуры.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingE02">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseE02" aria-expanded="false" aria-controls="collapseE02">
+                                <strong class="text-danger me-3">E02</strong> Перегрев котла
+                            </button>
+                        </h2>
+                        <div id="collapseE02" class="accordion-collapse collapse" aria-labelledby="headingE02" data-bs-parent="#errorCodesAccordion">
+                            <div class="accordion-body">
+                                <p><strong>Причины:</strong> Неисправность термостата, засорение системы, недостаток теплоносителя.</p>
+                                <p><strong>Решение:</strong> Проверить термостат, промыть систему, долить теплоноситель.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingE04">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseE04" aria-expanded="false" aria-controls="collapseE04">
+                                <strong class="text-danger me-3">E04</strong> Ошибка питания ТЭНа
+                            </button>
+                        </h2>
+                        <div id="collapseE04" class="accordion-collapse collapse" aria-labelledby="headingE04" data-bs-parent="#errorCodesAccordion">
+                            <div class="accordion-body">
+                                <p><strong>Причины:</strong> Выход из строя ТЭНа, проблемы с контактором.</p>
+                                <p><strong>Решение:</strong> Проверить ТЭН, заменить неисправные элементы.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="alert alert-warning mt-4" role="alert">
+                    <strong>Важно:</strong> При появлении кода ошибки не рекомендуется самостоятельно вмешиваться в работу котла. Обратитесь к квалифицированному специалисту для точной диагностики и ремонта.
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="container-fluid p-0 pt-5">
         <img src="Screenshot_43.jpg" alt="STOUT Котел" class="img-fluid w-100">
     </div>

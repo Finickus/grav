@@ -139,6 +139,64 @@ metadata:
         </div>
     </div>
 
+    <div class="container my-5">
+        <div class="text-center mb-5">
+            <h2 class="display-6 fw-bold">Наиболее распространенные коды ошибок котлов Electrolux</h2>
+            <p class="lead text-muted">Расшифровка основных ошибок и способы их устранения</p>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="accordion shadow-sm" id="errorCodesAccordion">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingE01">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseE01" aria-expanded="true" aria-controls="collapseE01">
+                                <strong class="text-danger me-3">E01</strong> Отсутствие пламени
+                            </button>
+                        </h2>
+                        <div id="collapseE01" class="accordion-collapse collapse show" aria-labelledby="headingE01" data-bs-parent="#errorCodesAccordion">
+                            <div class="accordion-body">
+                                <p><strong>Причины:</strong> Отсутствие газа, неисправность газового клапана, загрязнение электродов.</p>
+                                <p><strong>Решение:</strong> Проверить подачу газа, очистить электроды, заменить газовый клапан.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingE02">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseE02" aria-expanded="false" aria-controls="collapseE02">
+                                <strong class="text-danger me-3">E02</strong> Перегрев котла
+                            </button>
+                        </h2>
+                        <div id="collapseE02" class="accordion-collapse collapse" aria-labelledby="headingE02" data-bs-parent="#errorCodesAccordion">
+                            <div class="accordion-body">
+                                <p><strong>Причины:</strong> Неисправность насоса, засорение теплообменника, завоздушивание.</p>
+                                <p><strong>Решение:</strong> Проверить насос, промыть теплообменник, удалить воздух из системы.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingE10">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseE10" aria-expanded="false" aria-controls="collapseE10">
+                                <strong class="text-danger me-3">E10</strong> Низкое давление воды
+                            </button>
+                        </h2>
+                        <div id="collapseE10" class="accordion-collapse collapse" aria-labelledby="headingE10" data-bs-parent="#errorCodesAccordion">
+                            <div class="accordion-body">
+                                <p><strong>Причины:</strong> Утечка воды, неисправность расширительного бака.</p>
+                                <p><strong>Решение:</strong> Найти и устранить течь, подкачать бак, долить воду.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="alert alert-warning mt-4" role="alert">
+                    <strong>Важно:</strong> При появлении кода ошибки не рекомендуется самостоятельно вмешиваться в работу котла. Обратитесь к квалифицированному специалисту для точной диагностики и ремонта.
+                </div>
+            </div>
+        </div>
+    </div>
+
 
     <div class="modal fade" id="modal-img-electrolux1" tabindex="-1" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered modal-lg">

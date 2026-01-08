@@ -181,6 +181,70 @@ metadata:
         </div>
     </div>
 
+    <div class="container my-5">
+        <div class="text-center mb-5">
+            <h2 class="display-6 fw-bold">Наиболее распространенные коды ошибок котлов Ariston</h2>
+            <p class="lead text-muted">Расшифровка основных ошибок и способы их устранения</p>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="accordion shadow-sm" id="errorCodesAccordion">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingE01">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseE01" aria-expanded="true" aria-controls="collapseE01">
+                                <strong class="text-danger me-3">101</strong> Перегрев котла
+                            </button>
+                        </h2>
+                        <div id="collapseE01" class="accordion-collapse collapse show" aria-labelledby="headingE01" data-bs-parent="#errorCodesAccordion">
+                            <div class="accordion-body">
+                                <p><strong>Причины:</strong> Недостаточная циркуляция, неисправность насоса, завоздушивание системы.</p>
+                                <p><strong>Решение:</strong> Проверить работу насоса, удалить воздух из системы, промыть теплообменник.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingE02">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseE02" aria-expanded="false" aria-controls="collapseE02">
+                                <strong class="text-danger me-3">104</strong> Низкое давление в системе
+                            </button>
+                        </h2>
+                        <div id="collapseE02" class="accordion-collapse collapse" aria-labelledby="headingE02" data-bs-parent="#errorCodesAccordion">
+                            <div class="accordion-body">
+                                <p><strong>Причины:</strong> Утечка воды, неисправность расширительного бака.</p>
+                                <p><strong>Решение:</strong> Найти и устранить течь, подкачать расширительный бак, долить воду.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingE03">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseE03" aria-expanded="false" aria-controls="collapseE03">
+                                <strong class="text-danger me-3">501</strong> Отсутствие пламени
+                            </button>
+                        </h2>
+                        <div id="collapseE03" class="accordion-collapse collapse" aria-labelledby="headingE03" data-bs-parent="#errorCodesAccordion">
+                            <div class="accordion-body">
+                                <p><strong>Причины:</strong> Нет газа, неисправность электрода розжига, засорение газового клапана.</p>
+                                <p><strong>Решение:</strong> Проверить подачу газа, очистить электроды, проверить газовый клапан.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="alert alert-warning mt-4" role="alert">
+                    <strong>Важно:</strong> При появлении кода ошибки не рекомендуется самостоятельно вмешиваться в работу котла. Обратитесь к квалифицированному специалисту для точной диагностики и ремонта.
+                </div>
+                
+                <div class="text-center mt-4">
+                    <a href="/kody-oshibok/ariston" class="btn btn-outline-primary btn-lg">
+                        <i class="fas fa-book me-2"></i>Узнать больше о кодах ошибок Ariston
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="card border-0 shadow-lg bg-primary text-white text-center rounded-4 overflow-hidden">
         <div class="card-body p-5">
             <h3 class="display-6 fw-bold mb-2">Требуется ремонт котла?</h3>

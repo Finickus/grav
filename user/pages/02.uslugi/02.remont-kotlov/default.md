@@ -131,7 +131,7 @@ metadata:
     <div class="card shadow-lg border-0 mb-5">
         <div class="card-body">
             <h2 class="h4 mb-4 fw-bold text-info border-bottom pb-2">
-                <i class="fas fa-exclamation-triangle me-2"></i> Основные неисправности котлов и их устранение (FAQ)
+                <i class="fas fa-exclamation-triangle me-2"></i> Основные неисправности котлов и их устранение. (FAQ)
             </h2>
 
             <div class="accordion" id="accordionFaults">

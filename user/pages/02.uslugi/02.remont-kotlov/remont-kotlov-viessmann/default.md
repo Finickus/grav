@@ -181,6 +181,70 @@ metadata:
         </div>
     </div>
 
+    <div class="container my-5">
+        <div class="text-center mb-5">
+            <h2 class="display-6 fw-bold">Наиболее распространенные коды ошибок котлов Viessmann</h2>
+            <p class="lead text-muted">Расшифровка основных ошибок и способы их устранения</p>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="accordion shadow-sm" id="errorCodesAccordion">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingF1">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseF1" aria-expanded="true" aria-controls="collapseF1">
+                                <strong class="text-danger me-3">F1</strong> Перегрев котла
+                            </button>
+                        </h2>
+                        <div id="collapseF1" class="accordion-collapse collapse show" aria-labelledby="headingF1" data-bs-parent="#errorCodesAccordion">
+                            <div class="accordion-body">
+                                <p><strong>Причины:</strong> Неисправность насоса, засорение теплообменника, завоздушивание системы.</p>
+                                <p><strong>Решение:</strong> Проверить насос, промыть теплообменник, удалить воздух из системы.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingF2">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseF2" aria-expanded="false" aria-controls="collapseF2">
+                                <strong class="text-danger me-3">F2</strong> Ошибка датчика температуры
+                            </button>
+                        </h2>
+                        <div id="collapseF2" class="accordion-collapse collapse" aria-labelledby="headingF2" data-bs-parent="#errorCodesAccordion">
+                            <div class="accordion-body">
+                                <p><strong>Причины:</strong> Неисправность датчика NTC, обрыв проводки.</p>
+                                <p><strong>Решение:</strong> Проверить проводку, заменить датчик температуры.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingF5">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseF5" aria-expanded="false" aria-controls="collapseF5">
+                                <strong class="text-danger me-3">F5</strong> Ошибка дымоудаления
+                            </button>
+                        </h2>
+                        <div id="collapseF5" class="accordion-collapse collapse" aria-labelledby="headingF5" data-bs-parent="#errorCodesAccordion">
+                            <div class="accordion-body">
+                                <p><strong>Причины:</strong> Засорение дымохода, неисправность вентилятора, прессостата.</p>
+                                <p><strong>Решение:</strong> Очистить дымоход, проверить вентилятор, заменить прессостат.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="alert alert-warning mt-4" role="alert">
+                    <strong>Важно:</strong> При появлении кода ошибки не рекомендуется самостоятельно вмешиваться в работу котла. Обратитесь к квалифицированному специалисту для точной диагностики и ремонта.
+                </div>
+                
+                <div class="text-center mt-4">
+                    <a href="/kody-oshibok/viessmann" class="btn btn-outline-primary btn-lg">
+                        <i class="fas fa-book me-2"></i>Узнать больше о кодах ошибок Viessmann
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="card border-0 shadow-lg bg-primary text-white text-center rounded-4 overflow-hidden">
         <div class="card-body p-5">
             <h3 class="display-6 fw-bold mb-2">Нужен ремонт Viessmann?</h3>

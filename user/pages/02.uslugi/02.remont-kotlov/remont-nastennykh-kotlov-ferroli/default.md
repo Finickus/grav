@@ -201,6 +201,70 @@ metadata:
         </div>
     </section>
 
+    <div class="container my-5">
+        <div class="text-center mb-5">
+            <h2 class="display-6 fw-bold">Наиболее распространенные коды ошибок котлов Ferroli</h2>
+            <p class="lead text-muted">Расшифровка основных ошибок и способы их устранения</p>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="accordion shadow-sm" id="errorCodesAccordion">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingA01">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseA01" aria-expanded="true" aria-controls="collapseA01">
+                                <strong class="text-danger me-3">A01</strong> Отсутствие пламени
+                            </button>
+                        </h2>
+                        <div id="collapseA01" class="accordion-collapse collapse show" aria-labelledby="headingA01" data-bs-parent="#errorCodesAccordion">
+                            <div class="accordion-body">
+                                <p><strong>Причины:</strong> Отсутствие газа, неисправность газового клапана, загрязнение электродов.</p>
+                                <p><strong>Решение:</strong> Проверить подачу газа, очистить электроды, заменить газовый клапан.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingA02">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseA02" aria-expanded="false" aria-controls="collapseA02">
+                                <strong class="text-danger me-3">A02</strong> Перегрев котла
+                            </button>
+                        </h2>
+                        <div id="collapseA02" class="accordion-collapse collapse" aria-labelledby="headingA02" data-bs-parent="#errorCodesAccordion">
+                            <div class="accordion-body">
+                                <p><strong>Причины:</strong> Неисправность насоса, засорение теплообменника, завоздушивание системы.</p>
+                                <p><strong>Решение:</strong> Проверить насос, промыть теплообменник, удалить воздух из системы.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingA03">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseA03" aria-expanded="false" aria-controls="collapseA03">
+                                <strong class="text-danger me-3">A03</strong> Ошибка дымоудаления
+                            </button>
+                        </h2>
+                        <div id="collapseA03" class="accordion-collapse collapse" aria-labelledby="headingA03" data-bs-parent="#errorCodesAccordion">
+                            <div class="accordion-body">
+                                <p><strong>Причины:</strong> Засорение дымохода, неисправность вентилятора, прессостата.</p>
+                                <p><strong>Решение:</strong> Очистить дымоход, проверить вентилятор, заменить прессостат.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="alert alert-warning mt-4" role="alert">
+                    <strong>Важно:</strong> При появлении кода ошибки не рекомендуется самостоятельно вмешиваться в работу котла. Обратитесь к квалифицированному специалисту для точной диагностики и ремонта.
+                </div>
+                
+                <div class="text-center mt-4">
+                    <a href="/kody-oshibok/ferroli" class="btn btn-outline-primary btn-lg">
+                        <i class="fas fa-book me-2"></i>Узнать больше о кодах ошибок Ferroli
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <footer class="bg-dark text-white py-5 border-top border-secondary">
         <div class="container-xl">
             <div class="row g-4 align-items-center text-center text-md-start">

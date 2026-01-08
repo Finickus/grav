@@ -181,6 +181,70 @@ metadata:
         </div>
     </div>
 
+    <div class="container my-5">
+        <div class="text-center mb-5">
+            <h2 class="display-6 fw-bold">Наиболее распространенные коды ошибок котлов Bosch</h2>
+            <p class="lead text-muted">Расшифровка основных ошибок и способы их устранения</p>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-lg-10">
+                <div class="accordion shadow-sm" id="errorCodesAccordion">
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingE9">
+                            <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseE9" aria-expanded="true" aria-controls="collapseE9">
+                                <strong class="text-danger me-3">E9</strong> Ограничение температуры (перегрев)
+                            </button>
+                        </h2>
+                        <div id="collapseE9" class="accordion-collapse collapse show" aria-labelledby="headingE9" data-bs-parent="#errorCodesAccordion">
+                            <div class="accordion-body">
+                                <p><strong>Причины:</strong> Недостаточная циркуляция воды, неисправность насоса, завоздушивание.</p>
+                                <p><strong>Решение:</strong> Проверить работу насоса, удалить воздух, промыть теплообменник.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingEA">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseEA" aria-expanded="false" aria-controls="collapseEA">
+                                <strong class="text-danger me-3">EA</strong> Отсутствие пламени
+                            </button>
+                        </h2>
+                        <div id="collapseEA" class="accordion-collapse collapse" aria-labelledby="headingEA" data-bs-parent="#errorCodesAccordion">
+                            <div class="accordion-body">
+                                <p><strong>Причины:</strong> Нет газа, неисправность газового клапана, загрязнение электродов.</p>
+                                <p><strong>Решение:</strong> Проверить подачу газа, очистить электроды, проверить газовый клапан.</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="accordion-item">
+                        <h2 class="accordion-header" id="headingC6">
+                            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseC6" aria-expanded="false" aria-controls="collapseC6">
+                                <strong class="text-danger me-3">C6</strong> Неисправность вентилятора
+                            </button>
+                        </h2>
+                        <div id="collapseC6" class="accordion-collapse collapse" aria-labelledby="headingC6" data-bs-parent="#errorCodesAccordion">
+                            <div class="accordion-body">
+                                <p><strong>Причины:</strong> Блокировка вентилятора, неисправность прессостата.</p>
+                                <p><strong>Решение:</strong> Проверить вентилятор, очистить дымоход, заменить прессостат.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="alert alert-warning mt-4" role="alert">
+                    <strong>Важно:</strong> При появлении кода ошибки не рекомендуется самостоятельно вмешиваться в работу котла. Обратитесь к квалифицированному специалисту для точной диагностики и ремонта.
+                </div>
+                
+                <div class="text-center mt-4">
+                    <a href="/kody-oshibok/bosch" class="btn btn-outline-primary btn-lg">
+                        <i class="fas fa-book me-2"></i>Узнать больше о кодах ошибок Bosch
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="card border-0 shadow-lg bg-primary text-white p-4 p-md-5 text-center rounded-4">
         <div class="card-body">
             <h3 class="display-6 fw-bold mb-3"><i class="fas fa-home me-2"></i> Верните тепло и уют в ваш дом!</h3>
