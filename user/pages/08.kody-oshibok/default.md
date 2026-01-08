@@ -33,15 +33,22 @@ metadata:
 
     <div class="card shadow-lg border-0 mb-5">
         <div class="card-body p-4">
-            <h2 class="h4 fw-bold mb-4 text-primary border-bottom pb-3">
-                <i class="fas fa-info-circle me-2"></i>О кодах ошибок
-            </h2>
-            <p class="small mb-3">
-                Современные газовые и электрические котлы оснащены системой самодиагностики, которая при возникновении неисправности выводит на дисплей код ошибки. Понимание этих кодов позволяет быстро определить причину поломки и принять необходимые меры.
-            </p>
-            <p class="small mb-3">
-                На этой странице вы найдете подробную информацию о кодах ошибок для всех популярных брендов котельного оборудования. Мы собрали расшифровку каждой ошибки, возможные причины ее возникновения и рекомендации по устранению.
-            </p>
+            <div class="row g-4 align-items-center">
+                <div class="col-md-8">
+                    <h2 class="h4 fw-bold mb-4 text-primary border-bottom pb-3">
+                        <i class="fas fa-info-circle me-2"></i>О кодах ошибок
+                    </h2>
+                    <p class="small mb-3">
+                        Современные газовые и электрические котлы оснащены системой самодиагностики, которая при возникновении неисправности выводит на дисплей код ошибки. Понимание этих кодов позволяет быстро определить причину поломки и принять необходимые меры.
+                    </p>
+                    <p class="small mb-3">
+                        На этой странице вы найдете подробную информацию о кодах ошибок для всех популярных брендов котельного оборудования. Мы собрали расшифровку каждой ошибки, возможные причины ее возникновения и рекомендации по устранению.
+                    </p>
+                </div>
+                <div class="col-md-4 text-center">
+                    <img src="/kody-oshibok/error-codes-display.png" alt="Коды ошибок котлов" class="img-fluid rounded shadow-sm">
+                </div>
+            </div>
             
             <div class="alert bg-warning bg-opacity-10 border-warning border-2 mt-4" role="alert">
                 <h5 class="alert-heading fw-bold text-warning">
