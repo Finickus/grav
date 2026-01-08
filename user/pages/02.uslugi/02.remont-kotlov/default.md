@@ -293,6 +293,22 @@ metadata:
                 </div>
                 
                 <div class="col-md-6 col-lg-4">
+                    <a href="remont-kotlov/remont-kotlov-beretta" class="text-decoration-none">
+                        <div class="card h-100 border-0 shadow-sm hover-lift transition">
+                            <div class="card-body p-3 d-flex align-items-center">
+                                <div class="bg-info bg-opacity-10 rounded-circle p-3 me-3">
+                                    <i class="fas fa-fire-alt text-info fa-lg"></i>
+                                </div>
+                                <div>
+                                    <h5 class="h6 fw-bold mb-1 text-dark">Beretta</h5>
+                                    <p class="small text-muted mb-0">Ремонт котлов Беретта</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+                
+                <div class="col-md-6 col-lg-4">
                     <a href="remont-kotlov/remont-kotlov-attack" class="text-decoration-none">
                         <div class="card h-100 border-0 shadow-sm hover-lift transition">
                             <div class="card-body p-3 d-flex align-items-center">
