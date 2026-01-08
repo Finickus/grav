@@ -11,7 +11,7 @@ markdown: false
             <a class="btn btn-primary btn-lg rounded-pill mt-3 px-5 py-3" href="https://service04.ru/contact-us/feedback">Вызвать мастера</a>
         </div>
         <div class="col-lg-6">
-            <img src="italtherm_boiler.png" alt="Котел Italtherm" class="img-fluid rounded shadow-sm" loading="lazy">
+            <img src="remont-kotlov-italtherm/italtherm_boiler.png" alt="Котел Italtherm" class="img-fluid rounded shadow-sm" loading="lazy">
         </div>
     </div>
 </div>
@@ -21,21 +21,21 @@ markdown: false
         <div class="row g-4">
             <div class="col-md-4">
                 <div class="text-center">
-                    <img class="mb-3" src="basic_bolt.svg" alt="Быстрый ремонт" width="48" height="48">
+                    <img class="mb-3" src="remont-kotlov-italtherm/basic_bolt.svg" alt="Быстрый ремонт" width="48" height="48">
                     <h4 class="fw-bold">Быстрый ремонт</h4>
                     <p>Устраняем неисправности за 1 визит. Наши специалисты имеют большой опыт работы с котлами Italtherm всех моделей.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="text-center">
-                    <img class="mb-3" src="basic_elaboration_document_check.svg" alt="Гарантия на работы" width="48" height="48">
+                    <img class="mb-3" src="remont-kotlov-italtherm/basic_elaboration_document_check.svg" alt="Гарантия на работы" width="48" height="48">
                     <h4 class="fw-bold">Гарантия на работы</h4>
                     <p>Предоставляем официальную гарантию на все виды выполненных работ и установленные запчасти.</p>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="text-center">
-                    <img class="mb-3" src="basic_geolocalize-05.svg" alt="Работаем по всей Москве" width="48" height="48">
+                    <img class="mb-3" src="remont-kotlov-italtherm/basic_geolocalize-05.svg" alt="Работаем по всей Москве" width="48" height="48">
                     <h4 class="fw-bold">Работаем по всей Москве</h4>
                     <p>Выезжаем в любой район Москвы и Московской области. Срочный выезд мастера в течение 2 часов.</p>
                 </div>
@@ -153,7 +153,7 @@ markdown: false
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6 mb-4 mb-lg-0">
-                <img src="italtherm_repair.png" alt="Ремонт котлов Italtherm" class="img-fluid rounded shadow-sm" loading="lazy">
+                <img src="remont-kotlov-italtherm/italtherm_repair.png" alt="Ремонт котлов Italtherm" class="img-fluid rounded shadow-sm" loading="lazy">
             </div>
             <div class="col-lg-6">
                 <h2 class="display-6 fw-bold mb-4">Причины поломок котлов Italtherm</h2>
@@ -337,7 +337,7 @@ markdown: false
                 </ul>
             </div>
             <div class="col-lg-6">
-                <img src="italtherm_parts.png" alt="Запчасти для котлов Italtherm" class="img-fluid rounded shadow-sm" loading="lazy">
+                <img src="remont-kotlov-italtherm/italtherm_parts.png" alt="Запчасти для котлов Italtherm" class="img-fluid rounded shadow-sm" loading="lazy">
             </div>
         </div>
     </div>
@@ -350,7 +350,7 @@ markdown: false
     </div>
     <div class="row justify-content-center mb-4">
         <div class="col-lg-4 text-center">
-            <img src="italtherm_errors.png" alt="Коды ошибок Italtherm" class="img-fluid rounded shadow-sm" loading="lazy">
+            <img src="remont-kotlov-italtherm/italtherm_errors.png" alt="Коды ошибок Italtherm" class="img-fluid rounded shadow-sm" loading="lazy">
         </div>
     </div>
     <div class="row justify-content-center">
