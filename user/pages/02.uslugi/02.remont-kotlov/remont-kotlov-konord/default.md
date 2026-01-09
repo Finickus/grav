@@ -24,30 +24,30 @@ process:
 <div class="container py-5">
     <!-- Hero Section -->
     <div class="row mb-5">
-        <div class="col-12">
-            <div class="bg-primary text-white p-5 rounded-3 shadow-lg">
+        <div class="col-lg-7">
+            <div class="bg-primary text-white p-5 rounded-3 shadow-lg h-100 d-flex flex-column justify-content-center">
                 <h1 class="display-5 fw-bold mb-3">Профессиональный ремонт котлов Конорд в Москве</h1>
                 <p class="lead mb-4">Выход из строя отопительного оборудования в разгар сезона — серьезная проблема, требующая немедленного вмешательства экспертов. Наш специализированный сервис Конорд предлагает комплексное решение любых технических неисправностей.</p>
                 <div class="row g-3">
-                    <div class="col-md-3 col-6">
+                    <div class="col-md-6 col-6">
                         <div class="bg-white bg-opacity-10 p-3 rounded text-center">
                             <div class="fs-4 fw-bold">24/7</div>
                             <small>Работаем круглосуточно</small>
                         </div>
                     </div>
-                    <div class="col-md-3 col-6">
+                    <div class="col-md-6 col-6">
                         <div class="bg-white bg-opacity-10 p-3 rounded text-center">
                             <div class="fs-4 fw-bold">2 года</div>
                             <small>Гарантия на работы</small>
                         </div>
                     </div>
-                    <div class="col-md-3 col-6">
+                    <div class="col-md-6 col-6">
                         <div class="bg-white bg-opacity-10 p-3 rounded text-center">
                             <div class="fs-4 fw-bold">1 час</div>
                             <small>Выезд мастера</small>
                         </div>
                     </div>
-                    <div class="col-md-3 col-6">
+                    <div class="col-md-6 col-6">
                         <div class="bg-white bg-opacity-10 p-3 rounded text-center">
                             <div class="fs-4 fw-bold">500₽</div>
                             <small>Диагностика</small>
@@ -55,6 +55,9 @@ process:
                     </div>
                 </div>
             </div>
+        </div>
+        <div class="col-lg-5">
+            <img src="konord-boiler.png" alt="Котел Конорд" class="img-fluid rounded-3 shadow-lg" loading="lazy">
         </div>
     </div>
 
@@ -161,10 +164,13 @@ process:
     </div>
 
     <!-- Our Services -->
-    <div class="row mb-5">
-        <div class="col-12">
+    <div class="row mb-5 align-items-center">
+        <div class="col-lg-8">
             <h2 class="fw-bold mb-4">Наши услуги по ремонту Конорд</h2>  
             <p class="lead text-muted mb-4">Мы выполняем полный спектр работ для всех модификаций, включая напольные модели КСц-Г-8S...50S и парапетные котлы с закрытой камерой сгорания:</p>
+        </div>
+        <div class="col-lg-4 text-center">
+            <img src="konord-repair.png" alt="Ремонт котла Конорд" class="img-fluid rounded shadow" loading="lazy">
         </div>
     </div>
 
@@ -313,6 +319,13 @@ process:
                     <p class="card-text small">Стоимость ремонта согласовывается после диагностики и не меняется в процессе работ</p>
                 </div>
             </div>
+        </div>
+    </div>
+
+    <!-- Spare Parts Image -->
+    <div class="row mb-5">
+        <div class="col-12 text-center">
+            <img src="konord-parts.png" alt="Запчасти для котлов Конорд" class="img-fluid rounded shadow" style="max-height: 400px;" loading="lazy">
         </div>
     </div>
 
