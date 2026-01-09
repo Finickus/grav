@@ -57,7 +57,7 @@ process:
             </div>
         </div>
         <div class="col-lg-5">
-            <img src="konord-boiler.png" alt="Котел Конорд" class="img-fluid rounded-3 shadow-lg" loading="lazy">
+            {{ page.media['konord-boiler.png'].html('Котел Конорд', 'Котел Конорд', 'img-fluid rounded-3 shadow-lg') }}
         </div>
     </div>
 
@@ -83,7 +83,7 @@ process:
     <!-- Troubleshooting Infographic -->
     <div class="row mb-5">
         <div class="col-12">
-            <img src="konord-troubleshooting.jpg" alt="Решение частых проблем газового котла Конорд" class="img-fluid rounded-3 shadow-lg" loading="lazy">
+            {{ page.media['konord-troubleshooting.jpg'].html('Решение частых проблем газового котла Конорд', 'Решение частых проблем газового котла Конорд', 'img-fluid rounded-3 shadow-lg') }}
         </div>
     </div>
 
@@ -177,7 +177,7 @@ process:
             <p class="lead text-muted mb-4">Мы выполняем полный спектр работ для всех модификаций, включая напольные модели КСц-Г-8S...50S и парапетные котлы с закрытой камерой сгорания:</p>
         </div>
         <div class="col-lg-4 text-center">
-            <img src="konord-repair.png" alt="Ремонт котла Конорд" class="img-fluid rounded shadow" loading="lazy">
+            {{ page.media['konord-repair.png'].html('Ремонт котла Конорд', 'Ремонт котла Конорд', 'img-fluid rounded shadow') }}
         </div>
     </div>
 
@@ -332,7 +332,7 @@ process:
     <!-- Spare Parts Image -->
     <div class="row mb-5">
         <div class="col-12 text-center">
-            <img src="konord-parts.png" alt="Запчасти для котлов Конорд" class="img-fluid rounded shadow" style="max-height: 400px;" loading="lazy">
+            {{ page.media['konord-parts.png'].resize(800).html('Запчасти для котлов Конорд', 'Запчасти для котлов Конорд', 'img-fluid rounded shadow') }}
         </div>
     </div>
 
