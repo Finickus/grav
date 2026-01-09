@@ -174,6 +174,14 @@ process:
         </div>
     </div>
 
+    <!-- Automation Image -->
+    <div class="row mb-5">
+        <div class="col-12 text-center">
+            <img src="/uslugi/remont-kotlov/remont-kotlov-konord/konord-automation.jpg" alt="Автоматика газового котла Конорд" class="img-fluid rounded-3 shadow" style="max-height: 500px;" loading="lazy">
+            <p class="text-muted mt-2"><small>Газовая автоматика котла Конорд - надёжность итальянского производства</small></p>
+        </div>
+    </div>
+
     <!-- Our Services -->
     <div class="row mb-5 align-items-center">
         <div class="col-lg-8">
@@ -181,7 +189,7 @@ process:
             <p class="lead text-muted mb-4">Мы выполняем полный спектр работ для всех модификаций, включая напольные модели КСц-Г-8S...50S и парапетные котлы с закрытой камерой сгорания:</p>
         </div>
         <div class="col-lg-4 text-center">
-            <img src="/uslugi/remont-kotlov/remont-kotlov-konord/konord-repair.png" alt="Ремонт котла Конорд" class="img-fluid rounded shadow" loading="lazy">
+            <img src="/uslugi/remont-kotlov/remont-kotlov-konord/konord-models.jpg" alt="Модели котлов Конорд" class="img-fluid rounded-3 shadow-lg" loading="lazy">
         </div>
     </div>
 
@@ -266,6 +274,15 @@ process:
                     <small class="text-muted">Регулировка винтов клапана для оптимального сгорания топлива</small>
                 </div>
             </div>
+        </div>
+    </div>
+
+    <!-- Product Assortment -->
+    <div class="row mb-5">
+        <div class="col-12">
+            <h2 class="fw-bold mb-4 text-center">Ассортимент продукции Конорд</h2>
+            <p class="lead text-muted text-center mb-4">Мы работаем со всеми типами оборудования бренда Конорд</p>
+            <img src="/uslugi/remont-kotlov/remont-kotlov-konord/konord-assortment.jpg" alt="Полный ассортимент котлов и колонок Конорд" class="img-fluid rounded-3 shadow-lg" loading="lazy">
         </div>
     </div>
 
