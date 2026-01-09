@@ -80,6 +80,13 @@ process:
         </div>
     </div>
 
+    <!-- Troubleshooting Infographic -->
+    <div class="row mb-5">
+        <div class="col-12">
+            <img src="konord-troubleshooting.jpg" alt="Решение частых проблем газового котла Конорд" class="img-fluid rounded-3 shadow-lg" loading="lazy">
+        </div>
+    </div>
+
     <div class="row g-4 mb-5">
         <div class="col-md-6">
             <div class="card h-100 border-0 shadow-sm">
