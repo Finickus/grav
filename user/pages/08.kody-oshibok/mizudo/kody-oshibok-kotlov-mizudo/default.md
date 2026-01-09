@@ -1,4 +1,4 @@
----
+﻿---
 title: Коды ошибок котлов Mizudo
 metadata:
   description: Коды ошибок котлов Mizudo Полный справочник по диагностике и устранению
@@ -392,7 +392,7 @@ metadata:
                                         <li>Установите новый датчик и затяните</li>
                                         <li>Восстановите давление в системе</li>
                                     </ol>
-                                    <div class="alert alert-success mt-2 small p-2 mb-0"><i class="fas fa-check-circle"></i> Рекомендуемый датчик: Терморезистор NTC 10кОм (B=3435)</div>
+                                    <div class="alert alert-success mt-2 small p-2 mb-0"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Рекомендуемый датчик: Терморезистор NTC 10кОм (B=3435)</div>
                                 </div>
                                 <div class="col-md-3 text-center">
                                     
@@ -455,7 +455,7 @@ metadata:
                 <div class="col-md-6">
                     <div class="card bg-light shadow-sm h-100">
                         <div class="card-body">
-                            <h5 class="h6 fw-bold text-success"><i class="fas fa-check-circle me-2"></i> Признаки успешного ремонта:</h5>
+                            <h5 class="h6 fw-bold text-success"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
                             <ul class="list-unstyled small mb-0">
                                 <li>Ошибка E01 не появляется</li>
                                 <li>Температура на дисплее соответствует реальной</li>

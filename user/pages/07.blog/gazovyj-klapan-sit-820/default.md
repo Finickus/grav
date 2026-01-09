@@ -154,10 +154,10 @@ title: 'SIT 820 Nova'
 <h5 class="text-uppercase" style="color: #e37a25;">Совместимость</h5>
 <p>Газовый клапан SIT 820 Nova совместим с различными моделями газовых котлов и колонок.</p>
 <ul class="mb-0">
-<li><i class="fas fa-check text-success me-2"></i> Котлы BAXI</li>
-<li><i class="fas fa-check text-success me-2"></i> Котлы Vaillant</li>
-<li><i class="fas fa-check text-success me-2"></i> Котлы Protherm</li>
-<li><i class="fas fa-check text-success me-2"></i> Котлы Junkers</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Котлы BAXI</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Котлы Vaillant</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Котлы Protherm</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Котлы Junkers</li>
 </ul>
 </div>
 </div>

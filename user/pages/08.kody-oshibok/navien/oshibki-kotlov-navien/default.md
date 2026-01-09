@@ -1,4 +1,4 @@
----
+﻿---
 title: Ошибки котлов Navien
 metadata:
   description: 'Ошибки котлов Navien Навьен и их устранение Руководство по устранению
@@ -468,7 +468,7 @@ function searchError() {
     if (errorInfo) {
         let solutionList = '';
         errorInfo.solution.forEach(step => {
-            solutionList += `<li class="mb-2 small"><i class="fas fa-check-circle me-2 text-success"></i>${step.trim()}</li>`;
+            solutionList += `<li class="mb-2 small"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">${step.trim()}</li>`;
         });
         
         resultDiv.innerHTML = `

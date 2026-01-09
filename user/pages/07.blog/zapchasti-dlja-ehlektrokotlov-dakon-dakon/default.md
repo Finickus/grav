@@ -127,7 +127,7 @@ title: 'Запчасти для электрокотлов Dakon'
 </table>
 </div>
 <div class="notification is-success">
-<h5 class="h6"><span class="icon me-2"><i class="fas fa-check-circle"></i></span>Гарантия качества</h5>
+<h5 class="h6"><span class="icon me-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span>Гарантия качества</h5>
 <p class="mb-0 fs-6">Мы предлагаем только оригинальные **запчасти для электрокотлов Dakon**, купить которые можно на условиях самовывоза или с оформлением доставки во все города РФ.</p>
 </div>
 </div>

@@ -1,4 +1,4 @@
----
+﻿---
 title: Сервисное обслуживание котлов
 metadata:
   description: Сервисное обслуживание котлов Гарантия безопасности и долговечности
@@ -150,10 +150,10 @@ metadata:
         <div class="card-body p-4 p-md-5">
             <h4 class="fw-bold text-dark border-start border-danger border-4 ps-3 mb-4">Наши преимущества:</h4>
             <div class="row g-3 small">
-                <div class="col-md-6"><i class="fas fa-check-circle text-success me-2"></i>Сертифицированные инженеры.</div>
-                <div class="col-md-6"><i class="fas fa-check-circle text-success me-2"></i>Использование только оригинальных запчастей.</div>
-                <div class="col-md-6"><i class="fas fa-check-circle text-success me-2"></i>Официальный договор и акт выполненных работ.</div>
-                <div class="col-md-6"><i class="fas fa-check-circle text-success me-2"></i>Круглосуточная аварийная поддержка клиентов.</div>
+                <div class="col-md-6"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Сертифицированные инженеры.</div>
+                <div class="col-md-6"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Использование только оригинальных запчастей.</div>
+                <div class="col-md-6"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Официальный договор и акт выполненных работ.</div>
+                <div class="col-md-6"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Круглосуточная аварийная поддержка клиентов.</div>
             </div>
             
             <div class="row g-4 mt-4 pt-4 border-top">

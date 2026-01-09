@@ -37,7 +37,7 @@ title: 'Сервисное обслуживание котлов'
 </div>
 </div>
 <div class="notification is-success mt-4">
-<h5 class="h6"><i class="fas fa-check-circle me-2"></i>Преимущества</h5>
+<h5 class="h6"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Преимущества</h5>
 <p class="mb-0">Регулярное <strong>сервисное обслуживание</strong> помогает избежать аварийных ситуаций, снижает затраты на ремонт и обеспечивает стабильную работу котла в отопительный сезон.</p>
 </div>
 </div>
@@ -102,7 +102,7 @@ title: 'Сервисное обслуживание котлов'
 <div class="card has-border-grey-light p-4 h-100">
 <h5 class="h6 has-text-weight-semibold" style="color: #e37a25;"><i class="fas fa-fire me-2"></i> Газовые котлы</h5>
 <ul style="list-style: none; padding-left: 0; margin-top: 0.5rem;">
-<li><i class="fas fa-check-circle text-success me-2"></i> 1 раз в год (перед отопительным сезоном)</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> 1 раз в год (перед отопительным сезоном)</li>
 </ul>
 </div>
 </div>
@@ -110,7 +110,7 @@ title: 'Сервисное обслуживание котлов'
 <div class="card has-border-grey-light p-4 h-100">
 <h5 class="h6 has-text-weight-semibold" style="color: #e37a25;"><i class="fas fa-fire-alt me-2"></i> Твердотопливные котлы</h5>
 <ul style="list-style: none; padding-left: 0; margin-top: 0.5rem;">
-<li><i class="fas fa-check-circle text-success me-2"></i> 2 раза в год (до и после сезона)</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> 2 раза в год (до и после сезона)</li>
 </ul>
 </div>
 </div>
@@ -118,7 +118,7 @@ title: 'Сервисное обслуживание котлов'
 <div class="card has-border-grey-light p-4 h-100">
 <h5 class="h6 has-text-weight-semibold" style="color: #e37a25;"><i class="fas fa-bolt me-2"></i> Электрические котлы</h5>
 <ul style="list-style: none; padding-left: 0; margin-top: 0.5rem;">
-<li><i class="fas fa-check-circle text-success me-2"></i> 1 раз в 1–2 года (зависит от жесткости воды)</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> 1 раз в 1–2 года (зависит от жесткости воды)</li>
 </ul>
 </div>
 </div>
@@ -159,7 +159,7 @@ title: 'Сервисное обслуживание котлов'
 </div>
 <p>Наша компания предлагает профессиональное <strong>сервисное обслуживание котлов</strong> любых типов и марок. Мы работаем с современным оборудованием, используем оригинальные запчасти и даем гарантию на все виды работ.</p>
 <div class="notification is-success mt-4">
-<h5 class="h6"><i class="fas fa-check-circle me-2"></i>Наши преимущества:</h5>
+<h5 class="h6"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Наши преимущества:</h5>
 <ul style="list-style: none; padding-left: 0; margin-top: 0.5rem;">
 <li><i class="fas fa-cogs text-primary me-2"></i> Работаем с современным диагностическим оборудованием</li>
 <li><i class="fas fa-shield-alt text-success me-2"></i> Используем только оригинальные запчасти</li>

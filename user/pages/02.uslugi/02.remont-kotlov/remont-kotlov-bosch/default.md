@@ -1,4 +1,4 @@
----
+﻿---
 title: Ремонт котлов Bosch
 metadata:
   description: Ремонт котлов Bosch Профессиональное восстановление оборудования с
@@ -145,9 +145,9 @@ metadata:
                 <div class="p-4 bg-white rounded-3 shadow-sm h-100">
                     <h5 class="h6 fw-bold border-bottom pb-2"><i class="fas fa-bolt text-warning me-2"></i> Электропитание</h5>
                     <ul class="small text-muted list-unstyled mt-3">
-                        <li class="mb-2"><i class="fas fa-check text-success me-2"></i><strong>Стабилизатор</strong> — против скачков</li>
-                        <li class="mb-2"><i class="fas fa-check text-success me-2"></i><strong>ИБП</strong> — работа без света</li>
-                        <li><i class="fas fa-check text-success me-2"></i><strong>Диэлектрик</strong> — защита от токов на трубе</li>
+                        <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"><strong>Стабилизатор</strong> — против скачков</li>
+                        <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"><strong>ИБП</strong> — работа без света</li>
+                        <li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"><strong>Диэлектрик</strong> — защита от токов на трубе</li>
                     </ul>
                 </div>
             </div>
@@ -155,9 +155,9 @@ metadata:
                 <div class="p-4 bg-white rounded-3 shadow-sm h-100">
                     <h5 class="h6 fw-bold border-bottom pb-2"><i class="fas fa-faucet text-primary me-2"></i> Качество воды</h5>
                     <ul class="small text-muted list-unstyled mt-3">
-                        <li class="mb-2"><i class="fas fa-check text-success me-2"></i><strong>Грязевик</strong> — от песка и окалины</li>
-                        <li class="mb-2"><i class="fas fa-check text-success me-2"></i><strong>Умягчитель</strong> — защита от накипи</li>
-                        <li><i class="fas fa-check text-success me-2"></i><strong>Магнитный фильтр</strong> — очистка теплоносителя</li>
+                        <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"><strong>Грязевик</strong> — от песка и окалины</li>
+                        <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"><strong>Умягчитель</strong> — защита от накипи</li>
+                        <li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"><strong>Магнитный фильтр</strong> — очистка теплоносителя</li>
                     </ul>
                 </div>
             </div>

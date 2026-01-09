@@ -1,4 +1,4 @@
----
+﻿---
 title: Монтаж газовых колонок BOSCH
 metadata:
   description: Профессиональный монтаж газовых колонок BOSCH Это важный этап в процессе
@@ -122,7 +122,7 @@ metadata:
                 <div class="accordion-body small bg-light">
                     <h5 class="fw-bold">Какие бывают виды монтажа новой газовой колонки:</h5>
                     
-                    <p class="fw-bold mb-1"><i class="fas fa-check-circle me-2 text-success"></i>1. Официальная установка:</p>
+                    <p class="fw-bold mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">1. Официальная установка:</p>
                     <p class="ms-3">Включает в себя весь список услуг, необходимый для правильной установки, с дальнейшей гарантийной поддержкой и ежегодным обслуживанием. Это наиболее правильный подход к монтажу, всем необходимым для установки комплектует Сервисный Центр по ремонту и монтажу.</p>
                     
                     <p class="fw-bold mb-1 text-accent-red"><i class="fas fa-times-circle me-2"></i>2. Не официальная установка:</p>

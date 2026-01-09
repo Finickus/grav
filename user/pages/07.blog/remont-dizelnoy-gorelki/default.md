@@ -89,7 +89,7 @@ title: 'Ремонт дизельных горелок'
 </div>
 </div>
 <div class="notification is-success mt-4">
-<h5 class="h5 mb-1"><i class="fas fa-check-circle me-2"></i>Качество</h5>
+<h5 class="h5 mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Качество</h5>
 <p class="mb-0">Используются сертифицированные оригинальные запасные части. На завершающей стадии <strong>ремонт дизельной горелки</strong> включает полную проверку работы всего котла, после чего оборудование передаётся клиенту.</p>
 </div>
 </div>

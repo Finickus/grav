@@ -28,10 +28,10 @@ title: 'Запчасти для газовых колонок Junkers'
 <div class="row">
 <div class="col">
 <ul>
-<li><i class="fas fa-check-circle text-success me-2"></i> <strong>Bosch Gaz 6000 W</strong></li>
-<li><i class="fas fa-check-circle text-success me-2"></i> <strong>Bosch Therm 4000 O (NEW)</strong></li>
-<li><i class="fas fa-check-circle text-success me-2"></i> <strong>Bosch miniMAXX</strong></li>
-<li><i class="fas fa-check-circle text-success me-2"></i> <strong>Junkers WR 10/11/13</strong> (P, B, G исполнения)
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>Bosch Gaz 6000 W</strong></li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>Bosch Therm 4000 O (NEW)</strong></li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>Bosch miniMAXX</strong></li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>Junkers WR 10/11/13</strong> (P, B, G исполнения)
 <ul>
 <li>WR10/13/15 P</li>
 <li>WR10/13/15 G</li>
@@ -42,7 +42,7 @@ title: 'Запчасти для газовых колонок Junkers'
 </div>
 <div class="col">
 <ul>
-<li><i class="fas fa-check-circle text-success me-2"></i> <strong>Junkers JETATHERM</strong>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>Junkers JETATHERM</strong>
 <ul>
 <li>WR 275/350/400 — 1KDP</li>
 <li>WR 275/350/400 — 3KDB</li>

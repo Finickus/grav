@@ -62,7 +62,7 @@ title: 'Ремонт бойлера'
 </div>
 </div>
 <div class="card mb-5"><header class="card-header bg-success text-white">
-<p class="card-h3 text-white is-uppercase fs-5"><span class="icon me-2"><i class="fas fa-check-double"></i></span>Эффект от профилактических мер</p>
+<p class="card-h3 text-white is-uppercase fs-5"><span class="icon me-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span>Эффект от профилактических мер</p>
 </header>
 <div class="card-body">
 <p>Текущий ремонт бойлеров — регулярная и полезная процедура. Выполнять его можно как самостоятельно, так и с привлечением специалистов.</p>

@@ -1,4 +1,4 @@
----
+﻿---
 title: Коды ошибок котла Immergas
 metadata:
   description: 'Ошибки газовых котлов Immergas Диагностика и устранение неисправностей
@@ -295,7 +295,7 @@ function searchError() {
         // Используем более универсальное разделение решения
         const solutions = errorInfo.solution.split('. ').filter(s => s.trim().length > 0); 
         solutions.forEach(step => {
-            solutionItems += `<li class="mb-2 small"><i class="fas fa-check-circle me-2 text-success"></i>${step.trim()}</li>`;
+            solutionItems += `<li class="mb-2 small"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">${step.trim()}</li>`;
         });
         
         resultDiv.innerHTML = `

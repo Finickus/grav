@@ -74,6 +74,6 @@ title: 'Пневмореле для котлов (моностат)'
 <div class="row justify-content-center is-variable is-4 mt-4">
 <div class="col is-narrow"><a href="tel:+79262211348" class="btn btn-warning btn-lg text-dark w-100"> <i class="fas fa-mobile-alt me-2"></i>+7(926) 221-13-48 </a></div>
 </div>
-<div class="mt-4"><a href="https://wa.me/79262211348" target="_blank" rel="noopener" class="btn btn-success me-2"> <i class="fab fa-whatsapp me-2"></i>WhatsApp </a> <a href="https://t.me/+79262211348" target="_blank" rel="noopener" class="btn btn-info"> <i class="fab fa-telegram me-2"></i>Telegram </a></div>
+<div class="mt-4"><a href="https://wa.me/79262211348" target="_blank" rel="noopener" class="btn btn-success me-2"> <img src="/home/whatsapp.svg" alt="WhatsApp" style="width: 24px; height: 24px; vertical-align: middle;">WhatsApp </a> <a href="https://t.me/+79262211348" target="_blank" rel="noopener" class="btn btn-info"> <img src="/home/telegram.svg" alt="Telegram" style="width: 24px; height: 24px; vertical-align: middle;">Telegram </a></div>
 </div>
 </div>

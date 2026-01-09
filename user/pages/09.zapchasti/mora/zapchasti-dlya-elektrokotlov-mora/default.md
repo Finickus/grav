@@ -1,4 +1,4 @@
----
+﻿---
 title: Запчасти для электрокотлов Mora
 metadata:
   description: Запчасти для электрокотлов Mora Оригинальные комплектующие от чешского
@@ -122,7 +122,7 @@ metadata:
     <div class="row g-4 mb-5 text-center">
         <div class="col-md-3">
             <div class="p-4 bg-white rounded shadow-sm h-100 transition-hover">
-                <i class="fas fa-check-circle fa-2x text-success mb-3"></i>
+                <img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">
                 <h6 class="fw-bold">Сертификация</h6>
                 <p class="small text-muted mb-0">Только оригиналы и проверенные аналоги</p>
             </div>

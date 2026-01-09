@@ -55,7 +55,7 @@ title: 'Настенные газовые котлы Protherm'
 <div class="card h-100 p-4 bg-light">
 <h5 class="h6" style="color: #e37a25;"><span class="icon me-2"><i class="fas fa-chimney"></i></span> Дымоходные (KOV)</h5>
 <ul class="ml-4 content fs-6">
-<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-check-circle"></i></span> Используют традиционный дымоход с естественным отводом продуктов сгорания</li>
+<li class="mb-2"><span class="icon me-2 text-success"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span> Используют традиционный дымоход с естественным отводом продуктов сгорания</li>
 </ul>
 </div>
 </div>
@@ -63,7 +63,7 @@ title: 'Настенные газовые котлы Protherm'
 <div class="card h-100 p-4 bg-light">
 <h5 class="h6" style="color: #e37a25;"><span class="icon me-2"><i class="fas fa-fan"></i></span> С коаксиальной системой отвода (KTV)</h5>
 <ul class="ml-4 content fs-6">
-<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-check-circle"></i></span> Имеют систему принудительного отвода продуктов сгорания</li>
+<li class="mb-2"><span class="icon me-2 text-success"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span> Имеют систему принудительного отвода продуктов сгорания</li>
 <li class="mb-2"><span class="icon me-2 text-info"><i class="fas fa-home"></i></span> Подходят для помещений без дымохода</li>
 </ul>
 </div>
@@ -199,7 +199,7 @@ title: 'Настенные газовые котлы Protherm'
 </div>
 </div>
 <div class="card mb-5"><header class="card-header bg-dark text-white">
-<p class="card-h3 text-white fs-6"><span class="icon me-2"><i class="fas fa-check-circle"></i></span>Заключение</p>
+<p class="card-h3 text-white fs-6"><span class="icon me-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span>Заключение</p>
 </header>
 <div class="card-body">
 <p class="fs-5 text-center">Газовые котлы **Protherm** являются **надежным и долговечным решением** для обеспечения комфортного микроклимата и горячего водоснабжения.</p>

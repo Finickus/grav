@@ -105,7 +105,7 @@ title: 'Варианты оплаты'
 <h5 class="h5">Безопасно</h5>
 <p class="subh6">Защита ваших данных</p>
 </div>
-<div class="col is-3"><i class="fas fa-check-circle fa-3x text-info mb-2"></i>
+<div class="col is-3"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">
 <h5 class="h5">Надежно</h5>
 <p class="subh6">Проверенные платежные системы</p>
 </div>

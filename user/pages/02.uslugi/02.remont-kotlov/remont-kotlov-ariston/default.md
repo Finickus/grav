@@ -1,4 +1,4 @@
----
+﻿---
 title: Ремонт котлов Аристон
 metadata:
   description: Ремонт котлов Ariston Профессиональная диагностика и восстановление
@@ -132,16 +132,16 @@ metadata:
                     <div class="row g-2">
                         <div class="col-sm-6">
                             <ul class="list-unstyled small mb-0">
-                                <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i> Химическая промывка</li>
-                                <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i> Настройка арматуры</li>
-                                <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i> Ремонт плат управления</li>
+                                <li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Химическая промывка</li>
+                                <li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Настройка арматуры</li>
+                                <li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Ремонт плат управления</li>
                             </ul>
                         </div>
                         <div class="col-sm-6">
                             <ul class="list-unstyled small mb-0">
-                                <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i> Замена насоса</li>
-                                <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i> Накачка бака</li>
-                                <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i> Чистка электродов</li>
+                                <li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Замена насоса</li>
+                                <li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Накачка бака</li>
+                                <li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Чистка электродов</li>
                             </ul>
                         </div>
                     </div>

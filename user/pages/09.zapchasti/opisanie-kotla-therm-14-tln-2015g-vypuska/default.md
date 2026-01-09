@@ -1,4 +1,4 @@
----
+﻿---
 title: THERM 14 TLN (2015) — Запчасти и характеристики
 metadata:
   description: THERM 14 TLN (2015) — Запчасти и характеристики Газовый котёл THERM
@@ -33,11 +33,11 @@ metadata:
                 <div class="card-body">
                     <p class="lead">Газовый котёл <strong>THERM 14 TLN</strong> — современное отопительное оборудование для эффективного обогрева жилых помещений. Модель 2015 года отличается надёжностью, удобством эксплуатации и простотой обслуживания.</p>
                     <ul class="mt-3 list-unstyled">
-                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i><strong>Мощность:</strong> 14 кВт</li>
-                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i><strong>Тип камеры сгорания:</strong> закрытая</li>
-                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i><strong>Теплообменник:</strong> медный, высокая эффективность</li>
-                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i><strong>Расширительный бак:</strong> 7 литров</li>
-                        <li><i class="fas fa-check-circle text-success me-2"></i><strong>Система автоматики:</strong> BIC 0.580.228</li>
+                        <li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"><strong>Мощность:</strong> 14 кВт</li>
+                        <li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"><strong>Тип камеры сгорания:</strong> закрытая</li>
+                        <li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"><strong>Теплообменник:</strong> медный, высокая эффективность</li>
+                        <li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"><strong>Расширительный бак:</strong> 7 литров</li>
+                        <li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"><strong>Система автоматики:</strong> BIC 0.580.228</li>
                     </ul>
                 </div>
             </div>

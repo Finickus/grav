@@ -38,7 +38,7 @@ title: 'Ремонт и обслуживание котлов Thermona'
 <p><span class="icon text-success me-2"><i class="fas fa-phone-alt"></i></span> Телефон: <a href="tel:+79262211348" class="text-dark">+7 (926) 221-13-48</a></p>
 <p><span class="icon text-info me-2"><i class="fas fa-globe"></i></span> Сайт: <a href="https://service04.ru" target="_blank" rel="noopener" class="text-dark">Service04.ru</a></p>
 <p><span class="icon text-warning me-2"><i class="fas fa-envelope"></i></span> E-mail: <a href="mailto:89262211348@mail.ru" class="text-dark">89262211348@mail.ru</a></p>
-<p><span class="icon text-success me-2"><i class="fab fa-whatsapp"></i></span> <a href="https://wa.me/79262211348" target="_blank" rel="noopener" class="text-dark">WhatsApp</a> | <span class="icon text-primary me-2"><i class="fab fa-telegram"></i></span> <a href="https://t.me/+79262211348" target="_blank" rel="noopener" class="text-dark">Telegram</a></p>
+<p><span class="icon text-success me-2"><img src="/home/whatsapp.svg" alt="WhatsApp" style="width: 24px; height: 24px; vertical-align: middle;"></span> <a href="https://wa.me/79262211348" target="_blank" rel="noopener" class="text-dark">WhatsApp</a> | <span class="icon text-primary me-2"><img src="/home/telegram.svg" alt="Telegram" style="width: 24px; height: 24px; vertical-align: middle;"></span> <a href="https://t.me/+79262211348" target="_blank" rel="noopener" class="text-dark">Telegram</a></p>
 <div class="text-center mt-4"><a href="https://service04.ru/contact-us/feedback" class="btn btn-primary"> <span class="icon mr-1"><i class="fas fa-edit"></i></span> <span>Оставить заявку</span> </a></div>
 </div>
 </div>

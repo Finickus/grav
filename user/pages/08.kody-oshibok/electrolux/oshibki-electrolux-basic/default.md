@@ -1,4 +1,4 @@
----
+﻿---
 title: Ошибки Electrolux Basic
 metadata:
   description: Ошибки котлов Electrolux Basic Диагностика и устранение неисправностей
@@ -157,8 +157,8 @@ metadata:
                     </h2>
                     <div id="collapseE1-1" class="accordion-collapse collapse show" aria-labelledby="headingE1-1" data-bs-parent="#e1Accordion">
                         <div class="accordion-body bg-light small">
-                            <p><i class="fas fa-check-circle me-2 text-success"></i> Проверить открытие основного газового крана</p>
-                            <p><i class="fas fa-check-circle me-2 text-success"></i> Измерить давление газа на входе котла (норма: **13-20 мбар**) </p>
+                            <p><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Проверить открытие основного газового крана</p>
+                            <p><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Измерить давление газа на входе котла (норма: **13-20 мбар**) </p>
                             <p><i class="fas fa-filter me-2 text-danger"></i> Проверить газовый фильтр на засор</p>
                         </div>
                     </div>
@@ -312,7 +312,7 @@ metadata:
                     </h2>
                     <div id="collapseE2-1" class="accordion-collapse collapse show" aria-labelledby="headingE2-1" data-bs-parent="#e2Accordion">
                         <div class="accordion-body bg-light small">
-                            <p><i class="fas fa-check-circle me-2 text-success"></i> Проверить запуск насоса и напряжение на клеммах (220V).</p>
+                            <p><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Проверить запуск насоса и напряжение на клеммах (220V).</p>
                             <p><i class="fas fa-sync me-2 text-warning"></i> Проверить свободное вращение вала (при необходимости — разблокировать).</p>
                         </div>
                     </div>
@@ -340,7 +340,7 @@ metadata:
                     </h2>
                     <div id="collapseE2-3" class="accordion-collapse collapse" aria-labelledby="headingE2-3" data-bs-parent="#e2Accordion">
                         <div class="accordion-body bg-light small">
-                            <p><i class="fas fa-check-circle me-2 text-success"></i> Проверить открытие всех запорных вентилей.</p>
+                            <p><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Проверить открытие всех запорных вентилей.</p>
                             <p><i class="fas fa-tint me-2 text-primary"></i> Контроль давления (1.0-1.5 бар) и устранение воздушных пробок.</p>
                             <p><i class="fas fa-filter me-2 text-warning"></i> Проверить фильтр грубой очистки (грязевик) и состояние теплообменника.</p>
                         </div>
@@ -680,7 +680,7 @@ metadata:
                         <div class="accordion-body bg-light small">
                             <p><i class="fas fa-tint-slash me-2 text-danger"></i> **Слить воду** из контура ГВС.</p>
                             <p><i class="fas fa-sync me-2 text-success"></i> Установить новый датчик, применив **термопасту**.</p>
-                            <p><i class="fas fa-check-circle me-2 text-primary"></i> Протестировать работу ГВС на разных температурах.</p>
+                            <p><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Протестировать работу ГВС на разных температурах.</p>
                         </div>
                     </div>
                 </div>

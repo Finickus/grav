@@ -21,7 +21,7 @@ title: 'Монтаж отопления дачи сертифицированн�
 <div class="col is-two-thirds">
 <div class="card">
 <h2 class="h4 display-4 mb-4"><i class="fas fa-tools me-2"></i> Профессиональный монтаж отопления дачи</h2>
-<div class="d-flex mb-4"><i class="fas fa-check-circle text-success me-4 mt-1"></i>
+<div class="d-flex mb-4"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">
 <p>Чтобы дача радовала теплом в любое время года, доверьте монтаж профессионалам. Качественное отопление — это не только современное оборудование, но и грамотная установка с учётом всех особенностей вашего дома.</p>
 </div>
 <div class="d-flex"><i class="fas fa-bolt text-warning me-4 mt-1"></i>
@@ -50,9 +50,9 @@ title: 'Монтаж отопления дачи сертифицированн�
 <h4 class="h6 mb-0">Наши преимущества</h4>
 </div>
 <ul class="mb-0">
-<li class="mb-2"><i class="fas fa-check text-white me-2"></i> Гарантия 3 года на монтажные работы</li>
-<li class="mb-2"><i class="fas fa-check text-white me-2"></i> Бесплатный выезд инженера</li>
-<li><i class="fas fa-check text-white me-2"></i> Сертифицированные специалисты</li>
+<li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Гарантия 3 года на монтажные работы</li>
+<li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Бесплатный выезд инженера</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Сертифицированные специалисты</li>
 </ul>
 </div>
 </div>

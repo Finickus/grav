@@ -78,7 +78,7 @@ title: 'Воздушный сепаратор в системе отоплени
 <li class="mb-2"><span class="icon has-text-secondary me-2"><i class="fas fa-cog"></i></span> Могут засоряться и выходить из строя.</li>
 </ul>
 <div class="notification is-success mt-4">
-<h5 class="h5 text-dark"><span class="icon me-2"><i class="fas fa-check-circle"></i></span><strong>Воздушный сепаратор решает эти проблемы:</strong></h5>
+<h5 class="h5 text-dark"><span class="icon me-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span><strong>Воздушный сепаратор решает эти проблемы:</strong></h5>
 <ul class="mb-0 ms-4">
 <li class="mb-1"><span class="icon text-primary mr-1"><i class="fas fa-sync"></i></span> Работает **непрерывно** и удаляет даже мельчайшие пузырьки.</li>
 <li class="mb-1"><span class="icon text-info mr-1"><i class="fas fa-location-arrow"></i></span> Устанавливается **на подающей линии** (максимальная эффективность).</li>
@@ -111,7 +111,7 @@ title: 'Воздушный сепаратор в системе отоплени
 </details><details class="card mb-2">
 <summary class="h5 text-warning mb-0"><span class="icon me-2"><i class="fas fa-layer-group"></i></span> 3. Комбинированные модели</summary>
 <div class="details-content">
-<p class="mb-0 mt-3"><span class="icon text-success mr-1"><i class="fas fa-check-double"></i></span> Сочетают оба метода для максимальной эффективности.</p>
+<p class="mb-0 mt-3"><span class="icon text-success mr-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span> Сочетают оба метода для максимальной эффективности.</p>
 </div>
 </details></div>
 </div>
@@ -211,7 +211,7 @@ title: 'Воздушный сепаратор в системе отоплени
 </ul>
 </div>
 </div>
-<h6 class="h6 mt-4"><span class="icon text-success me-2"><i class="fas fa-check-circle"></i></span>3. Проверка</h6>
+<h6 class="h6 mt-4"><span class="icon text-success me-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span>3. Проверка</h6>
 <div class="content ms-4">
 <p>После запуска системы:</p>
 <ul class="ml-4">

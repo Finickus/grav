@@ -34,10 +34,10 @@ title: 'Термостаты капиллярные Sit'
 <h5 class="h6"><span class="icon me-2 text-danger"><i class="fas fa-fire"></i></span>Преимущества</h5>
 <div class="content fs-6">
 <ul class="ml-4 mb-0">
-<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-check-circle"></i></span> Надежность и долговечность.</li>
-<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-check-circle"></i></span> Широкий диапазон регулировки температуры.</li>
-<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-check-circle"></i></span> Простота конструкции и эксплуатации.</li>
-<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-check-circle"></i></span> Совместимость с различным оборудованием.</li>
+<li class="mb-2"><span class="icon me-2 text-success"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span> Надежность и долговечность.</li>
+<li class="mb-2"><span class="icon me-2 text-success"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span> Широкий диапазон регулировки температуры.</li>
+<li class="mb-2"><span class="icon me-2 text-success"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span> Простота конструкции и эксплуатации.</li>
+<li class="mb-2"><span class="icon me-2 text-success"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span> Совместимость с различным оборудованием.</li>
 </ul>
 </div>
 </div>

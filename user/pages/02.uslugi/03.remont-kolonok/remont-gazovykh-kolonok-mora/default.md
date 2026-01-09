@@ -1,4 +1,4 @@
----
+﻿---
 title: Ремонт газовых колонок Mora
 metadata:
   description: Ремонт газовых колонок Mora Ремонт за 1 выезд. Запчасти у мастера с
@@ -52,10 +52,10 @@ metadata:
     <div class="card p-4 shadow-lg mb-5 border-primary">
         <h3 class="h4 fw-bold mb-4 text-primary"><i class="fas fa-thumbs-up me-2"></i>Почему клиенты обращаются к нам для ремонта:</h3>
         <ul class="list-unstyled ms-3 small row g-3">
-            <li class="col-md-6"><i class="fas fa-check-circle me-2 text-primary"></i> <strong>Опыт и профессионализм:</strong> Наши мастера имеют богатый опыт в ремонте газовых колонок Mora и обладают глубокими знаниями о работе их различных моделей.</li>
-            <li class="col-md-6"><i class="fas fa-check-circle me-2 text-primary"></i> <strong>Качество работы:</strong> Мы гарантируем высокое качество ремонта, используя только оригинальные запчасти Mora для обеспечения надежности и долговечности вашей газовой колонки.</li>
-            <li class="col-md-6"><i class="fas fa-check-circle me-2 text-primary"></i> <strong>Быстрое обслуживание:</strong> Наша команда стремится к оперативному ремонту, чтобы вы могли как можно скорее снова пользоваться вашей газовой колонкой Mora.</li>
-            <li class="col-md-6"><i class="fas fa-check-circle me-2 text-primary"></i> <strong>Гарантия:</strong> Мы предоставляем гарантию на все выполненные работы, чтобы вы могли быть уверены в качестве наших услуг.</li>
+            <li class="col-md-6"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>Опыт и профессионализм:</strong> Наши мастера имеют богатый опыт в ремонте газовых колонок Mora и обладают глубокими знаниями о работе их различных моделей.</li>
+            <li class="col-md-6"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>Качество работы:</strong> Мы гарантируем высокое качество ремонта, используя только оригинальные запчасти Mora для обеспечения надежности и долговечности вашей газовой колонки.</li>
+            <li class="col-md-6"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>Быстрое обслуживание:</strong> Наша команда стремится к оперативному ремонту, чтобы вы могли как можно скорее снова пользоваться вашей газовой колонкой Mora.</li>
+            <li class="col-md-6"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>Гарантия:</strong> Мы предоставляем гарантию на все выполненные работы, чтобы вы могли быть уверены в качестве наших услуг.</li>
         </ul>
     </div>
     

@@ -73,10 +73,10 @@ title: 'Запчасти для всех моделей газовых котл�
 <p><i class="fas fa-phone me-2"></i> <a href="tel:+79262211348" class="text-white">+7(926) 221-13-48</a></p>
 </div>
 <div class="col is-3">
-<p><i class="fab fa-whatsapp me-2"></i> <a href="https://wa.me/79262211348" class="text-white" target="_blank" rel="noopener">WhatsApp</a></p>
+<p><img src="/home/whatsapp.svg" alt="WhatsApp" style="width: 24px; height: 24px; vertical-align: middle;"> <a href="https://wa.me/79262211348" class="text-white" target="_blank" rel="noopener">WhatsApp</a></p>
 </div>
 <div class="col is-3">
-<p><i class="fab fa-telegram me-2"></i> <a href="https://t.me/+79262211348" class="text-white" target="_blank" rel="noopener">Telegram</a></p>
+<p><img src="/home/telegram.svg" alt="Telegram" style="width: 24px; height: 24px; vertical-align: middle;"> <a href="https://t.me/+79262211348" class="text-white" target="_blank" rel="noopener">Telegram</a></p>
 </div>
 <div class="col is-3">
 <p><i class="fas fa-envelope me-2"></i> <a href="mailto:89262211348@mail.ru" class="text-white">89262211348@mail.ru</a></p>

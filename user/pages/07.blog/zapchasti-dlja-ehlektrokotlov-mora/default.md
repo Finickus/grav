@@ -73,7 +73,7 @@ title: 'Запчасти для электрокотлов Mora'
 <div class="card-body">
 <p>Наш магазин предлагает:</p>
 <div class="row text-center mb-3">
-<div class="col"><i class="fas fa-check-circle fa-2x text-success mb-2"></i>
+<div class="col"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">
 <p class="mb-0"><strong>Оригинальные и сертифицированные аналоги</strong></p>
 </div>
 <div class="col"><i class="fas fa-tag fa-2x text-primary mb-2"></i>

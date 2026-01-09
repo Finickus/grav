@@ -1,4 +1,4 @@
----
+﻿---
 title: Ремонт электрических котлов Vaillant
 process:
   twig: true
@@ -161,11 +161,11 @@ metadata:
             <p class="small"><span class="fw-bold">Сервисное обслуживание котлов Vaillant</span> — это залог надежности, безопасности и эффективности вашей системы отопления. Наша команда готова предоставить профессиональное и качественное обслуживание вашего котла, чтобы вы могли наслаждаться комфортной обстановкой в вашем доме. Свяжитесь с нами, чтобы заказать сервисное обслуживание и уверенно знать, что ваш котел Vaillant работает на полную мощность.</p>
             <p class="fw-bold mt-3">Преимущества сервисного обслуживания с нами:</p>
             <ul class="small list-unstyled ms-3">
-                <li><i class="fas fa-check-circle me-2 text-success"></i> Снижение риска поломок и аварийных ситуаций.</li>
-                <li><i class="fas fa-check-circle me-2 text-success"></i> Увеличение эффективности работы котла и экономия на энергозатратах.</li>
-                <li><i class="fas fa-check-circle me-2 text-success"></i> Повышение безопасности системы отопления.</li>
-                <li><i class="fas fa-check-circle me-2 text-success"></i> Предотвращение накопления накипи и отложений, которые могут снижать производительность.</li>
-                <li><i class="fas fa-check-circle me-2 text-success"></i> Максимальная долговечность вашего котла благодаря профессиональному уходу.</li>
+                <li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Снижение риска поломок и аварийных ситуаций.</li>
+                <li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Увеличение эффективности работы котла и экономия на энергозатратах.</li>
+                <li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Повышение безопасности системы отопления.</li>
+                <li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Предотвращение накопления накипи и отложений, которые могут снижать производительность.</li>
+                <li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Максимальная долговечность вашего котла благодаря профессиональному уходу.</li>
             </ul>
         </div>
     </div>

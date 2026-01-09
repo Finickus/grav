@@ -1,4 +1,4 @@
----
+﻿---
 title: Ремонт котла Baxi
 metadata:
   description: Ремонт котла Baxi Профессиональный сервис и обслуживание за один выезд
@@ -132,7 +132,7 @@ metadata:
 
     <div class="card mb-5 border-0 shadow-sm">
         <div class="card-header bg-success text-white py-3 px-4">
-            <h3 class="h5 mb-0 fw-bold"><i class="fas fa-check-double me-2"></i>Наши услуги по ремонту Бакси</h3>
+            <h3 class="h5 mb-0 fw-bold"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Наши услуги по ремонту Бакси</h3>
         </div>
         <div class="card-body p-4 p-md-5">
             <div class="row g-4">
@@ -169,20 +169,20 @@ metadata:
         <div class="row g-3">
             <div class="col-md-6">
                 <ul class="list-unstyled small mb-0">
-                    <li class="mb-2"><i class="fas fa-check text-primary me-2"></i> Проверка тяги в дымоходе</li>
-                    <li class="mb-2"><i class="fas fa-check text-primary me-2"></i> Чистка газовой горелки</li>
-                    <li class="mb-2"><i class="fas fa-check text-primary me-2"></i> Настройка электродов розжига</li>
-                    <li class="mb-2"><i class="fas fa-check text-primary me-2"></i> Проверка платы управления</li>
-                    <li class="mb-2"><i class="fas fa-check text-primary me-2"></i> Тестирование датчиков безопасности</li>
+                    <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Проверка тяги в дымоходе</li>
+                    <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Чистка газовой горелки</li>
+                    <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Настройка электродов розжига</li>
+                    <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Проверка платы управления</li>
+                    <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Тестирование датчиков безопасности</li>
                 </ul>
             </div>
             <div class="col-md-6">
                 <ul class="list-unstyled small mb-0">
-                    <li class="mb-2"><i class="fas fa-check text-primary me-2"></i> Осмотр и чистка фильтров</li>
-                    <li class="mb-2"><i class="fas fa-check text-primary me-2"></i> Настройка клапанов и насосов</li>
-                    <li class="mb-2"><i class="fas fa-check text-primary me-2"></i> Проверка герметичности</li>
-                    <li class="mb-2"><i class="fas fa-check text-primary me-2"></i> Регулировка газового клапана</li>
-                    <li class="mb-2"><i class="fas fa-check text-primary me-2"></i> Измерение тока ионизации</li>
+                    <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Осмотр и чистка фильтров</li>
+                    <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Настройка клапанов и насосов</li>
+                    <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Проверка герметичности</li>
+                    <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Регулировка газового клапана</li>
+                    <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Измерение тока ионизации</li>
                 </ul>
             </div>
         </div>

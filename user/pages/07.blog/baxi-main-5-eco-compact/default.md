@@ -699,7 +699,7 @@ title: 'Bez nazvaniya'
 <div class="row mt-4">
 <div class="col-md-6">
 <div class="alert alert-success">
-<h5><i class="fas fa-check-circle"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Ошибка E05 исчезла с дисплея</li>
 <li>На дисплее отображается текущая температура подачи</li>
@@ -920,7 +920,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Ошибка E06 исчезла с дисплея</li>
 <li>При открытии крана котел включается</li>
@@ -1200,7 +1200,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Ошибка E07 исчезла с дисплея</li>
 <li>Котел работает без аварийных отключений</li>
@@ -1536,7 +1536,7 @@ title: 'Bez nazvaniya'
 <div class="col-md-6">
 <div class="card bg-light">
 <div class="card-body">
-<h6><i class="fas fa-check-circle text-success"></i> Признаки неисправности платы:</h6>
+<h6><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки неисправности платы:</h6>
 <ul class="mb-0">
 <li>Подгоревшие дорожки</li>
 <li>Вздутые конденсаторы</li>
@@ -1884,7 +1884,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Котел запускается нормально</li>
 <li>Пламя стабильное без отключений</li>
@@ -2189,7 +2189,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Котел запускается нормально</li>
 <li>Ошибка E10 больше не появляется</li>
@@ -2524,7 +2524,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Ошибка E12 исчезла с дисплея</li>
 <li>Наружная температура отображается корректно</li>
@@ -2869,7 +2869,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Ошибка E13 исчезла с дисплея</li>
 <li>Комнатная температура отображается корректно</li>
@@ -3210,7 +3210,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Ошибка E22 больше не появляется</li>
 <li>Котел работает стабильно без отключений</li>
@@ -3359,7 +3359,7 @@ title: 'Bez nazvaniya'
 <div class="bg-danger text-white p-2 rounded"><i class="fas fa-exclamation-circle"></i> Минимум<br><strong>0.8 бар</strong></div>
 </div>
 <div class="col-md-4 text-center">
-<div class="bg-success text-white p-2 rounded"><i class="fas fa-check-circle"></i> Норма<br><strong>1.0-1.5 бар</strong></div>
+<div class="bg-success text-white p-2 rounded"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Норма<br><strong>1.0-1.5 бар</strong></div>
 </div>
 <div class="col-md-4 text-center">
 <div class="bg-warning text-white p-2 rounded"><i class="fas fa-exclamation-triangle"></i> Максимум<br><strong>2.5 бар</strong></div>
@@ -3519,7 +3519,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Ошибка E25 больше не появляется</li>
 <li>Давление стабильно в пределах нормы</li>
@@ -3666,7 +3666,7 @@ title: 'Bez nazvaniya'
 <div class="card-body">
 <div class="row">
 <div class="col-md-4 text-center">
-<div class="bg-success text-white p-2 rounded"><i class="fas fa-check"></i> Норма<br><strong>60-85°C</strong></div>
+<div class="bg-success text-white p-2 rounded"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Норма<br><strong>60-85°C</strong></div>
 </div>
 <div class="col-md-4 text-center">
 <div class="bg-warning text-white p-2 rounded"><i class="fas fa-exclamation-triangle"></i> Предупреждение<br><strong>95°C</strong></div>
@@ -3883,7 +3883,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Ошибка E26 не появляется</li>
 <li>Котел плавно набирает температуру</li>
@@ -4250,7 +4250,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Стабильное зажигание с первой попытки</li>
 <li>Отсутствие ошибки E27</li>
@@ -4400,7 +4400,7 @@ title: 'Bez nazvaniya'
 <div class="bg-danger text-white p-2 rounded"><i class="fas fa-exclamation-circle"></i> Минимальная тяга<br><strong>0.1 mbar</strong></div>
 </div>
 <div class="col-md-4 text-center">
-<div class="bg-success text-white p-2 rounded"><i class="fas fa-check-circle"></i> Норма тяги<br><strong>0.2-0.8 mbar</strong></div>
+<div class="bg-success text-white p-2 rounded"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Норма тяги<br><strong>0.2-0.8 mbar</strong></div>
 </div>
 <div class="col-md-4 text-center">
 <div class="bg-info text-white p-2 rounded"><i class="fas fa-fan"></i> Обороты вент.<br><strong>2800-4500 rpm</strong></div>
@@ -4615,7 +4615,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Ошибка E35 больше не появляется</li>
 <li>Вентилятор работает плавно и тихо</li>
@@ -5003,7 +5003,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Ошибка E40 больше не появляется</li>
 <li>Температура на дисплее соответствует реальной</li>
@@ -5392,7 +5392,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Ошибка E41 отсутствует</li>
 <li>Температура обратки отображается корректно</li>
@@ -5545,7 +5545,7 @@ title: 'Bez nazvaniya'
 <div class="card-body">
 <div class="row">
 <div class="col-md-4 text-center">
-<div class="bg-success text-white p-2 rounded"><i class="fas fa-check-circle"></i> Норма<br><strong>150-250°C</strong></div>
+<div class="bg-success text-white p-2 rounded"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Норма<br><strong>150-250°C</strong></div>
 </div>
 <div class="col-md-4 text-center">
 <div class="bg-warning text-white p-2 rounded"><i class="fas fa-exclamation-triangle"></i> Предупреждение<br><strong>280°C</strong></div>
@@ -5768,7 +5768,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Ошибка E42 больше не появляется</li>
 <li>Температура газов в пределах нормы</li>
@@ -5922,7 +5922,7 @@ title: 'Bez nazvaniya'
 <div class="card-body">
 <div class="row">
 <div class="col-md-4 text-center">
-<div class="bg-success text-white p-2 rounded"><i class="fas fa-check-circle"></i> Напряжение<br><strong>220V AC</strong></div>
+<div class="bg-success text-white p-2 rounded"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Напряжение<br><strong>220V AC</strong></div>
 </div>
 <div class="col-md-4 text-center">
 <div class="bg-warning text-white p-2 rounded"><i class="fas fa-cogs"></i> Обороты<br><strong>2800-4500 rpm</strong></div>
@@ -6158,7 +6158,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Вентилятор плавно запускается при включении</li>
 <li>Ошибка E43 больше не появляется</li>
@@ -6311,7 +6311,7 @@ title: 'Bez nazvaniya'
 <div class="card-body">
 <div class="row">
 <div class="col-md-4 text-center">
-<div class="bg-success text-white p-2 rounded"><i class="fas fa-check-circle"></i> Старт<br><strong>-0.5 mbar</strong></div>
+<div class="bg-success text-white p-2 rounded"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Старт<br><strong>-0.5 mbar</strong></div>
 </div>
 <div class="col-md-4 text-center">
 <div class="bg-info text-white p-2 rounded"><i class="fas fa-cogs"></i> Работа<br><strong>-1.0 до -2.5 mbar</strong></div>
@@ -6550,7 +6550,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Ошибка E50 больше не появляется</li>
 <li>Котел стабильно запускается с первого раза</li>
@@ -6941,7 +6941,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Ошибка E55 больше не появляется</li>
 <li>Котел стабильно запускается с первой попытки</li>
@@ -7287,7 +7287,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Ошибка E62 больше не появляется</li>
 <li>Температура дымовых газов в норме (80-110°C)</li>
@@ -7629,7 +7629,7 @@ title: 'Bez nazvaniya'
 </ol>
 </div>
 <div class="col-md-4 text-center">
-<div class="bg-success text-white p-2 rounded"><i class="fas fa-check"></i> Нормальная температура ГВС: 50-60°C</div>
+<div class="bg-success text-white p-2 rounded"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Нормальная температура ГВС: 50-60°C</div>
 </div>
 </div>
 </div>
@@ -7639,7 +7639,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Ошибка E65 больше не появляется</li>
 <li>Стабильная температура ГВС</li>
@@ -8038,7 +8038,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Ошибка E98 больше не появляется</li>
 <li>Дисплей работает стабильно</li>
@@ -8401,7 +8401,7 @@ title: 'Bez nazvaniya'
 <div class="col-lg-6">
 <div class="card bg-light">
 <div class="card-body">
-<h5><i class="fas fa-check-circle text-success"></i> Признаки успешного ремонта:</h5>
+<h5><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Признаки успешного ремонта:</h5>
 <ul class="mb-0">
 <li>Ошибка E02 больше не появляется</li>
 <li>Равномерный нагрев всех радиаторов</li>

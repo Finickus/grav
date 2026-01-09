@@ -38,7 +38,7 @@ title: 'Установка и управление котлом с помощь�
 </div>
 <div class="col-lg-4 is-half-tablet mb-4">
 <div class="card h-100 shadow">
-<div class="card-body text-center"><span class="icon btn-lg mb-3 text-info"><i class="fas fa-check-circle fa-3x"></i></span>
+<div class="card-body text-center"><span class="icon btn-lg mb-3 text-info"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span>
 <h5 class="h5">Высокая совместимость</h5>
 <p class="fs-6">Поддержка практически всех современных газовых и электрических котлов (Baxi, Vaillant, Protherm, Bosch и др.).</p>
 </div>
@@ -86,9 +86,9 @@ title: 'Установка и управление котлом с помощь�
 <div class="card-body content">
 <p>Модуль ZONT подключается к клеммам котла для комнатного термостата. В этом режиме котел полностью включается или выключается.</p>
 <ul class="ml-0 list-unstyled">
-<li><span class="icon me-2 text-success"><i class="fas fa-check"></i></span> Совместимость с любыми котлами.</li>
-<li><span class="icon me-2 text-success"><i class="fas fa-check"></i></span> Простота подключения.</li>
-<li><span class="icon me-2 text-success"><i class="fas fa-check"></i></span> Надежность и проверенная технология.</li>
+<li><span class="icon me-2 text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Совместимость с любыми котлами.</li>
+<li><span class="icon me-2 text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Простота подключения.</li>
+<li><span class="icon me-2 text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Надежность и проверенная технология.</li>
 </ul>
 </div>
 </div>
@@ -100,10 +100,10 @@ title: 'Установка и управление котлом с помощь�
 <div class="card-body content">
 <p>Применяется для газовых котлов с протоколами OpenTherm, E-BUS, BridgeNet и др. Мощность котла регулируется плавно (модуляция горелки).</p>
 <ul class="ml-0 list-unstyled">
-<li><span class="icon me-2 text-success"><i class="fas fa-check"></i></span> Плавная модуляция продлевает ресурс котла.</li>
-<li><span class="icon me-2 text-success"><i class="fas fa-check"></i></span> Снижение расходов на энергоноситель.</li>
-<li><span class="icon me-2 text-success"><i class="fas fa-check"></i></span> Контроль рабочих параметров и ошибок котла.</li>
-<li><span class="icon me-2 text-success"><i class="fas fa-check"></i></span> Управление контуром ГВС.</li>
+<li><span class="icon me-2 text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Плавная модуляция продлевает ресурс котла.</li>
+<li><span class="icon me-2 text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Снижение расходов на энергоноситель.</li>
+<li><span class="icon me-2 text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Контроль рабочих параметров и ошибок котла.</li>
+<li><span class="icon me-2 text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Управление контуром ГВС.</li>
 </ul>
 <p class="mt-4 has-text-weight-bold">Важно:</p>
 <p class="fs-6">для подключения используется дополнительный адаптер цифровых шин.</p>
@@ -236,8 +236,8 @@ title: 'Установка и управление котлом с помощь�
 <p class="mb-4">Наши специалисты помогут подобрать оптимальное оборудование и выполнят профессиональный монтаж.</p>
 <div class="content">
 <p><span class="icon me-2"><i class="fas fa-phone"></i></span> Телефон: <a href="tel:+79262211348">+7(926) 221-13-48</a></p>
-<p><span class="icon me-2"><i class="fab fa-whatsapp"></i></span> WhatsApp: <a href="https://wa.me/79262211348" target="_blank" rel="noopener">+7(926) 221-13-48</a></p>
-<p><span class="icon me-2"><i class="fab fa-telegram-plane"></i></span> Telegram: <a href="https://t.me/service_04" target="_blank" rel="noopener">+7(926) 221-13-48</a></p>
+<p><span class="icon me-2"><img src="/home/whatsapp.svg" alt="WhatsApp" style="width: 24px; height: 24px; vertical-align: middle;"></span> WhatsApp: <a href="https://wa.me/79262211348" target="_blank" rel="noopener">+7(926) 221-13-48</a></p>
+<p><span class="icon me-2"><img src="/home/telegram.svg" alt="Telegram" style="width: 24px; height: 24px; vertical-align: middle;"></span> Telegram: <a href="https://t.me/service_04" target="_blank" rel="noopener">+7(926) 221-13-48</a></p>
 <p><span class="icon me-2"><i class="fas fa-envelope"></i></span> E-mail: <a href="mailto:89262211348@mail.ru">89262211348@mail.ru</a></p>
 <p><span class="icon me-2"><i class="fas fa-globe"></i></span> Сайт: <a href="https://service04.ru/" target="_blank" rel="noopener">Service04.ru</a></p>
 </div>

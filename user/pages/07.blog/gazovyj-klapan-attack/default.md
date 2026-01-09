@@ -25,17 +25,17 @@ title: 'Клапаны Honeywell VS8620'
 </header>
 <h4 class="h5 mb-3"><i class="fas fa-cogs me-2"></i>Общие характеристики</h4>
 <ul class="mb-0">
-<li><i class="fas fa-check-circle text-success me-2"></i> Регуляторы специально разработаны для использования с газовыми устройствами со стационарной пилотной системой для розжига основной горелки</li>
-<li><i class="fas fa-check-circle text-success me-2"></i> При разработке использованы проверенные временем принципы, гарантирующие надежность</li>
-<li><i class="fas fa-check-circle text-success me-2"></i> Единственная кнопка для ручной операции Включения/Выключения (ON/OFF)</li>
-<li><i class="fas fa-check-circle text-success me-2"></i> 100% надежный затвор и безопасная пилотная система розжига</li>
-<li><i class="fas fa-check-circle text-success me-2"></i> Управление Включением/Выключением (ON/OFF) основной горелки при помощи серво оператора вкл./выкл. (on/off)</li>
-<li><i class="fas fa-check-circle text-success me-2"></i> Со стороны входного канала установлен внутренний тонкий фильтр</li>
-<li><i class="fas fa-check-circle text-success me-2"></i> Все регулировочные приспособления находятся на верхней части корпуса регулятора</li>
-<li><i class="fas fa-check-circle text-success me-2"></i> Штуцер для измерения давления с внешним диаметром 9 мм, как со стороны входного, так и со стороны выходного канала для контроля и регулировки давления на горелке</li>
-<li><i class="fas fa-check-circle text-success me-2"></i> Для монтажа труб на корпусе регулятора со стороны входного канала выполнен прилив со шлицами под гаечный ключ</li>
-<li><i class="fas fa-check-circle text-success me-2"></i> Регулятор может монтироваться с поворотом до 900° в любом направлении относительно положения, при котором кнопка находится сверху</li>
-<li><i class="fas fa-check-circle text-success me-2"></i> Для обеспечения жесткого крепления к оборудованию на базовой поверхности регулятора находятся два монтажных отверстия с резьбой</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Регуляторы специально разработаны для использования с газовыми устройствами со стационарной пилотной системой для розжига основной горелки</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> При разработке использованы проверенные временем принципы, гарантирующие надежность</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Единственная кнопка для ручной операции Включения/Выключения (ON/OFF)</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> 100% надежный затвор и безопасная пилотная система розжига</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Управление Включением/Выключением (ON/OFF) основной горелки при помощи серво оператора вкл./выкл. (on/off)</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Со стороны входного канала установлен внутренний тонкий фильтр</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Все регулировочные приспособления находятся на верхней части корпуса регулятора</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Штуцер для измерения давления с внешним диаметром 9 мм, как со стороны входного, так и со стороны выходного канала для контроля и регулировки давления на горелке</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Для монтажа труб на корпусе регулятора со стороны входного канала выполнен прилив со шлицами под гаечный ключ</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Регулятор может монтироваться с поворотом до 900° в любом направлении относительно положения, при котором кнопка находится сверху</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Для обеспечения жесткого крепления к оборудованию на базовой поверхности регулятора находятся два монтажных отверстия с резьбой</li>
 </ul>
 </div>
 <!-- Применение -->
@@ -47,18 +47,18 @@ title: 'Клапаны Honeywell VS8620'
 <div class="row g-3">
 <div class="col-6">
 <ul class="mb-0">
-<li><i class="fas fa-check text-success me-2"></i> Mora</li>
-<li><i class="fas fa-check text-success me-2"></i> ЖМЗ</li>
-<li><i class="fas fa-check text-success me-2"></i> Дон</li>
-<li><i class="fas fa-check text-success me-2"></i> Конорд</li>
-<li><i class="fas fa-check text-success me-2"></i> Данко</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Mora</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> ЖМЗ</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Дон</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Конорд</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Данко</li>
 </ul>
 </div>
 <div class="col-6">
 <ul class="mb-0">
-<li><i class="fas fa-check text-success me-2"></i> Attack</li>
-<li><i class="fas fa-check text-success me-2"></i> Dakon</li>
-<li><i class="fas fa-check text-success me-2"></i> Aton</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Attack</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Dakon</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Aton</li>
 </ul>
 </div>
 </div>

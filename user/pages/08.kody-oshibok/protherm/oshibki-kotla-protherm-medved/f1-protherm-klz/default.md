@@ -1,4 +1,4 @@
----
+﻿---
 title: F1 Protherm KLZ
 metadata:
   description: 'Ошибка F1 на Protherm KLZ Полное руководство по диагностике и устранению
@@ -49,10 +49,10 @@ metadata:
         <div class="card-body">
             <div class="content">
                 <ul class="list-unstyled ms-3">
-                    <li class="mb-2"><i class="fas fa-check-circle me-2 text-success"></i>Сбросить ошибку кнопкой <strong>Reset</strong> и убедиться, что давление воды в котле <strong>1–2 бар</strong>.</li>
-                    <li class="mb-2"><i class="fas fa-check-circle me-2 text-success"></i>Проверить подачу газа и что <strong>кран открыт</strong>; при сомнении — вызвать поставщика газа.</li>
-                    <li class="mb-2"><i class="fas fa-check-circle me-2 text-success"></i>Отключить/включить питание, исключить «глюк» сети; при повторе — использовать <strong>стабилизатор/ИБП</strong>.</li>
-                    <li><i class="fas fa-check-circle me-2 text-success"></i>Убедиться, что <strong>фаза и ноль</strong> подключены правильно, есть корректное <strong>заземление</strong>.</li>
+                    <li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Сбросить ошибку кнопкой <strong>Reset</strong> и убедиться, что давление воды в котле <strong>1–2 бар</strong>.</li>
+                    <li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Проверить подачу газа и что <strong>кран открыт</strong>; при сомнении — вызвать поставщика газа.</li>
+                    <li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Отключить/включить питание, исключить «глюк» сети; при повторе — использовать <strong>стабилизатор/ИБП</strong>.</li>
+                    <li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Убедиться, что <strong>фаза и ноль</strong> подключены правильно, есть корректное <strong>заземление</strong>.</li>
                 </ul>
                 <div class="alert alert-warning mt-3 small"><i class="fas fa-info-circle me-2"></i>Если ошибка возвращается, следуйте сценариям диагностики ниже — от простых к более глубоким проверкам.</div>
             </div>

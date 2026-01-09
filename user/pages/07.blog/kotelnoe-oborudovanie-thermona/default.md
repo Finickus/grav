@@ -23,7 +23,7 @@ title: 'Газовые котлы Thermona'
 <div class="card-body">
 <p>Газовые котлы Thermona отличаются высокой эффективностью и экологичностью, минимизируя выброс вредных продуктов сгорания, таких как CO2 и NOx. Большинство моделей оснащены плавным электронным регулированием (модуляцией) мощности, что позволяет котлу адаптироваться к текущим потребностям в тепле отапливаемого объекта. Это способствует экономии газа и достижению высокого уровня теплового комфорта, поскольку котел реже включается и выключается.</p>
 <div class="alert alert-success mt-3">
-<h5 class="alert-heading h6"><i class="fas fa-check-circle me-2"></i>Ключевые особенности:</h5>
+<h5 class="alert-heading h6"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Ключевые особенности:</h5>
 <ul class="list-unstyled mb-0">
 <li class="mb-2"><i class="fas fa-leaf text-success me-2"></i> <strong>Экологичность:</strong> Чрезвычайно экологическая эксплуатация, класс NOx 6 для большинства конденсационных котлов и низкий уровень выбросов CO и NOx для других серий.</li>
 <li class="mb-2"><i class="fas fa-sliders-h text-primary me-2"></i> <strong>Регулирование мощности:</strong> Широкий диапазон модуляции мощности котла, например, 1:10 для серии Premium Condens.</li>
@@ -214,10 +214,10 @@ title: 'Газовые котлы Thermona'
 <p><i class="fas fa-phone text-white me-2"></i> 📞 <a href="tel:+79262211348" class="text-white">+7(926) 221-13-48</a></p>
 </div>
 <div class="col-md-3 mb-2">
-<p><i class="fab fa-whatsapp text-white me-2"></i> <a href="https://wa.me/79262211348" target="_blank" class="text-white" rel="noopener">WhatsApp</a></p>
+<p><img src="/home/whatsapp.svg" alt="WhatsApp" style="width: 24px; height: 24px; vertical-align: middle;"> <a href="https://wa.me/79262211348" target="_blank" class="text-white" rel="noopener">WhatsApp</a></p>
 </div>
 <div class="col-md-3 mb-2">
-<p><i class="fab fa-telegram text-white me-2"></i> <a href="https://t.me/+79262211348" target="_blank" class="text-white" rel="noopener">Telegram</a></p>
+<p><img src="/home/telegram.svg" alt="Telegram" style="width: 24px; height: 24px; vertical-align: middle;"> <a href="https://t.me/+79262211348" target="_blank" class="text-white" rel="noopener">Telegram</a></p>
 </div>
 <div class="col-md-3 mb-2">
 <p><i class="fas fa-envelope text-white me-2"></i> <a href="mailto:89262211348@mail.ru" class="text-white">89262211348@mail.ru</a></p>

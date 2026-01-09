@@ -25,11 +25,11 @@ title: 'Теплообменник Vaillant 19-2 XZ, MAG 11-0/0 XZ C+'
 <p>Теплообменники Vaillant рекомендованы для установки на проточные газовые водонагреватели моделей 19-2 XZ/C+ и SOE 19/2 Премиум. Основной элемент колонки по габаритам полностью идентичен оригинальному теплообменнику и рекомендован производителем и мастерами сертифицированных точек продаж/обслуживания.</p>
 <h5 class="h5 mt-4">Особенности теплообменника</h5>
 <ul>
-<li><i class="fas fa-check-circle text-success mr-1"></i> Выполнен из чистой меди</li>
-<li><i class="fas fa-check-circle text-success mr-1"></i> Оснащен обечайкой</li>
-<li><i class="fas fa-check-circle text-success mr-1"></i> Имеет жаропрочное покрытие</li>
-<li><i class="fas fa-check-circle text-success mr-1"></i> Используется для передачи тепла при сгорании газа</li>
-<li><i class="fas fa-check-circle text-success mr-1"></i> Материал — медь высокого качества</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Выполнен из чистой меди</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Оснащен обечайкой</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Имеет жаропрочное покрытие</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Используется для передачи тепла при сгорании газа</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Материал — медь высокого качества</li>
 </ul>
 </div>
 </div>

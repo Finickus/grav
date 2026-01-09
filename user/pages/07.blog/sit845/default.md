@@ -127,7 +127,7 @@ title: 'Газовый клапан SIT 845 Sigma'
 <div class="card-body">
 <div class="row">
 <div class="col-md-6">
-<h4><i class="fas fa-check-circle text-success me-2"></i>Основные преимущества:</h4>
+<h4><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Основные преимущества:</h4>
 <ul>
 <li><i class="fas fa-clock me-2"></i> <strong>Малый период срабатывания клапана</strong></li>
 <li><i class="fas fa-weight-hanging me-2"></i> <strong>Небольшой вес клапана</strong></li>
@@ -159,22 +159,22 @@ title: 'Газовый клапан SIT 845 Sigma'
 <div class="row">
 <div class="col-md-4 mb-2">
 <ul class="list-unstyled">
-<li><i class="fas fa-check text-success me-2"></i> PROTHERM</li>
-<li><i class="fas fa-check text-success me-2"></i> VAILLANT</li>
-<li><i class="fas fa-check text-success me-2"></i> BUDERUS</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> PROTHERM</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> VAILLANT</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> BUDERUS</li>
 </ul>
 </div>
 <div class="col-md-4 mb-2">
 <ul class="list-unstyled">
-<li><i class="fas fa-check text-success me-2"></i> FERROLI</li>
-<li><i class="fas fa-check text-success me-2"></i> DAKON</li>
-<li><i class="fas fa-check text-success me-2"></i> ACV</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> FERROLI</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> DAKON</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> ACV</li>
 </ul>
 </div>
 <div class="col-md-4">
 <ul class="list-unstyled">
-<li><i class="fas fa-check text-success me-2"></i> WESTER HEATING</li>
-<li><i class="fas fa-check text-success me-2"></i> АОГВ</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> WESTER HEATING</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> АОГВ</li>
 </ul>
 </div>
 </div>

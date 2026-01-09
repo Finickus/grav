@@ -1,4 +1,4 @@
----
+﻿---
 title: Запчасти для колонок Mora (Мора Чехия)
 metadata:
   description: Запчасти для колонок Mora (Мора Чехия) Качественные запчасти для колонок
@@ -32,7 +32,7 @@ metadata:
                 <div class="col-md-6"><i class="fas fa-sync text-primary me-2"></i>Продление межремонтного периода</div>
                 <div class="col-md-6"><i class="fas fa-shield-alt text-success me-2"></i>Безопасная работа и высокий КПД</div>
                 <div class="col-md-6"><i class="fas fa-piggy-bank text-warning me-2"></i>Минимизация расходов на газ</div>
-                <div class="col-md-6"><i class="fas fa-check-circle text-info me-2"></i>Гарантия на каждую деталь</div>
+                <div class="col-md-6"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Гарантия на каждую деталь</div>
             </div>
         </div>
         <div class="col-lg-4 text-center">

@@ -44,7 +44,7 @@ title: 'Пусконаладочные работы'
 <ul>
 <li class="mb-2"><i class="fas fa-wind text-warning me-2"></i> Проверка притока воздуха к прибору и дымохода</li>
 <li class="mb-2"><i class="fas fa-file-contract text-muted me-2"></i> Заполнение исполнительной документации</li>
-<li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i> Комплексная проверка всех систем</li>
+<li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Комплексная проверка всех систем</li>
 <li class="mb-2"><i class="fas fa-cog text-primary me-2"></i> Финальная настройка параметров</li>
 </ul>
 </div>

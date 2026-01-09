@@ -1,4 +1,4 @@
----
+﻿---
 title: Ошибка E05 на котле Baxi
 metadata:
   description: Ошибка E05 на котле Baxi Неисправность датчика температуры подачи (NTC)
@@ -179,7 +179,7 @@ metadata:
                                     <i class="fas fa-thermometer-half me-2 text-danger"></i> <strong>1. Измерение сопротивления датчика NTC:</strong>
                                     <ul class="list-unstyled ms-4 mt-1">
                                         <li class="mb-1"><i class="fas fa-ruler me-2 text-warning"></i> Измерьте сопротивление датчика мультиметром. При комнатной температуре (20–25°C) оно должно составлять <strong>около 10 кОм</strong>.</li>
-                                        <li><i class="fas fa-check-circle me-2 text-success"></i> Если сопротивление <strong>0 Ом (замыкание)</strong> или <strong>бесконечное (обрыв)</strong>, датчик неисправен и требует <strong>замены</strong>.</li>
+                                        <li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Если сопротивление <strong>0 Ом (замыкание)</strong> или <strong>бесконечное (обрыв)</strong>, датчик неисправен и требует <strong>замены</strong>.</li>
                                     </ul>
                                 </li>
                                 <li class="mb-3">

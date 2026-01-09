@@ -48,7 +48,7 @@ title: 'Перестройка на пропан — TLO верс.15 (Медве
 <li class="mb-2"><i class="fas fa-screwdriver text-warning me-2"></i> Прежде чем начать регулировку, отвинтите запорный винт точки измерения выходного давления газа (4) и наденьте на неё шланг U-образного манометра.</li>
 <li class="mb-2"><i class="fas fa-cog text-info me-2"></i> Отверните латунную заглушку (5) и при помощи пластмассового установочного винта настройте давление на форсунке (см. таблицу).</li>
 <li class="mb-2"><i class="fas fa-power-off text-danger me-2"></i> После завершения регулировки котёл отключить, извлечь гибкую трубку U-образного манометра и чутко дотянуть запорный винт точки измерения.</li>
-<li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i> Котёл ввести в ход и провести проверку герметичности точек измерения на газовой арматуре.</li>
+<li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Котёл ввести в ход и провести проверку герметичности точек измерения на газовой арматуре.</li>
 </ul>
 <div class="text-center mb-3"><a href="4.jpg" data-lightcard="conversion" data-h3="Настройка давления газа"> <img src="/blog/perestrojka-na-propan-tlo-vers15-medved/4.jpg" alt="Перестройка на пропан - TLO верс.15 (Медведь)" class="img-fluid rounded border"> </a></div>
 <h5 class="mt-4"><i class="fas fa-table text-secondary me-2"></i>Таблица параметров:</h5>

@@ -285,10 +285,10 @@ title: 'Профессиональный ремонт электрических
 <p class="subh6 mb-4">При ремонте у нас</p>
 <div class="content mb-5">
 <ul class="text-start ms-4">
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Выезд мастера</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Проверка оборудования</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Определение неисправности</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Составление сметы</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Выезд мастера</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Проверка оборудования</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Определение неисправности</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Составление сметы</li>
 </ul>
 </div>
 <a href="tel:+79262211348" class="btn btn-primary btn-lg w-100">Заказать диагностику</a></div>
@@ -304,11 +304,11 @@ title: 'Профессиональный ремонт электрических
 <p class="subh6 mb-4">Наиболее частые неисправности</p>
 <div class="content mb-5">
 <ul class="text-start ms-4">
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Замена ТЭНа</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Замена термостата</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Устранение протечек</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Чистка от накипи</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Замена датчиков</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Замена ТЭНа</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Замена термостата</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Устранение протечек</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Чистка от накипи</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Замена датчиков</li>
 </ul>
 </div>
 <a href="tel:+79262211348" class="btn btn-primary btn-lg w-100">Заказать ремонт</a></div>
@@ -324,11 +324,11 @@ title: 'Профессиональный ремонт электрических
 <p class="subh6 mb-4">Серьезные неисправности</p>
 <div class="content mb-5">
 <ul class="text-start ms-4">
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Замена блока управления</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Ремонт электронной платы</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Замена циркуляционного насоса</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Ремонт теплообменника</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Комплексное обслуживание</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Замена блока управления</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Ремонт электронной платы</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Замена циркуляционного насоса</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Ремонт теплообменника</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Комплексное обслуживание</li>
 </ul>
 </div>
 <a href="tel:+79262211348" class="btn btn-primary btn-lg w-100">Заказать ремонт</a></div>

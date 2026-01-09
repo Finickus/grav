@@ -1,4 +1,4 @@
----
+﻿---
 title: Ремонт электрических котлов STOUT
 metadata:
   description: STOUT Сервис +7 (926) 221-13-48 Заказать звонок Профессиональный ремонт
@@ -176,9 +176,9 @@ metadata:
                             <div class="display-5 fw-bold text-primary mb-2">0₽</div>
                             <p class="text-muted mb-4">Бесплатно при ремонте</p>
                             <ul class="list-unstyled text-start px-4 small mb-5">
-                                <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Выезд мастера</li>
-                                <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Проверка всех узлов</li>
-                                <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Определение поломки</li>
+                                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;">Выезд мастера</li>
+                                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;">Проверка всех узлов</li>
+                                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;">Определение поломки</li>
                             </ul>
                             <a href="tel:+79262211348" class="btn btn-primary w-100 py-2 fw-bold rounded-pill shadow-sm">Заказать проверку</a>
                         </div>
@@ -191,9 +191,9 @@ metadata:
                             <div class="display-5 fw-bold text-primary mb-2">от 3 500₽</div>
                             <p class="text-muted mb-4">Наиболее частые задачи</p>
                             <ul class="list-unstyled text-start px-4 small mb-5">
-                                <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Замена ТЭНа</li>
-                                <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Замена термостата</li>
-                                <li class="mb-2"><i class="fas fa-check text-success me-2"></i>Устранение протечек</li>
+                                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;">Замена ТЭНа</li>
+                                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;">Замена термостата</li>
+                                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;">Устранение протечек</li>
                             </ul>
                             <a href="tel:+79262211348" class="btn btn-outline-primary w-100 py-2 fw-bold rounded-pill">Заказать ремонт</a>
                         </div>

@@ -1,4 +1,4 @@
----
+﻿---
 title: Ошибка E25 на котле Baxi
 metadata:
   description: Ошибка E25 на котле Baxi Диагностика и устранение неисправности циркуляции
@@ -137,7 +137,7 @@ metadata:
                                         <div class="accordion-body">
                                             <ul class="list-unstyled mb-0 ms-3">
                                                 <li class="mb-2"><i class="fas fa-search me-2 text-info"></i> <strong>Проверка:</strong> Убедитесь, что все запорные краны на подаче/обратке <strong>полностью открыты</strong>.</li>
-                                                <li class="mb-2"><i class="fas fa-check-circle me-2 text-success"></i> <strong>Устранение:</strong> Откройте все краны и проверьте настройки.</li>
+                                                <li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>Устранение:</strong> Откройте все краны и проверьте настройки.</li>
                                             </ul>
                                         </div>
                                     </div>

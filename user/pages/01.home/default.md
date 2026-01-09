@@ -125,11 +125,11 @@ metadata:
                 <div class="col-lg-7 p-4 p-md-5">
                     <h3 class="fw-bold text-center mb-4">Почему выбирают нас:</h3>
                     <ul class="list-unstyled">
-                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i><strong>Опыт и экспертиза:</strong> Многолетний опыт ремонта котлов.</li>
-                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i><strong>Качество работы:</strong> Тщательная проверка после ремонта.</li>
-                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i><strong>Быстрое реагирование:</strong> Выезд в день обращения.</li>
-                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i><strong>Профессиональный подход:</strong> Полный спектр услуг.</li>
-                        <li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i><strong>Конкурентные цены:</strong> Доступные цены при высоком качестве.</li>
+                        <li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle; color: #198754;"><strong>Опыт и экспертиза:</strong> Многолетний опыт ремонта котлов.</li>
+                        <li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle; color: #198754;"><strong>Качество работы:</strong> Тщательная проверка после ремонта.</li>
+                        <li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle; color: #198754;"><strong>Быстрое реагирование:</strong> Выезд в день обращения.</li>
+                        <li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle; color: #198754;"><strong>Профессиональный подход:</strong> Полный спектр услуг.</li>
+                        <li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle; color: #198754;"><strong>Конкурентные цены:</strong> Доступные цены при высоком качестве.</li>
                     </ul>
                     <div class="alert alert-warning mt-3 mb-0" role="alert">
                         Если у вас возникли проблемы с котлом – не откладывайте! Обращайтесь к нам.
@@ -169,9 +169,9 @@ metadata:
                     <span class="step-number">1.</span>
                     <p class="text-muted">Позвоните нам: <br><strong class="text-dark">+7 (926) 221-13-48</strong> или оставьте заявку.</p>
                     <div class="d-flex gap-3 fs-4 text-primary">
-                        <a href="https://tlgg.ru/GazService04" target="_blank"><i class="fab fa-telegram"></i></a>
-                        <a href="https://wa.me/79299053839" target="_blank"><i class="fab fa-whatsapp"></i></a>
-                        <a href="https://vk.com/service_04" target="_blank"><i class="fab fa-vk"></i></a>
+                        <a href="https://tlgg.ru/GazService04" target="_blank"><img src="/home/telegram.svg" alt="Telegram" style="width: 28px; height: 28px;"></a>
+                        <a href="https://wa.me/79299053839" target="_blank"><img src="/home/whatsapp.svg" alt="WhatsApp" style="width: 28px; height: 28px;"></a>
+                        <a href="https://vk.com/service_04" target="_blank"><img src="/home/vk.svg" alt="VK" style="width: 28px; height: 28px;"></a>
                     </div>
                 </div>
             </div>
@@ -209,9 +209,9 @@ metadata:
                 <p>Вы можете привезти технику к нам или вызвать мастера на дом. Наши специалисты используют только качественные запчасти.</p>
                 <p><strong>Мы предлагаем:</strong></p>
                 <ul class="list-group list-group-flush">
-                    <li class="list-group-item border-0 px-0 py-1"><i class="fas fa-check text-primary me-2"></i>Диагностику и ремонт неисправностей</li>
-                    <li class="list-group-item border-0 px-0 py-1"><i class="fas fa-check text-primary me-2"></i>Замену деталей и компонентов</li>
-                    <li class="list-group-item border-0 px-0 py-1"><i class="fas fa-check text-primary me-2"></i>Чистку и обслуживание системы</li>
+                    <li class="list-group-item border-0 px-0 py-1"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle; color: #0d6efd;">Диагностику и ремонт неисправностей</li>
+                    <li class="list-group-item border-0 px-0 py-1"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle; color: #0d6efd;">Замену деталей и компонентов</li>
+                    <li class="list-group-item border-0 px-0 py-1"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle; color: #0d6efd;">Чистку и обслуживание системы</li>
                 </ul>
             </div>
         </div>

@@ -81,7 +81,7 @@ title: 'Пьезокнопки (пьезоэлектрические кнопк�
 <div class="row mt-4">
 <div class="col-6">
 <ol>
-<li class="mb-3"><i class="fas fa-check-circle text-success me-2"></i> <strong>Совместимость</strong> – проверьте модель оборудования (например, <strong>SIT 630, 820 NOVA, 822 NOVA</strong>)</li>
+<li class="mb-3"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>Совместимость</strong> – проверьте модель оборудования (например, <strong>SIT 630, 820 NOVA, 822 NOVA</strong>)</li>
 <li class="mb-3"><i class="fas fa-cog text-primary me-2"></i> <strong>Тип крепления</strong> – винтовое, на защелках, в корпусе блока управления</li>
 </ol>
 </div>

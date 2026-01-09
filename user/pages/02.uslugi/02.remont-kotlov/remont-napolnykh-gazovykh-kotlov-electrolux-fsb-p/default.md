@@ -1,4 +1,4 @@
----
+﻿---
 title: Ремонт напольных газовых котлов Electrolux FSB P
 metadata:
   description: Ремонт и обслуживание котлов Electrolux FSB P Добро пожаловать в наш
@@ -74,18 +74,18 @@ metadata:
     <div class="row g-3 mb-5 small">
         <div class="col-md-6">
             <ul class="list-unstyled ms-3 p-3 rounded shadow-sm bg-light">
-                <li class="mb-2"><i class="fas fa-check me-2 text-success"></i> Диагностика и обслуживание газовых котлов Electrolux FSB P.</li>
-                <li class="mb-2"><i class="fas fa-check me-2 text-success"></i> Определение причины неисправности.</li>
-                <li class="mb-2"><i class="fas fa-check me-2 text-success"></i> Ремонт и замена компонентов котельного оборудования.</li>
-                <li class="mb-2"><i class="fas fa-check me-2 text-success"></i> Профилактическое обслуживание и очистка системы.</li>
+                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Диагностика и обслуживание газовых котлов Electrolux FSB P.</li>
+                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Определение причины неисправности.</li>
+                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Ремонт и замена компонентов котельного оборудования.</li>
+                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Профилактическое обслуживание и очистка системы.</li>
             </ul>
         </div>
         <div class="col-md-6">
             <ul class="list-unstyled ms-3 p-3 rounded shadow-sm bg-light">
-                <li class="mb-2"><i class="fas fa-check me-2 text-success"></i> Регулировка и настройка параметров работы котла.</li>
-                <li class="mb-2"><i class="fas fa-check me-2 text-success"></i> Установка и настройка котельного оборудования.</li>
-                <li class="mb-2"><i class="fas fa-check me-2 text-success"></i> Консультации по эффективному и безопасному использованию.</li>
-                <li class="mb-2"><i class="fas fa-check me-2 text-success"></i> Тестирование и проверка работоспособности после ремонта.</li>
+                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Регулировка и настройка параметров работы котла.</li>
+                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Установка и настройка котельного оборудования.</li>
+                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Консультации по эффективному и безопасному использованию.</li>
+                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Тестирование и проверка работоспособности после ремонта.</li>
             </ul>
         </div>
     </div>

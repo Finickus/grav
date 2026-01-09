@@ -1,4 +1,4 @@
----
+﻿---
 title: Ремонт настенных котлов Ferroli
 metadata:
   description: Официальный сервисный центр Ferroli Ремонт настенных котлов Ferroli
@@ -59,7 +59,7 @@ metadata:
                 <div class="col-lg-6">
                     <div class="card border-0 shadow h-100">
                         <div class="card-body p-5 text-center">
-                            <h3 class="h4 fw-bold mb-4 text-primary"><i class="fas fa-check-circle me-2 text-success"></i> Наши принципы работы</h3>
+                            <h3 class="h4 fw-bold mb-4 text-primary"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Наши принципы работы</h3>
                             <p class="text-muted mb-5 small">Если у вас есть один из симптомов, ремонт должен быть выполнен:</p>
                             
                             <div class="row g-4">

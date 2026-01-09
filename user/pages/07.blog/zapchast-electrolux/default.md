@@ -244,7 +244,7 @@ title: 'Запчасти для газовой колонки Electrolux'
 <h3 class="h4 display-4 text-white mb-3"><span class="icon me-2"><i class="fas fa-phone"></i></span>Нужны запчасти для газовой колонки?</h3>
 <p class="h5 lead text-white">Свяжитесь с нами для консультации, подбора и заказа!</p>
 <div class="btn btn-primarys is-centered mt-4"><a href="tel:+79262211348" class="btn btn-primary btn-lg"> <span class="icon me-2"><i class="fas fa-phone"></i></span> <span>Позвонить</span> </a> <a href="mailto:89262211348@mail.ru" class="btn btn-primary btn-lg is-warning text-dark"> <span class="icon me-2"><i class="fas fa-envelope"></i></span> <span>Написать</span> </a> <a href="https://service04.ru/contact-us/feedback" class="btn btn-primary btn-lg is-success"> <span class="icon me-2"><i class="fas fa-file-alt"></i></span> <span>Заявка</span> </a></div>
-<p class="fs-6 mt-4"><span class="icon me-2"><i class="fab fa-whatsapp"></i></span>WhatsApp / Telegram: +7 926 221-13-48</p>
+<p class="fs-6 mt-4"><span class="icon me-2"><img src="/home/whatsapp.svg" alt="WhatsApp" style="width: 24px; height: 24px; vertical-align: middle;"></span>WhatsApp / Telegram: +7 926 221-13-48</p>
 <p class="fs-6"><span class="icon me-2"><i class="fas fa-globe"></i></span>Сайт: Service04.ru</p>
 </div>
 </div>

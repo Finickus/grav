@@ -116,7 +116,7 @@ title: 'Bez nazvaniya'
 <p><i class="fas fa-envelope text-warning"></i> E-mail: <a href="mailto:89262211348@mail.ru">89262211348@mail.ru</a></p>
 </div>
 <div class="col-md-6">
-<p><i class="fab fa-whatsapp text-success"></i> WhatsApp: <a href="https://wa.me/79262211348" target="_blank" rel="noopener">+7 926 221-13-48</a></p>
+<p><img src="/home/whatsapp.svg" alt="WhatsApp" style="width: 24px; height: 24px; vertical-align: middle;"> WhatsApp: <a href="https://wa.me/79262211348" target="_blank" rel="noopener">+7 926 221-13-48</a></p>
 <p><i class="fas fa-paper-plane text-danger"></i> <a href="https://service04.ru/contact-us/feedback" target="_blank" rel="noopener">Оставить заявку</a></p>
 </div>
 </div>

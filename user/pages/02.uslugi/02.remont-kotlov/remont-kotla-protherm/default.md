@@ -1,4 +1,4 @@
----
+﻿---
 title: Ремонт котла Protherm
 metadata:
   description: Ремонт котлов Protherm в Москве и области Добро пожаловать на нашу
@@ -191,7 +191,7 @@ metadata:
     
     <div class="row g-4 mb-5 align-items-center border p-4 rounded shadow-sm">
         <div class="col-md-8 small">
-            <h4 class="fw-bold text-success mb-3"><i class="fas fa-check-circle me-2"></i>Обслуживание котлов позволяет:</h4>
+            <h4 class="fw-bold text-success mb-3"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Обслуживание котлов позволяет:</h4>
             <ul class="ms-3 list-unstyled">
                 <li class="mb-2"><i class="fas fa-arrow-right me-2 text-success"></i> Предотвратить возникновение неисправностей и поломок, которые могут привести к остановке работы котла или его повреждению.</li>
                 <li class="mb-2"><i class="fas fa-arrow-right me-2 text-success"></i> Повысить эффективность и экономичность работы котла, снизив расход газа и электроэнергии.</li>

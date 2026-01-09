@@ -1,4 +1,4 @@
----
+﻿---
 title: Запчасти для котлов Mora
 metadata:
   description: MORA TOP Котлы Mora являются одними из самых популярных и надежных
@@ -44,14 +44,14 @@ metadata:
         <div class="col-md-8">
             <h3 class="fw-bold text-primary mb-3"><i class="fas fa-boxes me-2"></i>В нашем каталоге вы найдете следующие запчасти:</h3>
             <ul class="list-unstyled ms-3 small">
-                <li class="mb-2"><i class="fas fa-check me-2 text-success"></i> – Теплообменники для разных моделей котлов;</li>
-                <li class="mb-2"><i class="fas fa-check me-2 text-success"></i> – Горелки газовые и дизельные;</li>
-                <li class="mb-2"><i class="fas fa-check me-2 text-success"></i> – Платы управления и датчики;</li>
-                <li class="mb-2"><i class="fas fa-check me-2 text-success"></i> – Расширительные баки;</li>
-                <li class="mb-2"><i class="fas fa-check me-2 text-success"></i> – Трехходовые клапаны;</li>
-                <li class="mb-2"><i class="fas fa-check me-2 text-success"></i> – Циркуляционные насосы;</li>
-                <li class="mb-2"><i class="fas fa-check me-2 text-success"></i> – Элементы системы дымоудаления;</li>
-                <li class="mb-2"><i class="fas fa-check me-2 text-success"></i> – Запчасти для систем отопления и водоснабжения.</li>
+                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> – Теплообменники для разных моделей котлов;</li>
+                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> – Горелки газовые и дизельные;</li>
+                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> – Платы управления и датчики;</li>
+                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> – Расширительные баки;</li>
+                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> – Трехходовые клапаны;</li>
+                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> – Циркуляционные насосы;</li>
+                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> – Элементы системы дымоудаления;</li>
+                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> – Запчасти для систем отопления и водоснабжения.</li>
             </ul>
         </div>
         <div class="col-md-4 text-center">

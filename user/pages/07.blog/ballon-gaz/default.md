@@ -95,13 +95,13 @@ title: 'Отопление дачи газовыми баллонами — эт
 <h2 class="section-h3">Преимущества и недостатки</h2>
 <div class="row">
 <div class="col-lg-6 mb-5 mb-lg-0">
-<h3 class="mb-4"><i class="fas fa-check-circle text-success me-2"></i> Преимущества</h3>
+<h3 class="mb-4"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Преимущества</h3>
 <ul class="pros-list">
-<li><i class="fas fa-check"></i> Высокая чистота топлива – пропан отвечает всем требованиям к чистоте и экологичности</li>
-<li><i class="fas fa-check"></i> Независимость отопления</li>
-<li><i class="fas fa-check"></i> Стабильное давление в системе без перепадов</li>
-<li><i class="fas fa-check"></i> Простое управление, легкость в эксплуатации и обслуживании</li>
-<li><i class="fas fa-check"></i> Возможность экономить баллонный газ</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Высокая чистота топлива – пропан отвечает всем требованиям к чистоте и экологичности</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Независимость отопления</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Стабильное давление в системе без перепадов</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Простое управление, легкость в эксплуатации и обслуживании</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Возможность экономить баллонный газ</li>
 </ul>
 </div>
 <div class="col-lg-6">

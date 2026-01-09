@@ -149,6 +149,6 @@ title: 'Запчасти для котлов Vaillant (Вайлант)'
 <div class="row justify-content-center is-variable is-4 mt-4 is-mobile">
 <div class="col is-narrow is-half-mobile"><a href="tel:+79262211348" class="btn btn-warning btn-lg text-dark w-100"> <span class="icon me-2"><i class="fas fa-mobile-alt"></i></span> <span>+7 (926) 221-13-48</span> </a></div>
 </div>
-<div class="btn btn-primarys is-centered mt-4"><a href="https://wa.me/79262211348" target="_blank" rel="noopener" class="btn btn-success btn-lg me-2"> <span class="icon me-2"><i class="fab fa-whatsapp"></i></span> <span>WhatsApp</span> </a> <a href="https://t.me/+79262211348" target="_blank" rel="noopener" class="btn btn-info btn-lg"> <span class="icon me-2"><i class="fab fa-telegram"></i></span> <span>Telegram</span> </a></div>
+<div class="btn btn-primarys is-centered mt-4"><a href="https://wa.me/79262211348" target="_blank" rel="noopener" class="btn btn-success btn-lg me-2"> <span class="icon me-2"><img src="/home/whatsapp.svg" alt="WhatsApp" style="width: 24px; height: 24px; vertical-align: middle;"></span> <span>WhatsApp</span> </a> <a href="https://t.me/+79262211348" target="_blank" rel="noopener" class="btn btn-info btn-lg"> <span class="icon me-2"><img src="/home/telegram.svg" alt="Telegram" style="width: 24px; height: 24px; vertical-align: middle;"></span> <span>Telegram</span> </a></div>
 </div>
 </div>

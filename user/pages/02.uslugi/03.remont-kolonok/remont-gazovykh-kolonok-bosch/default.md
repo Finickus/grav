@@ -1,4 +1,4 @@
----
+﻿---
 title: Ремонт газовых колонок Bosch
 metadata:
   description: Ремонт газовых колонок Bosch Газовые колонки Bosch являются надежным
@@ -36,7 +36,7 @@ metadata:
         </div>
     </div>
 
-    <h2 class="h3 fw-bold mb-4 text-primary"><i class="fas fa-check-circle me-2"></i>Преимущества ремонта с нами:</h2>
+    <h2 class="h3 fw-bold mb-4 text-primary"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Преимущества ремонта с нами:</h2>
     <ul class="list-group list-group-flush shadow-sm mb-5">
         <li class="list-group-item p-3 border-start border-primary border-4 bg-light small">
             <strong>Опытные мастера:</strong> Наши специалисты обладают обширным опытом работы с газовыми колонками Bosch. Они знакомы с техническими особенностями и смогут эффективно диагностировать и устранить любые неисправности.

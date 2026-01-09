@@ -83,7 +83,7 @@ title: 'THERM 14 TCLN (2015 г.)'
 <p><span class="icon me-2"><i class="fas fa-mobile-alt has-text-secondary"></i></span> Телефон: <a href="tel:+79262211348">+7 (926) 221-13-48</a></p>
 <p><span class="icon me-2"><i class="fas fa-globe has-text-secondary"></i></span> Сайт: <a href="https://service04.ru" target="_blank" rel="noopener">Service04.ru</a></p>
 <p><span class="icon me-2"><i class="fas fa-envelope has-text-secondary"></i></span> E-mail: <a href="mailto:89262211348@mail.ru">89262211348@mail.ru</a></p>
-<p><span class="icon me-2"><i class="fab fa-whatsapp text-success"></i></span> <a href="https://wa.me/79262211348" target="_blank" rel="noopener">WhatsApp</a> | <span class="icon me-2"><i class="fab fa-telegram text-info"></i></span> <a href="https://t.me/+79262211348" target="_blank" rel="noopener">Telegram</a></p>
+<p><span class="icon me-2"><img src="/home/whatsapp.svg" alt="WhatsApp" style="width: 24px; height: 24px; vertical-align: middle;"></span> <a href="https://wa.me/79262211348" target="_blank" rel="noopener">WhatsApp</a> | <span class="icon me-2"><img src="/home/telegram.svg" alt="Telegram" style="width: 24px; height: 24px; vertical-align: middle;"></span> <a href="https://t.me/+79262211348" target="_blank" rel="noopener">Telegram</a></p>
 <p class="text-center"><a href="https://service04.ru/contact-us/feedback" class="btn btn-primary btn-lg"> <span class="icon me-2"><i class="fas fa-paper-plane"></i></span> <span>Отправить заявку</span> </a></p>
 </div>
 </div>

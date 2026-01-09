@@ -74,10 +74,10 @@ title: 'DUCA'
 <div class="col-md-8"><img src="/blog/duca/Screenshot_261.jpg" alt="насосы DUCA grundfos" class="img-fluid rounded border mb-3">
 <h5 class="text-primary">СОВМЕСТИМОСТЬ МОДЕЛЕЙ:</h5>
 <ul>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> <strong>GRUNDFOS UPS 15-50</strong></li>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> <strong>GRUNDFOS UPS 15-55</strong></li>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> <strong>GRUNDFOS UPS 15-60</strong></li>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> <strong>GRUNDFOS UPS 15-65</strong></li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>GRUNDFOS UPS 15-50</strong></li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>GRUNDFOS UPS 15-55</strong></li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>GRUNDFOS UPS 15-60</strong></li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>GRUNDFOS UPS 15-65</strong></li>
 </ul>
 <div class="alert alert-info">
 <h6 class="alert-heading"><i class="fas fa-info-circle me-2"></i>Информация:</h6>
@@ -104,10 +104,10 @@ title: 'DUCA'
 </ul>
 <h6 class="mt-3 text-warning"><i class="fas fa-list me-2"></i>СОВМЕСТИМОСТЬ МОДЕЛЕЙ:</h6>
 <ul>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> <strong>WILO 15-4</strong></li>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> <strong>WILO 15-5</strong></li>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> <strong>WILO 15-6</strong></li>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> <strong>WILO 15-7</strong></li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>WILO 15-4</strong></li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>WILO 15-5</strong></li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>WILO 15-6</strong></li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>WILO 15-7</strong></li>
 </ul>
 <div class="alert alert-warning">
 <h6 class="alert-heading"><i class="fas fa-exclamation-triangle me-2"></i>Важно:</h6>
@@ -156,9 +156,9 @@ title: 'DUCA'
 <div class="col-md-8"><img src="/blog/duca/Screenshot_266.jpg" alt="насосы DUCA вило Wilo" class="img-fluid rounded border mb-3">
 <h6 class="text-primary">СОВМЕСТИМОСТЬ МОДЕЛЕЙ:</h6>
 <ul class="mb-0">
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> <strong>WILO RS 15/4</strong></li>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> <strong>WILO RS 15/5</strong></li>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> <strong>WILO STAR RS 25/7</strong></li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>WILO RS 15/4</strong></li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>WILO RS 15/5</strong></li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>WILO STAR RS 25/7</strong></li>
 </ul>
 </div>
 <div class="col-md-4"><img src="/blog/duca/Screenshot_267.jpg" alt="насосы DUCA" class="img-fluid rounded border"></div>

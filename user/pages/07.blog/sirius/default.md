@@ -25,7 +25,7 @@ title: 'Газовый клапан SIT NOVA'
 <li>После того, как эта горелка загорелась, ручку переводят в позицию «Огонь». Клапан переводится в 3-е положение и открывается полный ход для газа.</li>
 </ul>
 <div class="alert alert-success mt-3">
-<h5 class="alert-heading"><i class="fas fa-check-circle me-2"></i>Преимущество</h5>
+<h5 class="alert-heading"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Преимущество</h5>
 <p class="mb-0">Этот клапан отличается надежностью в работе.</p>
 </div>
 </div>

@@ -190,10 +190,10 @@ title: 'Профессиональный монтаж системы управ�
 <p class="subh6 mb-4">Для стандартных котлов</p>
 <div class="content mb-5 text-start">
 <ul class="ml-4">
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Установка контроллера</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Подключение к котлу</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Базовая настройка</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Гарантия 1 год</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Установка контроллера</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Подключение к котлу</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Базовая настройка</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Гарантия 1 год</li>
 </ul>
 </div>
 <a href="tel:+79262211348" class="btn btn-primary btn-lg w-100">Заказать</a></div>
@@ -209,11 +209,11 @@ title: 'Профессиональный монтаж системы управ�
 <p class="subh6 mb-4">Для сложных систем</p>
 <div class="content mb-5 text-start">
 <ul class="ml-4">
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Установка контроллера</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Подключение датчиков</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Настройка сценариев</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Обучение работе</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Гарантия 2 года</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Установка контроллера</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Подключение датчиков</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Настройка сценариев</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Обучение работе</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Гарантия 2 года</li>
 </ul>
 </div>
 <a href="tel:+79262211348" class="btn btn-primary btn-lg w-100">Заказать</a></div>
@@ -229,11 +229,11 @@ title: 'Профессиональный монтаж системы управ�
 <p class="subh6 mb-4">Монтаж "под ключ"</p>
 <div class="content mb-5 text-start">
 <ul class="ml-4">
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Монтаж системы ZONT</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Установка дополнительных датчиков</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Настройка умного дома</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Годовое обслуживание</li>
-<li><span class="icon text-success"><i class="fas fa-check"></i></span> Гарантия 3 года</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Монтаж системы ZONT</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Установка дополнительных датчиков</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Настройка умного дома</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Годовое обслуживание</li>
+<li><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Гарантия 3 года</li>
 </ul>
 </div>
 <a href="tel:+79262211348" class="btn btn-primary btn-lg w-100">Заказать</a></div>

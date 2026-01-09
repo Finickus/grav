@@ -30,7 +30,7 @@ title: 'Газовый клапан SIT NOVA'
 <li>После розжига ручку переводят в позицию «Огонь», и открывается полный ход газа на основную горелку.</li>
 </ul>
 <div class="notification is-success mt-4">
-<p class="h6 mb-1"><i class="fas fa-check-circle me-2"></i>Преимущество</p>
+<p class="h6 mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Преимущество</p>
 <p class="mb-0">Клапан отличается высокой надёжностью в работе.</p>
 </div>
 </div>

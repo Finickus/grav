@@ -51,7 +51,7 @@ title: 'Коды ошибок газового котла Koreastar'
 <p class="card-h3 text-dark fs-5"><span class="icon me-2"><i class="fas fa-fire-alt"></i></span> Ошибка А02: Проблемы во время розжига</p>
 <div class="p-4 fs-6">
 <p class="has-text-weight-bold">Симптомы: срыв пламени или неудачные попытки розжига.</p>
-<h6 class="h6 text-success mt-3"><span class="icon me-2"><i class="fas fa-check-circle"></i></span>Что проверить:</h6>
+<h6 class="h6 text-success mt-3"><span class="icon me-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span>Что проверить:</h6>
 <ul class="ml-4 list-unstyled">
 <li class="mb-2"><span class="icon me-2 text-primary"><i class="fas fa-link"></i></span> Соединения между блоком розжига и датчиком пламени.</li>
 <li class="mb-2"><span class="icon me-2 text-warning"><i class="fas fa-plug"></i></span> Целостность проводки к газовому клапану.</li>

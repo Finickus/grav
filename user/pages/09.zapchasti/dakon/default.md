@@ -1,4 +1,4 @@
----
+﻿---
 title: Dakon
 metadata:
   description: Запчасти для всех моделей газовых котлов Dakon Отопительные котлы Dakon
@@ -119,12 +119,12 @@ metadata:
                 </div>
                 <div class="col-sm-6 col-lg-3">
                     <a href="https://wa.me/79262211348" class="text-white text-decoration-none d-block p-2 rounded bg-white bg-opacity-10 shadow-sm">
-                        <i class="fab fa-whatsapp me-2"></i> WhatsApp
+                        <img src="/home/whatsapp.svg" alt="WhatsApp" style="width: 24px; height: 24px; vertical-align: middle;"> WhatsApp
                     </a>
                 </div>
                 <div class="col-sm-6 col-lg-3">
                     <a href="https://t.me/+79262211348" class="text-white text-decoration-none d-block p-2 rounded bg-white bg-opacity-10 shadow-sm">
-                        <i class="fab fa-telegram me-2"></i> Telegram
+                        <img src="/home/telegram.svg" alt="Telegram" style="width: 24px; height: 24px; vertical-align: middle;"> Telegram
                     </a>
                 </div>
                 <div class="col-sm-6 col-lg-3">

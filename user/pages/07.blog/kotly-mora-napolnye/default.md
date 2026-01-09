@@ -25,9 +25,9 @@ title: 'Напольные котлы MORA: Обзор моделей и тех�
 <p class="content"><strong>Чугунные котлы с атмосферной горелкой</strong> из нержавеющей стали. Оснащены двухступенчатым газовым вентилем с ручным управлением.</p>
 <div class="content fs-6">
 <ul class="ml-4 mb-0">
-<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-check"></i></span> **SA-20/30/40/50/60** — для помещений 200–600 м² с принудительной циркуляцией</li>
-<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-check"></i></span> **SA-G серия** — энергонезависимые модели для регионов с перебоями питания</li>
-<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-check"></i></span> **SA-E серия** — автоматический розжиг и модуляция мощности (60–100%)</li>
+<li class="mb-2"><span class="icon me-2 text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> **SA-20/30/40/50/60** — для помещений 200–600 м² с принудительной циркуляцией</li>
+<li class="mb-2"><span class="icon me-2 text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> **SA-G серия** — энергонезависимые модели для регионов с перебоями питания</li>
+<li class="mb-2"><span class="icon me-2 text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> **SA-E серия** — автоматический розжиг и модуляция мощности (60–100%)</li>
 </ul>
 </div>
 </div>
@@ -135,16 +135,16 @@ title: 'Напольные котлы MORA: Обзор моделей и тех�
 <div class="row content fs-6">
 <div class="col-6">
 <ul class="ml-4 mb-0">
-<li class="mb-2"><span class="icon me-2"><i class="fas fa-check-circle"></i></span> Срок службы — более 20 лет</li>
-<li class="mb-2"><span class="icon me-2"><i class="fas fa-check-circle"></i></span> Экономия газа до 15%</li>
-<li class="mb-2"><span class="icon me-2"><i class="fas fa-check-circle"></i></span> Работа при низком давлении газа</li>
+<li class="mb-2"><span class="icon me-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span> Срок службы — более 20 лет</li>
+<li class="mb-2"><span class="icon me-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span> Экономия газа до 15%</li>
+<li class="mb-2"><span class="icon me-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span> Работа при низком давлении газа</li>
 </ul>
 </div>
 <div class="col-6">
 <ul class="ml-4 mb-0">
-<li class="mb-2"><span class="icon me-2"><i class="fas fa-check-circle"></i></span> Европейские стандарты качества</li>
-<li class="mb-2"><span class="icon me-2"><i class="fas fa-check-circle"></i></span> Простое обслуживание</li>
-<li class="mb-2"><span class="icon me-2"><i class="fas fa-check-circle"></i></span> Комплектация под ключ</li>
+<li class="mb-2"><span class="icon me-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span> Европейские стандарты качества</li>
+<li class="mb-2"><span class="icon me-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span> Простое обслуживание</li>
+<li class="mb-2"><span class="icon me-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span> Комплектация под ключ</li>
 </ul>
 </div>
 </div>

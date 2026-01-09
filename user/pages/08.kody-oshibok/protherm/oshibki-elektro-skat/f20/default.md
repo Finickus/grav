@@ -1,4 +1,4 @@
----
+﻿---
 title: F20
 metadata:
   description: Ошибка F20 на Protherm Skat Полное руководство для мастеров Код F20
@@ -191,7 +191,7 @@ metadata:
                 <div class="col-md-3"><a href="mailto:89262211348@mail.ru" class="btn btn-warning btn-lg w-100 text-dark fw-bold"> <i class="fas fa-envelope me-2"></i>Написать </a></div>
                 <div class="col-md-3"><a href="https://service04.ru/contact-us/feedback" class="btn btn-success btn-lg w-100 fw-bold"> <i class="fas fa-file-alt me-2"></i>Заявка </a></div>
             </div>
-            <p class="mb-1 small"><i class="fab fa-whatsapp me-2"></i>WhatsApp/Telegram: +7 926 221-13-48</p>
+            <p class="mb-1 small"><img src="/home/whatsapp.svg" alt="WhatsApp" style="width: 24px; height: 24px; vertical-align: middle;">WhatsApp/Telegram: +7 926 221-13-48</p>
             <p class="mb-1 small"><i class="fas fa-globe me-2"></i>Сайт: Service04.ru</p>
             <p class="mb-0 small"><i class="fas fa-envelope me-2"></i>E-mail: 89262211348@mail.ru</p>
         </div>

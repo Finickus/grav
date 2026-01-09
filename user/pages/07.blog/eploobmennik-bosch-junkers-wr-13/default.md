@@ -31,7 +31,7 @@ title: 'Теплообменник Bosch Junkers WR 13'
 <ul style="list-style: none; padding-left: 0;">
 <li><i class="fas fa-tag mr-1"></i> Цена: в 2 раза дешевле оригинала</li>
 <li><i class="fas fa-thumbs-up mr-1"></i> Качество: на уровне европейских аналогов</li>
-<li><i class="fas fa-check-circle mr-1"></i> Совместимость: со всеми моделями WR 13</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Совместимость: со всеми моделями WR 13</li>
 </ul>
 </div>
 </div>
@@ -125,19 +125,19 @@ title: 'Теплообменник Bosch Junkers WR 13'
 <div class="col">
 <h4 class="h6"><i class="fab fa-bosch me-2"></i>Bosch:</h4>
 <ul style="list-style: none; padding-left: 0;">
-<li><i class="fas fa-check text-success me-2"></i> Bosch Gaz 6000 W</li>
-<li><i class="fas fa-check text-success me-2"></i> Bosch Therm 4000</li>
-<li><i class="fas fa-check text-success me-2"></i> Bosch Compakt</li>
-<li><i class="fas fa-check text-success me-2"></i> Все модели WR 13 (P/B/G)</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Bosch Gaz 6000 W</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Bosch Therm 4000</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Bosch Compakt</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Все модели WR 13 (P/B/G)</li>
 </ul>
 </div>
 <div class="col">
 <h4 class="h6"><i class="fas fa-industry me-2"></i>Junkers:</h4>
 <ul style="list-style: none; padding-left: 0;">
-<li><i class="fas fa-check text-success me-2"></i> Junkers Cerapur / Supra</li>
-<li><i class="fas fa-check text-success me-2"></i> Junkers Euroline</li>
-<li><i class="fas fa-check text-success me-2"></i> Junkers Cerastar</li>
-<li><i class="fas fa-check text-success me-2"></i> Все модели WR 13 (P/B/G)</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Junkers Cerapur / Supra</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Junkers Euroline</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Junkers Cerastar</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Все модели WR 13 (P/B/G)</li>
 </ul>
 </div>
 </div>

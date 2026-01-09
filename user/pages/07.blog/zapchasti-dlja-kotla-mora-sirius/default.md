@@ -101,9 +101,9 @@ title: 'Запчасти для котлов Mora Sirius'
 <p>Для сохранения эффективности и безопасности котла рекомендуется использовать оригинальные детали или проверенные аналоги, одобренные производителем, поскольку неподходящие запчасти могут привести к перерасходу топлива и повышенному риску поломок. [web:296][web:304]</p>
 <p>Приобрести комплектующие можно:</p>
 <ul>
-<li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i> В авторизованных сервисных центрах и у официальных партнёров бренда.</li>
-<li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i> У специализированных дилеров отопительного оборудования, работающих с котлами Mora.</li>
-<li class="mb-2"><i class="fas fa-check-circle text-success me-2"></i> В интернет‑магазинах с подтверждённой репутацией и понятными условиями гарантии. [web:292]</li>
+<li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> В авторизованных сервисных центрах и у официальных партнёров бренда.</li>
+<li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> У специализированных дилеров отопительного оборудования, работающих с котлами Mora.</li>
+<li class="mb-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> В интернет‑магазинах с подтверждённой репутацией и понятными условиями гарантии. [web:292]</li>
 </ul>
 </div>
 </div>

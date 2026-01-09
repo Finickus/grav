@@ -59,7 +59,7 @@ title: 'Запчасти для электрокотлов Vaillant'
 <div class="col-6">
 <ul class="ml-4 list-unstyled">
 <li class="mb-2"><span class="icon me-2"><i class="fas fa-book"></i></span> Все детали и запчасти в одном каталоге – удобный и быстрый подбор</li>
-<li class="mb-2"><span class="icon me-2"><i class="fas fa-check-circle"></i></span> Заявленные запчасти всегда в наличии – никаких длительных ожиданий</li>
+<li class="mb-2"><span class="icon me-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span> Заявленные запчасти всегда в наличии – никаких длительных ожиданий</li>
 <li class="mb-2"><span class="icon me-2"><i class="fas fa-ruble-sign"></i></span> Оптимальные расценки на любую запчасть или деталь</li>
 </ul>
 </div>

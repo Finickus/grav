@@ -46,7 +46,7 @@ title: 'TG200 Регулируемый термостат, настраивае�
 <tr>
 <td class="has-text-weight-bold">0 ÷ 90</td>
 <td></td>
-<td><span class="icon text-success"><i class="fas fa-check"></i></span></td>
+<td><span class="icon text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span></td>
 <td>Ø 6,5 x 73</td>
 <td>Медь</td>
 <td>1500</td>

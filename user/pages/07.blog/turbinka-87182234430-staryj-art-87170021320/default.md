@@ -36,24 +36,24 @@ title: 'Турбинка (датчик протока)'
 <div class="col-md-6">
 <h5 class="text-uppercase" style="color: #e37a25;">Buderus</h5>
 <ul>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> Buderus Logamax U022(042,044,052,054)-24K</li>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> Buderus Logamax U052-28K</li>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> Buderus Logamax U054-24K</li>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> Buderus Logamax U052-28K</li>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> Buderus Logamax U042(44)-24K</li>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> Buderus Logamax U022(24)-24K</li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Buderus Logamax U022(042,044,052,054)-24K</li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Buderus Logamax U052-28K</li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Buderus Logamax U054-24K</li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Buderus Logamax U052-28K</li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Buderus Logamax U042(44)-24K</li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Buderus Logamax U022(24)-24K</li>
 </ul>
 </div>
 <div class="col-md-6">
 <h5 class="text-uppercase" style="color: #e37a25;">Bosch</h5>
 <ul>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> GAZ 4000 W</li>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> GAZ 7000 W</li>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> ZWE24(28)-4(5)MFA(MFK)</li>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> ZWB28-3C</li>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> Eurostar | Евростар ZWE 24-4 MFK, ZSE 24-4 MFK, ZWE 24/28-4 MFA</li>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> Ceraclass Excellence ZWC28-3MFK | MFA</li>
-<li class="mb-1"><i class="fas fa-check-circle text-success me-2"></i> Euromax | Евромакс ZWC 24-1 MF2A | K | 31, ZWC 28-1 MF2A | K 23 | 31, ZWC 24-1 MFK 23 | 31, ZWC 28-1 MFK 23 | 31, ZWC 24-1 MFA 23 | 31, ZWC 28-1 MFA 23 | 3</li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> GAZ 4000 W</li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> GAZ 7000 W</li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> ZWE24(28)-4(5)MFA(MFK)</li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> ZWB28-3C</li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Eurostar | Евростар ZWE 24-4 MFK, ZSE 24-4 MFK, ZWE 24/28-4 MFA</li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Ceraclass Excellence ZWC28-3MFK | MFA</li>
+<li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Euromax | Евромакс ZWC 24-1 MF2A | K | 31, ZWC 28-1 MF2A | K 23 | 31, ZWC 24-1 MFK 23 | 31, ZWC 28-1 MFK 23 | 31, ZWC 24-1 MFA 23 | 31, ZWC 28-1 MFA 23 | 3</li>
 </ul>
 </div>
 </div>

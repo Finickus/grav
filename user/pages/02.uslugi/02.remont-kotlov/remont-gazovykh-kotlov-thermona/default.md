@@ -1,4 +1,4 @@
----
+﻿---
 title: Ремонт газовых котлов Thermona
 metadata:
   description: Добро пожаловать на нашу страницу, посвященную ремонту газовых котлов
@@ -66,11 +66,11 @@ metadata:
             <hr class="my-3">
             <h3 class="text-center fw-bold">Наши услуги:</h3>
             <ul class="list-unstyled ms-3 small">
-                <li><i class="fas fa-check-circle me-2 text-success"></i> <strong>Диагностика и выявление неисправностей.</strong></li>
-                <li><i class="fas fa-check-circle me-2 text-success"></i> <strong>Чистка и обслуживание газовых котлов.</strong></li>
-                <li><i class="fas fa-check-circle me-2 text-success"></i> <strong>Замена деталей и комплектующих.</strong></li>
-                <li><i class="fas fa-check-circle me-2 text-success"></i> <strong>Профилактическое обслуживание для предотвращения поломок.</strong></li>
-                <li><i class="fas fa-check-circle me-2 text-success"></i> <strong>Сервисное обслуживание с заключением договора для МосОблГаза</strong></li>
+                <li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>Диагностика и выявление неисправностей.</strong></li>
+                <li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>Чистка и обслуживание газовых котлов.</strong></li>
+                <li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>Замена деталей и комплектующих.</strong></li>
+                <li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>Профилактическое обслуживание для предотвращения поломок.</strong></li>
+                <li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> <strong>Сервисное обслуживание с заключением договора для МосОблГаза</strong></li>
             </ul>
             <p class="small">Если ваш газовый котел Thermona нуждается в ремонте или техническом обслуживании, не стесняйтесь обращаться к нам. Мы гарантируем качественное и надежное восстановление работы вашего оборудования.</p>
         </div>
@@ -143,11 +143,11 @@ metadata:
         </ol>
         <p>Котел Thermona стал постоянно отключается, выдавать знак аварии и скачет давление, возникают проблемы с дымоходом, в этом случае мы рекомендуем вызвать специалистов чтобы они провели диагностику и отремонтировали ваш котел.</p>
         <ul class="ms-3 list-unstyled">
-            <li class="mb-1"><i class="fas fa-check me-2 text-primary"></i> Настенных газовых котлов (THERM PRO X.A, TX.A CLN, TCLN PRO KX.A, TKX.A LXZ.A 5, TLXZ.A 5 CX.A, TCX.A LN, TLN X.A, TLX.A)</li>
-            <li class="mb-1"><i class="fas fa-check me-2 text-primary"></i> Конденсационных котлов (THERM KD.A KDC.A KDZ.A DZ5.A KD.A )</li>
-            <li class="mb-1"><i class="fas fa-check me-2 text-primary"></i> Напольных котлов (THERM EZ/B , P/B, THERM E)</li>
-            <li class="mb-1"><i class="fas fa-check me-2 text-primary"></i> Промышленных котлов</li>
-            <li class="mb-1"><i class="fas fa-check me-2 text-primary"></i> Электрических котлов (THERM EL )</li>
+            <li class="mb-1"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Настенных газовых котлов (THERM PRO X.A, TX.A CLN, TCLN PRO KX.A, TKX.A LXZ.A 5, TLXZ.A 5 CX.A, TCX.A LN, TLN X.A, TLX.A)</li>
+            <li class="mb-1"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Конденсационных котлов (THERM KD.A KDC.A KDZ.A DZ5.A KD.A )</li>
+            <li class="mb-1"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Напольных котлов (THERM EZ/B , P/B, THERM E)</li>
+            <li class="mb-1"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Промышленных котлов</li>
+            <li class="mb-1"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Электрических котлов (THERM EL )</li>
         </ul>
         <div class="row shadow p-3 rounded bg-accent-blue-light mb-4">
             <div class="col-12">

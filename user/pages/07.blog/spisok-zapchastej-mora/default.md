@@ -2377,7 +2377,7 @@ title: 'Список запчастей газового оборудовани�
 <div class="row justify-content-center is-variable is-4 mt-4">
 <div class="col is-narrow"><a href="tel:+79262211348" class="btn btn-warning btn-lg text-dark w-100"> <span class="icon"><i class="fas fa-mobile-alt"></i></span> <span>+7 (926) 221-13-48</span> </a></div>
 </div>
-<div class="mt-4"><a href="https://wa.me/79262211348" target="_blank" rel="noopener" class="btn btn-success me-2"> <span class="icon"><i class="fab fa-whatsapp"></i></span> <span>WhatsApp</span> </a> <a href="https://t.me/+79262211348" target="_blank" rel="noopener" class="btn btn-info"> <span class="icon"><i class="fab fa-telegram"></i></span> <span>Telegram</span> </a></div>
+<div class="mt-4"><a href="https://wa.me/79262211348" target="_blank" rel="noopener" class="btn btn-success me-2"> <span class="icon"><img src="/home/whatsapp.svg" alt="WhatsApp" style="width: 24px; height: 24px; vertical-align: middle;"></span> <span>WhatsApp</span> </a> <a href="https://t.me/+79262211348" target="_blank" rel="noopener" class="btn btn-info"> <span class="icon"><img src="/home/telegram.svg" alt="Telegram" style="width: 24px; height: 24px; vertical-align: middle;"></span> <span>Telegram</span> </a></div>
 <p class="mt-4"><small class="fs-6">Или оставьте заявку на <a href="https://service04.ru/contact-us/feedback" target="_blank" class="text-white" rel="noopener">нашей форме обратной связи</a></small></p>
 </div>
 </div>

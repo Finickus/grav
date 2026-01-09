@@ -1,4 +1,4 @@
----
+﻿---
 title: Ремонт электрических котлов Протерм
 metadata:
   description: Авторизованный сервисный центр котельного оборудования Электрические
@@ -149,7 +149,7 @@ metadata:
             </div>
             
             <div class="tab-pane fade small" id="tab-step4" role="tabpanel" aria-labelledby="tab-step4-tab">
-                <p><i class="fas fa-check-circle me-2 text-primary"></i> После ремонта котла Protherm будет проведено тестирование, чтобы убедиться, что он работает должным образом и соответствует стандартам безопасности.</p>
+                <p><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> После ремонта котла Protherm будет проведено тестирование, чтобы убедиться, что он работает должным образом и соответствует стандартам безопасности.</p>
             </div>
             
             <div class="tab-pane fade small" id="tab-step5" role="tabpanel" aria-labelledby="tab-step5-tab">

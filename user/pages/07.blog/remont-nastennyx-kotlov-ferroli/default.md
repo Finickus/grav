@@ -33,7 +33,7 @@ title: 'Ремонт настенных котлов Ferroli разных мод
 <div class="col-lg-6">
 <div class="card border-0 shadow h-100">
 <div class="card-body p-5">
-<h3 class="h4 display-4 text-center mb-4"><span class="icon me-2 text-success"><i class="fas fa-check-circle"></i></span> Наши принципы работы</h3>
+<h3 class="h4 display-4 text-center mb-4"><span class="icon me-2 text-success"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span> Наши принципы работы</h3>
 <p class="text-center fs-6">Если дан утвердительный ответ хотя бы на один вопрос, то **ремонт газового котла Ферроли** должен быть выполнен:</p>
 <div class="row g-3 mt-4 text-center">
 <div class="col-6 mb-4">

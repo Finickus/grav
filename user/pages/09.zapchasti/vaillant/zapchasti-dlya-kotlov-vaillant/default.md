@@ -1,4 +1,4 @@
----
+﻿---
 title: Запчасти для котлов Vaillant
 metadata:
   description: Запчасти для котлов Vaillant (Вайлант) Наша компания осуществляет продажу
@@ -161,10 +161,10 @@ metadata:
         </div>
         <div class="d-flex justify-content-center flex-wrap gap-3 mt-4">
             <a href="https://wa.me/79262211348" target="_blank" class="btn btn-success btn-lg px-4 shadow-sm">
-                <i class="fab fa-whatsapp me-2"></i> WhatsApp
+                <img src="/home/whatsapp.svg" alt="WhatsApp" style="width: 24px; height: 24px; vertical-align: middle;"> WhatsApp
             </a>
             <a href="https://t.me/+79262211348" target="_blank" class="btn btn-info btn-lg px-4 shadow-sm text-white">
-                <i class="fab fa-telegram me-2"></i> Telegram
+                <img src="/home/telegram.svg" alt="Telegram" style="width: 24px; height: 24px; vertical-align: middle;"> Telegram
             </a>
         </div>
     </div>

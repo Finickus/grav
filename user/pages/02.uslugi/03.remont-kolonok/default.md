@@ -1,4 +1,4 @@
----
+﻿---
 title: Ремонт газовых колонок в Москве и МО
 metadata:
   description: Квалифицированные специалисты | Гарантия Вы столкнулись с проблемой
@@ -165,11 +165,11 @@ metadata:
         <div class="col-md-6">
             <h4 class="h5 fw-bold mb-3">Наши услуги включают:</h4>
             <ul class="list-group list-group-flush mb-4">
-                <li class="list-group-item"><i class="fas fa-check text-success me-2"></i> выезд на ремонт</li>
-                <li class="list-group-item"><i class="fas fa-check text-success me-2"></i> диагностику и выявление неисправностей</li>
-                <li class="list-group-item"><i class="fas fa-check text-success me-2"></i> замену запчастей и комплектующих</li>
-                <li class="list-group-item"><i class="fas fa-check text-success me-2"></i> регулировку и настройку работы колонки</li>
-                <li class="list-group-item"><i class="fas fa-check text-success me-2"></i> устранение утечек газа и других проблем</li>
+                <li class="list-group-item"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> выезд на ремонт</li>
+                <li class="list-group-item"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> диагностику и выявление неисправностей</li>
+                <li class="list-group-item"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> замену запчастей и комплектующих</li>
+                <li class="list-group-item"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> регулировку и настройку работы колонки</li>
+                <li class="list-group-item"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> устранение утечек газа и других проблем</li>
             </ul>
         </div>
         <div class="col-md-6">

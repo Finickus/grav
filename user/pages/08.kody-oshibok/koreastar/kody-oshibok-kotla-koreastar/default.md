@@ -1,4 +1,4 @@
----
+﻿---
 title: Коды ошибок котла Koreastar
 metadata:
   description: Коды ошибок газового котла Koreastar Диагностика и устранение неисправностей
@@ -89,7 +89,7 @@ metadata:
                     <div id="collapseA02" class="accordion-collapse collapse" aria-labelledby="headingA02" data-bs-parent="#errorsAccordion">
                         <div class="accordion-body bg-warning-subtle small">
                             <p class="fw-bold">Симптомы: срыв пламени или неудачные попытки розжига.</p>
-                            <h6 class="fw-bold text-success mt-3"><i class="fas fa-check-circle me-2"></i>Что проверить:</h6>
+                            <h6 class="fw-bold text-success mt-3"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Что проверить:</h6>
                             <ul class="list-unstyled ms-3">
                                 <li class="mb-2"><i class="fas fa-link me-2 text-primary"></i> Соединения между блоком розжига и датчиком пламени.</li>
                                 <li class="mb-2"><i class="fas fa-plug me-2 text-warning"></i> Целостность проводки к газовому клапану.</li>

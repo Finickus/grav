@@ -58,10 +58,10 @@ title: 'Почему химическая чистка важна:'
 <div class="row is-variable is-6 mt-5 mb-5 is-vcentered">
 <div class="col">
 <h3 class="h4 display-4 mb-4"><i class="fas fa-star text-warning me-3"></i> Почему выбирают нашу компанию</h3>
-<div class="mb-3"><i class="fas fa-check-circle text-success mt-1 me-3"></i> Специализируемся на чистке теплообменников всех типов котлов с 2010 года</div>
-<div class="mb-3"><i class="fas fa-check-circle text-success mt-1 me-3"></i> Используем профессиональное оборудование и сертифицированные реагенты</div>
-<div class="mb-3"><i class="fas fa-check-circle text-success mt-1 me-3"></i> Наши мастера проходят ежегодное обучение и аттестацию</div>
-<div class="mb-4"><i class="fas fa-check-circle text-success mt-1 me-3"></i> Предоставляем гарантию 1 год на выполненные работы</div>
+<div class="mb-3"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Специализируемся на чистке теплообменников всех типов котлов с 2010 года</div>
+<div class="mb-3"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Используем профессиональное оборудование и сертифицированные реагенты</div>
+<div class="mb-3"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Наши мастера проходят ежегодное обучение и аттестацию</div>
+<div class="mb-4"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Предоставляем гарантию 1 год на выполненные работы</div>
 <div class="notification is-primary">
 <p class="mb-0"><strong>Результат:</strong> После чистки ваше оборудование работает как новое, с максимальной эффективностью и минимальным расходом энергии.</p>
 </div>
@@ -107,7 +107,7 @@ title: 'Почему химическая чистка важна:'
 <figure class="image is-inline-block"><img src="Screenshot_97  (1).jpg" alt="Результат чистки" class="rounded" style="max-width: 100%;"></figure>
 </div>
 <div class="col-5">
-<div class="card bg-success text-white"><header class="d-flex align-items-center mb-3"><i class="fas fa-check-circle me-2"></i>
+<div class="card bg-success text-white"><header class="d-flex align-items-center mb-3"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">
 <h4 class="h4 display-4 mb-0">Результат ПОСЛЕ чистки</h4>
 </header>
 <ul class="mb-0">
@@ -126,10 +126,10 @@ title: 'Почему химическая чистка важна:'
 <h4 class="h4 display-4 mb-4 text-white"><i class="fas fa-conclusion me-2"></i> Заключение</h4>
 <p class="subh6 mb-4">Химическая чистка теплообменника — необходимое обслуживание, которое:</p>
 <ul class="mb-4">
-<li class="mb-2"><i class="fas fa-check text-primary me-2"></i> Восстанавливает эффективность системы</li>
-<li class="mb-2"><i class="fas fa-check text-primary me-2"></i> Продлевает срок службы оборудования</li>
-<li class="mb-2"><i class="fas fa-check text-primary me-2"></i> Предотвращает аварийные ситуации</li>
-<li class="mb-2"><i class="fas fa-check text-primary me-2"></i> Снижает расходы на энергию и ремонт</li>
+<li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Восстанавливает эффективность системы</li>
+<li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Продлевает срок службы оборудования</li>
+<li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Предотвращает аварийные ситуации</li>
+<li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Снижает расходы на энергию и ремонт</li>
 </ul>
 <div class="notification is-info">
 <p class="mb-0"><strong>Рекомендация:</strong> Проводите профессиональную чистку теплообменника ежегодно — это сохранит работоспособность вашей системы отопления и сэкономит средства в долгосрочной перспективе.</p>
@@ -148,22 +148,22 @@ title: 'Почему химическая чистка важна:'
 </div>
 <div class="row g-3">
 <div class="col-6">
-<div class="d-flex mb-3"><i class="fas fa-check-circle text-success mt-1 me-3"></i>
+<div class="d-flex mb-3"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">
 <div>Удаляют до 95% загрязнений без повреждения металла</div>
 </div>
 </div>
 <div class="col-6">
-<div class="d-flex mb-3"><i class="fas fa-check-circle text-success mt-1 me-3"></i>
+<div class="d-flex mb-3"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">
 <div>Содержат ингибиторы коррозии для защиты оборудования</div>
 </div>
 </div>
 <div class="col-6">
-<div class="d-flex mb-3"><i class="fas fa-check-circle text-success mt-1 me-3"></i>
+<div class="d-flex mb-3"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">
 <div>Экологически безопасные и биоразлагаемые</div>
 </div>
 </div>
 <div class="col-6">
-<div class="d-flex mb-3"><i class="fas fa-check-circle text-success mt-1 me-3"></i>
+<div class="d-flex mb-3"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">
 <div>Специальные формулы для меди, нержавеющей стали и чугуна</div>
 </div>
 </div>

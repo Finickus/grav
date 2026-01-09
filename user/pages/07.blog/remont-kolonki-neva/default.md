@@ -21,18 +21,18 @@ title: 'Ремонт газовых колонок Нева'
 <div class="row g-3">
 <div class="col-6 content">
 <ul class="ml-0 list-unstyled">
-<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-check-circle"></i></span><strong>Опыт более 10 лет</strong> с газовым оборудованием</li>
-<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-check-circle"></i></span><strong>Квалифицированные мастера</strong> с государственной лицензией</li>
-<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-check-circle"></i></span><strong>Только оригинальные запчасти</strong> и современное оборудование</li>
-<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-check-circle"></i></span><strong>Круглосуточная поддержка</strong> и экстренные выезды</li>
+<li class="mb-2"><span class="icon me-2 text-success"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span><strong>Опыт более 10 лет</strong> с газовым оборудованием</li>
+<li class="mb-2"><span class="icon me-2 text-success"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span><strong>Квалифицированные мастера</strong> с государственной лицензией</li>
+<li class="mb-2"><span class="icon me-2 text-success"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span><strong>Только оригинальные запчасти</strong> и современное оборудование</li>
+<li class="mb-2"><span class="icon me-2 text-success"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span><strong>Круглосуточная поддержка</strong> и экстренные выезды</li>
 </ul>
 </div>
 <div class="col-6 content">
 <ul class="ml-0 list-unstyled">
-<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-check-circle"></i></span><strong>Гарантия на работы</strong> от 1 месяца до 2 лет</li>
-<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-check-circle"></i></span><strong>Справедливые цены</strong> без скрытых комиссий</li>
-<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-check-circle"></i></span><strong>Быстрый выезд</strong> в течение 2 часов</li>
-<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-check-circle"></i></span><strong>Полный спектр услуг</strong> от диагностики до капремонта</li>
+<li class="mb-2"><span class="icon me-2 text-success"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span><strong>Гарантия на работы</strong> от 1 месяца до 2 лет</li>
+<li class="mb-2"><span class="icon me-2 text-success"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span><strong>Справедливые цены</strong> без скрытых комиссий</li>
+<li class="mb-2"><span class="icon me-2 text-success"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span><strong>Быстрый выезд</strong> в течение 2 часов</li>
+<li class="mb-2"><span class="icon me-2 text-success"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span><strong>Полный спектр услуг</strong> от диагностики до капремонта</li>
 </ul>
 </div>
 </div>
@@ -150,7 +150,7 @@ title: 'Ремонт газовых колонок Нева'
 </thead>
 <tbody>
 <tr>
-<td><span class="icon me-2 text-success"><i class="fas fa-check"></i></span>Выезд специалиста и диагностика</td>
+<td><span class="icon me-2 text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span>Выезд специалиста и диагностика</td>
 <td>**от 1500 руб.**</td>
 </tr>
 <tr>
@@ -208,7 +208,7 @@ title: 'Ремонт газовых колонок Нева'
 <div class="col-lg-4 is-narrow is-half-mobile mb-2"><a href="https://service04.ru/contact-us/feedback" class="btn btn-success btn-lg w-100"> <span class="icon me-2"><i class="fas fa-file-alt"></i></span> <span>Заявка</span> </a></div>
 </div>
 <p class="fs-6 mb-1"><span class="icon me-2"><i class="fas fa-phone-alt"></i></span>+7(926) 221-13-48</p>
-<p class="fs-6 mb-1"><span class="icon me-2"><i class="fab fa-whatsapp"></i></span>WhatsApp/Telegram: +7 926 221-13-48</p>
+<p class="fs-6 mb-1"><span class="icon me-2"><img src="/home/whatsapp.svg" alt="WhatsApp" style="width: 24px; height: 24px; vertical-align: middle;"></span>WhatsApp/Telegram: +7 926 221-13-48</p>
 <p class="fs-6 mb-1"><span class="icon me-2"><i class="fas fa-globe"></i></span>Service04.ru</p>
 <p class="fs-6"><span class="icon me-2"><i class="fas fa-envelope"></i></span>89262211348@mail.ru</p>
 </div>

@@ -107,8 +107,8 @@ title: 'Как правильно запустить газовый котел'
 <p><span class="icon me-2 text-success"><i class="fas fa-phone"></i></span> Телефон: <a href="tel:+79262211348">+7 (926) 221-13-48</a></p>
 <p><span class="icon me-2 text-primary"><i class="fas fa-globe"></i></span> Сайт: <a href="https://service04.ru" target="_blank" rel="noopener">Service04.ru</a></p>
 <p><span class="icon me-2 text-danger"><i class="fas fa-envelope"></i></span> E-mail: <a href="mailto:89262211348@mail.ru">89262211348@mail.ru</a></p>
-<p><span class="icon me-2 text-success"><i class="fab fa-whatsapp"></i></span> WhatsApp: <a href="https://wa.me/79262211348" target="_blank" rel="noopener">+7 926 221-13-48</a></p>
-<p><span class="icon me-2 text-info"><i class="fab fa-telegram"></i></span> Telegram: <a href="https://t.me/+79262211348" target="_blank" rel="noopener">@+79262211348</a></p>
+<p><span class="icon me-2 text-success"><img src="/home/whatsapp.svg" alt="WhatsApp" style="width: 24px; height: 24px; vertical-align: middle;"></span> WhatsApp: <a href="https://wa.me/79262211348" target="_blank" rel="noopener">+7 926 221-13-48</a></p>
+<p><span class="icon me-2 text-info"><img src="/home/telegram.svg" alt="Telegram" style="width: 24px; height: 24px; vertical-align: middle;"></span> Telegram: <a href="https://t.me/+79262211348" target="_blank" rel="noopener">@+79262211348</a></p>
 <p class="mt-4"><a href="https://service04.ru/contact-us/feedback" class="btn btn-primary"> <span class="icon me-2"><i class="fas fa-edit"></i></span> <span>Отправить заявку</span> </a></p>
 </div>
 </div>

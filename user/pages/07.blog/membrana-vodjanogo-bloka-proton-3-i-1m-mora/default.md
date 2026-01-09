@@ -102,21 +102,21 @@ title: 'Мембрана Протон 1м и Протон 3 Mora'
 <div class="row">
 <div class="col">
 <ul>
-<li><i class="fas fa-check text-success me-2"></i> Протон 3м</li>
-<li><i class="fas fa-check text-success me-2"></i> Протон 1м</li>
-<li><i class="fas fa-check text-success me-2"></i> MORA (Mora Top, Mora Lady и другие модели с аналогичным водяным блоком)</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Протон 3м</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Протон 1м</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> MORA (Mora Top, Mora Lady и другие модели с аналогичным водяным блоком)</li>
 </ul>
 </div>
 <div class="col">
 <ul>
-<li><i class="fas fa-check text-success me-2"></i> Отдельные модификации Данко</li>
-<li><i class="fas fa-check text-success me-2"></i> Некоторые модели Термотехник при совпадении размеров.</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Отдельные модификации Данко</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Некоторые модели Термотехник при совпадении размеров.</li>
 </ul>
 </div>
 </div>
 <h4 class="h6 mt-4"><i class="fas fa-tint me-2"></i> Гидроаккумуляторы и ресиверы</h4>
 <ul>
-<li><i class="fas fa-check text-success me-2"></i> Ресиверы объёмом 24–50 л (при совпадении диаметра и посадочных размеров).</li>
+<li><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Ресиверы объёмом 24–50 л (при совпадении диаметра и посадочных размеров).</li>
 </ul>
 </div>
 </div>

@@ -1,4 +1,4 @@
----
+﻿---
 title: Ремонт газовых колонок Junkers
 metadata:
   description: Junkers Bosch Вы ищете профессиональный ремонт газовых колонок Junkers.
@@ -48,10 +48,10 @@ metadata:
             
             <p class="fw-bold mt-4">Преимущества колонок Junkers:</p>
             <ul class="list-unstyled ms-3">
-                <li class="mb-1"><i class="fas fa-check me-2 text-success"></i> <strong>Надежность и долговечность.</strong> Изготавливаются из качественных материалов и имеют надежную конструкцию.</li>
-                <li class="mb-1"><i class="fas fa-check me-2 text-success"></i> <strong>Удобство использования. </strong>Очень просты в использовании и не требуют специальных навыков для регулировки.</li>
-                <li class="mb-1"><i class="fas fa-check me-2 text-success"></i> <strong>Экономичность.</strong> Потребляют небольшое количество газа и обеспечивают горячую воду для бытовых нужд.</li>
-                <li class="mb-1"><i class="fas fa-check me-2 text-success"></i> <strong>Безопасность.</strong> Оснащены системой безопасности, которая предотвращает утечку газа и возможные аварии.</li>
+                <li class="mb-1"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> <strong>Надежность и долговечность.</strong> Изготавливаются из качественных материалов и имеют надежную конструкцию.</li>
+                <li class="mb-1"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> <strong>Удобство использования. </strong>Очень просты в использовании и не требуют специальных навыков для регулировки.</li>
+                <li class="mb-1"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> <strong>Экономичность.</strong> Потребляют небольшое количество газа и обеспечивают горячую воду для бытовых нужд.</li>
+                <li class="mb-1"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> <strong>Безопасность.</strong> Оснащены системой безопасности, которая предотвращает утечку газа и возможные аварии.</li>
             </ul>
         </div>
         <div class="col-md-6 text-center">
@@ -214,11 +214,11 @@ metadata:
                 <h5 id="h_27606145612421691926853398" class="fw-bold mb-3 text-success"><i class="fas fa-medal me-2"></i>Проверка качества работ:</h5>
                 <p>После ремонта убедитесь, что:</p>
                 <ul class="list-unstyled ms-3">
-                    <li class="mb-1"><i class="fas fa-check-square me-2 text-success"></i> Колонка работает без сбоев и утечек газа в разных режимах.</li>
-                    <li class="mb-1"><i class="fas fa-check-square me-2 text-success"></i> Полностью отсутствует запах газа.</li>
-                    <li class="mb-1"><i class="fas fa-check-square me-2 text-success"></i> Давление и температура воды соответствуют норме.</li>
-                    <li class="mb-1"><i class="fas fa-check-square me-2 text-success"></i> Все соединения герметичны, отсутствуют повреждения.</li>
-                    <li class="mb-1"><i class="fas fa-check-square me-2 text-success"></i> Вы получили квитанцию на выполненные работы (для гарантии).</li>
+                    <li class="mb-1"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Колонка работает без сбоев и утечек газа в разных режимах.</li>
+                    <li class="mb-1"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Полностью отсутствует запах газа.</li>
+                    <li class="mb-1"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Давление и температура воды соответствуют норме.</li>
+                    <li class="mb-1"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Все соединения герметичны, отсутствуют повреждения.</li>
+                    <li class="mb-1"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Вы получили квитанцию на выполненные работы (для гарантии).</li>
                 </ul>
             </div>
         </div>

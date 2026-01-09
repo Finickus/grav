@@ -1,4 +1,4 @@
----
+﻿---
 title: Ошибка F20 на Protherm Skat
 metadata:
   description: Ошибка F20 на Protherm Skat Полное руководство для мастеров по устранению
@@ -136,7 +136,7 @@ metadata:
                 </div>
             </div>
             <div class="mt-4 small opacity-75">
-                <i class="fab fa-whatsapp me-1"></i> WhatsApp: +7 (926) 221-13-48 | <i class="fas fa-globe ms-3 me-1"></i> Service04.ru
+                <img src="/home/whatsapp.svg" alt="WhatsApp" style="width: 24px; height: 24px; vertical-align: middle;"> WhatsApp: +7 (926) 221-13-48 | <i class="fas fa-globe ms-3 me-1"></i> Service04.ru
             </div>
         </div>
     </div>

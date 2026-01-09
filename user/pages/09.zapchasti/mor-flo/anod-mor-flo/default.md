@@ -1,4 +1,4 @@
----
+﻿---
 title: Анод Mor Flo
 metadata:
   description: Магниевый анод Mor-Flo Для American Water Heater, Mor-Flo G61, G62
@@ -65,9 +65,9 @@ metadata:
                 </div>
                 <div class="card-body small">
                     <ul class="list-unstyled ms-3">
-                        <li class="mb-1"><i class="fas fa-check-circle me-2 text-success"></i> Металлический стержень с магниевым покрытием</li>
-                        <li class="mb-1"><i class="fas fa-check-circle me-2 text-success"></i> Реакция магния с кислородом и солями жесткости</li>
-                        <li><i class="fas fa-check-circle me-2 text-success"></i> Формирование защитного слоя на внутренней поверхности бака</li>
+                        <li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Металлический стержень с магниевым покрытием</li>
+                        <li class="mb-1"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Реакция магния с кислородом и солями жесткости</li>
+                        <li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Формирование защитного слоя на внутренней поверхности бака</li>
                     </ul>
                 </div>
             </div>
@@ -98,12 +98,12 @@ metadata:
                     <a href="tel:+79262211348" class="btn btn-light btn-lg w-100 fw-bold shadow-sm"><i class="fas fa-phone-alt me-2"></i>+7 (926) 221-13-48</a>
                 </div>
                 <div class="col-12 col-md-4 mb-2">
-                    <a href="https://wa.me/79262211348" class="btn btn-success btn-lg w-100 fw-bold shadow-sm"><i class="fab fa-whatsapp me-2"></i>WhatsApp</a>
+                    <a href="https://wa.me/79262211348" class="btn btn-success btn-lg w-100 fw-bold shadow-sm"><img src="/home/whatsapp.svg" alt="WhatsApp" style="width: 24px; height: 24px; vertical-align: middle;">WhatsApp</a>
                 </div>
             </div>
             <div class="d-flex justify-content-center mt-3">
-                <a href="https://tlgg.ru/GazService04" class="btn btn-info mx-2 fw-bold shadow-sm"><i class="fab fa-telegram-plane me-1"></i>Telegram</a>
-                <a href="https://vk.com/service_04" class="btn btn-info mx-2 fw-bold shadow-sm"><i class="fab fa-vk me-1"></i>VK</a>
+                <a href="https://tlgg.ru/GazService04" class="btn btn-info mx-2 fw-bold shadow-sm"><img src="/home/telegram.svg" alt="Telegram" style="width: 24px; height: 24px; vertical-align: middle;">Telegram</a>
+                <a href="https://vk.com/service_04" class="btn btn-info mx-2 fw-bold shadow-sm"><img src="/home/vk.svg" alt="VK" style="width: 24px; height: 24px; vertical-align: middle;">VK</a>
             </div>
         </div>
     </div>

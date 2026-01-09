@@ -115,9 +115,9 @@ title: 'Запчасти для котла Mora Electra'
 <div class="col-6">
 <h6 class="h6 text-success"><i class="fas fa-wrench me-2"></i>Качество и надежность</h6>
 <ul class="ml-4 list-unstyled fs-6">
-<li class="mb-1"><span class="icon me-2 text-success"><i class="fas fa-check"></i></span> Гарантия совместимости и длительного срока службы.</li>
-<li class="mb-1"><span class="icon me-2 text-success"><i class="fas fa-check"></i></span> Стойкость ТЭНов к накипи и коррозии.</li>
-<li class="mb-1"><span class="icon me-2 text-success"><i class="fas fa-check"></i></span> Точность показаний датчиков NTC.</li>
+<li class="mb-1"><span class="icon me-2 text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Гарантия совместимости и длительного срока службы.</li>
+<li class="mb-1"><span class="icon me-2 text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Стойкость ТЭНов к накипи и коррозии.</li>
+<li class="mb-1"><span class="icon me-2 text-success"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"></span> Точность показаний датчиков NTC.</li>
 </ul>
 </div>
 <div class="col-6">

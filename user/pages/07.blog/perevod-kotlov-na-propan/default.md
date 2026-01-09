@@ -76,7 +76,7 @@ title: 'Перевод котлов на пропан'
 </div>
 </div>
 <div class="notification is-success mt-4">
-<h5 class="h5 mb-1 text-white"><span class="icon me-2"><i class="fas fa-check-circle"></i></span>Важно</h5>
+<h5 class="h5 mb-1 text-white"><span class="icon me-2"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span>Важно</h5>
 <p class="mb-0">После монтажа горелки в котёл у котлов <strong>PLO</strong> надо настроить количество газа на запальную горелку с помощью винта <strong>PILOT</strong> на газовом клапане так, чтобы термопара была целиком в конце пламени.</p>
 </div>
 </div>

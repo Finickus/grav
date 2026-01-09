@@ -25,19 +25,19 @@ title: 'Запчасти для электрокотлов Kospel EKCO_L1: ши�
 <div class="row g-3">
 <div class="col-6">
 <ul class="mb-0">
-<li><i class="fas fa-check-circle text-success me-2"></i> Водяные и нагревательные узлы</li>
-<li><i class="fas fa-check-circle text-success me-2"></i> Датчики протока, давления и температуры</li>
-<li><i class="fas fa-check-circle text-success me-2"></i> Регуляторы и ограничители температуры/давления</li>
-<li><i class="fas fa-check-circle text-success me-2"></i> Встраиваемые манометры/термометры</li>
-<li><i class="fas fa-check-circle text-success me-2"></i> Насосы, предохранительные клапаны</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Водяные и нагревательные узлы</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Датчики протока, давления и температуры</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Регуляторы и ограничители температуры/давления</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Встраиваемые манометры/термометры</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Насосы, предохранительные клапаны</li>
 </ul>
 </div>
 <div class="col-6">
 <ul class="mb-0">
-<li><i class="fas fa-check-circle text-success me-2"></i> Панели и узлы управления, платы и блоки</li>
-<li><i class="fas fa-check-circle text-success me-2"></i> Программаторы температуры</li>
-<li><i class="fas fa-check-circle text-success me-2"></i> Трехходовые краны с сервоприводами</li>
-<li><i class="fas fa-check-circle text-success me-2"></i> Фильтры, мембраны и др.</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Панели и узлы управления, платы и блоки</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Программаторы температуры</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Трехходовые краны с сервоприводами</li>
+<li><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"> Фильтры, мембраны и др.</li>
 </ul>
 </div>
 </div>

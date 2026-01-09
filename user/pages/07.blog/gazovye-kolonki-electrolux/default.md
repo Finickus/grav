@@ -62,7 +62,7 @@ title: 'Газовые колонки Electrolux – техника, прове�
 <div class="col-lg-6 mb-4 mb-lg-0"><img src="https://example.com/electrolux-main.jpg" alt="Газовые колонки Electrolux" class="img-fluid rounded shadow"></div>
 <div class="col-lg-6">
 <div class="pl-lg-4">
-<p class="lead"><i class="fas fa-check-circle text-success me-2"></i>Газовые колонки Electrolux - эталон надежности и эффективности для быстрого нагрева воды.</p>
+<p class="lead"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Газовые колонки Electrolux - эталон надежности и эффективности для быстрого нагрева воды.</p>
 <p>Инвестиции в технику шведского бренда полностью окупаются благодаря:</p>
 <ul class="fa-ul">
 <li class="mb-2"><span class="fa-li text-danger"><i class="fas fa-bolt"></i></span> Самой низкой стоимости нагрева литра воды</li>
@@ -127,7 +127,7 @@ title: 'Газовые колонки Electrolux – техника, прове�
 </div>
 <div class="text-center mt-4">
 <div class="d-inline-block border-left pl-3 py-1 text-left">
-<p class="mb-0"><i class="fas fa-check text-success me-2"></i>Все модели объединяет:</p>
+<p class="mb-0"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;">Все модели объединяет:</p>
 <ul class="fa-ul">
 <li><span class="fa-li"><i class="fas fa-thumbs-up text-danger"></i></span>Безопасная эксплуатация</li>
 <li><span class="fa-li"><i class="fas fa-wrench text-danger"></i></span>Простой монтаж</li>

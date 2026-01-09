@@ -1,4 +1,4 @@
----
+﻿---
 title: Ремонт котлов
 process:
   twig: true
@@ -103,10 +103,10 @@ metadata:
             
             <h5 class="fw-bold mt-4 text-success"><i class="fas fa-list-check me-2"></i>Сертифицированный ремонт газовых котлов — перечень работ:</h5>
             <ul class="list-unstyled ms-3 small">
-                <li class="mb-2"><i class="fas fa-check me-2 text-success"></i> Комплексная диагностика для определения поломок;</li>
-                <li class="mb-2"><i class="fas fa-check me-2 text-success"></i> Чистка основных элементов оборудования;</li>
-                <li class="mb-2"><i class="fas fa-check me-2 text-success"></i> Восстановление или замена деталей и рабочих узлов;</li>
-                <li class="mb-2"><i class="fas fa-check me-2 text-success"></i> Настройка техники.</li>
+                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Комплексная диагностика для определения поломок;</li>
+                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Чистка основных элементов оборудования;</li>
+                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Восстановление или замена деталей и рабочих узлов;</li>
+                <li class="mb-2"><img src="/home/check.svg" alt="" class="me-2" style="width: 18px; height: 18px; vertical-align: middle;"> Настройка техники.</li>
             </ul>
         </div>
         <div class="col-md-6 text-center">

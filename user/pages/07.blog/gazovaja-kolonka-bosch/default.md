@@ -60,7 +60,7 @@ title: 'Газовые колонки Bosch'
 <div class="card p-4 bg-light">
 <h4 class="h5" style="color: #e37a25;"><span class="icon me-2"><i class="fas fa-list"></i></span>Серия Therm 4000</h4>
 <ul class="ml-4 content fs-6">
-<li class="mb-2"><span class="icon me-2 text-success"><i class="fas fa-check-circle"></i></span> Газовая колонка Bosch Therm 4000 S WTD 12 AM E Турбо.</li>
+<li class="mb-2"><span class="icon me-2 text-success"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;"></span> Газовая колонка Bosch Therm 4000 S WTD 12 AM E Турбо.</li>
 </ul>
 <p class="fs-6">Модель **Bosch Therm 4000 WR** завоевала популярность благодаря продуманности дизайна, технического оснащения, простоте монтажа и адаптации к работе в любых условиях.</p>
 <div class="text-center mt-4">

@@ -12,7 +12,7 @@ title: 'Ремонт котлов Junkers'
 <div class="row justify-content-center mb-5">
 <div class="col is-10">
 <div class="card shadow mb-5">
-<p><i class="fas fa-check-circle text-success me-2"></i>Немецкие котлы Junkers завоевали доверие россиян благодаря своей надёжности и долговечности. Наши специалисты выбирают именно эту марку для установки и обслуживания — и вот почему:</p>
+<p><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Немецкие котлы Junkers завоевали доверие россиян благодаря своей надёжности и долговечности. Наши специалисты выбирают именно эту марку для установки и обслуживания — и вот почему:</p>
 <ul class="mb-3">
 <li class="mb-2"><i class="fas fa-star text-warning me-2"></i>Высочайшее качество сборки</li>
 <li class="mb-2"><i class="fas fa-star text-warning me-2"></i>Простота эксплуатации</li>

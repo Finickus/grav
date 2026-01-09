@@ -1,4 +1,4 @@
----
+﻿---
 title: Запчасти для электрокотлов Vaillant
 metadata:
   description: Запчасти для электрокотлов Vaillant Оригинальные детали и комплектующие
@@ -78,7 +78,7 @@ metadata:
             
 
             <div class="alert alert-success mt-4 border-0 shadow-sm d-flex align-items-center">
-                <i class="fas fa-check-double me-3 fa-2x"></i>
+                <img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">
                 <p class="mb-0 small">В каталоге представлены оригинальные запасные части для котлов Vaillant серии <strong>eloBLOCK VE</strong> с производительностью от 6 до 28 кВт.</p>
             </div>
         </div>
@@ -91,7 +91,7 @@ metadata:
                 <div class="col-md-6 border-end border-warning border-opacity-25">
                     <ul class="list-unstyled">
                         <li class="mb-3 d-flex align-items-start"><i class="fas fa-book mt-1 me-2 text-primary"></i>Все детали в одном каталоге – быстрый подбор</li>
-                        <li class="mb-3 d-flex align-items-start"><i class="fas fa-check-circle mt-1 me-2 text-success"></i>Запчасти всегда в наличии – работаем без ожиданий</li>
+                        <li class="mb-3 d-flex align-items-start"><img src="/home/check-circle.svg" alt="" class="me-2" style="width: 20px; height: 20px; vertical-align: middle;">Запчасти всегда в наличии – работаем без ожиданий</li>
                         <li class="mb-0 d-flex align-items-start"><i class="fas fa-ruble-sign mt-1 me-2 text-danger"></i>Оптимальные цены на весь ассортимент</li>
                     </ul>
                 </div>
