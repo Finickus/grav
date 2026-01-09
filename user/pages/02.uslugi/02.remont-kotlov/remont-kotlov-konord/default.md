@@ -460,39 +460,16 @@ process:
     <!-- Call to Action -->
     <div class="row">
         <div class="col-12">
-            <div class="card border-0 bg-gradient text-white shadow-lg" style="background: linear-gradient(135deg, #1e3a8a 0%, #5b21b6 100%);">
-                <div class="card-body p-5 text-center">
-                    <h2 class="fw-bold mb-3">Нужен срочный ремонт котла Конорд?</h2>
-                    <p class="lead mb-4">Не рискуйте безопасностью и комфортом своей семьи!</p>
-                    
-                    <div class="row g-3 justify-content-center mb-4">
-                        <div class="col-md-4">
-                            <div class="bg-white bg-opacity-10 p-3 rounded">
-                                <h5 class="fw-bold mb-2">📞 Телефон</h5>
-                                <a href="tel:+79262211348" class="text-white text-decoration-none fs-5">+7 (926) 221-13-48</a>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="bg-white bg-opacity-10 p-3 rounded">
-                                <h5 class="fw-bold mb-2">📍 Адрес</h5>
-                                <p class="mb-0">г. Москва, ул. 16-я Парковая, д. 36А</p>
-                            </div>
+            <div class="container-fluid bg-primary text-white py-5">
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-10 text-center">
+                            <h3 class="display-6 fw-bold mb-4">Нужен ремонт котла Конорд?</h3>
+                            <p class="lead mb-4">Обратитесь к нам прямо сейчас! Наши специалисты с многолетним опытом готовы помочь вам устранить любые неисправности котлов Конорд.</p>
+                            <p>Мы гарантируем профессиональный подход, использование оригинальных запчастей и оперативное выполнение работ. Работаем без выходных, выезд мастера в день обращения.</p>
+                            <a class="btn btn-light btn-lg rounded-pill mt-3 px-5 py-3" href="https://service04.ru/contact-us/feedback">Заказать ремонт сейчас</a>
                         </div>
                     </div>
-
-                    <div class="d-flex gap-3 justify-content-center mb-3">
-                        <a href="https://tlgg.ru/GazService04" target="_blank" class="btn btn-light btn-lg">
-                            <img src="/home/telegram.svg" alt="Telegram" style="width: 24px; height: 24px; vertical-align: middle;" class="me-2">Telegram
-                        </a>
-                        <a href="https://wa.me/79262211348" target="_blank" class="btn btn-light btn-lg">
-                            <img src="/home/whatsapp.svg" alt="WhatsApp" style="width: 24px; height: 24px; vertical-align: middle;" class="me-2">WhatsApp
-                        </a>
-                        <a href="https://vk.com/service_04" target="_blank" class="btn btn-light btn-lg">
-                            <img src="/home/vk.svg" alt="VK" style="width: 24px; height: 24px; vertical-align: middle;" class="me-2">VK
-                        </a>
-                    </div>
-
-                    <p class="mb-0"><small>Наш диспетчер проконсультирует вас и направит мастера в течение часа!</small></p>
                 </div>
             </div>
         </div>
