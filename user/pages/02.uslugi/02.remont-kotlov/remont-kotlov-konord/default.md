@@ -439,7 +439,7 @@ process:
     <!-- Call to Action -->
     <div class="row">
         <div class="col-12">
-            <div class="card border-0 bg-gradient text-white shadow-lg" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);">
+            <div class="card border-0 bg-gradient text-white shadow-lg" style="background: linear-gradient(135deg, #1e3a8a 0%, #5b21b6 100%);">
                 <div class="card-body p-5 text-center">
                     <h2 class="fw-bold mb-3">Нужен срочный ремонт котла Конорд?</h2>
                     <p class="lead mb-4">Не рискуйте безопасностью и комфортом своей семьи!</p>
