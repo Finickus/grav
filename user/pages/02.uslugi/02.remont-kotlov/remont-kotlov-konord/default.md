@@ -21,6 +21,10 @@ process:
   markdown: false
 ---
 
+<div class="logo-container bg-light py-4 mb-4">
+    <img src="/uslugi/remont-kotlov/remont-kotlov-konord/konord_logo.jpg" alt="Логотип Konord" class="img-fluid" style="max-width: 350px; margin: 0 auto; display: block;">
+</div>
+
 <div class="container py-5">
     <!-- Hero Section -->
     <div class="row mb-5">
