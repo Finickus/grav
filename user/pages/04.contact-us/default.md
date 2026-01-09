@@ -172,10 +172,11 @@ metadata:
         <div class="col-md-6">
             <h5 class="fw-bold" style="color: #e37a25;">Банковские реквизиты</h5>
             <ul class="list-unstyled">
-                <li><strong>Банк:</strong> ОАО АКБ "АВАНГАРД"</li>
-                <li><strong>Р/с:</strong> 40802810600120017070</li>
-                <li><strong>К/с:</strong> 30101810000000000201</li>
-                <li><strong>БИК:</strong> 044525201</li>
+                <li><strong>Расчетный счет:</strong> 40802810900002901608</li>
+                <li><strong>Банк:</strong> АО "ТИНЬКОФФ БАНК"</li>
+                <li><strong>ИНН банка:</strong> 7710140679</li>
+                <li><strong>БИК банка:</strong> 044525974</li>
+                <li><strong>Корреспондентский счет:</strong> 30101810145250000974</li>
             </ul>
         </div>
     </div>
