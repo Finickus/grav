@@ -119,8 +119,8 @@ class G5_Helium extends Theme
                 console.log('✅ Условия выполнены - загружаем ProductDiv');
             ", ['group' => 'bottom']);
             
-            // Подключаем ProductDiv CDN - правильный путь к собранному файлу
-            $this->grav['assets']->addJs('https://cdn.jsdelivr.net/npm/productdiv@latest/dist/index.js', ['group' => 'bottom']);
+            // Подключаем ProductDiv локально (не CDN)
+            $this->grav['assets']->addJs('theme://js/productdiv.js', ['group' => 'bottom']);
             
             // Подключаем конфигурацию ProductDiv
             $this->grav['assets']->addJs('theme://js/productdiv-config.js', ['group' => 'bottom']);
