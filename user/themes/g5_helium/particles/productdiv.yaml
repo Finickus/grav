@@ -1,0 +1,33 @@
+name: ProductDiv Editor
+description: Visual page editor for administrators only
+type: particle
+icon: fa-edit
+
+configuration:
+  caching:
+    type: static
+
+form:
+  fields:
+    enabled:
+      type: input.checkbox
+      label: Enabled
+      description: Globally enable ProductDiv visual editor.
+      default: true
+
+    admin_only:
+      type: input.checkbox
+      label: Admin Only
+      description: Show ProductDiv button only for authenticated administrators.
+      default: true
+
+    cdn_version:
+      type: input.text
+      label: ProductDiv CDN Version
+      description: ProductDiv CDN version to use (latest recommended).
+      default: latest
+
+    css.class:
+      type: input.text
+      label: CSS Classes
+      description: Additional CSS class names for the particle container.
