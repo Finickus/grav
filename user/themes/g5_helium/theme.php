@@ -119,11 +119,20 @@ class G5_Helium extends Theme
                 console.log('✅ Условия выполнены - загружаем ProductDiv');
             ", ['group' => 'bottom']);
             
-            // Подключаем ProductDiv локально (не CDN)
-            $this->grav['assets']->addJs('theme://js/productdiv.js', ['group' => 'bottom']);
+            // Получаем абсолютный URL для скрипта
+            $productdivUrl = $this->grav['base_url_absolute'] . '/user/themes/g5_helium/js/productdiv.js';
+            $configUrl = $this->grav['base_url_absolute'] . '/user/themes/g5_helium/js/productdiv-config.js';
+            
+            $this->grav['assets']->addInlineJs("
+                console.log('📂 ProductDiv URL:', '" . $productdivUrl . "');
+                console.log('📂 Config URL:', '" . $configUrl . "');
+            ", ['group' => 'bottom']);
+            
+            // Подключаем ProductDiv локально с абсолютным путём
+            $this->grav['assets']->addJs($productdivUrl, ['group' => 'bottom']);
             
             // Подключаем конфигурацию ProductDiv
-            $this->grav['assets']->addJs('theme://js/productdiv-config.js', ['group' => 'bottom']);
+            $this->grav['assets']->addJs($configUrl, ['group' => 'bottom']);
             
             // Инициализация ProductDiv
             $this->grav['assets']->addInlineJs("
