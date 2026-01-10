@@ -564,6 +564,22 @@ metadata:
                         </div>
                     </a>
                 </div>
+                
+                <div class="col-md-6 col-lg-4">
+                    <a href="remont-kotlov/remont-kotlov-titan" class="text-decoration-none">
+                        <div class="card h-100 border-0 shadow-sm hover-lift transition">
+                            <div class="card-body p-3 d-flex align-items-center">
+                                <div class="bg-primary bg-opacity-10 rounded-circle p-3 me-3">
+                                    <i class="fas fa-fire-alt text-primary fa-lg"></i>
+                                </div>
+                                <div>
+                                    <h5 class="h6 fw-bold mb-1 text-dark">Титан</h5>
+                                    <p class="small text-muted mb-0">Ремонт котлов Титан</p>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
             </div>
         </div>
     </div>
