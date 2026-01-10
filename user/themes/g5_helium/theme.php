@@ -35,7 +35,8 @@ class G5_Helium extends Theme
     public static function getSubscribedEvents()
     {
         return [
-            'onThemeInitialized' => ['onThemeInitialized', 0]
+            'onThemeInitialized' => ['onThemeInitialized', 0],
+            'onTwigSiteVariables' => ['onTwigSiteVariables', 0]
         ];
     }
 
@@ -77,5 +78,78 @@ class G5_Helium extends Theme
         $gantry['theme'] = static function ($c) {
             return new \Gantry\Theme\G5_Helium($c['theme.path'], $c['theme.name']);
         };
+    }
+
+    /**
+     * Добавление ProductDiv для авторизованных администраторов
+     */
+    public function onTwigSiteVariables()
+    {
+        // Проверяем авторизацию пользователя
+        $user = $this->grav['user'];
+        
+        // Добавляем отладочную информацию
+        $this->grav['assets']->addInlineJs("
+            console.log('🔍 ProductDiv Debug Info:');
+            console.log('User authenticated: " . ($user->authenticated ? "YES" : "NO") . "');
+            console.log('User username: " . ($user->username ?? "not logged in") . "');
+            console.log('Admin access: " . ($user->authorize('admin.login') ? "YES" : "NO") . "');
+        ", ['group' => 'bottom']);
+        
+        // Загружаем ProductDiv только для авторизованных администраторов
+        if ($user->authenticated && $user->authorize('admin.login')) {
+            $this->grav['assets']->addInlineJs("
+                console.log('✅ Условия выполнены - загружаем ProductDiv');
+            ", ['group' => 'bottom']);
+            
+            // Подключаем ProductDiv CDN
+            $this->grav['assets']->addJs('https://cdn.jsdelivr.net/npm/productdiv@latest/dist/productdiv.min.js', ['group' => 'bottom']);
+            
+            // Подключаем конфигурацию ProductDiv
+            $this->grav['assets']->addJs('theme://js/productdiv-config.js', ['group' => 'bottom']);
+            
+            // Инициализация ProductDiv
+            $this->grav['assets']->addInlineJs("
+                (function() {
+                    console.log('🚀 Начало инициализации ProductDiv');
+                    
+                    // Ожидаем полной загрузки DOM
+                    if (document.readyState === 'loading') {
+                        document.addEventListener('DOMContentLoaded', initProductDiv);
+                    } else {
+                        initProductDiv();
+                    }
+                    
+                    function initProductDiv() {
+                        try {
+                            console.log('📦 ProductDiv доступен:', typeof window.ProductDiv !== 'undefined');
+                            console.log('📦 ProductDivConfig доступен:', typeof window.ProductDivConfig !== 'undefined');
+                            
+                            if (typeof window.ProductDivConfig !== 'undefined' && typeof window.ProductDiv !== 'undefined') {
+                                window.ProductDiv(window.ProductDivConfig.configuration, window.ProductDivConfig.editorOptions);
+                                console.log('✅ ProductDiv успешно инициализирован');
+                            } else {
+                                console.warn('⚠️ ProductDiv или конфигурация не загружены');
+                                if (typeof window.ProductDiv !== 'undefined') {
+                                    window.ProductDiv({
+                                        treeViewIgnoreQuerySelectors: ['script', 'style', 'link', '[data-productdiv=\"true\"]', 'svg'],
+                                        utilityClasses: [],
+                                        templates: []
+                                    });
+                                    console.log('✅ ProductDiv инициализирован с базовыми настройками');
+                                }
+                            }
+                        } catch (error) {
+                            console.error('❌ Ошибка инициализации ProductDiv:', error);
+                        }
+                    }
+                })();
+            ", ['group' => 'bottom']);
+        } else {
+            $this->grav['assets']->addInlineJs("
+                console.log('❌ Условия НЕ выполнены - ProductDiv не загружается');
+                console.log('Причина: пользователь не авторизован или нет прав администратора');
+            ", ['group' => 'bottom']);
+        }
     }
 }
